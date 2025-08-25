@@ -1,0 +1,26 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="17207" tvg-logo="http://192.168.0.191/picon/rsila1hd.png" tvg-id="1:0:19:4337:300C:13E:820000:0:0:0:" tvg-name="RSI LA 1 HD",RSI LA 1 HD
+#EXTVLCOPT:program=17207
+http://192.168.0.191:8001/1:0:19:4337:300C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="17208" tvg-logo="http://192.168.0.191/picon/rsila2hd.png" tvg-id="1:0:19:4338:300C:13E:820000:0:0:0:" tvg-name="RSI LA 2 HD",RSI LA 2 HD
+#EXTVLCOPT:program=17208
+http://192.168.0.191:8001/1:0:19:4338:300C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="17201" tvg-logo="http://192.168.0.191/picon/1_0_1_4331_300C_13E_820000_0_0_0.png" tvg-id="1:0:19:4331:300C:13E:820000:0:0:0:" tvg-name="SRF 1 HD",SRF 1 HD
+#EXTVLCOPT:program=17201
+http://192.168.0.191:8001/1:0:19:4331:300C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="17202" tvg-logo="http://192.168.0.191/picon/srfzweihd.png" tvg-id="1:0:19:4332:300C:13E:820000:0:0:0:" tvg-name="SRF zwei HD",SRF zwei HD
+#EXTVLCOPT:program=17202
+http://192.168.0.191:8001/1:0:19:4332:300C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="17206" tvg-logo="http://192.168.0.191/picon/srfinfohd.png" tvg-id="1:0:19:4336:300C:13E:820000:0:0:0:" tvg-name="SRF info HD",SRF info HD
+#EXTVLCOPT:program=17206
+http://192.168.0.191:8001/1:0:19:4336:300C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="17203" tvg-logo="http://192.168.0.191/picon/1_0_1_4333_300C_13E_820000_0_0_0.png" tvg-id="1:0:19:4333:300C:13E:820000:0:0:0:" tvg-name="RTS 1 HD",RTS 1 HD
+#EXTVLCOPT:program=17203
+http://192.168.0.191:8001/1:0:19:4333:300C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="17204" tvg-logo="http://192.168.0.191/picon/1_0_1_4334_300C_13E_820000_0_0_0.png" tvg-id="1:0:19:4334:300C:13E:820000:0:0:0:" tvg-name="RTS 2 HD",RTS 2 HD
+#EXTVLCOPT:program=17204
+http://192.168.0.191:8001/1:0:19:4334:300C:13E:820000:0:0:0:
+#EXTINF:-1 tvg-chno="17205" tvg-logo="http://192.168.0.191/picon/test17205.png" tvg-id="1:0:19:4335:300C:13E:820000:0:0:0:" tvg-name="Test17205",Test17205
+#EXTVLCOPT:program=17205
+http://192.168.0.191:8001/1:0:19:4335:300C:13E:820000:0:0:0:

@@ -1,0 +1,716 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="10301" tvg-logo="http://192.168.0.191/picon/daserstehd.png" tvg-id="1:0:19:283D:3FB:1:C00000:0:0:0:" tvg-name="Das Erste HD",Das Erste HD
+#EXTVLCOPT:program=10301
+http://192.168.0.191:8001/1:0:19:283D:3FB:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11110" tvg-logo="http://192.168.0.191/picon/zdfhd.png" tvg-id="1:0:19:2B66:3F3:1:C00000:0:0:0:" tvg-name="ZDF HD",ZDF HD
+#EXTVLCOPT:program=11110
+http://192.168.0.191:8001/1:0:19:2B66:3F3:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61200" tvg-logo="http://192.168.0.191/picon/rtlhd.png" tvg-id="1:0:19:EF10:421:1:C00000:0:0:0:" tvg-name="RTL HD",RTL HD
+#EXTVLCOPT:program=61200
+http://192.168.0.191:8001/1:0:19:EF10:421:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61300" tvg-logo="http://192.168.0.191/picon/sat1hd.png" tvg-id="1:0:19:EF74:3F9:1:C00000:0:0:0:" tvg-name="SAT.1 HD",SAT.1 HD
+#EXTVLCOPT:program=61300
+http://192.168.0.191:8001/1:0:19:EF74:3F9:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5401" tvg-logo="http://192.168.0.191/picon/tele5hd.png" tvg-id="1:0:19:1519:455:1:C00000:0:0:0:" tvg-name="TELE 5 HD",TELE 5 HD
+#EXTVLCOPT:program=5401
+http://192.168.0.191:8001/1:0:19:1519:455:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61303" tvg-logo="http://192.168.0.191/picon/sixxhd.png" tvg-id="1:0:19:EF77:3F9:1:C00000:0:0:0:" tvg-name="SIXX HD",SIXX HD
+#EXTVLCOPT:program=61303
+http://192.168.0.191:8001/1:0:19:EF77:3F9:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61301" tvg-logo="http://192.168.0.191/picon/prosiebenhd.png" tvg-id="1:0:19:EF75:3F9:1:C00000:0:0:0:" tvg-name="ProSieben HD",ProSieben HD
+#EXTVLCOPT:program=61301
+http://192.168.0.191:8001/1:0:19:EF75:3F9:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61201" tvg-logo="http://192.168.0.191/picon/voxhd.png" tvg-id="1:0:19:EF11:421:1:C00000:0:0:0:" tvg-name="VOX HD",VOX HD
+#EXTVLCOPT:program=61201
+http://192.168.0.191:8001/1:0:19:EF11:421:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61302" tvg-logo="http://192.168.0.191/picon/kabeleinshd.png" tvg-id="1:0:19:EF76:3F9:1:C00000:0:0:0:" tvg-name="kabel eins HD",kabel eins HD
+#EXTVLCOPT:program=61302
+http://192.168.0.191:8001/1:0:19:EF76:3F9:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61205" tvg-logo="http://192.168.0.191/picon/rtlzweihd.png" tvg-id="1:0:19:EF15:421:1:C00000:0:0:0:" tvg-name="RTLZWEI HD",RTLZWEI HD
+#EXTVLCOPT:program=61205
+http://192.168.0.191:8001/1:0:19:EF15:421:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12080" tvg-logo="http://192.168.0.191/picon/rtlup.png" tvg-id="1:0:1:2F30:441:1:C00000:0:0:0:" tvg-name="RTLup",RTLup
+#EXTVLCOPT:program=12080
+http://192.168.0.191:8001/1:0:1:2F30:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11150" tvg-logo="http://192.168.0.191/picon/3sathd.png" tvg-id="1:0:19:2B8E:3F2:1:C00000:0:0:0:" tvg-name="3sat HD",3sat HD
+#EXTVLCOPT:program=11150
+http://192.168.0.191:8001/1:0:19:2B8E:3F2:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11130" tvg-logo="http://192.168.0.191/picon/zdfneohd.png" tvg-id="1:0:19:2B7A:3F3:1:C00000:0:0:0:" tvg-name="zdf_neo HD",zdf_neo HD
+#EXTVLCOPT:program=11130
+http://192.168.0.191:8001/1:0:19:2B7A:3F3:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10376" tvg-logo="http://192.168.0.191/picon/onehd.png" tvg-id="1:0:19:2888:40F:1:C00000:0:0:0:" tvg-name="ONE HD",ONE HD
+#EXTVLCOPT:program=10376
+http://192.168.0.191:8001/1:0:19:2888:40F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4932" tvg-logo="http://192.168.0.191/picon/tvberlin.png" tvg-id="1:0:16:1344:3EF:1:C00000:0:0:0:" tvg-name="TV Berlin",TV Berlin
+#EXTVLCOPT:program=4932
+http://192.168.0.191:8001/1:0:16:1344:3EF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11911" tvg-logo="http://192.168.0.191/picon/rtlhdaustria.png" tvg-id="1:0:19:2E87:411:1:C00000:0:0:0:" tvg-name="RTL HD Austria",RTL HD Austria
+#EXTVLCOPT:program=11911
+http://192.168.0.191:8001/1:0:19:2E87:411:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11941" tvg-logo="http://192.168.0.191/picon/rtlzweihdaustria.png" tvg-id="1:0:19:2EA5:411:1:C00000:0:0:0:" tvg-name="RTLZWEI HD Austria",RTLZWEI HD Austria
+#EXTVLCOPT:program=11941
+http://192.168.0.191:8001/1:0:19:2EA5:411:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11921" tvg-logo="http://192.168.0.191/picon/voxhdaustria.png" tvg-id="1:0:19:2E91:411:1:C00000:0:0:0:" tvg-name="VOX HD Austria",VOX HD Austria
+#EXTVLCOPT:program=11921
+http://192.168.0.191:8001/1:0:19:2E91:411:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61322" tvg-logo="http://192.168.0.191/picon/kabeleinshdaustria.png" tvg-id="1:0:19:EF8A:3F9:1:C00000:0:0:0:" tvg-name="kabel eins HD Austria",kabel eins HD Austria
+#EXTVLCOPT:program=61322
+http://192.168.0.191:8001/1:0:19:EF8A:3F9:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5800" tvg-logo="http://192.168.0.191/picon/1_0_1_16A8_3FF_1_C00000_0_0_0.png" tvg-id="1:0:19:16A8:3FF:1:C00000:0:0:0:" tvg-name="a.tv HD",a.tv HD
+#EXTVLCOPT:program=5800
+http://192.168.0.191:8001/1:0:19:16A8:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4704" tvg-logo="http://192.168.0.191/picon/3plus.png" tvg-id="1:0:19:1260:3F7:1:C00000:0:0:0:" tvg-name="3+",3+
+#EXTVLCOPT:program=4704
+http://192.168.0.191:8001/1:0:19:1260:3F7:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28820" tvg-logo="http://192.168.0.191/picon/voxup.png" tvg-id="1:0:1:7094:443:1:C00000:0:0:0:" tvg-name="VOXup",VOXup
+#EXTVLCOPT:program=28820
+http://192.168.0.191:8001/1:0:1:7094:443:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10377" tvg-logo="http://192.168.0.191/picon/ardalphahd.png" tvg-id="1:0:19:2889:40F:1:C00000:0:0:0:" tvg-name="ARD alpha HD",ARD alpha HD
+#EXTVLCOPT:program=10377
+http://192.168.0.191:8001/1:0:19:2889:40F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="76" tvg-logo="http://192.168.0.191/picon/badentv.png" tvg-id="1:0:16:4C:21:85:C00000:0:0:0:" tvg-name="Baden TV",Baden TV
+#EXTVLCOPT:program=76
+http://192.168.0.191:8001/1:0:16:4C:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10326" tvg-logo="http://192.168.0.191/picon/brfernsehennordhd.png" tvg-id="1:0:19:2856:401:1:C00000:0:0:0:" tvg-name="BR Fernsehen Nord HD",BR Fernsehen Nord HD
+#EXTVLCOPT:program=10326
+http://192.168.0.191:8001/1:0:19:2856:401:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10325" tvg-logo="http://192.168.0.191/picon/brfernsehensudhd.png" tvg-id="1:0:19:2855:401:1:C00000:0:0:0:" tvg-name="BR Fernsehen Süd HD",BR Fernsehen Süd HD
+#EXTVLCOPT:program=10325
+http://192.168.0.191:8001/1:0:19:2855:401:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5809" tvg-logo="http://192.168.0.191/picon/frankenplushd.png" tvg-id="1:0:19:16B1:3FF:1:C00000:0:0:0:" tvg-name="Franken Plus HD",Franken Plus HD
+#EXTVLCOPT:program=5809
+http://192.168.0.191:8001/1:0:19:16B1:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10355" tvg-logo="http://192.168.0.191/picon/hrfernsehenhd.png" tvg-id="1:0:19:2873:425:1:C00000:0:0:0:" tvg-name="hr-fernsehen HD",hr-fernsehen HD
+#EXTVLCOPT:program=10355
+http://192.168.0.191:8001/1:0:19:2873:425:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5805" tvg-logo="http://192.168.0.191/picon/lokaltvportalhd.png" tvg-id="1:0:1:16AD:3FF:1:C00000:0:0:0:" tvg-name="Lokal-TV-Portal HD",Lokal-TV-Portal HD
+#EXTVLCOPT:program=5805
+http://192.168.0.191:8001/1:0:1:16AD:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10353" tvg-logo="http://192.168.0.191/picon/mdrsanhalthd.png" tvg-id="1:0:19:2871:425:1:C00000:0:0:0:" tvg-name="MDR S-Anhalt HD",MDR S-Anhalt HD
+#EXTVLCOPT:program=10353
+http://192.168.0.191:8001/1:0:19:2871:425:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10352" tvg-logo="http://192.168.0.191/picon/mdrsachsenhd.png" tvg-id="1:0:19:2870:425:1:C00000:0:0:0:" tvg-name="MDR Sachsen HD",MDR Sachsen HD
+#EXTVLCOPT:program=10352
+http://192.168.0.191:8001/1:0:19:2870:425:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10354" tvg-logo="http://192.168.0.191/picon/mdrthuringenhd.png" tvg-id="1:0:19:2872:425:1:C00000:0:0:0:" tvg-name="MDR Thüringen HD",MDR Thüringen HD
+#EXTVLCOPT:program=10354
+http://192.168.0.191:8001/1:0:19:2872:425:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5801" tvg-logo="http://192.168.0.191/picon/munchentvhd.png" tvg-id="1:0:19:16A9:3FF:1:C00000:0:0:0:" tvg-name="münchen.tv HD",münchen.tv HD
+#EXTVLCOPT:program=5801
+http://192.168.0.191:8001/1:0:19:16A9:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10329" tvg-logo="http://192.168.0.191/picon/ndrfshhhd.png" tvg-id="1:0:19:2859:401:1:C00000:0:0:0:" tvg-name="NDR FS HH HD",NDR FS HH HD
+#EXTVLCOPT:program=10329
+http://192.168.0.191:8001/1:0:19:2859:401:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10328" tvg-logo="http://192.168.0.191/picon/ndrfsmvhd.png" tvg-id="1:0:19:2858:401:1:C00000:0:0:0:" tvg-name="NDR FS MV HD",NDR FS MV HD
+#EXTVLCOPT:program=10328
+http://192.168.0.191:8001/1:0:19:2858:401:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10327" tvg-logo="http://192.168.0.191/picon/ndrfsndshd.png" tvg-id="1:0:19:2857:401:1:C00000:0:0:0:" tvg-name="NDR FS NDS HD",NDR FS NDS HD
+#EXTVLCOPT:program=10327
+http://192.168.0.191:8001/1:0:19:2857:401:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10330" tvg-logo="http://192.168.0.191/picon/ndrfsshhd.png" tvg-id="1:0:19:285A:401:1:C00000:0:0:0:" tvg-name="NDR FS SH HD",NDR FS SH HD
+#EXTVLCOPT:program=10330
+http://192.168.0.191:8001/1:0:19:285A:401:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5807" tvg-logo="http://192.168.0.191/picon/niederbayerntvhd.png" tvg-id="1:0:19:16AF:3FF:1:C00000:0:0:0:" tvg-name="NIEDERBAYERN TV HD",NIEDERBAYERN TV HD
+#EXTVLCOPT:program=5807
+http://192.168.0.191:8001/1:0:19:16AF:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="13314" tvg-logo="http://192.168.0.191/picon/oe24tv.png" tvg-id="1:0:19:3402:3ED:1:C00000:0:0:0:" tvg-name="oe24.TV HD",oe24.TV HD
+#EXTVLCOPT:program=13314
+http://192.168.0.191:8001/1:0:19:3402:3ED:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5808" tvg-logo="http://192.168.0.191/picon/otvahd.png" tvg-id="1:0:19:16B0:3FF:1:C00000:0:0:0:" tvg-name="OTVA HD",OTVA HD
+#EXTVLCOPT:program=5808
+http://192.168.0.191:8001/1:0:19:16B0:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10379" tvg-logo="http://192.168.0.191/picon/radiobremenhd.png" tvg-id="1:0:19:288B:40F:1:C00000:0:0:0:" tvg-name="Radio Bremen HD",Radio Bremen HD
+#EXTVLCOPT:program=10379
+http://192.168.0.191:8001/1:0:19:288B:40F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10351" tvg-logo="http://192.168.0.191/picon/rbbberlinhd.png" tvg-id="1:0:19:286F:425:1:C00000:0:0:0:" tvg-name="rbb Berlin HD",rbb Berlin HD
+#EXTVLCOPT:program=10351
+http://192.168.0.191:8001/1:0:19:286F:425:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10350" tvg-logo="http://192.168.0.191/picon/rbbbrandenburghd.png" tvg-id="1:0:19:286E:425:1:C00000:0:0:0:" tvg-name="rbb Brandenburg HD",rbb Brandenburg HD
+#EXTVLCOPT:program=10350
+http://192.168.0.191:8001/1:0:19:286E:425:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5802" tvg-logo="http://192.168.0.191/picon/rforegionalfernsehenoberbayernhd.png" tvg-id="1:0:19:16AA:3FF:1:C00000:0:0:0:" tvg-name="rfo Regional Fernsehen Oberbayern HD",rfo Regional Fernsehen Oberbayern HD
+#EXTVLCOPT:program=5802
+http://192.168.0.191:8001/1:0:19:16AA:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12006" tvg-logo="http://192.168.0.191/picon/rtlbayern.png" tvg-id="1:0:1:2EE6:441:1:C00000:0:0:0:" tvg-name="RTL Bayern",RTL Bayern
+#EXTVLCOPT:program=12006
+http://192.168.0.191:8001/1:0:1:2EE6:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12005" tvg-logo="http://192.168.0.191/picon/rtlhbnds.png" tvg-id="1:0:1:2EE5:441:1:C00000:0:0:0:" tvg-name="RTL HB NDS",RTL HB NDS
+#EXTVLCOPT:program=12005
+http://192.168.0.191:8001/1:0:1:2EE5:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12009" tvg-logo="http://192.168.0.191/picon/rtlhhsh.png" tvg-id="1:0:1:2EE9:441:1:C00000:0:0:0:" tvg-name="RTL HH SH",RTL HH SH
+#EXTVLCOPT:program=12009
+http://192.168.0.191:8001/1:0:1:2EE9:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12004" tvg-logo="http://192.168.0.191/picon/rtlregionalnrw.png" tvg-id="1:0:1:2EE4:441:1:C00000:0:0:0:" tvg-name="RTL Regional NRW",RTL Regional NRW
+#EXTVLCOPT:program=12004
+http://192.168.0.191:8001/1:0:1:2EE4:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="31308" tvg-logo="http://192.168.0.191/picon/sachseneins.png" tvg-id="1:0:1:7A4C:410:1:C00000:0:0:0:" tvg-name="SACHSEN EINS",SACHSEN EINS
+#EXTVLCOPT:program=31308
+http://192.168.0.191:8001/1:0:1:7A4C:410:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17507" tvg-logo="http://192.168.0.191/picon/sat1bayern.png" tvg-id="1:0:1:4463:453:1:C00000:0:0:0:" tvg-name="SAT.1 Bayern",SAT.1 Bayern
+#EXTVLCOPT:program=17507
+http://192.168.0.191:8001/1:0:1:4463:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="20008" tvg-logo="http://192.168.0.191/picon/sat1hhsh.png" tvg-id="1:0:1:4E28:43A:1:C00000:0:0:0:" tvg-name="SAT.1 HH/SH",SAT.1 HH/SH
+#EXTVLCOPT:program=20008
+http://192.168.0.191:8001/1:0:1:4E28:43A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17508" tvg-logo="http://192.168.0.191/picon/sat1nrw.png" tvg-id="1:0:1:4464:453:1:C00000:0:0:0:" tvg-name="SAT.1 NRW",SAT.1 NRW
+#EXTVLCOPT:program=17508
+http://192.168.0.191:8001/1:0:1:4464:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="20009" tvg-logo="http://192.168.0.191/picon/sat1nsbremen.png" tvg-id="1:0:1:4E29:43A:1:C00000:0:0:0:" tvg-name="SAT.1 NS/Bremen",SAT.1 NS/Bremen
+#EXTVLCOPT:program=20009
+http://192.168.0.191:8001/1:0:1:4E29:43A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="20010" tvg-logo="http://192.168.0.191/picon/sat1rhlpfhessen.png" tvg-id="1:0:1:4E2A:43A:1:C00000:0:0:0:" tvg-name="SAT.1 RhlPf/Hessen",SAT.1 RhlPf/Hessen
+#EXTVLCOPT:program=20010
+http://192.168.0.191:8001/1:0:1:4E2A:43A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10378" tvg-logo="http://192.168.0.191/picon/srfernsehenhd.png" tvg-id="1:0:19:288A:40F:1:C00000:0:0:0:" tvg-name="SR Fernsehen HD",SR Fernsehen HD
+#EXTVLCOPT:program=10378
+http://192.168.0.191:8001/1:0:19:288A:40F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10303" tvg-logo="http://192.168.0.191/picon/swrbwhd.png" tvg-id="1:0:19:283F:3FB:1:C00000:0:0:0:" tvg-name="SWR BW HD",SWR BW HD
+#EXTVLCOPT:program=10303
+http://192.168.0.191:8001/1:0:19:283F:3FB:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10304" tvg-logo="http://192.168.0.191/picon/swrrphd.png" tvg-id="1:0:19:2840:3FB:1:C00000:0:0:0:" tvg-name="SWR RP HD",SWR RP HD
+#EXTVLCOPT:program=10304
+http://192.168.0.191:8001/1:0:19:2840:3FB:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5804" tvg-logo="http://192.168.0.191/picon/tvingolstadthd.png" tvg-id="1:0:19:16AC:3FF:1:C00000:0:0:0:" tvg-name="tv.ingolstadt HD",tv.ingolstadt HD
+#EXTVLCOPT:program=5804
+http://192.168.0.191:8001/1:0:19:16AC:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28333" tvg-logo="http://192.168.0.191/picon/wdrhdaachen.png" tvg-id="1:0:19:6EAD:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Aachen",WDR HD Aachen
+#EXTVLCOPT:program=28333
+http://192.168.0.191:8001/1:0:19:6EAD:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28334" tvg-logo="http://192.168.0.191/picon/wdrhdbielefeld.png" tvg-id="1:0:19:6EAE:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Bielefeld",WDR HD Bielefeld
+#EXTVLCOPT:program=28334
+http://192.168.0.191:8001/1:0:19:6EAE:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28335" tvg-logo="http://192.168.0.191/picon/wdrhdbonn.png" tvg-id="1:0:19:6EAF:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Bonn",WDR HD Bonn
+#EXTVLCOPT:program=28335
+http://192.168.0.191:8001/1:0:19:6EAF:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28336" tvg-logo="http://192.168.0.191/picon/wdrhddortmund.png" tvg-id="1:0:19:6EB0:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Dortmund",WDR HD Dortmund
+#EXTVLCOPT:program=28336
+http://192.168.0.191:8001/1:0:19:6EB0:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28337" tvg-logo="http://192.168.0.191/picon/wdrhdduisburg.png" tvg-id="1:0:19:6EB1:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Duisburg",WDR HD Duisburg
+#EXTVLCOPT:program=28337
+http://192.168.0.191:8001/1:0:19:6EB1:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28338" tvg-logo="http://192.168.0.191/picon/wdrhddusseldorf.png" tvg-id="1:0:19:6EB2:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Düsseldorf",WDR HD Düsseldorf
+#EXTVLCOPT:program=28338
+http://192.168.0.191:8001/1:0:19:6EB2:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28339" tvg-logo="http://192.168.0.191/picon/wdrhdessen.png" tvg-id="1:0:19:6EB3:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Essen",WDR HD Essen
+#EXTVLCOPT:program=28339
+http://192.168.0.191:8001/1:0:19:6EB3:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28332" tvg-logo="http://192.168.0.191/picon/wdrhdkoln.png" tvg-id="1:0:19:6EAC:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Köln",WDR HD Köln
+#EXTVLCOPT:program=28332
+http://192.168.0.191:8001/1:0:19:6EAC:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28340" tvg-logo="http://192.168.0.191/picon/wdrhdmunster.png" tvg-id="1:0:19:6EB4:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Münster",WDR HD Münster
+#EXTVLCOPT:program=28340
+http://192.168.0.191:8001/1:0:19:6EB4:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28341" tvg-logo="http://192.168.0.191/picon/wdrhdsiegen.png" tvg-id="1:0:19:6EB5:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Siegen",WDR HD Siegen
+#EXTVLCOPT:program=28341
+http://192.168.0.191:8001/1:0:19:6EB5:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28342" tvg-logo="http://192.168.0.191/picon/wdrhdwuppertal.png" tvg-id="1:0:19:6EB6:3FD:1:C00000:0:0:0:" tvg-name="WDR HD Wuppertal",WDR HD Wuppertal
+#EXTVLCOPT:program=28342
+http://192.168.0.191:8001/1:0:19:6EB6:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28370" tvg-logo="http://192.168.0.191/picon/wdrmediathekinternet.png" tvg-id="1:0:1F:6ED2:3FD:1:C00000:0:0:0:" tvg-name="WDR Mediathek (Internet)",WDR Mediathek (Internet)
+#EXTVLCOPT:program=28370
+http://192.168.0.191:8001/1:0:1F:6ED2:3FD:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5810" tvg-logo="http://192.168.0.191/picon/wotsch.png" tvg-id="1:0:1:16B2:3FF:1:C00000:0:0:0:" tvg-name="WOTSCH",WOTSCH
+#EXTVLCOPT:program=5810
+http://192.168.0.191:8001/1:0:1:16B2:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28111" tvg-logo="http://192.168.0.191/picon/wedotvmovies.png" tvg-id="1:0:16:6DCF:44D:1:C00000:0:0:0:" tvg-name="wedotv Movies",wedotv Movies
+#EXTVLCOPT:program=28111
+http://192.168.0.191:8001/1:0:16:6DCF:44D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21100" tvg-logo="http://192.168.0.191/picon/anixehd.png" tvg-id="1:0:19:526C:41D:1:C00000:0:0:0:" tvg-name="ANIXE HD",ANIXE HD
+#EXTVLCOPT:program=21100
+http://192.168.0.191:8001/1:0:19:526C:41D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10704" tvg-logo="http://192.168.0.191/picon/crimetimehd.png" tvg-id="1:0:19:29D0:45C:1:C00000:0:0:0:" tvg-name="Crime Time HD",Crime Time HD
+#EXTVLCOPT:program=10704
+http://192.168.0.191:8001/1:0:19:29D0:45C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10705" tvg-logo="http://192.168.0.191/picon/serienplushd.png" tvg-id="1:0:19:29D1:45C:1:C00000:0:0:0:" tvg-name="SERIEN + HD",SERIEN + HD
+#EXTVLCOPT:program=10705
+http://192.168.0.191:8001/1:0:19:29D1:45C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28652" tvg-logo="http://192.168.0.191/picon/comedycentralhd.png" tvg-id="1:0:19:6FEC:436:1:C00000:0:0:0:" tvg-name="Comedy Central HD",Comedy Central HD
+#EXTVLCOPT:program=28652
+http://192.168.0.191:8001/1:0:19:6FEC:436:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5402" tvg-logo="http://192.168.0.191/picon/1_0_1_151A_455_1_C00000_0_0_0.png" tvg-id="1:0:19:151A:455:1:C00000:0:0:0:" tvg-name="DMAX HD",DMAX HD
+#EXTVLCOPT:program=5402
+http://192.168.0.191:8001/1:0:19:151A:455:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5422" tvg-logo="http://192.168.0.191/picon/dmaxhdaustria.png" tvg-id="1:0:19:152E:455:1:C00000:0:0:0:" tvg-name="DMAX HD Austria",DMAX HD Austria
+#EXTVLCOPT:program=5422
+http://192.168.0.191:8001/1:0:19:152E:455:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="38" tvg-logo="http://192.168.0.191/picon/hgtv.png" tvg-id="1:0:1:26:F:85:C00000:0:0:0:" tvg-name="HGTV",HGTV
+#EXTVLCOPT:program=38
+http://192.168.0.191:8001/1:0:1:26:F:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61206" tvg-logo="http://192.168.0.191/picon/rtluphd.png" tvg-id="1:0:19:EF16:421:1:C00000:0:0:0:" tvg-name="RTLup HD",RTLup HD
+#EXTVLCOPT:program=61206
+http://192.168.0.191:8001/1:0:19:EF16:421:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61207" tvg-logo="http://192.168.0.191/picon/voxuphd.png" tvg-id="1:0:19:EF17:421:1:C00000:0:0:0:" tvg-name="VOXup HD",VOXup HD
+#EXTVLCOPT:program=61207
+http://192.168.0.191:8001/1:0:19:EF17:421:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61304" tvg-logo="http://192.168.0.191/picon/pro7maxxhd.png" tvg-id="1:0:19:EF78:3F9:1:C00000:0:0:0:" tvg-name="Pro7 MAXX HD",Pro7 MAXX HD
+#EXTVLCOPT:program=61304
+http://192.168.0.191:8001/1:0:19:EF78:3F9:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12500" tvg-logo="http://192.168.0.191/picon/sat1goldhd.png" tvg-id="1:0:19:30D4:413:1:C00000:0:0:0:" tvg-name="SAT.1 Gold HD",SAT.1 Gold HD
+#EXTVLCOPT:program=12500
+http://192.168.0.191:8001/1:0:19:30D4:413:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11931" tvg-logo="http://192.168.0.191/picon/superrtlhd.png" tvg-id="1:0:19:2E9B:411:1:C00000:0:0:0:" tvg-name="SUPER RTL HD",SUPER RTL HD
+#EXTVLCOPT:program=11931
+http://192.168.0.191:8001/1:0:19:2E9B:411:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28815" tvg-logo="http://192.168.0.191/picon/superrtla.png" tvg-id="1:0:1:708F:443:1:C00000:0:0:0:" tvg-name="SUPER RTL A",SUPER RTL A
+#EXTVLCOPT:program=28815
+http://192.168.0.191:8001/1:0:1:708F:443:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11951" tvg-logo="http://192.168.0.191/picon/nitrohd.png" tvg-id="1:0:19:2EAF:411:1:C00000:0:0:0:" tvg-name="NITRO HD",NITRO HD
+#EXTVLCOPT:program=11951
+http://192.168.0.191:8001/1:0:19:2EAF:411:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10605" tvg-logo="http://192.168.0.191/picon/justcookinghd.png" tvg-id="1:0:19:296D:45A:1:C00000:0:0:0:" tvg-name="Just Cooking HD",Just Cooking HD
+#EXTVLCOPT:program=10605
+http://192.168.0.191:8001/1:0:19:296D:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5505" tvg-logo="http://192.168.0.191/picon/sport1hd.png" tvg-id="1:0:19:1581:41F:1:C00000:0:0:0:" tvg-name="SPORT1 HD",SPORT1 HD
+#EXTVLCOPT:program=5505
+http://192.168.0.191:8001/1:0:19:1581:41F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12502" tvg-logo="http://192.168.0.191/picon/eurosport1hd.png" tvg-id="1:0:19:30D6:413:1:C00000:0:0:0:" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+#EXTVLCOPT:program=12502
+http://192.168.0.191:8001/1:0:19:30D6:413:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11170" tvg-logo="http://192.168.0.191/picon/zdfinfohd.png" tvg-id="1:0:19:2BA2:3F2:1:C00000:0:0:0:" tvg-name="ZDFinfo HD",ZDFinfo HD
+#EXTVLCOPT:program=11170
+http://192.168.0.191:8001/1:0:19:2BA2:3F2:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61305" tvg-logo="http://192.168.0.191/picon/kabeleinsdokuhd.png" tvg-id="1:0:19:EF79:3F9:1:C00000:0:0:0:" tvg-name="Kabel Eins Doku HD",Kabel Eins Doku HD
+#EXTVLCOPT:program=61305
+http://192.168.0.191:8001/1:0:19:EF79:3F9:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5312" tvg-logo="http://192.168.0.191/picon/kabel1dokuaustria.png" tvg-id="1:0:1:14C0:407:1:C00000:0:0:0:" tvg-name="kabel1 Doku austria",kabel1 Doku austria
+#EXTVLCOPT:program=5312
+http://192.168.0.191:8001/1:0:1:14C0:407:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10302" tvg-logo="http://192.168.0.191/picon/artehd.png" tvg-id="1:0:19:283E:3FB:1:C00000:0:0:0:" tvg-name="arte HD",arte HD
+#EXTVLCOPT:program=10302
+http://192.168.0.191:8001/1:0:19:283E:3FB:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5400" tvg-logo="http://192.168.0.191/picon/sonnenklartvhd.png" tvg-id="1:0:19:1518:455:1:C00000:0:0:0:" tvg-name="sonnenklar.TV HD",sonnenklar.TV HD
+#EXTVLCOPT:program=5400
+http://192.168.0.191:8001/1:0:19:1518:455:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10100" tvg-logo="http://192.168.0.191/picon/tlchd.png" tvg-id="1:0:19:2774:409:1:C00000:0:0:0:" tvg-name="TLC HD",TLC HD
+#EXTVLCOPT:program=10100
+http://192.168.0.191:8001/1:0:19:2774:409:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10110" tvg-logo="http://192.168.0.191/picon/tlchdaustria.png" tvg-id="1:0:19:277E:409:1:C00000:0:0:0:" tvg-name="TLC HD Austria",TLC HD Austria
+#EXTVLCOPT:program=10110
+http://192.168.0.191:8001/1:0:19:277E:409:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="48" tvg-logo="http://192.168.0.191/picon/n24doku.png" tvg-id="1:0:1:30:5:85:C00000:0:0:0:" tvg-name="N24 DOKU",N24 DOKU
+#EXTVLCOPT:program=48
+http://192.168.0.191:8001/1:0:1:30:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10601" tvg-logo="http://192.168.0.191/picon/xplorehd.png" tvg-id="1:0:19:2969:45A:1:C00000:0:0:0:" tvg-name="Xplore HD",Xplore HD
+#EXTVLCOPT:program=10601
+http://192.168.0.191:8001/1:0:19:2969:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10602" tvg-logo="http://192.168.0.191/picon/hiptripshd.png" tvg-id="1:0:19:296A:45A:1:C00000:0:0:0:" tvg-name="Hip Trips HD",Hip Trips HD
+#EXTVLCOPT:program=10602
+http://192.168.0.191:8001/1:0:19:296A:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10600" tvg-logo="http://192.168.0.191/picon/oneterrahd.png" tvg-id="1:0:19:2968:45A:1:C00000:0:0:0:" tvg-name="One Terra HD",One Terra HD
+#EXTVLCOPT:program=10600
+http://192.168.0.191:8001/1:0:19:2968:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10707" tvg-logo="http://192.168.0.191/picon/hohenrauschhd.png" tvg-id="1:0:19:29D3:45C:1:C00000:0:0:0:" tvg-name="Höhenrausch HD",Höhenrausch HD
+#EXTVLCOPT:program=10707
+http://192.168.0.191:8001/1:0:19:29D3:45C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10700" tvg-logo="http://192.168.0.191/picon/justfishinghd.png" tvg-id="1:0:19:29CC:45C:1:C00000:0:0:0:" tvg-name="Just Fishing HD",Just Fishing HD
+#EXTVLCOPT:program=10700
+http://192.168.0.191:8001/1:0:19:29CC:45C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28106" tvg-logo="http://192.168.0.191/picon/dokusat.png" tvg-id="1:0:16:6DCA:44D:1:C00000:0:0:0:" tvg-name="DOKUSAT",DOKUSAT
+#EXTVLCOPT:program=28106
+http://192.168.0.191:8001/1:0:16:6DCA:44D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28654" tvg-logo="http://192.168.0.191/picon/mtvhd.png" tvg-id="1:0:19:6FEE:436:1:C00000:0:0:0:" tvg-name="MTV HD",MTV HD
+#EXTVLCOPT:program=28654
+http://192.168.0.191:8001/1:0:19:6FEE:436:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28655" tvg-logo="http://192.168.0.191/picon/mtvhdat.png" tvg-id="1:0:19:6FEF:436:1:C00000:0:0:0:" tvg-name="MTV HD AT",MTV HD AT
+#EXTVLCOPT:program=28655
+http://192.168.0.191:8001/1:0:19:6FEF:436:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5503" tvg-logo="http://192.168.0.191/picon/deluxemusichd.png" tvg-id="1:0:19:157F:41F:1:C00000:0:0:0:" tvg-name="Deluxe Music HD",Deluxe Music HD
+#EXTVLCOPT:program=5503
+http://192.168.0.191:8001/1:0:19:157F:41F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5513" tvg-logo="http://192.168.0.191/picon/deluxemusichdaustria.png" tvg-id="1:0:19:1589:41F:1:C00000:0:0:0:" tvg-name="Deluxe Music HD Austria",Deluxe Music HD Austria
+#EXTVLCOPT:program=5513
+http://192.168.0.191:8001/1:0:19:1589:41F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10603" tvg-logo="http://192.168.0.191/picon/deluxedancebykontorhd.png" tvg-id="1:0:19:296B:45A:1:C00000:0:0:0:" tvg-name="Deluxe Dance by Kontor HD",Deluxe Dance by Kontor HD
+#EXTVLCOPT:program=10603
+http://192.168.0.191:8001/1:0:19:296B:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10607" tvg-logo="http://192.168.0.191/picon/deluxeraphd.png" tvg-id="1:0:19:296F:45A:1:C00000:0:0:0:" tvg-name="Deluxe Rap HD",Deluxe Rap HD
+#EXTVLCOPT:program=10607
+http://192.168.0.191:8001/1:0:19:296F:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="35" tvg-logo="http://192.168.0.191/picon/schlagerdeluxe.png" tvg-id="1:0:1:23:F:85:C00000:0:0:0:" tvg-name="Schlager Deluxe",Schlager Deluxe
+#EXTVLCOPT:program=35
+http://192.168.0.191:8001/1:0:1:23:F:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="776" tvg-logo="http://192.168.0.191/picon/dmf.png" tvg-id="1:0:1:308:5:85:C00000:0:0:0:" tvg-name="DMF",DMF
+#EXTVLCOPT:program=776
+http://192.168.0.191:8001/1:0:1:308:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28107" tvg-logo="http://192.168.0.191/picon/volksmusiktv.png" tvg-id="1:0:16:6DCB:44D:1:C00000:0:0:0:" tvg-name="volksmusik.tv",volksmusik.tv
+#EXTVLCOPT:program=28107
+http://192.168.0.191:8001/1:0:16:6DCB:44D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28108" tvg-logo="http://192.168.0.191/picon/zweimusictelevision.png" tvg-id="1:0:1:6DCC:44D:1:C00000:0:0:0:" tvg-name="Zwei Music Television",Zwei Music Television
+#EXTVLCOPT:program=28108
+http://192.168.0.191:8001/1:0:1:6DCC:44D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5500" tvg-logo="http://192.168.0.191/picon/disneychannelhd.png" tvg-id="1:0:19:157C:41F:1:C00000:0:0:0:" tvg-name="Disney Channel HD",Disney Channel HD
+#EXTVLCOPT:program=5500
+http://192.168.0.191:8001/1:0:19:157C:41F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="11160" tvg-logo="http://192.168.0.191/picon/kikahd.png" tvg-id="1:0:19:2B98:3F2:1:C00000:0:0:0:" tvg-name="KiKA HD",KiKA HD
+#EXTVLCOPT:program=11160
+http://192.168.0.191:8001/1:0:19:2B98:3F2:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12030" tvg-logo="http://192.168.0.191/picon/toggoplus.png" tvg-id="1:0:1:2EFE:441:1:C00000:0:0:0:" tvg-name="TOGGO plus",TOGGO plus
+#EXTVLCOPT:program=12030
+http://192.168.0.191:8001/1:0:1:2EFE:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10375" tvg-logo="http://192.168.0.191/picon/tagesschau24hd.png" tvg-id="1:0:19:2887:40F:1:C00000:0:0:0:" tvg-name="tagesschau24 HD",tagesschau24 HD
+#EXTVLCOPT:program=10375
+http://192.168.0.191:8001/1:0:19:2887:40F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="61204" tvg-logo="http://192.168.0.191/picon/ntvhd.png" tvg-id="1:0:19:EF14:421:1:C00000:0:0:0:" tvg-name="ntv HD",ntv HD
+#EXTVLCOPT:program=61204
+http://192.168.0.191:8001/1:0:19:EF14:421:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10331" tvg-logo="http://192.168.0.191/picon/phoenixhd.png" tvg-id="1:0:19:285B:401:1:C00000:0:0:0:" tvg-name="phoenix HD",phoenix HD
+#EXTVLCOPT:program=10331
+http://192.168.0.191:8001/1:0:19:285B:401:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5304" tvg-logo="http://192.168.0.191/picon/puls24hd.png" tvg-id="1:0:19:14B8:407:1:C00000:0:0:0:" tvg-name="PULS 24 HD",PULS 24 HD
+#EXTVLCOPT:program=5304
+http://192.168.0.191:8001/1:0:19:14B8:407:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21108" tvg-logo="http://192.168.0.191/picon/1_0_1_5274_41D_1_C00000_0_0_0.png" tvg-id="1:0:19:5274:41D:1:C00000:0:0:0:" tvg-name="WELT HD",WELT HD
+#EXTVLCOPT:program=21108
+http://192.168.0.191:8001/1:0:19:5274:41D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="6388" tvg-logo="http://192.168.0.191/picon/euronewsgermansdpal.png" tvg-id="1:0:1:18F4:3F4:1:C00000:0:0:0:" tvg-name="EURONEWS GERMAN SD PAL",EURONEWS GERMAN SD PAL
+#EXTVLCOPT:program=6388
+http://192.168.0.191:8001/1:0:1:18F4:3F4:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="7200" tvg-logo="http://192.168.0.191/picon/bloombergeuropetv.png" tvg-id="1:0:1:1C20:457:1:C00000:0:0:0:" tvg-name="Bloomberg Europe TV",Bloomberg Europe TV
+#EXTVLCOPT:program=7200
+http://192.168.0.191:8001/1:0:1:1C20:457:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5502" tvg-logo="http://192.168.0.191/picon/123tvhd.png" tvg-id="1:0:19:157E:41F:1:C00000:0:0:0:" tvg-name="1-2-3.tv HD",1-2-3.tv HD
+#EXTVLCOPT:program=5502
+http://192.168.0.191:8001/1:0:19:157E:41F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="764" tvg-logo="http://192.168.0.191/picon/anixeplus.png" tvg-id="1:0:19:2FC:5:85:C00000:0:0:0:" tvg-name="ANIXE+",ANIXE+
+#EXTVLCOPT:program=764
+http://192.168.0.191:8001/1:0:19:2FC:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10104" tvg-logo="http://192.168.0.191/picon/channel21hd.png" tvg-id="1:0:19:2778:409:1:C00000:0:0:0:" tvg-name="Channel21 HD",Channel21 HD
+#EXTVLCOPT:program=10104
+http://192.168.0.191:8001/1:0:19:2778:409:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="54" tvg-logo="http://192.168.0.191/picon/geniusexklusiv.png" tvg-id="1:0:16:36:7:85:C00000:0:0:0:" tvg-name="Genius Exklusiv",Genius Exklusiv
+#EXTVLCOPT:program=54
+http://192.168.0.191:8001/1:0:16:36:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28113" tvg-logo="http://192.168.0.191/picon/geniusfamily.png" tvg-id="1:0:16:6DD1:44D:1:C00000:0:0:0:" tvg-name="Genius Family",Genius Family
+#EXTVLCOPT:program=28113
+http://192.168.0.191:8001/1:0:16:6DD1:44D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21113" tvg-logo="http://192.168.0.191/picon/geniusplus.png" tvg-id="1:0:16:5279:41D:1:C00000:0:0:0:" tvg-name="Genius Plus",Genius Plus
+#EXTVLCOPT:program=21113
+http://192.168.0.191:8001/1:0:16:5279:41D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="13110" tvg-logo="http://192.168.0.191/picon/geniustv.png" tvg-id="1:0:16:3336:45B:1:C00000:0:0:0:" tvg-name="Genius TV",Genius TV
+#EXTVLCOPT:program=13110
+http://192.168.0.191:8001/1:0:16:3336:45B:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="897" tvg-logo="http://192.168.0.191/picon/geniustrend.png" tvg-id="1:0:1:381:21:85:C00000:0:0:0:" tvg-name="Genius Trend",Genius Trend
+#EXTVLCOPT:program=897
+http://192.168.0.191:8001/1:0:1:381:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10102" tvg-logo="http://192.168.0.191/picon/handystartvhd.png" tvg-id="1:0:19:2776:409:1:C00000:0:0:0:" tvg-name="Handystar TV HD",Handystar TV HD
+#EXTVLCOPT:program=10102
+http://192.168.0.191:8001/1:0:19:2776:409:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="46" tvg-logo="http://192.168.0.191/picon/handystartv2.png" tvg-id="1:0:1:2E:21:85:C00000:0:0:0:" tvg-name="Handystar TV 2",Handystar TV 2
+#EXTVLCOPT:program=46
+http://192.168.0.191:8001/1:0:1:2E:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21104" tvg-logo="http://192.168.0.191/picon/hsehd.png" tvg-id="1:0:19:5270:41D:1:C00000:0:0:0:" tvg-name="HSE HD",HSE HD
+#EXTVLCOPT:program=21104
+http://192.168.0.191:8001/1:0:19:5270:41D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5501" tvg-logo="http://192.168.0.191/picon/hseextrahd.png" tvg-id="1:0:19:157D:41F:1:C00000:0:0:0:" tvg-name="HSE Extra HD",HSE Extra HD
+#EXTVLCOPT:program=5501
+http://192.168.0.191:8001/1:0:19:157D:41F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="77" tvg-logo="http://192.168.0.191/picon/hsetrendsd.png" tvg-id="1:0:1:4D:21:85:C00000:0:0:0:" tvg-name="HSE Trend SD",HSE Trend SD
+#EXTVLCOPT:program=77
+http://192.168.0.191:8001/1:0:1:4D:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="514" tvg-logo="http://192.168.0.191/picon/immeretwasneuestv.png" tvg-id="1:0:1:202:7:85:C00000:0:0:0:" tvg-name="Immer etwas Neues TV",Immer etwas Neues TV
+#EXTVLCOPT:program=514
+http://192.168.0.191:8001/1:0:1:202:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5403" tvg-logo="http://192.168.0.191/picon/juwelohd.png" tvg-id="1:0:19:151B:455:1:C00000:0:0:0:" tvg-name="Juwelo HD",Juwelo HD
+#EXTVLCOPT:program=5403
+http://192.168.0.191:8001/1:0:19:151B:455:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="13113" tvg-logo="http://192.168.0.191/picon/ltv.png" tvg-id="1:0:16:3339:45B:1:C00000:0:0:0:" tvg-name="L-TV",L-TV
+#EXTVLCOPT:program=13113
+http://192.168.0.191:8001/1:0:16:3339:45B:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="775" tvg-logo="http://192.168.0.191/picon/mediashopmeineeinkaufswelt.png" tvg-id="1:0:1:307:7:85:C00000:0:0:0:" tvg-name="MediaShop- Meine Einkaufswelt",MediaShop- Meine Einkaufswelt
+#EXTVLCOPT:program=775
+http://192.168.0.191:8001/1:0:1:307:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="898" tvg-logo="http://192.168.0.191/picon/mediashopneuheiten.png" tvg-id="1:0:1:382:21:85:C00000:0:0:0:" tvg-name="MediaShop- Neuheiten",MediaShop- Neuheiten
+#EXTVLCOPT:program=898
+http://192.168.0.191:8001/1:0:1:382:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="899" tvg-logo="http://192.168.0.191/picon/meintvshop.png" tvg-id="1:0:1:383:21:85:C00000:0:0:0:" tvg-name="meinTVshop",meinTVshop
+#EXTVLCOPT:program=899
+http://192.168.0.191:8001/1:0:1:383:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5404" tvg-logo="http://192.168.0.191/picon/pearltvhdshop.png" tvg-id="1:0:19:151C:455:1:C00000:0:0:0:" tvg-name="pearl.tv HD Shop",pearl.tv HD Shop
+#EXTVLCOPT:program=5404
+http://192.168.0.191:8001/1:0:19:151C:455:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="4230" tvg-logo="http://192.168.0.191/picon/qvcuhd.png" tvg-id="1:0:1F:1086:3EE:1:C00000:0:0:0:" tvg-name="QVC UHD",QVC UHD
+#EXTVLCOPT:program=4230
+http://192.168.0.191:8001/1:0:1F:1086:3EE:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21103" tvg-logo="http://192.168.0.191/picon/qvchd.png" tvg-id="1:0:19:526F:41D:1:C00000:0:0:0:" tvg-name="QVC HD",QVC HD
+#EXTVLCOPT:program=21103
+http://192.168.0.191:8001/1:0:19:526F:41D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12100" tvg-logo="http://192.168.0.191/picon/qvcdeutschland.png" tvg-id="1:0:1:2F44:454:1:C00000:0:0:0:" tvg-name="QVC Deutschland",QVC Deutschland
+#EXTVLCOPT:program=12100
+http://192.168.0.191:8001/1:0:1:2F44:454:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10105" tvg-logo="http://192.168.0.191/picon/qvcstylehd.png" tvg-id="1:0:19:2779:409:1:C00000:0:0:0:" tvg-name="QVC STYLE HD",QVC STYLE HD
+#EXTVLCOPT:program=10105
+http://192.168.0.191:8001/1:0:19:2779:409:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5504" tvg-logo="http://192.168.0.191/picon/qvczweihd.png" tvg-id="1:0:19:1580:41F:1:C00000:0:0:0:" tvg-name="QVC ZWEI HD",QVC ZWEI HD
+#EXTVLCOPT:program=5504
+http://192.168.0.191:8001/1:0:19:1580:41F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="47" tvg-logo="http://192.168.0.191/picon/regiotv.png" tvg-id="1:0:16:2F:21:85:C00000:0:0:0:" tvg-name="REGIO TV",REGIO TV
+#EXTVLCOPT:program=47
+http://192.168.0.191:8001/1:0:16:2F:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21107" tvg-logo="http://192.168.0.191/picon/shoplchd.png" tvg-id="1:0:19:5273:41D:1:C00000:0:0:0:" tvg-name="ShopLC HD",ShopLC HD
+#EXTVLCOPT:program=21107
+http://192.168.0.191:8001/1:0:19:5273:41D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="661" tvg-logo="http://192.168.0.191/picon/spirittv.png" tvg-id="1:0:1:295:21:85:C00000:0:0:0:" tvg-name="Spirit TV",Spirit TV
+#EXTVLCOPT:program=661
+http://192.168.0.191:8001/1:0:1:295:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="13222" tvg-logo="http://192.168.0.191/picon/starparadiestv.png" tvg-id="1:0:1:33A6:3EB:1:C00000:0:0:0:" tvg-name="StarParadies TV",StarParadies TV
+#EXTVLCOPT:program=13222
+http://192.168.0.191:8001/1:0:1:33A6:3EB:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12604" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:313C:459:1:C00000:0:0:0:" tvg-name="TELEGOLD SD",TELEGOLD SD
+#EXTVLCOPT:program=12604
+http://192.168.0.191:8001/1:0:1:313C:459:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="13224" tvg-logo="http://192.168.0.191/picon/bibeltvhd.png" tvg-id="1:0:19:33A8:3EB:1:C00000:0:0:0:" tvg-name="Bibel TV HD",Bibel TV HD
+#EXTVLCOPT:program=13224
+http://192.168.0.191:8001/1:0:19:33A8:3EB:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="13141" tvg-logo="http://192.168.0.191/picon/ewtnkatholischestv.png" tvg-id="1:0:19:3355:45B:1:C00000:0:0:0:" tvg-name="EWTN katholisches TV HD",EWTN katholisches TV HD
+#EXTVLCOPT:program=13141
+http://192.168.0.191:8001/1:0:19:3355:45B:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12530" tvg-logo="http://192.168.0.191/picon/ktv.png" tvg-id="1:0:19:30F2:413:1:C00000:0:0:0:" tvg-name="K-TV HD",K-TV HD
+#EXTVLCOPT:program=12530
+http://192.168.0.191:8001/1:0:19:30F2:413:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12410" tvg-logo="http://192.168.0.191/picon/rtluhd.png" tvg-id="1:0:1F:307A:3F5:1:C00000:0:0:0:" tvg-name="RTL UHD",RTL UHD
+#EXTVLCOPT:program=12410
+http://192.168.0.191:8001/1:0:1F:307A:3F5:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="6205" tvg-logo="http://192.168.0.191/picon/pro7sat1uhd.png" tvg-id="1:0:1F:183D:40B:1:C00000:0:0:0:" tvg-name="Pro7Sat.1 UHD",Pro7Sat.1 UHD
+#EXTVLCOPT:program=6205
+http://192.168.0.191:8001/1:0:1F:183D:40B:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="2" tvg-logo="http://192.168.0.191/picon/uhd1byastrahdplus.png" tvg-id="1:0:1F:2:40B:1:C00000:0:0:0:" tvg-name="UHD1 by ASTRA / HD+",UHD1 by ASTRA / HD+
+#EXTVLCOPT:program=2
+http://192.168.0.191:8001/1:0:1F:2:40B:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28006" tvg-logo="http://192.168.0.191/picon/zdfsd.png" tvg-id="1:0:1:6D66:437:1:C00000:0:0:0:" tvg-name="ZDF SD",ZDF SD
+#EXTVLCOPT:program=28006
+http://192.168.0.191:8001/1:0:1:6D66:437:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12003" tvg-logo="http://192.168.0.191/picon/rtltelevision.png" tvg-id="1:0:1:2EE3:441:1:C00000:0:0:0:" tvg-name="RTL Television",RTL Television
+#EXTVLCOPT:program=12003
+http://192.168.0.191:8001/1:0:1:2EE3:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17500" tvg-logo="http://192.168.0.191/picon/sat1.png" tvg-id="1:0:1:445C:453:1:C00000:0:0:0:" tvg-name="SAT.1",SAT.1
+#EXTVLCOPT:program=17500
+http://192.168.0.191:8001/1:0:1:445C:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="2030" tvg-logo="http://192.168.0.191/picon/tele5hd.png" tvg-id="1:0:19:7EE:449:1:C00000:0:0:0:" tvg-name="TELE 5 HD",TELE 5 HD
+#EXTVLCOPT:program=2030
+http://192.168.0.191:8001/1:0:19:7EE:449:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="51" tvg-logo="http://192.168.0.191/picon/tele5.png" tvg-id="1:0:1:33:21:85:C00000:0:0:0:" tvg-name="TELE 5",TELE 5
+#EXTVLCOPT:program=51
+http://192.168.0.191:8001/1:0:1:33:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17506" tvg-logo="http://192.168.0.191/picon/sixx.png" tvg-id="1:0:1:4462:453:1:C00000:0:0:0:" tvg-name="sixx",sixx
+#EXTVLCOPT:program=17506
+http://192.168.0.191:8001/1:0:1:4462:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17501" tvg-logo="http://192.168.0.191/picon/prosieben.png" tvg-id="1:0:1:445D:453:1:C00000:0:0:0:" tvg-name="ProSieben",ProSieben
+#EXTVLCOPT:program=17501
+http://192.168.0.191:8001/1:0:1:445D:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12060" tvg-logo="http://192.168.0.191/picon/vox.png" tvg-id="1:0:1:2F1C:441:1:C00000:0:0:0:" tvg-name="VOX",VOX
+#EXTVLCOPT:program=12060
+http://192.168.0.191:8001/1:0:1:2F1C:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17502" tvg-logo="http://192.168.0.191/picon/kabeleins.png" tvg-id="1:0:1:445E:453:1:C00000:0:0:0:" tvg-name="kabel eins",kabel eins
+#EXTVLCOPT:program=17502
+http://192.168.0.191:8001/1:0:1:445E:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12020" tvg-logo="http://192.168.0.191/picon/rtlzwei.png" tvg-id="1:0:1:2EF4:441:1:C00000:0:0:0:" tvg-name="RTLZWEI",RTLZWEI
+#EXTVLCOPT:program=12020
+http://192.168.0.191:8001/1:0:1:2EF4:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28007" tvg-logo="http://192.168.0.191/picon/3satsd.png" tvg-id="1:0:1:6D67:437:1:C00000:0:0:0:" tvg-name="3sat SD",3sat SD
+#EXTVLCOPT:program=28007
+http://192.168.0.191:8001/1:0:1:6D67:437:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28014" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:6D6E:437:1:C00000:0:0:0:" tvg-name="zdf_neo SD",zdf_neo SD
+#EXTVLCOPT:program=28014
+http://192.168.0.191:8001/1:0:1:6D6E:437:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28800" tvg-logo="http://192.168.0.191/picon/rtlaustria.png" tvg-id="1:0:1:7080:443:1:C00000:0:0:0:" tvg-name="RTL Austria",RTL Austria
+#EXTVLCOPT:program=28800
+http://192.168.0.191:8001/1:0:1:7080:443:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28805" tvg-logo="http://192.168.0.191/picon/voxaustria.png" tvg-id="1:0:1:7085:443:1:C00000:0:0:0:" tvg-name="VOX Austria",VOX Austria
+#EXTVLCOPT:program=28805
+http://192.168.0.191:8001/1:0:1:7085:443:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="5803" tvg-logo="http://192.168.0.191/picon/1_0_1_16AB_3FF_1_C00000_0_0_0.png" tvg-id="1:0:19:16AB:3FF:1:C00000:0:0:0:" tvg-name="a.tv HD .",a.tv HD .
+#EXTVLCOPT:program=5803
+http://192.168.0.191:8001/1:0:19:16AB:3FF:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28230" tvg-logo="http://192.168.0.191/picon/crimetime.png" tvg-id="1:0:1:6E46:431:1:C00000:0:0:0:" tvg-name="Crime Time",Crime Time
+#EXTVLCOPT:program=28230
+http://192.168.0.191:8001/1:0:1:6E46:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28231" tvg-logo="http://192.168.0.191/picon/serienplus.png" tvg-id="1:0:1:6E47:431:1:C00000:0:0:0:" tvg-name="SERIEN+",SERIEN+
+#EXTVLCOPT:program=28231
+http://192.168.0.191:8001/1:0:1:6E47:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="2020" tvg-logo="http://192.168.0.191/picon/dmaxhd.png" tvg-id="1:0:19:7E4:449:1:C00000:0:0:0:" tvg-name="DMAX HD",DMAX HD
+#EXTVLCOPT:program=2020
+http://192.168.0.191:8001/1:0:19:7E4:449:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="63" tvg-logo="http://192.168.0.191/picon/1_0_1_3F_21_85_C00000_0_0_0.png" tvg-id="1:0:1:3F:21:85:C00000:0:0:0:" tvg-name="DMAX",DMAX
+#EXTVLCOPT:program=63
+http://192.168.0.191:8001/1:0:1:3F:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="73" tvg-logo="http://192.168.0.191/picon/dmaxaustria.png" tvg-id="1:0:1:49:7:85:C00000:0:0:0:" tvg-name="DMAX Austria",DMAX Austria
+#EXTVLCOPT:program=73
+http://192.168.0.191:8001/1:0:1:49:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="2050" tvg-logo="http://192.168.0.191/picon/hgtvhd.png" tvg-id="1:0:19:802:449:1:C00000:0:0:0:" tvg-name="HGTV HD",HGTV HD
+#EXTVLCOPT:program=2050
+http://192.168.0.191:8001/1:0:19:802:449:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17505" tvg-logo="http://192.168.0.191/picon/pro7maxx.png" tvg-id="1:0:1:4461:453:1:C00000:0:0:0:" tvg-name="Pro7 MAXX",Pro7 MAXX
+#EXTVLCOPT:program=17505
+http://192.168.0.191:8001/1:0:1:4461:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17504" tvg-logo="http://192.168.0.191/picon/sat1gold.png" tvg-id="1:0:1:4460:453:1:C00000:0:0:0:" tvg-name="SAT.1 Gold",SAT.1 Gold
+#EXTVLCOPT:program=17504
+http://192.168.0.191:8001/1:0:1:4460:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12040" tvg-logo="http://192.168.0.191/picon/superrtl.png" tvg-id="1:0:1:2F08:441:1:C00000:0:0:0:" tvg-name="SUPER RTL",SUPER RTL
+#EXTVLCOPT:program=12040
+http://192.168.0.191:8001/1:0:1:2F08:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12061" tvg-logo="http://192.168.0.191/picon/nitro.png" tvg-id="1:0:1:2F1D:441:1:C00000:0:0:0:" tvg-name="NITRO",NITRO
+#EXTVLCOPT:program=12061
+http://192.168.0.191:8001/1:0:1:2F1D:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28227" tvg-logo="http://192.168.0.191/picon/justcooking.png" tvg-id="1:0:1:6E43:431:1:C00000:0:0:0:" tvg-name="Just Cooking",Just Cooking
+#EXTVLCOPT:program=28227
+http://192.168.0.191:8001/1:0:1:6E43:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="900" tvg-logo="http://192.168.0.191/picon/sport1.png" tvg-id="1:0:1:384:21:85:C00000:0:0:0:" tvg-name="SPORT1",SPORT1
+#EXTVLCOPT:program=900
+http://192.168.0.191:8001/1:0:1:384:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="2000" tvg-logo="http://192.168.0.191/picon/eurosport1hd.png" tvg-id="1:0:19:7D0:449:1:C00000:0:0:0:" tvg-name="Eurosport 1 HD",Eurosport 1 HD
+#EXTVLCOPT:program=2000
+http://192.168.0.191:8001/1:0:19:7D0:449:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28011" tvg-logo="http://192.168.0.191/picon/zdfinfosd.png" tvg-id="1:0:1:6D6B:437:1:C00000:0:0:0:" tvg-name="ZDFinfo SD",ZDFinfo SD
+#EXTVLCOPT:program=28011
+http://192.168.0.191:8001/1:0:1:6D6B:437:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17509" tvg-logo="http://192.168.0.191/picon/kabeleinsdoku.png" tvg-id="1:0:1:4465:453:1:C00000:0:0:0:" tvg-name="kabel eins Doku",kabel eins Doku
+#EXTVLCOPT:program=17509
+http://192.168.0.191:8001/1:0:1:4465:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="32" tvg-logo="http://192.168.0.191/picon/sonnenklartv.png" tvg-id="1:0:1:20:21:85:C00000:0:0:0:" tvg-name="Sonnenklar TV",Sonnenklar TV
+#EXTVLCOPT:program=32
+http://192.168.0.191:8001/1:0:1:20:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="2040" tvg-logo="http://192.168.0.191/picon/tlchd.png" tvg-id="1:0:19:7F8:449:1:C00000:0:0:0:" tvg-name="TLC HD",TLC HD
+#EXTVLCOPT:program=2040
+http://192.168.0.191:8001/1:0:19:7F8:449:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="772" tvg-logo="http://192.168.0.191/picon/tlc.png" tvg-id="1:0:1:304:5:85:C00000:0:0:0:" tvg-name="TLC",TLC
+#EXTVLCOPT:program=772
+http://192.168.0.191:8001/1:0:1:304:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="71" tvg-logo="http://192.168.0.191/picon/tlcaustria.png" tvg-id="1:0:1:47:7:85:C00000:0:0:0:" tvg-name="TLC Austria",TLC Austria
+#EXTVLCOPT:program=71
+http://192.168.0.191:8001/1:0:1:47:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28205" tvg-logo="http://192.168.0.191/picon/xplore.png" tvg-id="1:0:1:6E2D:431:1:C00000:0:0:0:" tvg-name="Xplore",Xplore
+#EXTVLCOPT:program=28205
+http://192.168.0.191:8001/1:0:1:6E2D:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28206" tvg-logo="http://192.168.0.191/picon/hiptrips.png" tvg-id="1:0:1:6E2E:431:1:C00000:0:0:0:" tvg-name="Hip Trips",Hip Trips
+#EXTVLCOPT:program=28206
+http://192.168.0.191:8001/1:0:1:6E2E:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28224" tvg-logo="http://192.168.0.191/picon/oneterra.png" tvg-id="1:0:1:6E40:431:1:C00000:0:0:0:" tvg-name="One Terra",One Terra
+#EXTVLCOPT:program=28224
+http://192.168.0.191:8001/1:0:1:6E40:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28229" tvg-logo="http://192.168.0.191/picon/hohenrausch.png" tvg-id="1:0:1:6E45:431:1:C00000:0:0:0:" tvg-name="Höhenrausch",Höhenrausch
+#EXTVLCOPT:program=28229
+http://192.168.0.191:8001/1:0:1:6E45:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28228" tvg-logo="http://192.168.0.191/picon/justfishing.png" tvg-id="1:0:1:6E44:431:1:C00000:0:0:0:" tvg-name="Just Fishing",Just Fishing
+#EXTVLCOPT:program=28228
+http://192.168.0.191:8001/1:0:1:6E44:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="65" tvg-logo="http://192.168.0.191/picon/deluxemusic.png" tvg-id="1:0:1:41:7:85:C00000:0:0:0:" tvg-name="DELUXE MUSIC",DELUXE MUSIC
+#EXTVLCOPT:program=65
+http://192.168.0.191:8001/1:0:1:41:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28226" tvg-logo="http://192.168.0.191/picon/deluxedancebykontor.png" tvg-id="1:0:1:6E42:431:1:C00000:0:0:0:" tvg-name="Deluxe Dance by Kontor",Deluxe Dance by Kontor
+#EXTVLCOPT:program=28226
+http://192.168.0.191:8001/1:0:1:6E42:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28225" tvg-logo="http://192.168.0.191/picon/deluxerap.png" tvg-id="1:0:1:6E41:431:1:C00000:0:0:0:" tvg-name="Deluxe Rap",Deluxe Rap
+#EXTVLCOPT:program=28225
+http://192.168.0.191:8001/1:0:1:6E41:431:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="1793" tvg-logo="http://192.168.0.191/picon/disneychannel.png" tvg-id="1:0:1:701:5:85:C00000:0:0:0:" tvg-name="Disney Channel",Disney Channel
+#EXTVLCOPT:program=1793
+http://192.168.0.191:8001/1:0:1:701:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28008" tvg-logo="http://192.168.0.191/picon/kikasd.png" tvg-id="1:0:1:6D68:437:1:C00000:0:0:0:" tvg-name="KiKA SD",KiKA SD
+#EXTVLCOPT:program=28008
+http://192.168.0.191:8001/1:0:1:6D68:437:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12090" tvg-logo="http://192.168.0.191/picon/ntv.png" tvg-id="1:0:1:2F3A:441:1:C00000:0:0:0:" tvg-name="ntv",ntv
+#EXTVLCOPT:program=12090
+http://192.168.0.191:8001/1:0:1:2F3A:441:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="17503" tvg-logo="http://192.168.0.191/picon/welt.png" tvg-id="1:0:1:445F:453:1:C00000:0:0:0:" tvg-name="WELT",WELT
+#EXTVLCOPT:program=17503
+http://192.168.0.191:8001/1:0:1:445F:453:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="662" tvg-logo="http://192.168.0.191/picon/123tv.png" tvg-id="1:0:1:296:5:85:C00000:0:0:0:" tvg-name="1-2-3.tv",1-2-3.tv
+#EXTVLCOPT:program=662
+http://192.168.0.191:8001/1:0:1:296:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="769" tvg-logo="http://192.168.0.191/picon/channel21.png" tvg-id="1:0:1:301:7:85:C00000:0:0:0:" tvg-name="Channel21",Channel21
+#EXTVLCOPT:program=769
+http://192.168.0.191:8001/1:0:1:301:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12616" tvg-logo="http://192.168.0.191/picon/juwelotv.png" tvg-id="1:0:1:3148:459:1:C00000:0:0:0:" tvg-name="JuweloTV",JuweloTV
+#EXTVLCOPT:program=12616
+http://192.168.0.191:8001/1:0:1:3148:459:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="659" tvg-logo="http://192.168.0.191/picon/handystartv.png" tvg-id="1:0:1:293:5:85:C00000:0:0:0:" tvg-name="Handystar TV",Handystar TV
+#EXTVLCOPT:program=659
+http://192.168.0.191:8001/1:0:1:293:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="40" tvg-logo="http://192.168.0.191/picon/hsesd.png" tvg-id="1:0:1:28:21:85:C00000:0:0:0:" tvg-name="HSE SD",HSE SD
+#EXTVLCOPT:program=40
+http://192.168.0.191:8001/1:0:1:28:21:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="31210" tvg-logo="http://192.168.0.191/picon/hseextra.png" tvg-id="1:0:1:79EA:443:1:C00000:0:0:0:" tvg-name="HSE Extra",HSE Extra
+#EXTVLCOPT:program=31210
+http://192.168.0.191:8001/1:0:1:79EA:443:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="1794" tvg-logo="http://192.168.0.191/picon/qvc.png" tvg-id="1:0:1:702:5:85:C00000:0:0:0:" tvg-name="QVC",QVC
+#EXTVLCOPT:program=1794
+http://192.168.0.191:8001/1:0:1:702:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="13106" tvg-logo="http://192.168.0.191/picon/shoplc.png" tvg-id="1:0:16:3332:45B:1:C00000:0:0:0:" tvg-name="Shop LC",Shop LC
+#EXTVLCOPT:program=13106
+http://192.168.0.191:8001/1:0:16:3332:45B:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12122" tvg-logo="http://192.168.0.191/picon/bibeltv.png" tvg-id="1:0:1:2F5A:454:1:C00000:0:0:0:" tvg-name="Bibel TV",Bibel TV
+#EXTVLCOPT:program=12122
+http://192.168.0.191:8001/1:0:1:2F5A:454:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="62" tvg-logo="http://192.168.0.191/picon/ewtnkatholischestv.png" tvg-id="1:0:1:3E:5:85:C00000:0:0:0:" tvg-name="EWTN katholisches TV",EWTN katholisches TV
+#EXTVLCOPT:program=62
+http://192.168.0.191:8001/1:0:1:3E:5:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10391" tvg-logo="http://192.168.0.191/picon/ardtest1.png" tvg-id="1:0:19:2897:40F:1:C00000:0:0:0:" tvg-name="ARD-Test-1",ARD-Test-1
+#EXTVLCOPT:program=10391
+http://192.168.0.191:8001/1:0:19:2897:40F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10390" tvg-logo="http://192.168.0.191/picon/ardtestr.png" tvg-id="1:0:19:2896:40F:1:C00000:0:0:0:" tvg-name="ARD-Test-R",ARD-Test-R
+#EXTVLCOPT:program=10390
+http://192.168.0.191:8001/1:0:19:2896:40F:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10561" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:2941:458:1:C00000:0:0:0:" tvg-name="ALT_Crime Time",ALT_Crime Time
+#EXTVLCOPT:program=10561
+http://192.168.0.191:8001/1:0:1:2941:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10555" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:293B:458:1:C00000:0:0:0:" tvg-name="ALT_Deluxe Dance by Kontor",ALT_Deluxe Dance by Kontor
+#EXTVLCOPT:program=10555
+http://192.168.0.191:8001/1:0:1:293B:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10556" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:293C:458:1:C00000:0:0:0:" tvg-name="ALT_Deluxe Flashback",ALT_Deluxe Flashback
+#EXTVLCOPT:program=10556
+http://192.168.0.191:8001/1:0:1:293C:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10559" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:293F:458:1:C00000:0:0:0:" tvg-name="ALT_Deluxe Lounge",ALT_Deluxe Lounge
+#EXTVLCOPT:program=10559
+http://192.168.0.191:8001/1:0:1:293F:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10554" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:293A:458:1:C00000:0:0:0:" tvg-name="ALT_Deluxe Rap",ALT_Deluxe Rap
+#EXTVLCOPT:program=10554
+http://192.168.0.191:8001/1:0:1:293A:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10553" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:2939:458:1:C00000:0:0:0:" tvg-name="ALT_Deluxe Rock",ALT_Deluxe Rock
+#EXTVLCOPT:program=10553
+http://192.168.0.191:8001/1:0:1:2939:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="12601" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:3139:459:1:C00000:0:0:0:" tvg-name="alt_K-TV",alt_K-TV
+#EXTVLCOPT:program=12601
+http://192.168.0.191:8001/1:0:1:3139:459:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10551" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:2937:458:1:C00000:0:0:0:" tvg-name="ALT_Hip Trips",ALT_Hip Trips
+#EXTVLCOPT:program=10551
+http://192.168.0.191:8001/1:0:1:2937:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10560" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:2940:458:1:C00000:0:0:0:" tvg-name="ALT_Höhenrausch",ALT_Höhenrausch
+#EXTVLCOPT:program=10560
+http://192.168.0.191:8001/1:0:1:2940:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10557" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:293D:458:1:C00000:0:0:0:" tvg-name="ALT_Just Cooking",ALT_Just Cooking
+#EXTVLCOPT:program=10557
+http://192.168.0.191:8001/1:0:1:293D:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10558" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:293E:458:1:C00000:0:0:0:" tvg-name="ALT_Just Fishing",ALT_Just Fishing
+#EXTVLCOPT:program=10558
+http://192.168.0.191:8001/1:0:1:293E:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10552" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:2938:458:1:C00000:0:0:0:" tvg-name="ALT_One Terra",ALT_One Terra
+#EXTVLCOPT:program=10552
+http://192.168.0.191:8001/1:0:1:2938:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10562" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:2942:458:1:C00000:0:0:0:" tvg-name="ALT_SERIEN+",ALT_SERIEN+
+#EXTVLCOPT:program=10562
+http://192.168.0.191:8001/1:0:1:2942:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10550" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:1:2936:458:1:C00000:0:0:0:" tvg-name="ALT_Xplore",ALT_Xplore
+#EXTVLCOPT:program=10550
+http://192.168.0.191:8001/1:0:1:2936:458:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10604" tvg-logo="http://192.168.0.191/picon/deluxeflashbackhd.png" tvg-id="1:0:19:296C:45A:1:C00000:0:0:0:" tvg-name="Deluxe Flashback HD",Deluxe Flashback HD
+#EXTVLCOPT:program=10604
+http://192.168.0.191:8001/1:0:19:296C:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10706" tvg-logo="http://192.168.0.191/picon/deluxeloungehd.png" tvg-id="1:0:19:29D2:45C:1:C00000:0:0:0:" tvg-name="Deluxe Lounge HD",Deluxe Lounge HD
+#EXTVLCOPT:program=10706
+http://192.168.0.191:8001/1:0:19:29D2:45C:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="10606" tvg-logo="http://192.168.0.191/picon/deluxerockhd.png" tvg-id="1:0:19:296E:45A:1:C00000:0:0:0:" tvg-name="Deluxe Rock HD",Deluxe Rock HD
+#EXTVLCOPT:program=10606
+http://192.168.0.191:8001/1:0:19:296E:45A:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="774" tvg-logo="http://192.168.0.191/picon/folxmusictelevision.png" tvg-id="1:0:1:306:7:85:C00000:0:0:0:" tvg-name="FOLX MUSIC TELEVISION",FOLX MUSIC TELEVISION
+#EXTVLCOPT:program=774
+http://192.168.0.191:8001/1:0:1:306:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="21112" tvg-logo="http://192.168.0.191/picon/nicerdicertv.png" tvg-id="1:0:16:5278:41D:1:C00000:0:0:0:" tvg-name="Nicer Dicer TV",Nicer Dicer TV
+#EXTVLCOPT:program=21112
+http://192.168.0.191:8001/1:0:16:5278:41D:1:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="765" tvg-logo="http://192.168.0.191/picon/pearltvshop.png" tvg-id="1:0:1:2FD:7:85:C00000:0:0:0:" tvg-name="pearl.tv Shop",pearl.tv Shop
+#EXTVLCOPT:program=765
+http://192.168.0.191:8001/1:0:1:2FD:7:85:C00000:0:0:0:
+#EXTINF:-1 tvg-chno="28354" tvg-logo="http://192.168.0.191/images/default_picon.png" tvg-id="1:0:19:6EC2:3FD:1:C00000:0:0:0:" tvg-name="WDR Test-R",WDR Test-R
+#EXTVLCOPT:program=28354
+http://192.168.0.191:8001/1:0:19:6EC2:3FD:1:C00000:0:0:0:

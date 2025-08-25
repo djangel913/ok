@@ -1,0 +1,89 @@
+#EXTM3U 
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:-1 tvg-chno="15" tvg-logo="http://192.168.0.191/picon/tvr1hd.png" tvg-id="1:0:1:F:C8:1:A00000:0:0:0:" tvg-name="TVR 1 HD",TVR 1 HD
+#EXTVLCOPT:program=15
+http://192.168.0.191:8001/1:0:1:F:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="17" tvg-logo="http://192.168.0.191/picon/tvr2hd.png" tvg-id="1:0:1:11:C8:1:A00000:0:0:0:" tvg-name="TVR 2 HD",TVR 2 HD
+#EXTVLCOPT:program=17
+http://192.168.0.191:8001/1:0:1:11:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="3" tvg-logo="http://192.168.0.191/picon/tvr3.png" tvg-id="1:0:1:3:C8:1:A00000:0:0:0:" tvg-name="TVR 3",TVR 3
+#EXTVLCOPT:program=3
+http://192.168.0.191:8001/1:0:1:3:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="6" tvg-logo="http://192.168.0.191/picon/tvrinternational.png" tvg-id="1:0:1:6:C8:1:A00000:0:0:0:" tvg-name="TVR International",TVR International
+#EXTVLCOPT:program=6
+http://192.168.0.191:8001/1:0:1:6:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="12" tvg-logo="http://192.168.0.191/picon/1_0_1_C_1F4_5_A00000_0_0_0.png" tvg-id="1:0:1:C:1F4:5:A00000:0:0:0:" tvg-name="Prima TV",Prima TV
+#EXTVLCOPT:program=12
+http://192.168.0.191:8001/1:0:1:C:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="1" tvg-logo="http://192.168.0.191/picon/acasagold.png" tvg-id="1:0:1:1:1F4:5:A00000:0:0:0:" tvg-name="ACASA GOLD",ACASA GOLD
+#EXTVLCOPT:program=1
+http://192.168.0.191:8001/1:0:1:1:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://192.168.0.191/picon/romaniatv.png" tvg-id="1:0:1:A:1F4:5:A00000:0:0:0:" tvg-name="RomaniaTV",RomaniaTV
+#EXTVLCOPT:program=10
+http://192.168.0.191:8001/1:0:1:A:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="3" tvg-logo="http://192.168.0.191/picon/nationaltv.png" tvg-id="1:0:1:3:1F4:5:A00000:0:0:0:" tvg-name="National TV",National TV
+#EXTVLCOPT:program=3
+http://192.168.0.191:8001/1:0:1:3:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="11" tvg-logo="http://192.168.0.191/picon/digi24.png" tvg-id="1:0:1:B:1F4:5:A00000:0:0:0:" tvg-name="DIGI 24",DIGI 24
+#EXTVLCOPT:program=11
+http://192.168.0.191:8001/1:0:1:B:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="16" tvg-logo="http://192.168.0.191/picon/alfaomegatv.png" tvg-id="1:0:1:10:12C:3:A00000:0:0:0:" tvg-name="Alfa Omega TV",Alfa Omega TV
+#EXTVLCOPT:program=16
+http://192.168.0.191:8001/1:0:1:10:12C:3:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="18" tvg-logo="http://192.168.0.191/picon/tvrinfo.png" tvg-id="1:0:1:12:C8:1:A00000:0:0:0:" tvg-name="TVR INFO",TVR INFO
+#EXTVLCOPT:program=18
+http://192.168.0.191:8001/1:0:1:12:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="7" tvg-logo="http://192.168.0.191/picon/tvrcluj.png" tvg-id="1:0:1:7:C8:1:A00000:0:0:0:" tvg-name="TVR Cluj",TVR Cluj
+#EXTVLCOPT:program=7
+http://192.168.0.191:8001/1:0:1:7:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="8" tvg-logo="http://192.168.0.191/picon/tvrcraiova.png" tvg-id="1:0:1:8:C8:1:A00000:0:0:0:" tvg-name="TVR Craiova",TVR Craiova
+#EXTVLCOPT:program=8
+http://192.168.0.191:8001/1:0:1:8:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="9" tvg-logo="http://192.168.0.191/picon/tvriasi.png" tvg-id="1:0:1:9:C8:1:A00000:0:0:0:" tvg-name="TVR Iasi",TVR Iasi
+#EXTVLCOPT:program=9
+http://192.168.0.191:8001/1:0:1:9:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="4" tvg-logo="http://192.168.0.191/picon/tvrmoldova.png" tvg-id="1:0:1:4:C8:1:A00000:0:0:0:" tvg-name="TVR Moldova",TVR Moldova
+#EXTVLCOPT:program=4
+http://192.168.0.191:8001/1:0:1:4:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="10" tvg-logo="http://192.168.0.191/picon/tvrtimisoara.png" tvg-id="1:0:1:A:C8:1:A00000:0:0:0:" tvg-name="TVR Timisoara",TVR Timisoara
+#EXTVLCOPT:program=10
+http://192.168.0.191:8001/1:0:1:A:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="11" tvg-logo="http://192.168.0.191/picon/tvrtgmures.png" tvg-id="1:0:1:B:C8:1:A00000:0:0:0:" tvg-name="TVR Tg Mures",TVR Tg Mures
+#EXTVLCOPT:program=11
+http://192.168.0.191:8001/1:0:1:B:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="8" tvg-logo="http://192.168.0.191/picon/procinema.png" tvg-id="1:0:16:8:1F4:5:A00000:0:0:0:" tvg-name="PRO CINEMA",PRO CINEMA
+#EXTVLCOPT:program=8
+http://192.168.0.191:8001/1:0:16:8:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="9" tvg-logo="http://192.168.0.191/picon/warnertv.png" tvg-id="1:0:1:9:1F4:5:A00000:0:0:0:" tvg-name="Warner TV",Warner TV
+#EXTVLCOPT:program=9
+http://192.168.0.191:8001/1:0:1:9:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="2" tvg-logo="http://192.168.0.191/picon/kanald.png" tvg-id="1:0:1:2:1F4:5:A00000:0:0:0:" tvg-name="Kanal D",Kanal D
+#EXTVLCOPT:program=2
+http://192.168.0.191:8001/1:0:1:2:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="5" tvg-logo="http://192.168.0.191/picon/protv.png" tvg-id="1:0:16:5:1F4:5:A00000:0:0:0:" tvg-name="PRO TV",PRO TV
+#EXTVLCOPT:program=5
+http://192.168.0.191:8001/1:0:16:5:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="7" tvg-logo="http://192.168.0.191/picon/acasa.png" tvg-id="1:0:16:7:1F4:5:A00000:0:0:0:" tvg-name="ACASA",ACASA
+#EXTVLCOPT:program=7
+http://192.168.0.191:8001/1:0:16:7:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="13" tvg-logo="http://192.168.0.191/picon/tvrsporthd.png" tvg-id="1:0:19:D:C8:1:A00000:0:0:0:" tvg-name="TVR SPORT HD",TVR SPORT HD
+#EXTVLCOPT:program=13
+http://192.168.0.191:8001/1:0:19:D:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="6" tvg-logo="http://192.168.0.191/picon/proarena.png" tvg-id="1:0:16:6:1F4:5:A00000:0:0:0:" tvg-name="PRO ARENA",PRO ARENA
+#EXTVLCOPT:program=6
+http://192.168.0.191:8001/1:0:16:6:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="19" tvg-logo="http://192.168.0.191/picon/tvrcultural.png" tvg-id="1:0:1:13:C8:1:A00000:0:0:0:" tvg-name="TVR CULTURAL",TVR CULTURAL
+#EXTVLCOPT:program=19
+http://192.168.0.191:8001/1:0:1:13:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="20" tvg-logo="http://192.168.0.191/picon/tvrfolclor.png" tvg-id="1:0:1:14:C8:1:A00000:0:0:0:" tvg-name="TVR FOLCLOR",TVR FOLCLOR
+#EXTVLCOPT:program=20
+http://192.168.0.191:8001/1:0:1:14:C8:1:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="4" tvg-logo="http://192.168.0.191/picon/1_0_1_4_1F4_5_A00000_0_0_0.png" tvg-id="1:0:1:4:1F4:5:A00000:0:0:0:" tvg-name="Boomerang",Boomerang
+#EXTVLCOPT:program=4
+http://192.168.0.191:8001/1:0:1:4:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="13" tvg-logo="http://192.168.0.191/picon/realitateaplus.png" tvg-id="1:0:16:D:1F4:5:A00000:0:0:0:" tvg-name="Realitatea Plus",Realitatea Plus
+#EXTVLCOPT:program=13
+http://192.168.0.191:8001/1:0:16:D:1F4:5:A00000:0:0:0:
+#EXTINF:-1 tvg-chno="15" tvg-logo="http://192.168.0.191/picon/credotv.png" tvg-id="1:0:1:F:12C:3:A00000:0:0:0:" tvg-name="Credo TV",Credo TV
+#EXTVLCOPT:program=15
+http://192.168.0.191:8001/1:0:1:F:12C:3:A00000:0:0:0:
