@@ -1,0 +1,685 @@
+#NAME IPTV Music
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Update 22.06.2025 by Team www.hdfreaks.cc
+#DESCRIPTION Update 05.07.2025 by Team www.hdfreaks.cc
+#SERVICE 1:64:1:0:0:0:0:0:0:0::* =Streamlink needed
+#DESCRIPTION * =Streamlink needed
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Festivals
+#DESCRIPTION Festivals
+#SERVICE 4097:0:1:3B37:D318:EC:0:0:0:0:https%3a//streaming.magentamusik.de/hls/live/573870/magentamusik1/magentamusik1_1/magentamusik1.m3u8:Hurricane Festival - Magenta Musik
+#DESCRIPTION Hurricane Festival - Magenta Musik
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MTV Channels
+#DESCRIPTION MTV Channels
+#SERVICE 4097:0:1:CA78:C078:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d15062cd1f00070a2338/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Music
+#DESCRIPTION MTV Music
+#SERVICE 4097:0:1:DB06:6568:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Biggest Pop
+#DESCRIPTION MTV Biggest Pop
+#SERVICE 4097:0:1:5ECB:AB7F:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6329ceeac55af500083077e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Classic
+#DESCRIPTION MTV Classic
+#SERVICE 4097:0:1:1FC4:74A5:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62beb7a0f9db450007a123c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Love Music
+#DESCRIPTION MTV Love Music
+#SERVICE 4097:0:1:F00C:14EF:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Made in Spain
+#DESCRIPTION MTV Made in Spain
+#SERVICE 4097:0:1:D51:C7A7:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6331a4df44111b00076b15f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Movie Hits
+#DESCRIPTION MTV Movie Hits
+#SERVICE 4097:0:1:462:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ba492b0cb1a100088d2960/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV on Tour!
+#DESCRIPTION MTV on Tour!
+#SERVICE 4097:0:1:47E9:9C4E:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61ea759737679900078ff559/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Party Music
+#DESCRIPTION MTV Party Music
+#SERVICE 4097:0:1:7F39:DAAF:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Spankin' New
+#DESCRIPTION MTV Spankin' New
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Stingray Channels
+#DESCRIPTION Stingray Channels
+#SERVICE 4097:0:1:9ECF:3D91:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD35000180U.m3u8:Stingray Classic Rock*
+#DESCRIPTION Stingray Classic Rock*
+#SERVICE 5002:0:1:4608:87A9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3500011J3.m3u8:Stingray Easy Listening*
+#DESCRIPTION Stingray Easy Listening*
+#SERVICE 4097:0:1:5B58:68FA:EC:0:0:0:0:https%3a//jmp2.uk/sam-USBD3500008IJ.m3u8:Stingray Flashback 70s
+#DESCRIPTION Stingray Flashback 70s
+#SERVICE 4097:0:1:516B:EB66:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3500022DN.m3u8:Stingray Greatest Hits*
+#DESCRIPTION Stingray Greatest Hits*
+#SERVICE 4097:0:1:6030:212A:EC:0:0:0:0:https%3a//jmp2.uk/sam-USBD3500010MT.m3u8:Stingray Hip-Hop/R'n'B
+#DESCRIPTION Stingray Hip-Hop/R'n'B
+#SERVICE 4097:0:1:ECE9:5693:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eBR2z3PwZMCCQeoh8-Lx&custom_7=61aaa014784a2161d3caf7fd&is_lat=0#sapp_tvgid=5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd:Stingray Hit List*
+#DESCRIPTION Stingray Hit List*
+#SERVICE 4097:0:1:5D73:B258:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3300021KV.m3u8:Stingray Hot Country*
+#DESCRIPTION Stingray Hot Country*
+#SERVICE 5002:0:1:B4D:B03E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD35000149S.m3u8:Stingray Nothin' but 90s*
+#DESCRIPTION Stingray Nothin' but 90s*
+#SERVICE 4097:0:1:2FBE:B38E:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eBR2z3PwZMCCQeoh8-Lx&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0#sapp_tvgid=5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb:Stingray Remember the 80s
+#DESCRIPTION Stingray Remember the 80s
+#SERVICE 4097:0:1:1CCE:DDDD:EC:0:0:0:0:https%3a//jmp2.uk/sam-USBD3500017CE.m3u8:Stingray Romance Latino
+#DESCRIPTION Stingray Romance Latino
+#SERVICE 5002:0:1:53F3:156D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD35000128A.m3u8:Stingray Smooth Jazz*
+#DESCRIPTION Stingray Smooth Jazz*
+#SERVICE 5002:0:1:7DF4:97AB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3500016NH.m3u8:Stingray Today's K-Pop*
+#DESCRIPTION Stingray Today's K-Pop*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::HITS
+#DESCRIPTION HITS
+#SERVICE 4097:0:1:2045:9534:EC:0:0:0:0:https%3a//company.fluid.stream/CompanyTV/smil%3aCompany_ALL.smil/playlist.m3u8?FLID=1:Company TV
+#DESCRIPTION Company TV
+#SERVICE 4097:0:1:864:11C:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/654a4e9d83595c0008183f5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Dansktoppen
+#DESCRIPTION Dansktoppen
+#SERVICE 4097:0:1:F226:521:D:0:0:0:0:https%3a//streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8:Deejay TV
+#DESCRIPTION Deejay TV
+#SERVICE 4097:0:1:4714:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-GBBD3000004VR.m3u8:Def Jam*
+#DESCRIPTION Def Jam*
+#SERVICE 4097:0:1:157F:41F:1:C00000:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8:Deluxe Music
+#DESCRIPTION Deluxe Music
+#SERVICE 4097:0:1:2:208E:F71C:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9f58b8c3-80c1-11eb-908d-533d39655269/0/master.m3u8?uid={PSID}&optout={TARGETOPT}&country=IT&vendor=samsung&ads%3aapp_domain={APP_DOMAIN}&ads%3aapp_name={APP_NAME}&coppa=1&ads%3atcf={TC_STRING}:Deluxe Lounge*
+#DESCRIPTION Deluxe Lounge*
+#SERVICE 5002:0:1:843F:68E4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//amg01736-harmonysecomgro-harmonymelody-samsungfr-n25pe.amagi.tv/playlist/amg01736-harmonysecomgro-harmonymelody-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0:Émotion*
+#DESCRIPTION Émotion*
+#SERVICE 4097:0:1:B2B3:636D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/xxtuy6:Fun Radio (FR)*
+#DESCRIPTION Fun Radio (FR)*
+#SERVICE 4097:0:1:DCA:CF2E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8fy3fv:Fun Radio (BE)*
+#DESCRIPTION Fun Radio (BE)*
+#SERVICE 5002:0:1:DB4C:94FC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//monarch.hopto.me/abr/stream/Stream01/mystream_480p/chunks.m3u8%2520--http-header%2520"Referer=https%3a//mood.live/":Juice Music (NZ)*
+#DESCRIPTION Juice Music (NZ)*
+#SERVICE 5002:0:1:8804:9611:EC:0:0:0:0:https%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8:Kronehit (1080p)
+#DESCRIPTION Kronehit (1080p)
+#SERVICE 5002:0:1:8804:9611:EC:0:0:0:0:https%3a//bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8:Kronehit (720p)
+#DESCRIPTION Kronehit (720p)
+#SERVICE 4097:0:1:39B8:4CB3:EC:0:0:0:0:https%3a//streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8:m2o TV
+#DESCRIPTION m2o TV
+#SERVICE 5002:0:1:D16A:F03D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ventdelnord.tv%3a8080/mola/directe.m3u8:Mola Hits Cataluña*
+#DESCRIPTION Mola Hits Cataluña*
+#SERVICE 5002:0:1:E85:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdne.folxplay.tv/fxt/streams/ch-3/master.m3u8%2520--http-header%2520"Referer=https%3a//folxplay.tv/":One Music*
+#DESCRIPTION One Music*
+#SERVICE 4097:0:1:823:0:0:0:0:0:0:https%3a//5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8:ON FM TV
+#DESCRIPTION ON FM TV
+#SERVICE 4097:0:1:349:82F2:EC:0:0:0:0:https%3a//panel.tvstream.cl%3a1936/8040/8040/playlist.m3u8:Portalfoxmix
+#DESCRIPTION Portalfoxmix
+#SERVICE 4097:0:1:6DEC:17FF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8:Radio 51 TV*
+#DESCRIPTION Radio 51 TV*
+#SERVICE 5002:0:1:26B9:A35E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8:Radio 538 Stream*
+#DESCRIPTION Radio 538 Stream*
+#SERVICE 4097:0:1:5F97:33:EC:0:0:0:0:https%3a//streamcdnl1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8:Radio Capital TV
+#DESCRIPTION Radio Capital TV
+#SERVICE 4097:0:1:EEFE:A062:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8:Radio Italia TV*
+#DESCRIPTION Radio Italia TV*
+#SERVICE 4097:0:1:C81:DC61:EC:0:0:0:0:https%3a//h002.video-stream-hosting.de/goodsound-vod/_definst_/Space.mp4/playlist.m3u8:Radio TV Good Sound
+#DESCRIPTION Radio TV Good Sound
+#SERVICE 4097:0:1:73DB:1321:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x2tzzpj:RTL 2 Radio (FR)*
+#DESCRIPTION RTL 2 Radio (FR)*
+#SERVICE 4097:0:1:4005:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-ESBD2300004Y7.m3u8:Sol Música*
+#DESCRIPTION Sol Música*
+#SERVICE 5002:0:1:D5F0:6E01:EC:0:0:0:0:https%3a//cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8:Spirit
+#DESCRIPTION Spirit
+#SERVICE 4097:0:1:F:170C:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//lightning-traceurban-samsungau.amagi.tv/playlist.m3u8:Trace Urban*
+#DESCRIPTION Trace Urban*
+#SERVICE 5002:0:1:4E89:E6F9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d2u040elo6umri.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w91uvsddx3yti/trace_urban_gb.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Trace UK*
+#DESCRIPTION Trace UK*
+#SERVICE 4097:0:1:766:52BE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.urbanrevolution.es%3a8443/live/TV/playlist.m3u8 --player-passthrough hls:Urban Revolution TV Spain
+#DESCRIPTION Urban Revolution TV Spain
+#SERVICE 5002:0:1:4405:37C1:EC:0:0:0:0:https%3a//abr.de1se01.v2beat.live/playlist.m3u8:V2Beat TV
+#DESCRIPTION V2Beat TV
+#SERVICE 4097:0:1:3A14:F54A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d39h650n18zv79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulfbldzmyh257/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Vevo Pop*
+#DESCRIPTION Vevo Pop*
+#SERVICE 4097:0:1:11:1451:C76C:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo 2K
+#DESCRIPTION Vevo 2K
+#SERVICE 4097:0:1:348:5306:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:VH1 Classics
+#DESCRIPTION VH1 Classics
+#SERVICE 4097:0:1:887D:3724:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:VH1+ Canzoni Italiane
+#DESCRIPTION VH1+ Canzoni Italiane
+#SERVICE 4097:0:1:4C1B:E601:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:VH1+ Music Legends
+#DESCRIPTION VH1+ Music Legends
+#SERVICE 5002:0:1:F181:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls.goodgame.ru/manifest/180805_master.m3u8:Viva Russia*
+#DESCRIPTION Viva Russia*
+#SERVICE 5002:0:1:F181:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/6976509189694:Viva Russia Hits*
+#DESCRIPTION Viva Russia Hits*
+#SERVICE 4097:0:1:DA53:4E77:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8:Viva 2*
+#DESCRIPTION Viva 2*
+#SERVICE 4097:0:1:CAB2:42DF:EC:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8:Xite Hits
+#DESCRIPTION Xite Hits
+#SERVICE 4097:0:1:AB4B:2E2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-CABB2600004RZ.m3u8:Xite Just Chill*
+#DESCRIPTION Xite Just Chill*
+#SERVICE 4097:0:1:DF3:141B:EC:0:0:0:0:https%3a//janus.xpbroadcasting.com%3a8443/hls/xptv1.m3u8:XPTV 1
+#DESCRIPTION XPTV 1
+#SERVICE 4097:0:1:CDE4:6955:EC:0:0:0:0:https%3a//5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8:Zerouno TV
+#DESCRIPTION Zerouno TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::DANCE & Co
+#DESCRIPTION DANCE & Co
+#SERVICE 4097:0:1:B:208E:F71C:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d3v9jn0ncs1ra2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9iy7jv4hjjike-ssai-prd/master.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.consent={TC_STRING}#sapp_tvgid=DEBB1900001Z6:Clubbing TV*
+#DESCRIPTION Clubbing TV*
+#SERVICE 4097:0:1:2909:45E:1:C00000:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8:Deluxe Dance
+#DESCRIPTION Deluxe Dance
+#SERVICE 5002:0:1:CEC:93B6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//dlive.tv/HotBeatsTV%2520--http-header%2520"Referer=https%3a//dlive.tv/":Hot Beats TV*
+#DESCRIPTION Hot Beats TV*
+#SERVICE 4097:0:1:CEC:93B6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/hotbeatstv:Hot Beats TV*
+#DESCRIPTION Hot Beats TV*
+#SERVICE 4097:0:1:5D25:D57D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vk.com/video-202691747_456239031:Techno Dance Music Russia*
+#DESCRIPTION Techno Dance Music Russia*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::DANCE TELEVISION
+#DESCRIPTION DANCE TELEVISION
+#SERVICE 4097:0:1:9E15:5D84:EC:0:0:0:0:https%3a//m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8:Dance Television
+#DESCRIPTION Dance Television
+#SERVICE 4097:0:1:9E15:5D84:EC:0:0:0:0:https%3a//mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8:Dance Television MainStage
+#DESCRIPTION Dance Television MainStage
+#SERVICE 4097:0:1:9E15:5D84:EC:0:0:0:0:https%3a//m2b2.worldcast.tv%3a7443/dancetelevisionfive/2/dancetelevisionfive.m3u8:Dance Television HouseFloor
+#DESCRIPTION Dance Television HouseFloor
+#SERVICE 4097:0:1:9E15:5D84:EC:0:0:0:0:https%3a//m2b2.worldcast.tv%3a7443/dancetelevisionthree/2/dancetelevisionthree.m3u8:Dance Television TechnoWareHouse
+#DESCRIPTION Dance Television TechnoWareHouse
+#SERVICE 4097:0:1:9E15:5D84:EC:0:0:0:0:https%3a//m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8:Dance Television DeepHouseDistrict
+#DESCRIPTION Dance Television DeepHouseDistrict
+#SERVICE 4097:0:1:9E15:5D84:EC:0:0:0:0:https%3a//mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8:Dance Television MelodicTech
+#DESCRIPTION Dance Television MelodicTech
+#SERVICE 4097:0:1:9E15:5D84:EC:0:0:0:0:https%3a//mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8:Dance Television MNML
+#DESCRIPTION Dance Television MNML
+#SERVICE 1:64:0:0:0:0:0:0:0:0::LIVE IN CONCERT
+#DESCRIPTION LIVE IN CONCERT
+#SERVICE 4097:0:1:5:208E:F71C:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64240d3d466225000827412b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Stingray Qello Concerts (Pluto)
+#DESCRIPTION Stingray Qello Concerts (Pluto)
+#SERVICE 4097:0:1:F114:B7C2:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09489197fe600073c0570/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Unplugged
+#DESCRIPTION MTV Unplugged
+#SERVICE 4097:0:1:7B09:F5CB:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Live Music Replay
+#DESCRIPTION Live Music Replay
+#SERVICE 5002:0:1:5713:4562:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8:LiveXLive*
+#DESCRIPTION LiveXLive*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::70s
+#DESCRIPTION 70s
+#SERVICE 5002:0:1:CB8B:831:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c37e710e086a0009e824ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Now 70s*
+#DESCRIPTION Now 70s*
+#SERVICE 4097:0:1:73AE:DD7A:CA59:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo '70s
+#DESCRIPTION Vevo '70s
+#SERVICE 4097:0:1:4715:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-GBBD1900009UD.m3u8:Vevo '70s & '80s*
+#DESCRIPTION Vevo '70s & '80s*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::80s
+#DESCRIPTION 80s
+#SERVICE 5002:0:1:C482:811:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-GBBC900003B2.m3u8:Now 80s*
+#DESCRIPTION Now 80s*
+#SERVICE 4097:0:1:52F1:62D9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8:Retro Plus*
+#DESCRIPTION Retro Plus*
+#SERVICE 4097:0:1:9786:2CEB:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo 80's
+#DESCRIPTION Vevo 80's
+#SERVICE 4097:0:1:CAB2:42DF:EC:0:0:0:0:https%3a//dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8:Xite 80s Flashback
+#DESCRIPTION Xite 80s Flashback
+#SERVICE 4097:0:1:2D33:D963:EC:0:0:0:0:https%3a//ia801307.us.archive.org/35/items/DJPanduroThe80sVideomixVolume1/DJ Panduro - The 80's Videomix (Volume 1).mp4:The 80s Videomix Vol. 1 - DJ Panduro (20 min)
+#DESCRIPTION The 80s Videomix Vol. 1 - DJ Panduro (20 min)
+#SERVICE 4097:0:1:B77F:A1A:EC:0:0:0:0:https%3a//ia801300.us.archive.org/22/items/DJPanduroThe80sVideomixVolume2/DJ Panduro - The 80's Videomix (Volume 2).mp4:The 80s Videomix Vol. 2 - DJ Panduro (22 min)
+#DESCRIPTION The 80s Videomix Vol. 2 - DJ Panduro (22 min)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::90s
+#DESCRIPTION 90s
+#SERVICE 5002:0:1:B6AF:7758:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vkvideo.ru/video-223902219_456239404:Eurodance 90*
+#DESCRIPTION Eurodance 90*
+#SERVICE 4097:0:1:F382:521:D:0:0:0:0:https%3a//stream.mediawork.cz/retrotv/smil%3aretrotv2.smil/playlist.m3u8:Retro Music CZ
+#DESCRIPTION Retro Music CZ
+#SERVICE 4097:0:1:D390:830:2:11A0000:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660c209e19ca71000846cf38/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Now 90s00s
+#DESCRIPTION Now 90s00s
+#SERVICE 4097:0:1:10:1451:C76C:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo '90s
+#DESCRIPTION Vevo '90s
+#SERVICE 5002:0:1:880:17A3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d2yw87dguyr3x7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gm31ezw31rx7a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Vevo '90s & '00s*
+#DESCRIPTION Vevo '90s & '00s*
+#SERVICE 4097:0:1:CAB2:42DF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8:Xite 90s Throwback*
+#DESCRIPTION Xite 90s Throwback*
+#SERVICE 4097:0:1:3206:A9DD:EC:0:0:0:0:https%3a//ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ Panduro - The 90's Eurodance Videomix.mp4:The 90s Videomix - DJ Panduro (20 min)
+#DESCRIPTION The 90s Videomix - DJ Panduro (20 min)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::CLASSIC
+#DESCRIPTION CLASSIC
+#SERVICE 4097:0:1:E210:CF94:EC:0:0:0:0:https%3a//classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8:Classic Arts Showcase TV
+#DESCRIPTION Classic Arts Showcase TV
+#SERVICE 4097:0:1:CD18:97CC:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Stingray Classica
+#DESCRIPTION Stingray Classica
+#SERVICE 4097:0:1:101D:B55D:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Stingray Movie Music
+#DESCRIPTION Stingray Movie Music
+#SERVICE 1:64:0:0:0:0:0:0:0:0::COUNTRY
+#DESCRIPTION COUNTRY
+#SERVICE 4097:0:1:75F:9703:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mediaplatform.streamingmediahosting.com/p/14215/sp/1421500/playManifest/entryId/0_obd393sh/format/applehttp/protocol/https/a.m3u8:CMC Country*
+#DESCRIPTION CMC Country*
+#SERVICE 4097:0:1:1F49:69DA:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CMT Music
+#DESCRIPTION CMT Music
+#SERVICE 4097:0:1:E4EC:76A3:EC:0:0:0:0:https%3a//0ba805a2403b4660bbb05c0a210ebbdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_DittyTV/playlist.m3u8:Ditty TV
+#DESCRIPTION Ditty TV
+#SERVICE 4097:0:1:3488:13A1:8861:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo Country
+#DESCRIPTION Vevo Country
+#SERVICE 4097:0:1:B1CA:8C8C:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Xite Classic Country
+#DESCRIPTION Xite Classic Country
+#SERVICE 4097:0:1:1504:165:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3300006O3.m3u8:Xite Country Today*
+#DESCRIPTION Xite Country Today*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::HIP HOP
+#DESCRIPTION HIP HOP
+#SERVICE 4097:0:1:1170:CC45:EC:0:0:0:0:https%3a//cdn.rtmp1.vodhosting.com/hls/AYO.m3u8:AYO Music
+#DESCRIPTION AYO Music
+#SERVICE 4097:0:1:751B:411:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e79fe9b586d000785e330/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Classic Hip Hop
+#DESCRIPTION Classic Hip Hop
+#SERVICE 4097:0:1:7108:9F93:EC:0:0:0:0:https%3a//stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8:Cool TV (nasatv.com.mk)
+#DESCRIPTION Cool TV (nasatv.com.mk)
+#SERVICE 4097:0:1:2908:45E:1:C00000:0:0:0:https%3a//sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8:Deluxe Rap
+#DESCRIPTION Deluxe Rap
+#SERVICE 4097:0:1:7005:FF82:EC:0:0:0:0:https%3a//edge16.vedge.infomaniak.com/livecast/ik%3ageneration-tv/manifest.m3u8:Generations TV Hip-Hop Soul (FR)
+#DESCRIPTION Generations TV Hip-Hop Soul (FR)
+#SERVICE 5002:0:1:BDAB:654:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Hip Hop TV (Samsung Italia)
+#DESCRIPTION Hip Hop TV (Samsung Italia)
+#SERVICE 4097:0:1:F7E:B18D:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Yo!
+#DESCRIPTION MTV Yo!
+#SERVICE 4097:0:1:D5C4:1A2E:EC:0:0:0:0:https%3a//raphls.persiana.live/hls/stream.m3u8:Persiana Rap
+#DESCRIPTION Persiana Rap
+#SERVICE 5002:0:1:5430:B3A6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d3mzlmrngyf08j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-55k4m9whplndi/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Vevo Hip Hop & R'nB*
+#DESCRIPTION Vevo Hip Hop & R'nB*
+#SERVICE 4097:0:1:7528:5B73:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo True School Hip Hop*
+#DESCRIPTION Vevo True School Hip Hop*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::INDIE
+#DESCRIPTION INDIE
+#SERVICE 4097:0:1:993:0:0:0:0:0:0:http%3a//178.33.224.197%3a1935/euroindiemusic/euroindiemusic/playlist.m3u8:Euro Indie Music Chart
+#DESCRIPTION Euro Indie Music Chart
+#SERVICE 4097:0:1:137E:DA35:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/subterfuge_tv:Subterfuge Records TV Spain*
+#DESCRIPTION Subterfuge Records TV Spain*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::JAZZ
+#DESCRIPTION JAZZ
+#SERVICE 4097:0:1:8D81:DD18:EC:0:0:0:0:https%3a//qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=de&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=4a95ec1e-6382-40be-b166-e1dddfedd226&ads_rtv_content_id=2270&ads_rtv_content_language=eng&ads_rtvid=271862&ads_streaming_id=bb5b554b-1804-4313-a188-f81c01c91ff4&ads_user_type=visitor:Qwest TV Jazz and Beyond
+#DESCRIPTION Qwest TV Jazz and Beyond
+#SERVICE 5002:0:1:B97A:A169:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3500025GS.m3u8:Stingray Djazz*
+#DESCRIPTION Stingray Djazz*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::KARAOKE
+#DESCRIPTION KARAOKE
+#SERVICE 4097:0:1:D8F3:7F8E:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Stingray Karaoke
+#DESCRIPTION Stingray Karaoke
+#SERVICE 4097:0:1:49A:EAE:EC:0:0:0:0:https%3a//stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=8W_sAzaQGtYp6LjtF3PF&content_series=5eea605674085f0040ddc7ac&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=8W_sAzaQGtYp6LjtF3PF&custom_7=5eea605674085f0040ddc7ac&is_lat=0:Party Tyme Karaoke
+#DESCRIPTION Party Tyme Karaoke
+#SERVICE 4097:0:1:B6AD:5EC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8yse8i:Melody Karaoké (FR)*
+#DESCRIPTION Melody Karaoké (FR)*
+#SERVICE 4097:0:1:E335:E11C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x93wbh0:Radio Karaoké (FR)*
+#DESCRIPTION Radio Karaoké (FR)*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ROCK
+#DESCRIPTION ROCK
+#SERVICE 4097:0:1:C362:E989:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7wjrui:89.1 A Rádio Rock (BR)*
+#DESCRIPTION 89.1 A Rádio Rock (BR)*
+#SERVICE 4097:0:1:8286:87C2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=BnHeqfx1pfLz3GTpqKeN&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0:Classic Rock Network*
+#DESCRIPTION Classic Rock Network*
+#SERVICE 4097:0:1:856:106:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624303598e45140007d765c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Rocks
+#DESCRIPTION MTV Rocks
+#SERVICE 5002:0:1:4899:54A3:EC:0:0:0:0:https%3a//lightning-now90s-samsungnz.amagi.tv/playlist.m3u8:Now Rock
+#DESCRIPTION Now Rock
+#SERVICE 4097:0:1:2BF:A06E:EC:0:0:0:0:https%3a//stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8:Rock TV (nasatv.com.mk)
+#DESCRIPTION Rock TV (nasatv.com.mk)
+#SERVICE 5002:0:1:4C5B:729C:EC:0:0:0:0:https%3a//tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8:Rock TV (Romania)
+#DESCRIPTION Rock TV (Romania)
+#SERVICE 5002:0:1:F04F:84E3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8?ads.wurl_channel=1367&ads.wurl_name=RockTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Rock TV (Samsung Italia)*
+#DESCRIPTION Rock TV (Samsung Italia)*
+#SERVICE 4097:0:1:64E6:951E:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo Retro Rock
+#DESCRIPTION Vevo Retro Rock
+#SERVICE 4097:0:1:810:10A:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:VH1+ Rock!
+#DESCRIPTION VH1+ Rock!
+#SERVICE 4097:0:1:52E:51E2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}:Xite Rock on*
+#DESCRIPTION Xite Rock on*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::SCHLAGER/VOLKSMUSIK
+#DESCRIPTION SCHLAGER/VOLKSMUSIK
+#SERVICE 5002:0:1:E81:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdne.folxplay.tv/fxt/streams/ch-4/master.m3u8%2520--http-header%2520"Referer=https%3a//folxplay.tv/":Folx Music*
+#DESCRIPTION Folx Music*
+#SERVICE 5002:0:1:E86:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdne.folxplay.tv/fxt/streams/ch-2/master.m3u8%2520--http-header%2520"Referer=https%3a//folxplay.tv/":Zwei Music*
+#DESCRIPTION Zwei Music*
+#SERVICE 4097:0:1:29CB:44D8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/34373a6d-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid={PSID}&optout={TARGETOPT}&country=CH&vendor=samsung&ads%3aapp_domain={APP_DOMAIN}&ads%3aapp_name={APP_NAME}&coppa=1&ads%3atcf={TC_STRING}:GoldStar TV
+#DESCRIPTION GoldStar TV
+#SERVICE 4097:0:1:8C69:F3D5:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6192396135f3910007fc5fc7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:GoldStar TV (Pluto)
+#DESCRIPTION GoldStar TV (Pluto)
+#SERVICE 4097:0:0:E233:7D38:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d3adb9tbhoq5j1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2kpqrzfxhh0ys/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Vevo Schlager Pop*
+#DESCRIPTION Vevo Schlager Pop*
+#SERVICE 5002:0:1:9376:752B:EC:0:0:0:0:https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid={PSID}&optout={TARGETOPT}&country=DE&vendor=samsung&ads%3aapp_domain={APP_DOMAIN}&ads%3aapp_name={APP_NAME}&coppa=1&ads%3atcf={TC_STRING}:Deluxe Deutschpop
+#DESCRIPTION Deluxe Deutschpop
+#SERVICE 4097:0:1:23:F:85:C00000:0:0:0:https%3a//sdn-global-live-streaming-packager-cache-aka.3qsdn.com/26658/26658_264_live.m3u8:Schlager Deluxe
+#DESCRIPTION Schlager Deluxe
+#SERVICE 4097:0:1:23E6:7E4A:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/easycast10-live/_definst_/mp4%3alivestreamhd12/playlist.m3u8:Schlagerparadies
+#DESCRIPTION Schlagerparadies
+#SERVICE 5002:0:1:69B3:D707:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live20.bozztv.com/akamaissh101/ssh101/stimmungsgarten/playlist.m3u8:Stimmungsgarten TV*
+#DESCRIPTION Stimmungsgarten TV*
+#SERVICE 4097:0:1:313C:459:1:C00000:0:0:0:https%3a//telegold.iptv-playoutcenter.de/telegold/telegold-sat1/playlist.m3u8:Telegold
+#DESCRIPTION Telegold
+#SERVICE 4097:0:1:3405:3ED:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live20.bozztv.com/akamaissh101/ssh101/melodietvlive/playlist.m3u8:Melodie TV*
+#DESCRIPTION Melodie TV*
+#SERVICE 4097:0:1:34D6:1BA5:EC:0:0:0:0:https%3a//vmtv.iptv-playoutcenter.de/vmtv/vmtv1/chunks.m3u8:Volksmusik
+#DESCRIPTION Volksmusik
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC EASTERN EUROPE
+#DESCRIPTION MUSIC EASTERN EUROPE
+#SERVICE 5002:0:1:F474:521:D:0:0:0:0:https%3a//stream.4fun.tv%3a8888/hls/4f_med/index.m3u8:4fun Poland
+#DESCRIPTION 4fun Poland
+#SERVICE 4097:0:1:F379:521:D:0:0:0:0:https%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8:Ocko Hits CZ
+#DESCRIPTION Ocko Hits CZ
+#SERVICE 4097:0:1:F381:521:D:0:0:0:0:https%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8:Ocko Star
+#DESCRIPTION Ocko Star
+#SERVICE 5002:0:1:F380:521:D:0:0:0:0:https%3a//ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8:Óčko Expres
+#DESCRIPTION Óčko Expres
+#SERVICE 5002:0:1:B495:3C33:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//atomic.streamnet.ro/atomictv.m3u8:Atomic TV Romania*
+#DESCRIPTION Atomic TV Romania*
+#SERVICE 4097:0:0:6933:CB16:EC:0:0:0:0:https%3a//online.tvimpact.live/hls/impact_tv2.m3u8:Impact Romania
+#DESCRIPTION Impact Romania
+#SERVICE 4097:0:0:6933:CB16:EC:0:0:0:0:https%3a//online.tvimpact.live/hls/impact_tv.m3u8:Impact Manele Romania
+#DESCRIPTION Impact Manele Romania
+#SERVICE 4097:0:0:6933:CB16:EC:0:0:0:0:https%3a//online.tvimpact.live/hls/dancetv.m3u8:Impact Dance Romania
+#DESCRIPTION Impact Dance Romania
+#SERVICE 4097:0:1:112B:FE1E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rtmp.digitalbroadcast.ro/moozro/moozro.m3u8 --http-no-ssl-verify --http-header "Referer=https%3a//mooz.tv/":Mooz Ro!*
+#DESCRIPTION Mooz Ro!*
+#SERVICE 4097:0:1:445:923:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8 --http-no-ssl-verify --http-header "Referer=https%3a//mooz.tv/":Mooz Hits*
+#DESCRIPTION Mooz Hits*
+#SERVICE 4097:0:1:2AF9:B:1111:E082F3C:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8 --http-no-ssl-verify --http-header "Referer=https%3a//mooz.tv/":Mooz Dance*
+#DESCRIPTION Mooz Dance*
+#SERVICE 4097:0:1:115:15:3:130000:0:0:0:https%3a//tv.city.bg/play/tshls/citytv/index.m3u8:City TV Bulgaria
+#DESCRIPTION City TV Bulgaria
+#SERVICE 4097:0:1:D928:DF2D:EC:0:0:0:0:http%3a//46.249.95.140%3a8081/hls/data.m3u8:DSTV Bulgaria
+#DESCRIPTION DSTV Bulgaria
+#SERVICE 4097:0:1:1E6:11:3:130000:0:0:0:https%3a//bss1.neterra.tv/magictv/magictv.m3u8:Magic TV Bulgaria
+#DESCRIPTION Magic TV Bulgaria
+#SERVICE 4097:0:1:83:B1:39E:1860000:0:0:0:https%3a//bss1.neterra.tv/thevoice/thevoice.m3u8:The Voice Bulgaria
+#DESCRIPTION The Voice Bulgaria
+#SERVICE 4097:0:1:F020:521:D:0:0:0:0:http%3a//rtmp.one.by%3a1300:ONE Music Belarus 1
+#DESCRIPTION ONE Music Belarus 1
+#SERVICE 4097:0:1:F020:521:D:0:0:0:0:http%3a//rtmp.one.by%3a1200:ONE Music Belarus 2
+#DESCRIPTION ONE Music Belarus 2
+#SERVICE 4097:0:1:B225:521:D:0:0:0:0:https%3a//live.m2.tv/hls3/stream.m3u8:M2 Ukraine
+#DESCRIPTION M2 Ukraine
+#SERVICE 4097:0:1:57DF:92F8:EC:0:0:0:0:https%3a//stream.cmctv.hr%3a49998/cmc/live.m3u8:CMC TV Croatia
+#DESCRIPTION CMC TV Croatia
+#SERVICE 5002:0:1:3096:8544:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdne.folxplay.tv/fxt/streams/ch-6/master.m3u8%2520--http-header%2520"Referer=https%3a//folxplay.tv/":One Music Adria*
+#DESCRIPTION One Music Adria*
+#SERVICE 5002:0:1:221E:AC26:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdne.folxplay.tv/fxt/streams/ch-1/master.m3u8%2520--http-header%2520"Referer=https%3a//folxplay.tv/":Adria*
+#DESCRIPTION Adria*
+#SERVICE 5002:0:0:3140:2FE5:EC:0:0:0:0:https%3a//sradio.ipradio.rs/sradio/radiostv/.m3u8:Radio S TV Serbia
+#DESCRIPTION Radio S TV Serbia
+#SERVICE 4097:0:1:9:1:1:A0B0F9:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8:Zico TV Albania
+#DESCRIPTION Zico TV Albania
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC EASTERN EUROPE -Folk & Co-
+#DESCRIPTION MUSIC EASTERN EUROPE -Folk & Co-
+#SERVICE 4097:0:1:334E:C93:3:EB0000:0:0:0:https%3a//stream-13.mazana.tv/slagroriginal.m3u8s:Šlágr 1 Original
+#DESCRIPTION Šlágr 1 Original
+#SERVICE 4097:0:1:339D:C89:3:EB0000:0:0:0:https%3a//stream-23.mazana.tv/slagrmuzika.m3u8s:Šlágr 2 Muzika
+#DESCRIPTION Šlágr 2 Muzika
+#SERVICE 4097:0:1:3C32:C90:3:EB0000:0:0:0:https%3a//stream-17.mazana.tv/slagrpremium.m3u8s:Šlágr 3 Premium
+#DESCRIPTION Šlágr 3 Premium
+#SERVICE 4097:0:1:36F1:C8C:3:EB0000:0:0:0:http%3a//lb.streaming.sk/senzi/stream/playlist.m3u8 :Senzi TV Slovakia
+#DESCRIPTION Senzi TV Slovakia
+#SERVICE 4097:0:1:C975:7081:EC:0:0:0:0:https%3a//streamer103.neterra.tv/tiankov-folk/live.m3u8:Tiankov Folk Bulgaria
+#DESCRIPTION Tiankov Folk Bulgaria
+#SERVICE 4097:0:1:C975:7081:EC:0:0:0:0:https%3a//streamer103.neterra.tv/tiankov-orient/live.m3u8:Tiankov Folk Orient
+#DESCRIPTION Tiankov Folk Orient
+#SERVICE 4097:0:1:8F21:B87F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/rapsodiatv:Rapsodia TV Romania*
+#DESCRIPTION Rapsodia TV Romania*
+#SERVICE 5002:0:1:1F64:9DA1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdne.folxplay.tv/fxt/streams/ch-5/master.m3u8:Folx TV Slovenija*
+#DESCRIPTION Folx TV Slovenija*
+#SERVICE 5002:0:1:E15D:1FF4:EC:0:0:0:0:https%3a//radio.serv.si/VeseljakGolicaTV/video.m3u8:Veseljak TV Slovenija
+#DESCRIPTION Veseljak TV Slovenija
+#SERVICE 4097:0:1:DDD:6CF:EC:0:0:0:0:https%3a//stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8:Folk TV (nasatv.com.mk)
+#DESCRIPTION Folk TV (nasatv.com.mk)
+#SERVICE 4097:0:1:378B:4067:EC:0:0:0:0:https%3a//stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8:Love TV (nasatv.com.mk)
+#DESCRIPTION Love TV (nasatv.com.mk)
+#SERVICE 4097:0:1:3039:CB2B:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@intvavstralija9733/live:INTV Makedonska Folk Australia*
+#DESCRIPTION INTV Makedonska Folk Australia*
+#SERVICE 5002:0:1:CCB6:DC28:EC:0:0:0:0:http%3a//skyfolk.mk/live.m3u8:Sky Folk TV North Macedonia
+#DESCRIPTION Sky Folk TV North Macedonia
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUZZIK.tv Serbia
+#DESCRIPTION MUZZIK.tv Serbia
+#SERVICE 4097:0:1:29A:4E84:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-6/playlist.m3u8:Muzzik TV*
+#DESCRIPTION Muzzik TV*
+#SERVICE 4097:0:1:14E:9CA4:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-3/playlist.m3u8:Muzzik Pop Star*
+#DESCRIPTION Muzzik Pop Star*
+#SERVICE 4097:0:1:378:1:1:A0B0FE:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-a4/playlist.m3u8:Muzzik ZZTV*
+#DESCRIPTION Muzzik ZZTV*
+#SERVICE 4097:0:1:2A4:2:40:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-4/playlist.m3u8:Muzzik Jeka*
+#DESCRIPTION Muzzik Jeka*
+#SERVICE 4097:0:1:22B:1838:FBFF:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-a5/playlist.m3u8:Muzzik TikTak*
+#DESCRIPTION Muzzik TikTak*
+#SERVICE 4097:0:1:1618:C670:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-2/playlist.m3u8:Muzzik Restart*
+#DESCRIPTION Muzzik Restart*
+#SERVICE 4097:0:1:37:9E98:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-1/playlist.m3u8:Muzzik Rock & Roll*
+#DESCRIPTION Muzzik Rock & Roll*
+#SERVICE 4097:0:1:697C:238C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-8/playlist.m3u8:Muzzik Flash Back*
+#DESCRIPTION Muzzik Flash Back*
+#SERVICE 4097:0:1:11D7:4F4C:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-5/playlist.m3u8:Muzzik World Wide*
+#DESCRIPTION Muzzik World Wide*
+#SERVICE 4097:0:1:29A:4E84:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-a7/playlist.m3u8:Muzzik Mix*
+#DESCRIPTION Muzzik Mix*
+#SERVICE 4097:0:1:CE5A:5D66:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-9/playlist.m3u8:Muzzik Electro*
+#DESCRIPTION Muzzik Electro*
+#SERVICE 4097:0:1:BD70:1AF7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//muzzik-live.morescreens.com/mts-7/playlist.m3u8:Muzzik Sense*
+#DESCRIPTION Muzzik Sense*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC RUSSIA
+#DESCRIPTION MUSIC RUSSIA
+#SERVICE 4097:0:1:57:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ad-hls-europaplus-ref.cdnvideo.ru/europaplus/eurptv2_site.smil/playlist.m3u8?zoid=srw2 --http-header "Referer=https%3a//europaplustv.com/":Europa Plus*
+#DESCRIPTION Europa Plus*
+#SERVICE 4097:0:1:F020:521:D:0:0:0:0:http%3a//rtmp.one.by%3a2300:ONE Music Russia
+#DESCRIPTION ONE Music Russia
+#SERVICE 4097:0:1:2A78:2458:EC:0:0:0:0:http%3a//hithd.camsh.orsk.ru/hls/hithd.m3u8:Hit Music
+#DESCRIPTION Hit Music
+#SERVICE 4097:0:1:11B1:7B31:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/9618057469515:Mafi2a*
+#DESCRIPTION Mafi2a*
+#SERVICE 4097:0:1:609A:DDF9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/1077196103291:Mix M*
+#DESCRIPTION Mix M*
+#SERVICE 4097:0:1:A14:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/2500581596714:Mus TV*
+#DESCRIPTION Mus TV*
+#SERVICE 4097:0:1:91A1:88FF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/3853054647979:Musyka Yuga*
+#DESCRIPTION Musyka Yuga*
+#SERVICE 4097:0:1:3A9E:CAE1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/230273326594:RU TV*
+#DESCRIPTION RU TV*
+#SERVICE 4097:0:1:1393:0:0:0:0:0:0:https%3a//cdnfs.teonvi.com/sgdf/tracks-v1a1/mono.m3u8:SGDF24.ru
+#DESCRIPTION SGDF24.ru
+#SERVICE 5002:0:1:F308:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live-stranafm.cdnvideo.ru/stranafm/smil%3astranafm.smil/playlist.m3u8:Strana FM*
+#DESCRIPTION Strana FM*
+#SERVICE 5002:0:1:C97E:43DF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//dlive.tv/TMFRUS%2520--http-header%2520"Referer=https%3a//dlive.tv/":TMF Rus*
+#DESCRIPTION TMF Rus*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC GREECE
+#DESCRIPTION MUSIC GREECE
+#SERVICE 5002:0:1:DEDB:41B4:EC:0:0:0:0:https%3a//eco.streams.ovh%3a8081/barazatv/index.m3u8:Baraza Greek
+#DESCRIPTION Baraza Greek
+#SERVICE 5002:0:1:4478:B96A:EC:0:0:0:0:https%3a//rtmp.streams.ovh%3a1936/barazarelax/barazarelax/playlist.m3u8:Baraza Relax
+#DESCRIPTION Baraza Relax
+#SERVICE 5002:0:1:4478:B96A:EC:0:0:0:0:https%3a//rtmp.streams.ovh%3a1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8:Baraza 80s Classics
+#DESCRIPTION Baraza 80s Classics
+#SERVICE 4097:0:1:5E96:B1CB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.istoikona.com/klikfmcy/klikfmcyprus/chunks.m3u8 --http-no-ssl-verify --http-header "Referer=https%3a//istoikona.com/":Klik FM TV Cyprus*
+#DESCRIPTION Klik FM TV Cyprus*
+#SERVICE 5002:0:1:4640:A976:EC:0:0:0:0:https%3a//5c389faa13be3.streamlock.net%3a9553/onweb/live/playlist.m3u8:NRG.91 TV
+#DESCRIPTION NRG.91 TV
+#SERVICE 4097:0:1:AC0E:58A5:EC:0:0:0:0:http%3a//web.onair-radio.eu%3a1935/Alpha-Host/Alpha-Host/playlist.m3u8:Play TV by Icon Music
+#DESCRIPTION Play TV by Icon Music
+#SERVICE 4097:0:1:1159:AB28:EC:0:0:0:0:https%3a//webtv.topwebhost.gr%3a3302/stream/play.m3u8:Real TV
+#DESCRIPTION Real TV
+#SERVICE 4097:0:1:4AD8:22F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//zouglacam-mdc-secure.akamaized.net/zouglalive/backup/playlist.m3u8:Zougla TV*
+#DESCRIPTION Zougla TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC TURKIYE
+#DESCRIPTION MUSIC TURKIYE
+#SERVICE 4097:0:1:51B:3:42:1A40000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8:Dream Türk TV*
+#DESCRIPTION Dream Türk TV*
+#SERVICE 4097:0:1:B0FB:A9DE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//media.finest.tv/dash/live.mpd:Finest TV*
+#DESCRIPTION Finest TV*
+#SERVICE 4097:0:1:39E:6463:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/hurturktv:Hürtürk HD*
+#DESCRIPTION Hürtürk HD*
+#SERVICE 4097:0:1:14E9:C6D4:7E:300000:0:0:0:https%3a//dogus-live.daioncdn.net/kralpoptv/playlist.m3u8:KRAL Pop HD
+#DESCRIPTION KRAL Pop HD
+#SERVICE 4097:0:1:9793:1E6A:EC:0:0:0:0:https%3a//sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8:Milyon TV
+#DESCRIPTION Milyon TV
+#SERVICE 4097:0:1:C9AC:76C1:42E:1A40000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8:Nr 1*
+#DESCRIPTION Nr 1*
+#SERVICE 4097:0:1:C9AD:76C1:42E:1A40000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8:Nr 1 Türk*
+#DESCRIPTION Nr 1 Türk*
+#SERVICE 4097:0:1:C97B:D0D1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8:Nr 1 Aşk*
+#DESCRIPTION Nr 1 Aşk*
+#SERVICE 4097:0:1:19C3:D866:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8:Nr 1 Damar*
+#DESCRIPTION Nr 1 Damar*
+#SERVICE 4097:0:1:CBF:35B7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8:Nr 1 Dance*
+#DESCRIPTION Nr 1 Dance*
+#SERVICE 4097:0:1:390A:A21D:42E:1A40000:0:0:0:https%3a//livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8:Power HD
+#DESCRIPTION Power HD
+#SERVICE 4097:0:1:D98D:1222:EC:0:0:0:0:http%3a//livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8:Power Dance HD
+#DESCRIPTION Power Dance HD
+#SERVICE 4097:0:1:AC41:21E:EC:0:0:0:0:https%3a//listen.powerapp.com.tr/plove/love.smil/playlist.m3u8:Power Love HD
+#DESCRIPTION Power Love HD
+#SERVICE 4097:0:1:390B:A21D:42E:1A40000:0:0:0:https%3a//livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8:Power Türk HD
+#DESCRIPTION Power Türk HD
+#SERVICE 4097:0:1:13F0:76BA:EC:0:0:0:0:http%3a//livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8:Power Türk Akustik HD
+#DESCRIPTION Power Türk Akustik HD
+#SERVICE 4097:0:1:CABA:72FA:EC:0:0:0:0:http%3a//livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8:Power Türk Slow HD
+#DESCRIPTION Power Türk Slow HD
+#SERVICE 4097:0:1:908B:B8BA:EC:0:0:0:0:http%3a//livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8:Power Türk Taptaze HD
+#DESCRIPTION Power Türk Taptaze HD
+#SERVICE 4097:0:1:D7CB:A744:EC:0:0:0:0:https%3a//live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8:Tatlıses TV
+#DESCRIPTION Tatlıses TV
+#SERVICE 4097:0:1:2970:7919:42E:1A40000:0:0:0:https%3a//tv-trtmuzik.medya.trt.com.tr/master.m3u8:TRT Müzik HD
+#DESCRIPTION TRT Müzik HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::BLACK MUSIC
+#DESCRIPTION BLACK MUSIC
+#SERVICE 5002:0:1:DFEA:C8:EC:0:0:0:0:https%3a//stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8:Afrobeats
+#DESCRIPTION Afrobeats
+#SERVICE 4097:0:0:9F3:6624:EC:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/bblackafrica/.m3u8:BBlack! Africa
+#DESCRIPTION BBlack! Africa
+#SERVICE 4097:0:1:1700:7DB:2:11A0000:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3abblackcaribbean/manifest.m3u8:BBlack! Carribean
+#DESCRIPTION BBlack! Carribean
+#SERVICE 4097:0:1:8FD1:FC58:EC:0:0:0:0:https%3a//salto-streams.nl/hls/sotv1_high.m3u8:Brasa Music (SALTO3)
+#DESCRIPTION Brasa Music (SALTO3)
+#SERVICE 4097:0:1:2743:CF39:EC:0:0:0:0:https%3a//edge15.vedge.infomaniak.com/livecast/ik%3adbmtv/manifest.m3u8:Digital Black Music
+#DESCRIPTION Digital Black Music
+#SERVICE 4097:0:1:4534:EB0D:EC:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3akalactv/manifest.m3u8:Kalac TV Guinea
+#DESCRIPTION Kalac TV Guinea
+#SERVICE 4097:0:1:E9D:5A9E:EC:0:0:0:0:https%3a//5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8:Muzangala TV Angola
+#DESCRIPTION Muzangala TV Angola
+#SERVICE 5002:0:1:3E11:64CA:EC:0:0:0:0:https%3a//vdo2.pro-fhi.net%3a3207/stream/play.m3u8:P2M Musique Caribéenne
+#DESCRIPTION P2M Musique Caribéenne
+#SERVICE 4097:0:1:506:4E2D:EC:0:0:0:0:https%3a//58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8:Telemusik Senegal
+#DESCRIPTION Telemusik Senegal
+#SERVICE 4097:0:1:F375:A891:EC:0:0:0:0:http%3a//hls.tmacaraibes.com/live/index.m3u8:TMA Caraibes Guadeloupe
+#DESCRIPTION TMA Caraibes Guadeloupe
+#SERVICE 4097:0:1:7CB6:2CA3:8CAD:1010101:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Vevo R&B
+#DESCRIPTION Vevo R&B
+#SERVICE 4097:0:1:1508:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD330000948.m3u8:Xite R&B Classic Jams*
+#DESCRIPTION Xite R&B Classic Jams*
+#SERVICE 4097:0:1:E365:A096:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/623b93628e6ded0007337d4d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Xite Gospel
+#DESCRIPTION Xite Gospel
+#SERVICE 1:64:0:0:0:0:0:0:0:0::AMERICAs
+#DESCRIPTION AMERICAs
+#SERVICE 4097:0:1:30C5:500F:EC:0:0:0:0:https%3a//cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8:BTA TV Venezuela
+#DESCRIPTION BTA TV Venezuela
+#SERVICE 5002:0:1:AA8F:5624:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream8.mexiserver.com%3a19360/conectatvx/conectatvx.m3u8:Conecta TV México*
+#DESCRIPTION Conecta TV México*
+#SERVICE 4097:0:1:1919:874C:EC:0:0:0:0:https%3a//cdn.essastream.com%3a3023/live/hits360tvlive.m3u8:Hits 360 DomRep
+#DESCRIPTION Hits 360 DomRep
+#SERVICE 4097:0:1:111A:156:EC:0:0:0:0:https%3a//server40.servistreaming.com%3a3477/stream/play.m3u8:La Mega Mundial
+#DESCRIPTION La Mega Mundial
+#SERVICE 4097:0:1:DA49:50DD:EC:0:0:0:0:https%3a//cdn.streamingcpanel.com%3a3784/live/latinzonetvlive.m3u8:Latin Zone TV USA
+#DESCRIPTION Latin Zone TV USA
+#SERVICE 4097:0:1:775B:C3EF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/jemora70:Mágica TV Ecuador*
+#DESCRIPTION Mágica TV Ecuador*
+#SERVICE 4097:0:1:3E9C:843:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:MTV Flow Latino
+#DESCRIPTION MTV Flow Latino
+#SERVICE 4097:0:1:7AC5:9654:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn1.cef-technology.com/chf/panavision_web/playlist.m3u8 --http-header "Referer=https%3a//www.panavision.tv/":Panavision Venezuela*
+#DESCRIPTION Panavision Venezuela*
+#SERVICE 5002:0:1:5617:B70B:EC:0:0:0:0:https%3a//5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8:Retro Channel
+#DESCRIPTION Retro Channel
+#SERVICE 5002:0:1:D3BC:9176:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8:Trace Brazuca*
+#DESCRIPTION Trace Brazuca*
+#SERVICE 5002:0:1:7FF0:1147:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//amg01131-tracetv-tracelatinach-samsungch-q77mm.amagi.tv/playlist/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0:Trace Latina*
+#DESCRIPTION Trace Latina*
+#SERVICE 4097:0:1:AC9A:1161:EC:0:0:0:0:https%3a//sistemastr.tropicalmoonmedia.com/live/2F9068710836ABF58583F6645AEA7CDD/4.m3u8:Tropical Moon Urbano TV
+#DESCRIPTION Tropical Moon Urbano TV
+#SERVICE 4097:0:1:AB7B:76E2:EC:0:0:0:0:https%3a//streaming.grupomediosdelnorte.com%3a19360/tvexitos/tvexitos.m3u8:TV Exitos DomRep
+#DESCRIPTION TV Exitos DomRep
+#SERVICE 4097:0:1:4590:107:0:0:0:0:0:https%3a//cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=07c411dc2af811ef88e6acdbef112233&deviceLat=34.0300&deviceLon=-118.4700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=US&sid=7cc250e39ae641a9a6c15cbaf3083320&userId=:Vevo Íconos Latinos
+#DESCRIPTION Vevo Íconos Latinos
+#SERVICE 4097:0:1:ABB1:95B5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d3k7iagvenqkpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgynwyncl1q5l/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:Vevo Latino*
+#DESCRIPTION Vevo Latino*
+#SERVICE 4097:0:1:4580:107:0:0:0:0:0:https%3a//cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=07c411dc2af811ef88e6acdbef112233&deviceLat=34.0300&deviceLon=-118.4700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=US&sid=7cc250e39ae641a9a6c15cbaf3083320&userId=:Vevo Regional Mexicano
+#DESCRIPTION Vevo Regional Mexicano
+#SERVICE 5002:0:1:76C:A74E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/vorterixok:Vorterix Argentina*
+#DESCRIPTION Vorterix Argentina*
+#SERVICE 4097:0:1:C22C:A59A:EC:0:0:0:0:https%3a//ss9.domint.net%3a3036/yv_str/yunavision/playlist.m3u8:Yuna Visión DomRep
+#DESCRIPTION Yuna Visión DomRep
+#SERVICE 4097:0:1:1506:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3300007PB.m3u8:Xite Nuevo Latino*
+#DESCRIPTION Xite Nuevo Latino*
+#SERVICE 4097:0:1:1507:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBD3300010L9.m3u8:Xite Siempre Latino*
+#DESCRIPTION Xite Siempre Latino*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC ASIA -KPop-
+#DESCRIPTION MUSIC ASIA -KPop-
+#SERVICE 4097:0:1:5EFA:5FC7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@thekpop/live:The K-Pop*
+#DESCRIPTION The K-Pop*
+#SERVICE 5002:0:1:4725:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE3900002R1.m3u8:K-POP by CJ ENM*
+#DESCRIPTION K-POP by CJ ENM*
+#SERVICE 4097:0:1:EE69:23D2:EC:0:0:0:0:https%3a//live.24hrkpop.com/hls/stream.m3u8:24hr K-KPop TV
+#DESCRIPTION 24hr K-KPop TV
+#SERVICE 5002:0:1:88BA:2236:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0:New K-Pop*
+#DESCRIPTION New K-Pop*
+#SERVICE 4097:0:1:517:16A:0:0:0:0:0:https%3a//jmp2.uk/sam-KRBD43000023M.m3u8:JTBC Begin Again - Open Mic
+#DESCRIPTION JTBC Begin Again - Open Mic
+#SERVICE 5002:0:1:539:16A:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-KRBC3200023BG.m3u8:Mnet M2*
+#DESCRIPTION Mnet M2*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC ASIA -Persian & Middle East-
+#DESCRIPTION MUSIC ASIA -Persian & Middle East-
+#SERVICE 4097:0:1:D6B0:FAF4:EC:0:0:0:0:http%3a//live.livestreamtv.ca/azstar/smil%3aazstar.smil/playlist.m3u8:Azstar
+#DESCRIPTION Azstar
+#SERVICE 4097:0:1:D8CA:6F66:EC:0:0:0:0:https%3a//hls.navahang.live/hls/stream.m3u8:Navahang Persian Music TV
+#DESCRIPTION Navahang Persian Music TV
+#SERVICE 4097:0:1:6BD:972:EC:0:0:0:0:https%3a//musichls.persiana.live/hls/stream.m3u8:Persiana Music
+#DESCRIPTION Persiana Music
+#SERVICE 4097:0:1:B420:78FB:EC:0:0:0:0:https%3a//sonhls.persiana.live/hls/stream.m3u8:Persiana Sonnati
+#DESCRIPTION Persiana Sonnati
+#SERVICE 4097:0:1:3F90:368F:EC:0:0:0:0:https%3a//hls.pmc.live/hls/stream.m3u8:PMC
+#DESCRIPTION PMC
+#SERVICE 4097:0:1:936E:A932:EC:0:0:0:0:http%3a//istream.binarywaves.com%3a8081/hls/arabica/playlist.m3u8:Arabica Music
+#DESCRIPTION Arabica Music
+#SERVICE 4097:0:1:652F:95D4:EC:0:0:0:0:http%3a//54.36.110.140/live3/live3.m3u8:Med Müzik (Kurdi)
+#DESCRIPTION Med Müzik (Kurdi)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC ASIA -Central-
+#DESCRIPTION MUSIC ASIA -Central-
+#SERVICE 4097:0:1:D1D7:514B:EC:0:0:0:0:https%3a//freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream:Fresh TV Armenia
+#DESCRIPTION Fresh TV Armenia
+#SERVICE 4097:0:1:7CBF:5E5:EC:0:0:0:0:https%3a//songtv.hls.iptvdc.com/web-armenia/index.m3u8:Song TV Armenia
+#DESCRIPTION Song TV Armenia
+#SERVICE 4097:0:1:47FA:7036:EC:0:0:0:0:https%3a//hls.live.31kz.adapto.kz/muzzone/index.m3u8:Muzzone Kazakhstan
+#DESCRIPTION Muzzone Kazakhstan
+#SERVICE 4097:0:1:36A9:B627:EC:0:0:0:0:https%3a//live.teleradiocom.tj/9/3m.m3u8:Shakhnavoz TV Tajikistan
+#DESCRIPTION Shakhnavoz TV Tajikistan
+#SERVICE 4097:0:1:3311:8F82:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@recrule-chechenmusic/live:Recrule Chechen Music*
+#DESCRIPTION Recrule Chechen Music*
+#SERVICE 4097:0:1:EA31:9D3F:EC:0:0:0:0:https%3a//public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8:Matur TV (Bashkir/Tatar)
+#DESCRIPTION Matur TV (Bashkir/Tatar)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC ASIA -South-
+#DESCRIPTION MUSIC ASIA -South-
+#SERVICE 4097:0:1:CBE:A6B3:EC:0:0:0:0:https%3a//hls.sunmusic.live/hls/stream.m3u8:Sun Music Malaysia
+#DESCRIPTION Sun Music Malaysia
+#SERVICE 4097:0:1:124D:5B5E:EC:0:0:0:0:http%3a//playout395.livestreamingcdn.com%3a1935/live/Stream1/playlist.m3u8?checkedby:Kayhan TV Afghanistan
+#DESCRIPTION Kayhan TV Afghanistan
+#SERVICE 4097:0:1:8759:2F3B:EC:0:0:0:0:http%3a//live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8?checkedby:Pamir TV Afghanistan
+#DESCRIPTION Pamir TV Afghanistan
+#SERVICE 4097:0:1:C51C:813:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8:Brit Asia*
+#DESCRIPTION Brit Asia*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MUSIC ASIA -India-
+#DESCRIPTION MUSIC ASIA -India-
+#SERVICE 4097:0:1:ED95:91BA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.yupptv.com/channels/9xm/live:9X Music*
+#DESCRIPTION 9X Music*
+#SERVICE 5002:0:1:2B0E:3FED:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/index.m3u8:Balle Balle*
+#DESCRIPTION Balle Balle*
+#SERVICE 4097:0:1:A6EE:B4DE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.yupptv.com/channels/desi-tv/live:Desi Channel Punjabi*
+#DESCRIPTION Desi Channel Punjabi*
+#SERVICE 4097:0:1:22F7:A831:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.yupptv.com/online-tv/haryanvi-hits/live:Haryanvi Hits*
+#DESCRIPTION Haryanvi Hits*
+#SERVICE 4097:0:1:86AB:193D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@IshtarMusic/live:Ishtar Bollywood Music*
+#DESCRIPTION Ishtar Bollywood Music*
+#SERVICE 4097:0:1:FC6B:9188:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.yupptv.com/online-tv/maiboli/live:Maiboli*
+#DESCRIPTION Maiboli*
+#SERVICE 4097:0:1:2E20:9F96:EC:0:0:0:0:https%3a//mntv.livebox.co.in/musichls/live.m3u8:MN Music
+#DESCRIPTION MN Music
+#SERVICE 5002:0:1:BBF3:ADDF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.yupptv.com/channels/songdew/live:Songdew*
+#DESCRIPTION Songdew*
+#SERVICE 4097:0:1:B47:5439:EC:0:0:0:0:https%3a//cdn2.in/SteelbirdMusicTVhls/live.m3u8:Steelbird Music
+#DESCRIPTION Steelbird Music
+#SERVICE 1:64:0:0:0:0:0:0:0:0::VOD Music Jahres Mixes
+#DESCRIPTION VOD Music Jahres Mixes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601308.us.archive.org/12/items/DJPanduroVideoYearmix2009/DJ Panduro - Video Yearmix 2009.mp4:Yearmix 2009 - DJ Panduro (39 min)
+#DESCRIPTION Yearmix 2009 - DJ Panduro (39 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601305.us.archive.org/3/items/DJPanduroVideoYearmix2010/DJ Panduro - Video Yearmix 2010.mp4:Yearmix 2010 - DJ Panduro (48 min)
+#DESCRIPTION Yearmix 2010 - DJ Panduro (48 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601306.us.archive.org/7/items/DJPanduroDJCoolVideoYearmix2011/DJ Panduro & DJ Cool - Video Yearmix 2011 (HD 720).mp4:Yearmix 2011 - DJ Panduro (66 min)
+#DESCRIPTION Yearmix 2011 - DJ Panduro (66 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801305.us.archive.org/21/items/DJPanduroVideoYearmix2012/DJ Panduro - Video Yearmix 2012.mp4:Yearmix 2012 - DJ Panduro (40 min)
+#DESCRIPTION Yearmix 2012 - DJ Panduro (40 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801409.us.archive.org/35/items/DJPanduroVideoYearmix2013/DJ Panduro - Video Yearmix 2013.mp4:Yearmix 2013 - DJ Panduro (56 min)
+#DESCRIPTION Yearmix 2013 - DJ Panduro (56 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ Panduro - Video Yearmix 2014 (HD).mp4:Yearmix 2014 - DJ Panduro (50 Min)
+#DESCRIPTION Yearmix 2014 - DJ Panduro (50 Min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ Panduro - Video Yearmix 2015.mp4:Yearmix 2015 - DJ Panduro (52 min)
+#DESCRIPTION Yearmix 2015 - DJ Panduro (52 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia801908.us.archive.org/3/items/DjPanduroYearmix2016/Dj Panduro Yearmix 2016.mp4:Yearmix 2016 - DJ Panduro (39 min)
+#DESCRIPTION Yearmix 2016 - DJ Panduro (39 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800800.us.archive.org/21/items/MaikyInDaMixTheVideoJaarmix2016/maiky in da mix - the video yaarmix 2016-HD 720p.mp4:Yearmix 2016 - Maiky (57 min)
+#DESCRIPTION Yearmix 2016 - Maiky (57 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800907.us.archive.org/6/items/jaarmix2018.movie.1801_PB3/jaarmix2018.movie.1801_PB3.mp4:Yearmix 2018 - DJ Marty Bay (59 min)
+#DESCRIPTION Yearmix 2018 - DJ Marty Bay (59 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia601009.us.archive.org/5/items/patricoyearmix2018/pat&Ricö - yearmix 2018.mp4:Yearmix 2018 - PAT & DJ Ricö (105 min)
+#DESCRIPTION Yearmix 2018 - PAT & DJ Ricö (105 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800903.us.archive.org/18/items/DJPanduroItaloDiscoSheepMix/DJ Panduro Italo-Disco Sheep Mix .mp4:SheepMix Italo Disco - DJ Panduro (24 min)
+#DESCRIPTION SheepMix Italo Disco - DJ Panduro (24 min)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ia800800.us.archive.org/5/items/MichaelJacksonRemindByDjDeepAndVjPanduro/Michael Jackson Remind by dj Deep and Vj Panduro.mp4:Michael Jackson Remind - DJ Panduro (33 min)
+#DESCRIPTION Michael Jackson Remind - DJ Panduro (33 min)
