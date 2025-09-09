@@ -1,0 +1,1491 @@
+#NAME IPTV World
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Update 12.04.2025 by Team www.hdfreaks.cc
+#DESCRIPTION Update 12.04.2025 by Team www.hdfreaks.cc
+#SERVICE 1:64:1:0:0:0:0:0:0:0::* =Streamlink needed
+#DESCRIPTION * =Streamlink needed
+#SERVICE 1:64:0:0:0:0:0:0:0:0::AMERICAS
+#DESCRIPTION AMERICAS
+#SERVICE 1:64:0:0:0:0:0:0:0:0::USA -nationwide-
+#DESCRIPTION USA -nationwide-
+#SERVICE 5002:0:1:AD9C:1:9:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.us_privacy=1YNY&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}:ABC News HD*
+#DESCRIPTION ABC News HD*
+#SERVICE 4097:0:1:5B3A:89F:EC:0:0:0:0:http%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8:ABC Localish HD
+#DESCRIPTION ABC Localish HD
+#SERVICE 4097:0:1:2B82:512A:EC:0:0:0:0:https%3a//dikcfc9915kp8.cloudfront.net/hls/main.m3u8:AXS HD
+#DESCRIPTION AXS HD
+#SERVICE 4097:0:1:6E:844:2:11A0000:0:0:0:https%3a//blacknewschannel-xumo-us.amagi.tv/hls/amagi_hls_data_blacknews-blacknewschannel-xumo/CDN/master.m3u8:Black News Channel HD
+#DESCRIPTION Black News Channel HD
+#SERVICE 4097:0:1:5C22:3DE1:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8:CBS News HD
+#DESCRIPTION CBS News HD
+#SERVICE 4097:0:1:3039:C3B4:7E:460000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.cbsnews.com/live/cbsn-2/:CBS News 2 HD*
+#DESCRIPTION CBS News 2 HD*
+#SERVICE 4097:0:1:D129:51ED:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.cbsnews.com/live/mixible/:CBS ET Live HD*
+#DESCRIPTION CBS ET Live HD*
+#SERVICE 4097:0:1:1320:107:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Court TV
+#DESCRIPTION Court TV
+#SERVICE 4097:0:1:61A7:357E:EC:0:0:0:0:https%3a//fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8:Fox News Now HD
+#DESCRIPTION Fox News Now HD
+#SERVICE 4097:0:1:566:1497:EC:0:0:0:0:https%3a//fox-foxsoul-samsungus.amagi.tv/playlist.m3u8:Fox Soul HD
+#DESCRIPTION Fox Soul HD
+#SERVICE 4097:0:1:D769:DCFF:EC:0:0:0:0:https%3a//fusexl-oando.amagi.tv/playlist.m3u8:Fuse Backstage HD
+#DESCRIPTION Fuse Backstage HD
+#SERVICE 5002:0:1:6F:208:2BE:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d2ww7x6333b6qp.cloudfront.net/10507/9999542/hls/master.m3u8?ads.xumo_channelId=9999542&ads.caid=nbcnewsnow&ads.csid=samsungtvplus_us_nbcnewsnow_ssai_{APP_NAME}_cro&ads.asnw=169843&ads.afid=137704898&ads.sfid=16772607&ads.xumo_platform=samsung&ads._fw_is_lat={TARGETOPT}&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did={PSID}&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName={APP_NAME}&ads.xumo_contentId=1828&ads.xumo_contentName=nbcnewsnow&ads.xumo_providerId=1828&ads.xumo_providerName=nbcnewsnow&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=nbcnewsnow_us&ads.tpcl=MIDROLL&ads._fw_app_store_url={APP_DOMAIN}:NBC News Now HD*
+#DESCRIPTION NBC News Now HD*
+#SERVICE 4097:0:1:C:AA:EC:0:0:0:0:https%3a//nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8:Newsmax TV
+#DESCRIPTION Newsmax TV
+#SERVICE 4097:0:1:3F4D:34DB:EC:0:0:0:0:https%3a//jmp2.uk/sam-USBD1200020Y4.m3u8:Outdoor America (US)
+#DESCRIPTION Outdoor America (US)
+#SERVICE 4097:0:1:C442:5D7B:EC:0:0:0:0:https%3a//pac12-vizio.amagi.tv/playlist.m3u8 :PAC-12 Insider
+#DESCRIPTION PAC-12 Insider
+#SERVICE 4097:0:1:880D:6AEF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//youtube.com/@pbsnewshour/live:PBS Newshour*
+#DESCRIPTION PBS Newshour*
+#SERVICE 4097:0:1:814A:BF8:EC:0:0:0:0:https%3a//linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8:PopStar! TV HD
+#DESCRIPTION PopStar! TV HD
+#SERVICE 4097:0:1:3D:9042:D09:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=uVGCtPLFq5iLSySRNAte&channelId=60df3e18541143002f3b8607:USA TODAY
+#DESCRIPTION USA TODAY
+#SERVICE 1:64:0:0:0:0:0:0:0:0::USA -CBS regional-
+#DESCRIPTION USA -CBS regional-
+#SERVICE 4097:0:1:8E11:1BD7:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f75919718aed0007250d7a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Baltimore HD
+#DESCRIPTION CBS News Baltimore HD
+#SERVICE 4097:0:1:3BDF:B7A8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.cbsnews.com/sanfrancisco/live/:CBS News Bay Area HD*
+#DESCRIPTION CBS News Bay Area HD*
+#SERVICE 4097:0:1:737D:5C58:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Boston HD
+#DESCRIPTION CBS News Boston HD
+#SERVICE 4097:0:1:55FA:2B34:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Chicago HD
+#DESCRIPTION CBS News Chicago HD
+#SERVICE 4097:0:1:47D:DFF:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Colorado HD
+#DESCRIPTION CBS News Colorado HD
+#SERVICE 4097:0:1:8757:D084:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634f2610d5023700078f7dee/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Detroit HD
+#DESCRIPTION CBS News Detroit HD
+#SERVICE 4097:0:1:3039:830:2:11A0000:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cdc75b1a1cbd0007ed45dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Los Angeles HD
+#DESCRIPTION CBS News Los Angeles HD
+#SERVICE 4097:0:1:336A:1873:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb299b79498900070b29e0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Miami HD
+#DESCRIPTION CBS News Miami HD
+#SERVICE 4097:0:1:9052:9785:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.cbsnews.com/live/cbsn-local-min/  :CBS News Minnesota HD*
+#DESCRIPTION CBS News Minnesota HD*
+#SERVICE 4097:0:1:29A:C3B4:7E:460000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.cbsnews.com/live/cbsn-local-ny/:CBS News New York HD*
+#DESCRIPTION CBS News New York HD*
+#SERVICE 4097:0:1:60F5:30D5:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Philly HD
+#DESCRIPTION CBS News Philly HD
+#SERVICE 4097:0:1:785A:B178:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Pittsburgh HD
+#DESCRIPTION CBS News Pittsburgh HD
+#SERVICE 4097:0:1:E3AE:F987:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS News Sacramento HD
+#DESCRIPTION CBS News Sacramento HD
+#SERVICE 4097:0:1:C9D8:E1FC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.cbsnews.com/texas/live/:CBS News Texas HD
+#DESCRIPTION CBS News Texas HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::USA -Latino-
+#DESCRIPTION USA -Latino-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=1153:Acción Mexicana
+#DESCRIPTION Acción Mexicana
+#SERVICE 4097:0:1:1:67F2:C62A:0:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaa-estrellatv-samsungus/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:Estrella TV
+#DESCRIPTION Estrella TV
+#SERVICE 4097:0:1:F:3259:8655:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Estrella News
+#DESCRIPTION Estrella News
+#SERVICE 4097:0:1:8:67F2:C62A:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:¡Spike extremo!
+#DESCRIPTION ¡Spike extremo!
+#SERVICE 1:64:0:0:0:0:0:0:0:0::USA -regional-
+#DESCRIPTION USA -regional-
+#SERVICE 4097:0:1:1123:165:0:0:0:0:0:https%3a//jmp2.uk/sam-USBC4400010RH.m3u8:ABC7 Bay Area
+#DESCRIPTION ABC7 Bay Area
+#SERVICE 4097:0:1:1125:165:0:0:0:0:0:https%3a//jmp2.uk/sam-USBD2700019N0.m3u8:FOX 2 San Francisco
+#DESCRIPTION FOX 2 San Francisco
+#SERVICE 4097:0:1:1122:165:0:0:0:0:0:https%3a//jmp2.uk/sam-USBC3200005A0.m3u8:NBC Bay Area News
+#DESCRIPTION NBC Bay Area News
+#SERVICE 4097:0:1:1135:165:0:0:0:0:0:https%3a//jmp2.uk/sam-USBB3600008BU.m3u8:WN San Francisco
+#DESCRIPTION WN San Francisco
+#SERVICE 4097:0:1:EC0C:D93:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@cityofbhamwa/live:CTV Bellingham WA HD*
+#DESCRIPTION CTV Bellingham WA HD*
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:http%3a//video.oct.dc.gov/out/u/DCN.m3u8:District of Columbia Network
+#DESCRIPTION District of Columbia Network
+#SERVICE 4097:0:1:5240:107:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/632b619c8d2a6c0007ff534e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:KIRO Seattle
+#DESCRIPTION KIRO Seattle
+#SERVICE 4097:0:1:63:844:2:11A0000:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:News 12 - New York HD
+#DESCRIPTION News 12 - New York HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::DOCUS International
+#DESCRIPTION DOCUS International
+#SERVICE 4097:0:1:23AB:1D6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@ArcadiaTVWorld/live:Arcadia TV World*
+#DESCRIPTION Arcadia TV World*
+#SERVICE 4097:0:1:2:2F0E:16AA:0:0:0:0:https%3a//d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:Love Nature 4K
+#DESCRIPTION Love Nature 4K
+#SERVICE 4097:0:1:11FA:2B5C:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@NASA/live:NASA+ TV*
+#DESCRIPTION NASA+ TV*
+#SERVICE 4097:0:1:2614:D5C5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@NatGeo/live:National Geographic (YT stream)*
+#DESCRIPTION National Geographic (YT stream)*
+#SERVICE 4097:0:1:B54E:DA33:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@NatGeoAnimals/live:Nat Geo Animals (YT stream)*
+#DESCRIPTION Nat Geo Animals (YT stream)*
+#SERVICE 4097:0:1:EBB0:44F9:EC:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df8c4952-a292-11eb-a2f8-2d14e72ed833&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5db23f22-9847-4c14-909d-a4e86c1bdac2&userId=&serverSideAds=true:Smithsonian Channel Selects
+#DESCRIPTION Smithsonian Channel Selects
+#SERVICE 4097:0:1:1:975B:A12:0:0:0:0:https%3a//d3ify425qsio2d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Unidentified-prod/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:Unidentified
+#DESCRIPTION Unidentified
+#SERVICE 4097:0:1:12:DFAE:3E93:0:0:0:0:https%3a//d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8?ads.device_did=%257BPSID%257D&ads.device_dnt=%257BTARGETOPT%257D&ads.us_privacy=1YNY&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D:VICE
+#DESCRIPTION VICE
+#SERVICE 4097:0:1:4947:4E1C:EC:0:0:0:0:https%3a//stitcher.pluto.tv/stitch/hls/channel/5ad8d1e9e738977e2c310925/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=86b598b2-a7cf-11eb-b7bc-0242ac110002:Voyager Documentaries
+#DESCRIPTION Voyager Documentaries
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NEWS International
+#DESCRIPTION NEWS International
+#SERVICE 4097:0:1:1644:42C:1:C00000:0:0:0:https%3a//dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8:Deutsche Welle English HD
+#DESCRIPTION Deutsche Welle English HD
+#SERVICE 4097:0:1:D877:833:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@aljazeeraenglish/live:Al Jazeera engl. HD*
+#DESCRIPTION Al Jazeera engl. HD*
+#SERVICE 4097:0:1:641:2454:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@aljazeera/live:Al Jazeera arab. HD*
+#DESCRIPTION Al Jazeera arab. HD*
+#SERVICE 4097:0:1:1A:1FD:2BE:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@SkyNewsArabia/live:Sky News Arabia HD*
+#DESCRIPTION Sky News Arabia HD*
+#SERVICE 4097:0:1:322:3BC4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@alhiwarchannel/live:Al Hiwar HD*
+#DESCRIPTION Al Hiwar HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MIXED International
+#DESCRIPTION MIXED International
+#SERVICE 4097:0:1:0:5555555:0:0:0:0:0:https%3a//stream.scientology.org/stream/hls_1920x1080_7800k.m3u8?offset=64830:Scientology Network HD
+#DESCRIPTION Scientology Network HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::FASHION International
+#DESCRIPTION FASHION International
+#SERVICE 4097:0:1:6B:B1:39E:1860000:0:0:0:https%3a//cdn2.invivo.bg/Codefashion_5500/index.fmp4.m3u8:Code Fashion Bulgaria
+#DESCRIPTION Code Fashion Bulgaria
+#SERVICE 4097:0:1:73:1:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBA3300022IF.m3u8:Fashion TV HD*
+#DESCRIPTION Fashion TV HD*
+#SERVICE 4097:0:1:73:1:16E:A00000:0:0:0:http%3a//fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8:Fashion TV Midnite Secrets HD
+#DESCRIPTION Fashion TV Midnite Secrets HD
+#SERVICE 4097:0:1:ABBB:3BB3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8:Fashion One Turkiye*
+#DESCRIPTION Fashion One Turkiye*
+#SERVICE 5002:0:1:88E3:725C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8:Global Fashion HD*
+#DESCRIPTION Global Fashion HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Argentina
+#DESCRIPTION Argentina
+#SERVICE 4097:0:1:1E61:18:56:310000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//g2.mc-hor.transport.edge-access.net/b16/ngrp%3ac7_vivo01_dai_source-20001_all/playlist.m3u8 --http-header "Referer=https%3a//vmf.edge-apps.net/":Televisión Pública HD*
+#DESCRIPTION Televisión Pública HD*
+#SERVICE 4097:0:1:1E61:18:56:310000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TVPublicaArgentina/live:Televisión Pública HD*
+#DESCRIPTION Televisión Pública HD*
+#SERVICE 4097:0:1:CB83:1527:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Telefe Clásico
+#DESCRIPTION Telefe Clásico
+#SERVICE 4097:0:1:343:0:0:0:0:0:0:http%3a//www.coninfo.net%3a1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:5TV Corrientes
+#DESCRIPTION 5TV Corrientes
+#SERVICE 4097:0:1:11E:29D6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@A24com/live:A24 HD*
+#DESCRIPTION A24 HD*
+#SERVICE 4097:0:1:4D2:1456:5:13B0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=zcWXboTnous:América TV*
+#DESCRIPTION América TV*
+#SERVICE 4097:0:1:50:3D:46:30AA78:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@c5n/live:C5N TV HD*
+#DESCRIPTION C5N TV HD*
+#SERVICE 5002:0:1:0:0:0:0:0:0:0:https%3a//iptv.ixfo.com.ar%3a30443/live/c6digital/chunks.m3u8:Canal 6 Noticias
+#DESCRIPTION Canal 6 Noticias
+#SERVICE 4097:0:1:46:24:56:310000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@elsietemendoza/live:Canal 7 El Siete Mendoza*
+#DESCRIPTION Canal 7 El Siete Mendoza*
+#SERVICE 4097:0:1:1787:6CA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@canal8sanjuan./live:Canal 8 San Juan*
+#DESCRIPTION Canal 8 San Juan*
+#SERVICE 4097:0:1:C0AF:1692:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@canal26/live:Canal 26 Arg.*
+#DESCRIPTION Canal 26 Arg.*
+#SERVICE 4097:0:1:7274:1A86:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7kvvgi:Canal Universidad Nacional de Mar del Plata*
+#DESCRIPTION Canal Universidad Nacional de Mar del Plata*
+#SERVICE 4097:0:1:32:708:C8:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@cronicatv/live:Crónica TV HD*
+#DESCRIPTION Crónica TV HD*
+#SERVICE 4097:0:1:F852:C62A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@eldoce/live:El Doce Córdoba*
+#DESCRIPTION El Doce Córdoba*
+#SERVICE 4097:0:1:847C:DF6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8z8w7c:El Ocho TV Tucumán*
+#DESCRIPTION El Ocho TV Tucumán*
+#SERVICE 4097:0:1:32:4FB0:7E:460000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@lanacion/live:La Nacion+*
+#DESCRIPTION La Nacion+*
+#SERVICE 4097:0:1:DE50:7AAF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7zlqfx:Misiones Online Televisión*
+#DESCRIPTION Misiones Online Televisión*
+#SERVICE 4097:0:1:407:0:0:0:0:0:0:http%3a//media.neuquen.gov.ar/rtn/television/media.m3u8?checkedby:RTN Neuquén
+#DESCRIPTION RTN Neuquén
+#SERVICE 4097:0:1:51D2:9B69:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.twitch.tv/somosbellvilletv:Somos Bell Ville TV*
+#DESCRIPTION Somos Bell Ville TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bolivia
+#DESCRIPTION Bolivia
+#SERVICE 4097:0:1:4661:1FF1:EC:0:0:0:0:https%3a//alba-bo-bolivision-bolivision.stream.mediatiquestream.com/360p.m3u8:Bolivision La Paz
+#DESCRIPTION Bolivision La Paz
+#SERVICE 4097:0:1:51AA:986:EC:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8224/8224/playlist.m3u8:Bolivia TV
+#DESCRIPTION Bolivia TV
+#SERVICE 4097:0:1:E24A:A3E2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x84eirw:ATB La Paz*
+#DESCRIPTION ATB La Paz*
+#SERVICE 4097:0:1:565:50AB:EC:0:0:0:0:https%3a//owncloud1692001.fasthostunlimited.com/hls/stream.m3u8:Cinerama TV
+#DESCRIPTION Cinerama TV
+#SERVICE 4097:0:1:A24C:457D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rtp.noxun.net/hls/stream.m3u8:RTP Bolivia*
+#DESCRIPTION RTP Bolivia*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Brasil
+#DESCRIPTION Brasil
+#SERVICE 4097:0:1:30D1:B0DF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8ilwg3:98 Live*
+#DESCRIPTION 98 Live*
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@boavontadetv/live:Boa Vontade TV*
+#DESCRIPTION Boa Vontade TV*
+#SERVICE 4097:0:1:65B1:B71A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8qceqq:Canal Terraviva*
+#DESCRIPTION Canal Terraviva*
+#SERVICE 4097:0:1:DF63:FC2C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@CNNbrasil/live:CNN Brasil*
+#DESCRIPTION CNN Brasil*
+#SERVICE 4097:0:1:1415:31A4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvcancaonova/live:Canção Nova*
+#DESCRIPTION Canção Nova*
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:https%3a//58a4464faef53.streamlock.net/impd/ngrp%3aimpd_all/playlist.m3u8:IMPD TV
+#DESCRIPTION IMPD TV
+#SERVICE 4097:0:1:1E61:7DC:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@recordnews/live:Record News HD*
+#DESCRIPTION Record News HD*
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:https%3a//stream.live.novotempo.com/tv/smil%3atvnovotempo.smil/playlist.m3u8:Novo Tempo
+#DESCRIPTION Novo Tempo
+#SERVICE 5002:0:1:F0F4:B13B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tv02.zas.media%3a1936/redesuper/redesuper/playlist.m3u8:Rede Super*
+#DESCRIPTION Rede Super*
+#SERVICE 4097:0:1:AD4B:94D2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@SBTCENTRAL/live:SBT Central Jaú*
+#DESCRIPTION SBT Central Jaú*
+#SERVICE 4097:0:1:66E2:698E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8kthgi:Thathi TV Ribeirão Preto*
+#DESCRIPTION Thathi TV Ribeirão Preto*
+#SERVICE 4097:0:1:C0A2:D20F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x83atrr:TV Barbacena*
+#DESCRIPTION TV Barbacena*
+#SERVICE 4097:0:1:2378:FD43:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x58lnlq:TV Diário do Sertão*
+#DESCRIPTION TV Diário do Sertão*
+#SERVICE 4097:0:1:88:0:0:0:0:0:0:http%3a//selpro1348.procergs.com.br%3a1935/tve/stve/playlist.m3u8:TV Educativa de Porto Alegre
+#DESCRIPTION TV Educativa de Porto Alegre
+#SERVICE 4097:0:1:C82:4CE7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8q3jvf :TV Gazeta*
+#DESCRIPTION TV Gazeta*
+#SERVICE 4097:0:1:8487:95CC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8ttlxm:TV Gazeta*
+#DESCRIPTION TV Gazeta*
+#SERVICE 4097:0:1:DB69:9431:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8q3jvf:TV Gazeta SKY*
+#DESCRIPTION TV Gazeta SKY*
+#SERVICE 4097:0:1:F70F:F77B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8u8n0m:TV Jornal*
+#DESCRIPTION TV Jornal*
+#SERVICE 4097:0:1:CD8D:14A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TVNordestinaOficial/live:TV Nordestina*
+#DESCRIPTION TV Nordestina*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Canada
+#DESCRIPTION Canada
+#SERVICE 5002:0:1:7FD5:232F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_ca_cbcnews_001.m3u8?ads.caid=CBCNews&ads.csid=samsungtvplus_ca_cbcnews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat={TARGETOPT}&ads._fw_us_privacy={US_PRIVACY}&ads._fw_coppa=0&ads._fw_did={PSID}&ads._fw_content_category=IAB12&ads._fw_content_genre=news&ads._fw_content_language=en,fr-CA,fr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName={APP_NAME}&ads.xumo_contentId=207&ads.xumo_contentName=CBCNewsEnglish&ads.xumo_providerId=207&ads.xumo_providerName=CBCNewsEnglish&ads.xumo_channelId=9991503&ads.xumo_channelName=CBCNews&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url={APP_DOMAIN}:CBC News*
+#DESCRIPTION CBC News*
+#SERVICE 4097:0:1:ABFA:6EB9:EC:0:0:0:0:https%3a//citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8:City News Toronto
+#DESCRIPTION City News Toronto
+#SERVICE 4097:0:1:323:0:0:0:0:0:0:http%3a//tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8:The Shopping Channel
+#DESCRIPTION The Shopping Channel
+#SERVICE 4097:0:1:2D67:A60F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//dai.google.com/linear/hls/pa/event/cQOVg6jKSvusQAfYpTrUoQ/stream/af1baa32-ef7a-4125-aebf-90094cd0c297%3aGRQ/master.m3u8:Global News*
+#DESCRIPTION Global News*
+#SERVICE 4097:0:1:D0AD:15BB:EC:0:0:0:0:https%3a//2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8:Newfoundland TV +
+#DESCRIPTION Newfoundland TV +
+#SERVICE 4097:0:1:4F78:9FF2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Toronto360TV/live:Toronto 360 TV*
+#DESCRIPTION Toronto 360 TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Caribbean
+#DESCRIPTION Caribbean
+#SERVICE 4097:0:1:E9E4:CE74:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/absliveantigua3:ABS TV Antigua HD (not 24/7)*
+#DESCRIPTION ABS TV Antigua HD (not 24/7)*
+#SERVICE 4097:0:1:246810:0:0:0:0:0:0:https%3a//cdn01.setar.aw/Telearuba/telearuba/playlist.m3u8:Tele Aruba
+#DESCRIPTION Tele Aruba
+#SERVICE 4097:0:1:F321:1D47:EC:0:0:0:0:https%3a//1740288887.rsc.cdn77.org/1740288887/index.m3u8:CBC TV Barbados
+#DESCRIPTION CBC TV Barbados
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cur.watch/api/get_stream/dctv/basilachill/mystream.m3u8:Dutch Caribbean TV
+#DESCRIPTION Dutch Caribbean TV
+#SERVICE 4097:0:1:5A5B:E627:EC:0:0:0:0:https%3a//edge1.tvdirect13.com/live/playlist.m3u8:TV Direct 13 HD Curaçao
+#DESCRIPTION TV Direct 13 HD Curaçao
+#SERVICE 5002:0:1:834:6:6:CE40000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp%3agppfydfzpSUn9Udy.stream/playlist.m3u8%2520--http-header%2520"Referer=https%3a//teveo.cu/":Cubavision Internacional HD*
+#DESCRIPTION Cubavision Internacional HD*
+#SERVICE 4097:0:1:4CD3:AA09:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/canalecos:Canal Ecos DomRep*
+#DESCRIPTION Canal Ecos DomRep*
+#SERVICE 4097:0:1:73BC:D83A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7gy059:Color Visión Canal 9 HD DomRep*
+#DESCRIPTION Color Visión Canal 9 HD DomRep*
+#SERVICE 4097:0:1:7F0:10F1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8frxu5:Tele La Brise Haïti*
+#DESCRIPTION Tele La Brise Haïti*
+#SERVICE 4097:0:1:FFFFFFFF:0:0:0:0:0:0:https%3a//tv2.fastcast4u.com%3a3238/live/radiotelebostonlive.m3u8:Tele Boston Haïti
+#DESCRIPTION Tele Boston Haïti
+#SERVICE 4097:0:1:2ED7:B055:EC:0:0:0:0:https%3a//tvc.mediacaribstream.com%3a5443/LiveApp/streams/678996728477322762133253.m3u8:TV Carib Sint Maarten NL
+#DESCRIPTION TV Carib Sint Maarten NL
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Chile
+#DESCRIPTION Chile
+#SERVICE 4097:0:1:C2CA:CADE:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision Contigo
+#DESCRIPTION Chilevision Contigo
+#SERVICE 4097:0:1:E7D2:A20F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Meganoticiasoficial/live:Meganoticias HD*
+#DESCRIPTION Meganoticias HD*
+#SERVICE 4097:0:1:F775:D803:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tele13/live:T13 News*
+#DESCRIPTION T13 News*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Colombia
+#DESCRIPTION Colombia
+#SERVICE 4097:0:1:E7A7:403:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/amagateve:Amagá TV*
+#DESCRIPTION Amagá TV*
+#SERVICE 4097:0:1:4A0F:BC06:EC:0:0:0:0:https%3a//5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8:Canal Cali HD
+#DESCRIPTION Canal Cali HD
+#SERVICE 4097:0:1:1DD2:CCCE:EC:0:0:0:0:https%3a//movil.ejeserver.com/live/teledoradahd.m3u8:Canal MÁS
+#DESCRIPTION Canal MÁS
+#SERVICE 4097:0:1:5B0A:8F72:EC:0:0:0:0:https%3a//imagenuniversaltv.net%3a3771/live/iutvlive.m3u8:Imagen Universal HD
+#DESCRIPTION Imagen Universal HD
+#SERVICE 4097:0:1:2B67:2:4D:2030000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@noticiascaracol/live:Noticias Caracol*
+#DESCRIPTION Noticias Caracol*
+#SERVICE 4097:0:1:E0C9:43DA:EC:0:0:0:0:https%3a//streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil%3alive.smil/playlist.m3u8:Señal Colombia HD
+#DESCRIPTION Señal Colombia HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Costa Rica
+#DESCRIPTION Costa Rica
+#SERVICE 4097:0:1:D1B:9276:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/embed/video/x7vh8g3?autoplay=1:Canal Trece*
+#DESCRIPTION Canal Trece*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Ecuador
+#DESCRIPTION Ecuador
+#SERVICE 5002:0:1:83AE:7EC5:EC:0:0:0:0:https%3a//video1.makrodigital.com/rtu/rtu/playlist.m3u8:RTU Ecuador
+#DESCRIPTION RTU Ecuador
+#SERVICE 5002:0:1:D5F7:199E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.oromar.tv/hls/oromartv_hi/index.m3u8%2520--http-header%2520"Referer=https%3a//oromartv.com/tv-en-vivo/":Oromar TV*
+#DESCRIPTION Oromar TV*
+#SERVICE 4097:0:1:749D:BBDC:EC:0:0:0:0:https%3a//ecoteltv.streamseguro.com%3a5443/LiveApp/streams/streaming.m3u8:Cadena Ecotel TV
+#DESCRIPTION Cadena Ecotel TV
+#SERVICE 4097:0:1:7F7B:9077:EC:0:0:0:0:https%3a//7.innovatestream.pe%3a19360/ecuadortest/ecuadortest.m3u8:Wuan Plus
+#DESCRIPTION Wuan Plus
+#SERVICE 1:64:0:0:0:0:0:0:0:0::El Salvador
+#DESCRIPTION El Salvador
+#SERVICE 4097:0:1:5DF8:4831:EC:0:0:0:0:http%3a//cdn.elsalvadordigital.com%3a1935/wowtv/wowtv/playlist.m3u8:WOW TV El Salvador
+#DESCRIPTION WOW TV El Salvador
+#SERVICE 4097:0:1:275C:2E07:EC:0:0:0:0:https%3a//alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8:Canal 12
+#DESCRIPTION Canal 12
+#SERVICE 5002:0:1:811E:25B2:EC:0:0:0:0:https%3a//mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/master.m3u8:Megavision Canal 21
+#DESCRIPTION Megavision Canal 21
+#SERVICE 4097:0:1:349C:86CC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/tvmelsalvador:TVM*
+#DESCRIPTION TVM*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Guatemala
+#DESCRIPTION Guatemala
+#SERVICE 4097:0:1:CB1F:2CEB:EC:0:0:0:0:https%3a//live.canal27.tv%3a3882/live/canal27onlinelive.m3u8:Canal 27
+#DESCRIPTION Canal 27
+#SERVICE 4097:0:1:3C3C:E4A5:EC:0:0:0:0:https%3a//alba-gt-chapintv-tn23.stream.mediatiquestream.com/360p.m3u8:TN 23
+#DESCRIPTION TN 23
+#SERVICE 4097:0:1:9E23:2997:EC:0:0:0:0:https%3a//tvlatina.live%3a1936/8008/8008/playlist.m3u8:Nuevo Mundo TV
+#DESCRIPTION Nuevo Mundo TV
+#SERVICE 4097:0:1:953B:1518:EC:0:0:0:0:https%3a//5e85d90130e77.streamlock.net/6006/6006/playlist.m3u8:Rhema TV
+#DESCRIPTION Rhema TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Honduras
+#DESCRIPTION Honduras
+#SERVICE 4097:0:1:7E58:A827:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/embed/video/x81za5c:HCH HD*
+#DESCRIPTION HCH HD*
+#SERVICE 4097:0:1:D6AF:166C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8uk5ou:Canal 10 TEN TV*
+#DESCRIPTION Canal 10 TEN TV*
+#SERVICE 4097:0:1:5058:6228:EC:0:0:0:0:https%3a//5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8:LTV
+#DESCRIPTION LTV
+#SERVICE 4097:0:1:1A2C:7906:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/multicabletv:Sula TV*
+#DESCRIPTION Sula TV*
+#SERVICE 4097:0:1:1EC5:9F04:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//5fe2654d6127d.streamlock.net/suyapa2/videosuyapa2/playlist.m3u8:Suyapa Medios TV*
+#DESCRIPTION Suyapa Medios TV*
+#SERVICE 4097:0:1:5AC4:723A:EC:0:0:0:0:https%3a//tv.webmedialive.com/teleprogreso/live/chunks.m3u8:TeleProgreso
+#DESCRIPTION TeleProgreso
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mexico
+#DESCRIPTION Mexico
+#SERVICE 4097:0:1:4108:160:0:0:0:0:0:https%3a//jmp2.uk/sam-ESBD1300004IG.m3u8:Azteca Internacional
+#DESCRIPTION Azteca Internacional
+#SERVICE 4097:0:1:5987:4133:EC:0:0:0:0:http%3a//stream2.dynalias.com%3a1935/live/tvlive1/playlist.m3u8:Canal 10 Cancun HD
+#DESCRIPTION Canal 10 Cancun HD
+#SERVICE 4097:0:1:C6AC:26A4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7rtm6y:CEPROPIE TV*
+#DESCRIPTION CEPROPIE TV*
+#SERVICE 4097:0:1:6ADD:895B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x90qe0k:El Financiero (con Bloomberg) TV*
+#DESCRIPTION El Financiero (con Bloomberg) TV*
+#SERVICE 4097:0:1:FB52:2DEE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@nmas/live:Foro Noticieros Televisa*
+#DESCRIPTION Foro Noticieros Televisa*
+#SERVICE 4097:0:1:852:5349:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7v76vf:México Travel Channel*
+#DESCRIPTION México Travel Channel*
+#SERVICE 4097:0:1:DBF3:C93A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@milenio/live:Milenio Noticias*
+#DESCRIPTION Milenio Noticias*
+#SERVICE 4097:0:1:38AB:518A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@multimedios/live:Multimedios Canal 6*
+#DESCRIPTION Multimedios Canal 6*
+#SERVICE 4097:0:1:922C:6CF8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8lng9k:Quiero TV*
+#DESCRIPTION Quiero TV*
+#SERVICE 4097:0:1:CAA9:933D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8coxq9:Suma TV*
+#DESCRIPTION Suma TV*
+#SERVICE 4097:0:1:B68E:7481:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8e2pyz:Televisión Universitaria*
+#DESCRIPTION Televisión Universitaria*
+#SERVICE 4097:0:1:2A5F:AB4C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7v6kdc:Vibe TV*
+#DESCRIPTION Vibe TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mexico -regional-
+#DESCRIPTION Mexico -regional-
+#SERVICE 4097:0:1:2BB2:6EDE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@televisadelbajio/live:Televisa Del Bajio HD*
+#DESCRIPTION Televisa Del Bajio HD*
+#SERVICE 4097:0:1:83ED:E558:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@televisadelgolfof/live:Televisa del Golfo*
+#DESCRIPTION Televisa del Golfo*
+#SERVICE 4097:0:1:A44F:2C0F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@televisaguadalajara/live:Televisa Guadalajara*
+#DESCRIPTION Televisa Guadalajara*
+#SERVICE 4097:0:1:7A46:F30B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelevisaMonterreyTV/live:Televisa Monterrey*
+#DESCRIPTION Televisa Monterrey*
+#SERVICE 4097:0:1:FDE7:A853:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelevisaSonora/live:Televisa Sonora*
+#DESCRIPTION Televisa Sonora*
+#SERVICE 4097:0:1:77F2:8DE8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@televisatijuanaof/live:Televisa Tijuana*
+#DESCRIPTION Televisa Tijuana*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::México -Canela TV-
+#DESCRIPTION México -Canela TV-
+#SERVICE 4097:0:1:E77F:2C94:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=5396:Azteca Uno -1 hora
+#DESCRIPTION Azteca Uno -1 hora
+#SERVICE 4097:0:1:E77F:2C93:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=5397:Azteca Internacional
+#DESCRIPTION Azteca Internacional
+#SERVICE 4097:0:1:F585:2026:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=7420:C4 en Alerta
+#DESCRIPTION C4 en Alerta
+#SERVICE 4097:0:1:B036:36EE:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=7402:Canal 6 CDMX
+#DESCRIPTION Canal 6 CDMX
+#SERVICE 4097:0:1:E77F:2C96:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=5398:Clic
+#DESCRIPTION Clic
+#SERVICE 4097:0:1:E77F:2C95:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=5399:Corazón
+#DESCRIPTION Corazón
+#SERVICE 4097:0:1:C70B:93C6:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=4847:Inspiración y Fe
+#DESCRIPTION Inspiración y Fe
+#SERVICE 4097:0:1:B036:36F1:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=7401:Milenio Televisión
+#DESCRIPTION Milenio Televisión
+#SERVICE 4097:0:1:721D:308F:EC:0:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=c683d352ff46a8d7ece9b520070849ad:Power Nation en Español
+#DESCRIPTION Power Nation en Español
+#SERVICE 4097:0:1:D630:41FB:EC:0:0:0:0:https%3a//172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926:RCN Más
+#DESCRIPTION RCN Más
+#SERVICE 4097:0:1:EBE2:DE52:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=11014:Telediario Now
+#DESCRIPTION Telediario Now
+#SERVICE 4097:0:1:51A9:6587:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=4505:TeleFórmula
+#DESCRIPTION TeleFórmula
+#SERVICE 4097:0:1:B836:964:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=771:Toon Goggles en Español
+#DESCRIPTION Toon Goggles en Español
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Nicaragua
+#DESCRIPTION Nicaragua
+#SERVICE 4097:0:1:E408:518A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7rwv8c:Canal 4*
+#DESCRIPTION Canal 4*
+#SERVICE 4097:0:1:9EA3:C509:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x96x78e:Canal 6*
+#DESCRIPTION Canal 6*
+#SERVICE 4097:0:1:118C:C36B:EC:0:0:0:0:https%3a//hdbox.chunklistv.com/live?stream=3abn-nicaragua:TV45
+#DESCRIPTION TV45
+#SERVICE 4097:0:1:67CD:8224:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7u200z:Viva Nicagarua 13 HD*
+#DESCRIPTION Viva Nicagarua 13 HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Panama
+#DESCRIPTION Panama
+#SERVICE 4097:0:1:AB01:A279:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x81cvsk:SERTV*
+#DESCRIPTION SERTV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Paraguay
+#DESCRIPTION Paraguay
+#SERVICE 4097:0:1:A9B8:A159:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/canalpropy:Canal Pro HD*
+#DESCRIPTION Canal Pro HD*
+#SERVICE 5002:0:1:F565:EE7E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//alba-py-c9n-c9n.stream.mediatiquestream.com/live2/alba-py-c9n-c9n_240p/chunks.m3u8:C9N*
+#DESCRIPTION C9N*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Peru
+#DESCRIPTION Peru
+#SERVICE 5002:0:1:EF65:9F3E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.atv.pe/envivo-atvmas?source=Internal&ref=Signals+Menu:ATV+*
+#DESCRIPTION ATV+*
+#SERVICE 5002:0:1:C04E:CD93:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.atv.pe/envivo-atvsur?source=Internal&ref=Signals+Menu:ATV Sur*
+#DESCRIPTION ATV Sur*
+#SERVICE 4097:0:1:3ED5:489E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x774s7s:Panamericana TV*
+#DESCRIPTION Panamericana TV*
+#SERVICE 4097:0:1:CF6F:C4CD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x7x4dgx:Willax TV*
+#DESCRIPTION Willax TV*
+#SERVICE 4097:0:1:5BD4:7DC3:EC:0:0:0:0:https%3a//servilive.com%3a3028/live/jntv19live.m3u8:JN 19
+#DESCRIPTION JN 19
+#SERVICE 4097:0:1:7B03:DA3D:EC:0:0:0:0:https%3a//streamusmptv.ddns.net/live/stream.m3u8:USMP TV
+#DESCRIPTION USMP TV
+#SERVICE 4097:0:1:3039:1456:5:14A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@congresodelarepublicaperu/live:Congreso de la República TV (Peru)*
+#DESCRIPTION Congreso de la República TV (Peru)*
+#SERVICE 4097:0:1:108642:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvperunoticias/live:TV Peru Noticias*
+#DESCRIPTION TV Peru Noticias*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Venezuela
+#DESCRIPTION Venezuela
+#SERVICE 4097:0:1:18EC:3F4:1:C00000:0:0:0:https%3a//cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8:Telesur Venezuela
+#DESCRIPTION Telesur Venezuela
+#SERVICE 4097:0:1:705C:C302:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@canalcultura_ve/live:Canal Cultura*
+#DESCRIPTION Canal Cultura*
+#SERVICE 4097:0:1:A7CD:B163:EC:0:0:0:0:https%3a//vcp10.myplaytv.com/canali/canali/playlist.m3u8:Canal i
+#DESCRIPTION Canal i
+#SERVICE 4097:0:1:8E4F:E17A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/GlobovisiónVídeosTV/live:Globovision HD*
+#DESCRIPTION Globovision HD*
+#SERVICE 4097:0:1:8885:D14D:EC:0:0:0:0:http%3a//vcp1.myplaytv.com/promar/promar/playlist.m3u8:Promar TV
+#DESCRIPTION Promar TV
+#SERVICE 4097:0:1:8EE5:2C96:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8z1lwk:Tele Tuya*
+#DESCRIPTION Tele Tuya*
+#SERVICE 4097:0:1:B8EC:D308:EC:0:0:0:0:https%3a//59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8:Vale TV
+#DESCRIPTION Vale TV
+#SERVICE 4097:0:1:2C89:4BDF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/tvllanos:TV Llanos*
+#DESCRIPTION TV Llanos*
+#SERVICE 4097:0:1:1444:8C02:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x930kre:VTV*
+#DESCRIPTION VTV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::AZ/NZ/PACIFIC
+#DESCRIPTION AZ/NZ/PACIFIC
+#SERVICE 4097:0:1:81CC:BE9E:EC:0:0:0:0:https%3a//tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8?device[did]={PSID}&device[dnt]={TARGETOPT}&app_name={APP_NAME}&tc_string={TC_STRING}&cophttps%3a//tntv-samsung-fr.amagi.tv/hls/amagi_hls_data_samsungfr-tntv-samsungfr/CDN/playlist.m3u8:TNTV Tahiti Nui Télévision
+#DESCRIPTION TNTV Tahiti Nui Télévision
+#SERVICE 5002:0:1:B6DC:E51D:EC:0:0:0:0:https%3a//anystrument.com%3a5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8:Samoa TV 1
+#DESCRIPTION Samoa TV 1
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Australia
+#DESCRIPTION Australia
+#SERVICE 5002:0:1:9F52:F99E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//c.mjh.nz/abc-nsw.m3u8:ABC*
+#DESCRIPTION ABC*
+#SERVICE 4097:0:1:3E7:2:85:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@abcnewsaustralia/live:ABC News*
+#DESCRIPTION ABC News*
+#SERVICE 5002:0:1:C8A:22D9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//c.mjh.nz/abc-tv-plus.m3u8:ABC Plus*
+#DESCRIPTION ABC Plus*
+#SERVICE 5002:0:1:2B11:E6BB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//c.mjh.nz/abc-me.m3u8:ABC Me*
+#DESCRIPTION ABC Me*
+#SERVICE 5002:0:1:2B11:E6B5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//c.mjh.nz/abc-kids.m3u8:ABC Kids*
+#DESCRIPTION ABC Kids*
+#SERVICE 4097:0:1:EFA3:67C8:EC:0:0:0:0:https%3a//d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8:Ausbiz TV
+#DESCRIPTION Ausbiz TV
+#SERVICE 5002:0:1:4720:3FDE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//bloomberg-bloomberg-2-au.samsung.wurl.tv/playlist.m3u8:Bloomberg*
+#DESCRIPTION Bloomberg*
+#SERVICE 4097:0:1:B272:BFC9:EC:0:0:0:0:https%3a//skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8:Sky News Australia Extra 1
+#DESCRIPTION Sky News Australia Extra 1
+#SERVICE 4097:0:1:0:11E:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64805611dc7a7600088e8557/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Aussie Drama (Pluto)
+#DESCRIPTION Aussie Drama (Pluto)
+#SERVICE 4097:0:1:AA58:BA41:EC:0:0:0:0:https%3a//d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8:C31 Melbourne Community TV
+#DESCRIPTION C31 Melbourne Community TV
+#SERVICE 4097:0:1:388D:284D:EC:0:0:0:0:https%3a//d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8:C44 Adelaide Community TV
+#DESCRIPTION C44 Adelaide Community TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Australia -SBS (geo Aus)-
+#DESCRIPTION Australia -SBS (geo Aus)-
+#SERVICE 5002:0:1:AD9C:19:56:300000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/sbs.m3u8:SBS Australia HD*
+#DESCRIPTION SBS Australia HD*
+#SERVICE 5002:0:1:56CE:446:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/sbs-world-movies.m3u8:SBS World Movies HD*
+#DESCRIPTION SBS World Movies HD*
+#SERVICE 5002:0:1:8235:19:56:300000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/sbs-viceland.m3u8:SBS Viceland HD*
+#DESCRIPTION SBS Viceland HD*
+#SERVICE 5002:0:1:270F:19:56:300000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/sbs-food.m3u8:SBS Food*
+#DESCRIPTION SBS Food*
+#SERVICE 5002:0:1:8D03:506E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/sbs-chill.m3u8:SBS Chill HD*
+#DESCRIPTION SBS Chill HD*
+#SERVICE 5002:0:1:D903:19:56:300000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/sbs-nitv.m3u8:NITV Australia HD*
+#DESCRIPTION NITV Australia HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Australia -7Plus TV (geo AUS)-
+#DESCRIPTION Australia -7Plus TV (geo AUS)-
+#SERVICE 5002:0:1:FD66:49BD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/seven-syd.m3u8:Seven HD*
+#DESCRIPTION Seven HD*
+#SERVICE 5002:0:1:E40A:22D9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/7two-syd.m3u8:7 Two HD*
+#DESCRIPTION 7 Two HD*
+#SERVICE 5002:0:1:5E2A:7DBD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/7flix-syd.m3u8:7 Flix HD*
+#DESCRIPTION 7 Flix HD*
+#SERVICE 5002:0:1:37FE:23FE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/7mate-syd.m3u8:7 Mate HD*
+#DESCRIPTION 7 Mate HD*
+#SERVICE 5002:0:1:C712:B59A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/7now-FAST.m3u8:7 Now HD*
+#DESCRIPTION 7 Now HD*
+#SERVICE 5002:0:1:68A6:7906:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/7bravo-FAST.m3u8:7 Bravo HD*
+#DESCRIPTION 7 Bravo HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::New Zealand
+#DESCRIPTION New Zealand
+#SERVICE 4097:0:1:270F:300C:13E:820000:0:0:0:https%3a//ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index_4.m3u8:Parliament TV
+#DESCRIPTION Parliament TV
+#SERVICE 4097:0:1:309:C:85:FFFF0000:0:0:0:https%3a//tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8:TVSN Shopping
+#DESCRIPTION TVSN Shopping
+#SERVICE 5002:0:1:DB4C:94FC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//juicex.nz/hls/mystream.m3u8%2520--http-header%2520"Referer=https%3a//mood.live/":Juice Music*
+#DESCRIPTION Juice Music*
+#SERVICE 5002:0:1:270F:9CA4:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/maori-tv.m3u8:Whakaata Māori Television HD*
+#DESCRIPTION Whakaata Māori Television HD*
+#SERVICE 5002:0:1:8235:457:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/te-reo.m3u8:Te Reo HD*
+#DESCRIPTION Te Reo HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::New Zealand (geo NZ)
+#DESCRIPTION New Zealand (geo NZ)
+#SERVICE 5002:0:1:3789:B9E8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/tvnz-1.m3u8:TVNZ 1 HD*
+#DESCRIPTION TVNZ 1 HD*
+#SERVICE 5002:0:1:15C1:A7A3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/tvnz-2.m3u8:TVNZ 2 HD*
+#DESCRIPTION TVNZ 2 HD*
+#SERVICE 5002:0:1:3D43:5DF1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/tvnz-duke.m3u8:TVNZ Duke HD*
+#DESCRIPTION TVNZ Duke HD*
+#SERVICE 5002:0:1:2276:53E3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//i.mjh.nz/.r/three.m3u8:Three HD*
+#DESCRIPTION Three HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::AFRICA
+#DESCRIPTION AFRICA
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Pan-African
+#DESCRIPTION Pan-African
+#SERVICE 4097:0:1:C8F:D763:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//edge11.vedge.infomaniak.com/livecast/ik%3aafrica24/manifest.m3u8:Africa 24 TV*
+#DESCRIPTION Africa 24 TV*
+#SERVICE 4097:0:1:541D:93DC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=NQjabLGdP5g:Africanews HD*
+#DESCRIPTION Africanews HD*
+#SERVICE 4097:0:1:7D13:726E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8dicii:Ubiznews OM5*
+#DESCRIPTION Ubiznews OM5*
+#SERVICE 4097:0:1:C6C8:82A:2:11A0000:0:0:0:https%3a//1927901613.rsc.cdn77.org/1927901613/index.m3u8:Vox Africa
+#DESCRIPTION Vox Africa
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Algeria
+#DESCRIPTION Algeria
+#SERVICE 4097:0:1:FF36:6A4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@AlmagharibiaTv/live:Al Magharibia*
+#DESCRIPTION Al Magharibia*
+#SERVICE 4097:0:1:CDFE:A52:EC:0:0:0:0:https%3a//live.creacast.com/cna/stream/playlist.m3u8:Chaîne Nord-Africaine
+#DESCRIPTION Chaîne Nord-Africaine
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Angola
+#DESCRIPTION Angola
+#SERVICE 4097:0:1:9D0E:140A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TPAOficial/live:TPA Notícias*
+#DESCRIPTION TPA Notícias*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Benin
+#DESCRIPTION Benin
+#SERVICE 5002:0:1:7D6C:3589:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strhlslb01.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8:ORTB*
+#DESCRIPTION ORTB*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Burkina Faso
+#DESCRIPTION Burkina Faso
+#SERVICE 4097:0:1:EEC1:5CDB:EC:0:0:0:0:https%3a//edge14.vedge.infomaniak.com/livecast/ik%3artblive1_8/manifest.m3u8:RTB TV
+#DESCRIPTION RTB TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Cameroon
+#DESCRIPTION Cameroon
+#SERVICE 4097:0:1:5764:CDD4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8t0282:Canal 2 Int.*
+#DESCRIPTION Canal 2 Int.*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Congo (DR)
+#DESCRIPTION Congo (DR)
+#SERVICE 4097:0:1:5ADF:7782:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8azdkm:Emci HD*
+#DESCRIPTION Emci HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Egypt
+#DESCRIPTION Egypt
+#SERVICE 4097:0:1:7A8:451:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8lr1r8:Nile TV*
+#DESCRIPTION Nile TV*
+#SERVICE 4097:0:1:B0DD:D615:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8n6e3a:Nile Drama*
+#DESCRIPTION Nile Drama*
+#SERVICE 4097:0:1:88B3:ADD2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x84nwne:Nile News*
+#DESCRIPTION Nile News*
+#SERVICE 4097:0:1:A54:DD6E:EC:0:0:0:0:https%3a//shls-live-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8:MBC Masr 1 HD
+#DESCRIPTION MBC Masr 1 HD
+#SERVICE 4097:0:1:32C5:54FD:EC:0:0:0:0:https%3a//shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:MBC Masr 2 HD
+#DESCRIPTION MBC Masr 2 HD
+#SERVICE 4097:0:1:FFE0:6014:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x856hbh:ERTU 1 HD*
+#DESCRIPTION ERTU 1 HD*
+#SERVICE 4097:0:1:1E54:24A5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@extranewsstream/live:eXtra News HD*
+#DESCRIPTION eXtra News HD*
+#SERVICE 4097:0:1:9E18:314E:EC:0:0:0:0:https%3a//5b622f07944df.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8:Coptic TV
+#DESCRIPTION Coptic TV
+#SERVICE 4097:0:1:7B90:7BC7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x84nun4:ESC America*
+#DESCRIPTION ESC America*
+#SERVICE 4097:0:1:2875:58F1:EC:0:0:0:0:https%3a//rp.tactivemedia.com/watantv_source/live/playlist.m3u8:Watan TV
+#DESCRIPTION Watan TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Eswatini
+#DESCRIPTION Eswatini
+#SERVICE 4097:0:1:C7B0:5266:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@eswatini_tv/live:Eswatini TV (not 24/7)*
+#DESCRIPTION Eswatini TV (not 24/7)*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Ethiopia
+#DESCRIPTION Ethiopia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8:Addis TV
+#DESCRIPTION Addis TV
+#SERVICE 4097:0:1:D227:F1C6:EC:0:0:0:0:https%3a//live.zergaw.et/hls/1234.m3u8:Walta TV
+#DESCRIPTION Walta TV
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Gabon
+#DESCRIPTION Gabon
+#SERVICE 4097:0:1:712C:762:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvgabon24/live:Gabon 24 HD*
+#DESCRIPTION Gabon 24 HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Gambia
+#DESCRIPTION Gambia
+#SERVICE 5002:0:1:784A:83E7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//player.qtv.gm/hls/live.stream.m3u8:QTV*
+#DESCRIPTION QTV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Ghana
+#DESCRIPTION Ghana
+#SERVICE 4097:0:1:223D:3F2:39E:1860000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@myjoyonline/live:Joy TV News*
+#DESCRIPTION Joy TV News*
+#SERVICE 4097:0:1:6613:CD72:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@AdomTVGH/live:Adom TV*
+#DESCRIPTION Adom TV*
+#SERVICE 5002:0:1:BA83:87ED:EC:0:0:0:0:https%3a//livetv.tvait.com%3a1935/hls/stream1.m3u8:AIT TV
+#DESCRIPTION AIT TV
+#SERVICE 4097:0:1:9F82:BCFB:EC:0:0:0:0:https%3a//2ctv.crystaltv.mobi%3a44095/tv877.167.m3u8:Citi TV
+#DESCRIPTION Citi TV
+#SERVICE 4097:0:1:2590:9E24:EC:0:0:0:0:https%3a//livestream.anojed.com/app/link.stream/playlist.m3u8:Mogpa TV
+#DESCRIPTION Mogpa TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Guinea
+#DESCRIPTION Guinea
+#SERVICE 4097:0:1:8C55:7561:EC:0:0:0:0:https%3a//kali.vdopanel.com%3a3119/hybrid/play.m3u8:Afrik Info TV
+#DESCRIPTION Afrik Info TV
+#SERVICE 4097:0:1:91A4:2F93:EC:0:0:0:0:https%3a//edge11.vedge.infomaniak.com/livecast/ik%3aespacetv/manifest.m3u8:Espace TV Guinea
+#DESCRIPTION Espace TV Guinea
+#SERVICE 4097:0:1:4534:EB0D:EC:0:0:0:0:https%3a//edge16.vedge.infomaniak.com/livecast/ik%3akalactv/manifest.m3u8:Kalac TV Guinea
+#DESCRIPTION Kalac TV Guinea
+#SERVICE 4097:0:1:BBDB:4A8E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x655zsl :Guinée Buzz*
+#DESCRIPTION Guinée Buzz*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Ivory Coast
+#DESCRIPTION Ivory Coast
+#SERVICE 4097:0:1:B382:E73:EC:0:0:0:0:https%3a//www.enovativecdn.com/rticdn/smil%3arti1.smil/playlist.m3u8:RTI 1
+#DESCRIPTION RTI 1
+#SERVICE 4097:0:1:8138:26BB:EC:0:0:0:0:https%3a//www.enovativecdn.com/rticdn/smil%3arti2.smil/playlist.m3u8:RTI 2
+#DESCRIPTION RTI 2
+#SERVICE 4097:0:1:F190:5FBD:EC:0:0:0:0:https%3a//video1.getstreamhosting.com%3a1936/8244/8244/playlist.m3u8:Ivoire Channel
+#DESCRIPTION Ivoire Channel
+#SERVICE 4097:0:1:C7CE:67BA:EC:0:0:0:0:https%3a//strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8:NTV HD
+#DESCRIPTION NTV HD
+#SERVICE 4097:0:1:4592:9EEE:EC:0:0:0:0:https%3a//cdn-globecast.akamaized.net/live/eds/benie_tv/hls_video/index.m3u8:Benie TV
+#DESCRIPTION Benie TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Kenya
+#DESCRIPTION Kenya
+#SERVICE 4097:0:1:2EA8:241B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livecdn.premiumfree.tv/or2/abr/k24Sport/playlist.m3u8:K24 HD*
+#DESCRIPTION K24 HD*
+#SERVICE 4097:0:1:5175:4578:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCKVsdeoHExltrWMuK0hOWmg/live:KTN News*
+#DESCRIPTION KTN News*
+#SERVICE 4097:0:1:D2E4:CACA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ok.ru/video/2352940981899:Look Up TV*
+#DESCRIPTION Look Up TV*
+#SERVICE 4097:0:1:3D7C:9302:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@ntvkenyaonline/live:NTV Kenya*
+#DESCRIPTION NTV Kenya*
+#SERVICE 4097:0:1:AB5C:B4E8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@kenyacitizentv/live:Citizen TV*
+#DESCRIPTION Citizen TV*
+#SERVICE 4097:0:1:9941:9088:EC:0:0:0:0:https%3a//goliveafrica.media%3a9998/live/647460ac1ddd6/index.m3u8:GBS TV
+#DESCRIPTION GBS TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Libya
+#DESCRIPTION Libya
+#SERVICE 4097:0:1:1A8F:A4F4:EC:0:0:0:0:https%3a//starmenajo.com/hls/almasar/index.m3u8:Al Masar TV
+#DESCRIPTION Al Masar TV
+#SERVICE 4097:0:1:147E:3729:EC:0:0:0:0:https%3a//cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8:Al Wataniya
+#DESCRIPTION Al Wataniya
+#SERVICE 4097:0:1:CCDC:F394:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/libyaonetv:Libya 1*
+#DESCRIPTION Libya 1*
+#SERVICE 4097:0:1:F56:1071:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tip.stream.tanasuh.tv%3a4434/live/smil%3atanasuhtv.smil/manifest.mpd --http-header "Referer=https%3a//live.tanasuh.tv/":Tanasuh TV*
+#DESCRIPTION Tanasuh TV*
+#SERVICE 4097:0:1:4A99:9ACB:EC:0:0:0:0:https%3a//master.starmena-cloud.com/hls/jam.m3u8:Aljamahiriya TV
+#DESCRIPTION Aljamahiriya TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Madagascar
+#DESCRIPTION Madagascar
+#SERVICE 4097:0:1:A6EE:1D51:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kolotvlive:Kolo TV HD*
+#DESCRIPTION Kolo TV HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Malawi
+#DESCRIPTION Malawi
+#SERVICE 4097:0:1:5C5E:B90E:EC:0:0:0:0:https%3a//glb.bozztv.com/glb/ssh101/kwacha/index.m3u8:MBC Malawi 1
+#DESCRIPTION MBC Malawi 1
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mayotte (FR)
+#DESCRIPTION Mayotte (FR)
+#SERVICE 4097:0:1:1DD8:861:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/chiconifmtv976:Chiconi FM*
+#DESCRIPTION Chiconi FM*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mauretania
+#DESCRIPTION Mauretania
+#SERVICE 4097:0:1:EE9:7E52:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@mauritaniantv/live:Télévision de Mauritanie*
+#DESCRIPTION Télévision de Mauritanie*
+#SERVICE 4097:0:1:84ED:122E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/elmedina_network:El Medina*
+#DESCRIPTION El Medina*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Morocco
+#DESCRIPTION Morocco
+#SERVICE 4097:0:1:CC5B:5A64:EC:0:0:0:0:https%3a//67aac8c668349.streamlock.net/live/ngrp%3aLive2.stream_all/playlist.m3u8:M24 HD
+#DESCRIPTION M24 HD
+#SERVICE 4097:0:1:3:2E18:B0:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8 --http-header "Referer=https%3a//snrtlive.ma/":TV 1 Al Aoula*
+#DESCRIPTION TV 1 Al Aoula*
+#SERVICE 4097:0:1:2:2E18:B0:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/playlist_dvr.m3u8 --http-header "Referer=https%3a//snrtlive.ma/":TV 1 Laayoune*
+#DESCRIPTION TV 1 Laayoune*
+#SERVICE 4097:0:1:A:2E18:B0:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8 --http-header "Referer=https%3a//snrtlive.ma/":TV 3 Arrydia*
+#DESCRIPTION TV 3 Arrydia*
+#SERVICE 4097:0:1:4:2E18:B0:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.live.easybroadcast.io/abr_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8 --http-header "Referer=https%3a//snrtlive.ma/":TV 4 Athaqafia*
+#DESCRIPTION TV 4 Athaqafia*
+#SERVICE 4097:0:1:1:2E18:B0:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/playlist_dvr.m3u8 --http-header "Referer=https%3a//snrtlive.ma/":TV 5 Al Maghribia*
+#DESCRIPTION TV 5 Al Maghribia*
+#SERVICE 4097:0:1:6:2E18:B0:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/playlist_dvr.m3u8 --http-header "Referer=https%3a//snrtlive.ma/":TV 6 Assadissa*
+#DESCRIPTION TV 6 Assadissa*
+#SERVICE 4097:0:1:D6BA:DCEB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn.live.easybroadcast.io/abr_corp/73_tamazight_tccybxt/playlist_dvr.m3u8 --http-header "Referer=https%3a//snrtlive.ma/":TV 8 Tamazight*
+#DESCRIPTION TV 8 Tamazight*
+#SERVICE 4097:0:1:8:2E18:B0:820000:0:0:0:https%3a//streaming1.medi1tv.com/live/smil%3amedi1tv.smil/playlist.m3u8:Medi 1 Maghreb
+#DESCRIPTION Medi 1 Maghreb
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mozambique
+#DESCRIPTION Mozambique
+#SERVICE 4097:0:1:B21A:67AB:EC:0:0:0:0:http%3a//online.tvm.co.mz%3a1935/live/smil%3aChannel1.smil/playlist.m3u8:TVM
+#DESCRIPTION TVM
+#SERVICE 4097:0:1:C23F:8612:EC:0:0:0:0:https%3a//w2.manasat.com/tvmana-mz/smil%3atvmana-mz.smil/playlist.m3u8:TV Maná Mozambique
+#DESCRIPTION TV Maná Mozambique
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Nigeria
+#DESCRIPTION Nigeria
+#SERVICE 4097:0:1:31F6:91B6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=dfB0qmJo1eM:Channels TV*
+#DESCRIPTION Channels TV*
+#SERVICE 4097:0:1:53DC:F156:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@NewsCentralAfrica/live:News Central TV HD*
+#DESCRIPTION News Central TV HD*
+#SERVICE 4097:0:1:C6CF:82A:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvcnewsnigeria/live:TVC News*
+#DESCRIPTION TVC News*
+#SERVICE 4097:0:1:4993:CA03:EC:0:0:0:0:https%3a//newproxy.vidivu.tv/TNTTV_SRT_input/index.m3u8:TNT TV
+#DESCRIPTION TNT TV
+#SERVICE 4097:0:1:2D87:4894:EC:0:0:0:0:https%3a//newproxy3.vidivu.tv/waptv/index.m3u8:Wap TV
+#DESCRIPTION Wap TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Reunion (FR)
+#DESCRIPTION Reunion (FR)
+#SERVICE 4097:0:1:72B2:5499:EC:0:0:0:0:https%3a//live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01:Antenne Reunion
+#DESCRIPTION Antenne Reunion
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Rwanda
+#DESCRIPTION Rwanda
+#SERVICE 4097:0:1:16DF:BBAE:EC:0:0:0:0:https%3a//tv.btnrwanda.com%3a3086/live/btnlive.m3u8:BTN
+#DESCRIPTION BTN
+#SERVICE 4097:0:1:203A:1CC8:EC:0:0:0:0:https%3a//tv.btnrwanda.com%3a3432/live/bpluslive.m3u8:BPlus TV
+#DESCRIPTION BPlus TV
+#SERVICE 4097:0:1:2718:0:0:0:0:0:0:http%3a//197.243.19.131%3a1935/rtv/rtv/chunklist_w2093872577.m3u8:RTV Ruanda
+#DESCRIPTION RTV Ruanda
+#SERVICE 4097:0:1:CEBF:FD05:EC:0:0:0:0:https%3a//5c46fa289c89f.streamlock.net/kc2/kc2/playlist.m3u8:KC 2
+#DESCRIPTION KC 2
+#SERVICE 4097:0:1:BC43:2C08:EC:0:0:0:0:https%3a//5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8:Isibo TV
+#DESCRIPTION Isibo TV
+#SERVICE 4097:0:1:CFA:7C9:EC:0:0:0:0:https%3a//5c46fa289c89f.streamlock.net/pub1live/mystream/playlist.m3u8:TV 10
+#DESCRIPTION TV 10
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Senegal
+#DESCRIPTION Senegal
+#SERVICE 4097:0:1:C6AD:423A:EC:0:0:0:0:https%3a//stream.sen-gt.com/A2itv/myStream/chunklist_w826244974.m3u8   :A2i TV
+#DESCRIPTION A2i TV
+#SERVICE 4097:0:1:2BEE:A11:EC:0:0:0:0:https%3a//stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8:A2i Music
+#DESCRIPTION A2i Music
+#SERVICE 4097:0:1:DCB:3E25:EC:0:0:0:0:https%3a//stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8:A2i Religion
+#DESCRIPTION A2i Religion
+#SERVICE 4097:0:1:BD2D:77E:EC:0:0:0:0:http%3a//51.81.109.113%3a1935/Livemouridetv/mouridetv/playlist.m3u8:Mouride TV
+#DESCRIPTION Mouride TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Somalia
+#DESCRIPTION Somalia
+#SERVICE 4097:0:1:4718:F91B:EC:0:0:0:0:https%3a//ap02.iqplay.tv%3a8082/iqb8002/s4ne/playlist.m3u8   :SNTV Somalia
+#DESCRIPTION SNTV Somalia
+#SERVICE 1:64:0:0:0:0:0:0:0:0::South Africa
+#DESCRIPTION South Africa
+#SERVICE 4097:0:1:B681:E575:EC:0:0:0:0:https%3a//cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8:LN24SA TV
+#DESCRIPTION LN24SA TV
+#SERVICE 4097:0:1:5B5B:B5FF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Cnbcafrica410/live:CNBC Africa*
+#DESCRIPTION CNBC Africa*
+#SERVICE 4097:0:1:BFAF:999C:EC:0:0:0:0:https%3a//cdn149.anystream.uk%3a8082/app/h199ltv/playlist.m3u8:Hilaal TV
+#DESCRIPTION Hilaal TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sudan
+#DESCRIPTION Sudan
+#SERVICE 4097:0:1:4609:B6A5:EC:0:0:0:0:http%3a//africatv.live.net.sa%3a1935/live/africatv/playlist.m3u8:Africa TV 1
+#DESCRIPTION Africa TV 1
+#SERVICE 4097:0:1:B0B3:5F2F:EC:0:0:0:0:http%3a//africatv.live.net.sa%3a1935/live/africatv2/playlist.m3u8:Africa TV 2
+#DESCRIPTION Africa TV 2
+#SERVICE 4097:0:1:324:E31:EC:0:0:0:0:http%3a//africatv.live.net.sa%3a1935/live/africatv3/playlist.m3u8:Africa TV 3
+#DESCRIPTION Africa TV 3
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Tanzania
+#DESCRIPTION Tanzania
+#SERVICE 4097:0:1:F19A:C57E:EC:0:0:0:0:http%3a//138.68.138.119%3a8080/live/5a8993709ea19/index.m3u8:IBN TV
+#DESCRIPTION IBN TV
+#SERVICE 4097:0:1:9F2D:6742:EC:0:0:0:0:https%3a//live.zbc.go.tz%3a5443/LiveApp/streams/zbctv.m3u8:ZBC
+#DESCRIPTION ZBC
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Togo
+#DESCRIPTION Togo
+#SERVICE 5002:0:1:934C:CA4B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls.newworldtv.com/nw-info-2/video/live.m3u8:NW Info English*
+#DESCRIPTION NW Info English*
+#SERVICE 5002:0:1:45C:F5FD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls.newworldtv.com/nw-info/video/live.m3u8:NW Info Français*
+#DESCRIPTION NW Info Français*
+#SERVICE 5002:0:1:CBA1:EC0C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls.newworldtv.com/nw-magazine/video/live.m3u8:NW Magazin*
+#DESCRIPTION NW Magazin*
+#SERVICE 4097:0:1:7F39:BFDB:EC:0:0:0:0:https%3a//wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8:SOS Docteur
+#DESCRIPTION SOS Docteur
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Tunesia
+#DESCRIPTION Tunesia
+#SERVICE 4097:0:1:4:1A:88:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCdvWVsmQBROkgcGzVep73oA/live:Watania 1*
+#DESCRIPTION Watania 1*
+#SERVICE 4097:0:1:F610:27FA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Watania2Replay/live:Watania 2*
+#DESCRIPTION Watania 2*
+#SERVICE 4097:0:1:D903:11CA:EC:0:0:0:0:https%3a//streaming.toutech.net/live/jtv/index.m3u8:Jawhara TV
+#DESCRIPTION Jawhara TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Uganda
+#DESCRIPTION Uganda
+#SERVICE 5002:0:1:AC1:3014:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.hydeinnovations.com/bukedde1flussonic/index.m3u8:Bukedde 1*
+#DESCRIPTION Bukedde 1*
+#SERVICE 5002:0:1:9C6:245B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.hydeinnovations.com/bukedde2flussonic/index.m3u8:Bukedde 2*
+#DESCRIPTION Bukedde 2*
+#SERVICE 4097:0:1:FECA:6FA7:EC:0:0:0:0:https%3a//stream.hydeinnovations.com/tvwest-flussonic/index.m3u8:TV West
+#DESCRIPTION TV West
+#SERVICE 4097:0:1:B5EE:4528:EC:0:0:0:0:https%3a//stream.hydeinnovations.com/luotv-flussonic/index.m3u8:Wan Luo TV
+#DESCRIPTION Wan Luo TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Western Sahara
+#DESCRIPTION Western Sahara
+#SERVICE 5002:0:1:84F5:5F8D:EC:0:0:0:0:https%3a//cloud.streamingconnect.tv/hls/rasdtv/rasdtv.m3u8:RASD TV Polisario Front
+#DESCRIPTION RASD TV Polisario Front
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ASIA
+#DESCRIPTION ASIA
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Afghanistan
+#DESCRIPTION Afghanistan
+#SERVICE 4097:0:1:B3AF:F3C3:EC:0:0:0:0:https%3a//d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8:Ariana News
+#DESCRIPTION Ariana News
+#SERVICE 4097:0:1:313:0:0:0:0:0:0:https%3a//5caf24a595d94.streamlock.net%3a1937/8132/8132/playlist.m3u8:Watan E Maa TV
+#DESCRIPTION Watan E Maa TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Armenia
+#DESCRIPTION Armenia
+#SERVICE 4097:0:1:26:0:0:0:0:0:0:https%3a//amtv.tulixcdn.com/amtv2/am2abr/index.m3u8:Armenia 1
+#DESCRIPTION Armenia 1
+#SERVICE 4097:0:1:B28:4DFD:EC:0:0:0:0:https%3a//amtvusdvr.tulix.tv/am3abr/index.m3u8:First Channel News
+#DESCRIPTION First Channel News
+#SERVICE 5002:0:1:87C3:731B:EC:0:0:0:0:http%3a//hls.atvmedia.ru/atv800.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Azerbaijan
+#DESCRIPTION Azerbaijan
+#SERVICE 4097:0:1:25F2:11E1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@bakutv/live:Baku TV HD*
+#DESCRIPTION Baku TV HD*
+#SERVICE 4097:0:1:F054:521:D:0:0:0:0:https%3a//stream.cbctv.az%3a5443/LiveApp/streams/cbctv.m3u8:CBC
+#DESCRIPTION CBC
+#SERVICE 4097:0:1:E4EE:7267:EC:0:0:0:0:http%3a//85.132.53.162%3a1935/live/eltv/playlist.m3u8:El TV
+#DESCRIPTION El TV
+#SERVICE 4097:0:1:68F2:6E8B:EC:0:0:0:0:http%3a//rtmp.apa.tv/@pagroup!23.m3u8:APA TV
+#DESCRIPTION APA TV
+#SERVICE 5002:0:1:1986:9EBF:EC:0:0:0:0:https%3a//str.yodacdn.net/aztv/index.m3u8:Az TV
+#DESCRIPTION Az TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bangladesh
+#DESCRIPTION Bangladesh
+#SERVICE 4097:0:1:EC54:BBE1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@channel24digital/live:Channel 24*
+#DESCRIPTION Channel 24*
+#SERVICE 4097:0:1:9082:8B8F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@RtvNews/live:RTV News*
+#DESCRIPTION RTV News*
+#SERVICE 4097:0:1:9E8A:4C58:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@somoynews360/live:Somoy TV Live*
+#DESCRIPTION Somoy TV Live*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Brunei
+#DESCRIPTION Brunei
+#SERVICE 4097:0:1:3038:23:56:310000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d1211whpimeups.cloudfront.net/smil%3artb1/playlist.m3u8 --http-header "Referer=https%3a//www.rtbgo.bn/":RTB Sukmaindera HD*
+#DESCRIPTION RTB Sukmaindera HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Cambodia
+#DESCRIPTION Cambodia
+#SERVICE 5002:0:1:BFA7:6189:EC:0:0:0:0:https%3a//streaming.freshnewsasia.com/live/ngrp%3amyStream_all/playlist.m3u8:Fresh News HD
+#DESCRIPTION Fresh News HD
+#SERVICE 4097:0:1:95DC:A618:EC:0:0:0:0:http%3a//202.62.56.22%3a8080/hls/MOITV.m3u8:MOI TV
+#DESCRIPTION MOI TV
+#SERVICE 4097:0:1:8CEE:1062:EC:0:0:0:0:https%3a//live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8:TVK
+#DESCRIPTION TVK
+#SERVICE 4097:0:1:6C28:69C4:EC:0:0:0:0:https%3a//live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8:TVK 2
+#DESCRIPTION TVK 2
+#SERVICE 1:64:0:0:0:0:0:0:0:0::China(s)
+#DESCRIPTION China(s)
+#SERVICE 4097:0:1:367:3C28:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@LiveNow24H/live:CCTV 4 HD*
+#DESCRIPTION CCTV 4 HD*
+#SERVICE 4097:0:1:161:19C8:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@phoenixtvhk/live:Phoenix HD*
+#DESCRIPTION Phoenix HD*
+#SERVICE 4097:0:1:EB53:9B0B:EC:0:0:0:0:https%3a//globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8:Teledifusão de Macau
+#DESCRIPTION Teledifusão de Macau
+#SERVICE 4097:0:1:A0D7:4AD4:EC:0:0:0:0:https%3a//globallive.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8:Teledifusão de Macau Information
+#DESCRIPTION Teledifusão de Macau Information
+#SERVICE 4097:0:1:D915:E9CB:EC:0:0:0:0:https%3a//globallive.tdm.com.mo/ch1/ch1.live/playlist.m3u8:Teledifusão de Macau Ou Mun
+#DESCRIPTION Teledifusão de Macau Ou Mun
+#SERVICE 4097:0:1:5D2:2A94:EC:0:0:0:0:https%3a//globallive.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8:Teledifusão de Macau Sport
+#DESCRIPTION Teledifusão de Macau Sport
+#SERVICE 4097:0:1:CC2C:E56F:EC:0:0:0:0:https%3a//globallive.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8:Teledifusão de Macau Variety
+#DESCRIPTION Teledifusão de Macau Variety
+#SERVICE 4097:0:1:3F23:991F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@newsebc/live:EBC News HD Taiwan*
+#DESCRIPTION EBC News HD Taiwan*
+#SERVICE 4097:0:1:5418:158E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@FTV_News/live:Taiwan Formosa News HD*
+#DESCRIPTION Taiwan Formosa News HD*
+#SERVICE 4097:0:1:348F:B5F6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@setnews/live:Set Live News HD Taiwan*
+#DESCRIPTION Set Live News HD Taiwan*
+#SERVICE 4097:0:1:8932:878A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TTV_NEWS/live:TTV HD Taiwan*
+#DESCRIPTION TTV HD Taiwan*
+#SERVICE 4097:0:1:1BC:7:AA:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvbsnews02/live:TVBS 56 Taiwan HD*
+#DESCRIPTION TVBS 56 Taiwan HD*
+#SERVICE 4097:0:1:799A:D48E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x5crdro:Da Ai Buddhist TV Taiwan*
+#DESCRIPTION Da Ai Buddhist TV Taiwan*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Georgia
+#DESCRIPTION Georgia
+#SERVICE 4097:0:1:2139:1:36E:1680000:0:0:0:http%3a//tv.cdn.xsg.ge/gpb-1tv/index.m3u8?validation=1&amp;alternative_source=https%3a//www.youtube.com/watch?v=STFHjlbzx8o&feature=youtu.be:1 TV Arkhi
+#DESCRIPTION 1 TV Arkhi
+#SERVICE 4097:0:1:D:7594:36E:1680000:0:0:0:https%3a//livestream.palitra.ge/hls/palitratv/index.m3u8:Palitra News
+#DESCRIPTION Palitra News
+#SERVICE 4097:0:1:593D:9143:EC:0:0:0:0:https%3a//c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v2a1/mono.m3u8:Formula TV
+#DESCRIPTION Formula TV
+#SERVICE 4097:0:1:31DA:8079:EC:0:0:0:0:https%3a//tv.cdn.xsg.ge/imedihd/index.m3u8:Imedi TV
+#DESCRIPTION Imedi TV
+#SERVICE 4097:0:1:ECDE:A76E:EC:0:0:0:0:https%3a//rpn.bozztv.com/cus01/gin-mtavariarxi/index.m3u8:Mtavari Arkhi TV
+#DESCRIPTION Mtavari Arkhi TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Georgia (Abkhazia)
+#DESCRIPTION Georgia (Abkhazia)
+#SERVICE 5002:0:1:4144:D1F2:EC:0:0:0:0:https%3a//public.apsny.camera/tv_abaza_tv_to_site/index.m3u8:Abaza TV
+#DESCRIPTION Abaza TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::India
+#DESCRIPTION India
+#SERVICE 4097:0:1:FD2F:F577:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@DDIndia/live:DD India*
+#DESCRIPTION DD India*
+#SERVICE 4097:0:1:8E0A:D864:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@DDKisan/live:DD Kisan*
+#DESCRIPTION DD Kisan*
+#SERVICE 4097:0:1:8E0A:D864:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@DDNews/live:DD News*
+#DESCRIPTION DD News*
+#SERVICE 4097:0:1:20B9:1ED6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@SansadTV/live:Sansad TV Lok Sabha Parliament*
+#DESCRIPTION Sansad TV Lok Sabha Parliament*
+#SERVICE 4097:0:1:6D02:7243:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/yNRrz0sfQVqnHctUEq9dZg/master.m3u8:Garv Punjab Gurbani (Sikh) TV
+#DESCRIPTION Garv Punjab Gurbani (Sikh) TV
+#SERVICE 4097:0:1:3034:C9:1:312F75:0:0:0:https%3a//indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8:India Today
+#DESCRIPTION India Today
+#SERVICE 4097:0:1:D74C:82F:2:11A0000:0:0:0:https%3a//ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8:NDTV 24x7
+#DESCRIPTION NDTV 24x7
+#SERVICE 4097:0:1:7213:D81A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@News18Kannada/live:News 18 Kannada*
+#DESCRIPTION News 18 Kannada*
+#SERVICE 5002:0:1:B69:2AF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@RepublicWorld/live:Republic TV*
+#DESCRIPTION Republic TV*
+#SERVICE 4097:0:1:5AC0:82A:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.yupptv.com/channels/swasthik-tv/live:Swasthik TV*
+#DESCRIPTION Swasthik TV*
+#SERVICE 4097:0:1:B07E:707A:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/jyAhWsXeQjKtvXWsYd2vHA/master.m3u8:Swar Shree - Spiritual TV
+#DESCRIPTION Swar Shree - Spiritual TV
+#SERVICE 4097:0:1:457:1D36:1D36:2030000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TV9GujaratiNews/live:TV9 Gujarati HD*
+#DESCRIPTION TV9 Gujarati HD*
+#SERVICE 4097:0:1:2B67:19:56:310000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@zeenews/live:Zee News*
+#DESCRIPTION Zee News*
+#SERVICE 4097:0:1:8AAB:BCA6:EC:0:0:0:0:http%3a//media.7starcloud.com%3a1935/live/7star/playlist.m3u8:Star 7 HD India
+#DESCRIPTION Star 7 HD India
+#SERVICE 4097:0:1:749C:B963:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@VanithaTV/live:Vanitha Women TV Telugu*
+#DESCRIPTION Vanitha Women TV Telugu*
+#SERVICE 4097:0:1:A:83D:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@telugufilmnagar/live:Telugu Mango Filmnagar India*
+#DESCRIPTION Telugu Mango Filmnagar India*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Indonesia
+#DESCRIPTION Indonesia
+#SERVICE 4097:0:1:5087:F21E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x748iuo:Aswaja TV*
+#DESCRIPTION Aswaja TV*
+#SERVICE 4097:0:1:8749:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.cnnindonesia.com/livecnn/smil%3acnntv.smil/playlist.m3u8:CNN Indonesia*
+#DESCRIPTION CNN Indonesia*
+#SERVICE 4097:0:1:C8B1:D0A7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/garvis_tv:Garuda TV*
+#DESCRIPTION Garuda TV*
+#SERVICE 4097:0:1:131E:7AF3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/kompastv/live:Kompas TV*
+#DESCRIPTION Kompas TV*
+#SERVICE 4097:0:1:385F:D53E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//edge.medcom.id/live-edge/smil%3amagna.smil/playlist.m3u8 --http-header "Referer=https%3a//www.vidio.com/":Magna TV*
+#DESCRIPTION Magna TV*
+#SERVICE 4097:0:1:689E:662:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@metrotvnews/live:Metro TV News*
+#DESCRIPTION Metro TV News*
+#SERVICE 4097:0:1:4B34:ED22:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.vidio.com/live/6166-oshop   :O Shop TV*
+#DESCRIPTION O Shop TV*
+#SERVICE 4097:0:1:597:EDCF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//video.detik.com/trans7/smil%3atrans7.smil/playlist.m3u8:Trans 7 TV*
+#DESCRIPTION Trans 7 TV*
+#SERVICE 4097:0:1:D19:1A79:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvOneNews/live:TV One News*
+#DESCRIPTION TV One News*
+#SERVICE 1:64:12:0:0:0:0:0:0:0::Israel
+#DESCRIPTION Israel
+#SERVICE 4097:0:1:2B67:C85:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8:Kan 11 HD*
+#DESCRIPTION Kan 11 HD*
+#SERVICE 4097:0:1:E1C5:97FA:EC:0:0:0:0:https%3a//kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8:Kan Kids
+#DESCRIPTION Kan Kids
+#SERVICE 4097:0:1:A1D5:407B:EC:0:0:0:0:https%3a//kneset.gostreaming.tv/p2-kneset/_definst_/myStream/playlist.m3u8:Knesset Channel
+#DESCRIPTION Knesset Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8:Channel 33 Makan
+#DESCRIPTION Channel 33 Makan
+#SERVICE 5002:0:1:A4D4:10E4:EC:0:0:0:0:http%3a//edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8:Channel 96 Kaballah
+#DESCRIPTION Channel 96 Kaballah
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8:Channel 97 Hidraboot
+#DESCRIPTION Channel 97 Hidraboot
+#SERVICE 4097:0:1:5B9E:25F1:EC:0:0:0:0:https%3a//ch14-channel14-content.akamaized.net/hls/live/2104807-b/CH14_CHANNEL14/master.m3u8:Now 14
+#DESCRIPTION Now 14
+#SERVICE 4097:0:1:B063:8D4:EC:0:0:0:0:https%3a//streaminglive.co.il%3a3730/live/raniamranilive.m3u8:Ran TV
+#DESCRIPTION Ran TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Japan
+#DESCRIPTION Japan
+#SERVICE 4097:0:1:16E4:3FCB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www3.nhk.or.jp/nhkworld/en/live/:NHK World HD*
+#DESCRIPTION NHK World HD*
+#SERVICE 4097:0:1:D1F:3911:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@ANNnewsCH/live:ANN News HD*
+#DESCRIPTION ANN News HD*
+#SERVICE 4097:0:1:6BC6:B75B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@htbnews/live:Hokkaido News HD*
+#DESCRIPTION Hokkaido News HD*
+#SERVICE 4097:0:1:4165:64E9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@KBCnewsCH/live:KBC News HD*
+#DESCRIPTION KBC News HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.shopch.jp/HLS/out1/prog_index.m3u8:Shop Channel
+#DESCRIPTION Shop Channel
+#SERVICE 4097:0:1:37DA:E3EF:EC:0:0:0:0:https%3a//cdn-live1.qvc.jp/iPhone/1501/1501.m3u8:QVC Japan HD
+#DESCRIPTION QVC Japan HD
+#SERVICE 4097:0:1:3A6A:C0A:EC:0:0:0:0:https%3a//fujitv4.mov3.co/hls/fujitv.m3u8:Fuji TV
+#DESCRIPTION Fuji TV
+#SERVICE 4097:0:1:11B3:87E5:EC:0:0:0:0:https%3a//hamada.gaki-no-tsukai.stream/hls/test.m3u8:Gaki no Tsukai
+#DESCRIPTION Gaki no Tsukai
+#SERVICE 4097:0:1:B828:5ABF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@NipponTVNews24Japan/live:NTV News 24*
+#DESCRIPTION NTV News 24*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Japan -Abema TV- geoblocked*
+#DESCRIPTION Japan -Abema TV- geoblocked*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::-allow some seconds-
+#DESCRIPTION -allow some seconds-
+#SERVICE 5002:0:1:9827:C3CB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/abema-special  :Abema Special HD*
+#DESCRIPTION Abema Special HD*
+#SERVICE 5002:0:1:F930:D44D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/special-plus  :Abema Special 2 HD*
+#DESCRIPTION Abema Special 2 HD*
+#SERVICE 5002:0:1:D1D2:CA4D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/drama   :Drama Channel HD*
+#DESCRIPTION Drama Channel HD*
+#SERVICE 5002:0:1:F05:2DFF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/drama-2:Drama Channel 2 HD*
+#DESCRIPTION Drama Channel 2 HD*
+#SERVICE 5002:0:1:3793:A572:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/asia-drama  :Asia Drama Channel HD*
+#DESCRIPTION Asia Drama Channel HD*
+#SERVICE 5002:0:1:3DFD:A7CD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/asia-drama-2  :Asia Drama Channel 2 HD*
+#DESCRIPTION Asia Drama Channel 2 HD*
+#SERVICE 5002:0:1:FBB5:F58:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/k-world  :K-World HD*
+#DESCRIPTION K-World HD*
+#SERVICE 5002:0:1:FADD:D5E2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/hiphop  :Hip Hop HD*
+#DESCRIPTION Hip Hop HD*
+#SERVICE 5002:0:1:5F41:7C36:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/fighting-sports  :Fighting Sports HD*
+#DESCRIPTION Fighting Sports HD*
+#SERVICE 5002:0:1:9CE7:4BBF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/world-sports  :World Sports HD*
+#DESCRIPTION World Sports HD*
+#SERVICE 5002:0:1:DDFD:91C2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/mahjong   :Mahjong TV HD*
+#DESCRIPTION Mahjong TV HD*
+#SERVICE 5002:0:1:39C:FAA2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/shogi:Shogi HD*
+#DESCRIPTION Shogi HD*
+#SERVICE 5002:0:1:18F0:C20F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/keirin-auto  :Keirin Auto Winticket HD*
+#DESCRIPTION Keirin Auto Winticket HD*
+#SERVICE 5002:0:1:9BC1:33E2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/commercial:Commercial HD*
+#DESCRIPTION Commercial HD*
+#SERVICE 5002:0:1:97EF:32CF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/abema-anime  :Anime 1 HD*
+#DESCRIPTION Anime 1 HD*
+#SERVICE 5002:0:1:5B0:DB48:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/abema-anime-2  :Anime 2 HD*
+#DESCRIPTION Anime 2 HD*
+#SERVICE 5002:0:1:A679:670A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/80s-anime-1:Anime 80s HD*
+#DESCRIPTION Anime 80s HD*
+#SERVICE 5002:0:1:A88A:7F2B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/90s-anime-1:Anime 90s HD*
+#DESCRIPTION Anime 90s HD*
+#SERVICE 5002:0:1:95C0:F7A7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/family-anime-1 :Anime Family HD*
+#DESCRIPTION Anime Family HD*
+#SERVICE 5002:0:1:9A84:1F4F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abema.tv/now-on-air/anime-live   :Anime Live 1 HD*
+#DESCRIPTION Anime Live 1 HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Jordan
+#DESCRIPTION Jordan
+#SERVICE 4097:0:1:DADC:2AFE:EC:0:0:0:0:https%3a//jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8:Jordan TV HD
+#DESCRIPTION Jordan TV HD
+#SERVICE 4097:0:1:8FD:B3C3:EC:0:0:0:0:https%3a//ghaasiflu.online/alhqeqa/index.m3u8:Alhaqeqa Aldawlia TV
+#DESCRIPTION Alhaqeqa Aldawlia TV
+#SERVICE 4097:0:1:7CA7:E182:EC:0:0:0:0:https%3a//ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8:Amman TV HD
+#DESCRIPTION Amman TV HD
+#SERVICE 5002:0:1:43CA:71:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//samson.streamerr.co%3a8081/hayatfm/index.m3u8:Hayat FM*
+#DESCRIPTION Hayat FM*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Kazakhstan
+#DESCRIPTION Kazakhstan
+#SERVICE 5002:0:1:C3F5:8403:EC:0:0:0:0:https%3a//24kz-srt.cdnvideo.ru/24kzsrt/24kzsrt/playlist.m3u8:24 Khabar HD
+#DESCRIPTION 24 Khabar HD
+#SERVICE 4097:0:1:11BB:75CF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8:Abai TV*
+#DESCRIPTION Abai TV*
+#SERVICE 4097:0:1:F052:521:D:0:0:0:0:https%3a//streams.qazcdn.net/live2/gyGP1ZhSAq/playlist.m3u8:Almaty TV
+#DESCRIPTION Almaty TV
+#SERVICE 4097:0:1:F016:521:D:0:0:0:0:https%3a//live-atameken.cdnvideo.ru/atameken/smil%3aatameken.smil/playlist.m3u8:Atameken Business TV
+#DESCRIPTION Atameken Business TV
+#SERVICE 4097:0:1:801E:F3B1:EC:0:0:0:0:https%3a//elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8:El Arna
+#DESCRIPTION El Arna
+#SERVICE 5002:0:1:121:0:0:0:0:0:0:http%3a//sc.id-tv.kz/7_kanal_34_35.m3u8:Kanal 7
+#DESCRIPTION Kanal 7
+#SERVICE 5002:0:1:F047:521:D:0:0:0:0:http%3a//sc.id-tv.kz/31Kanal.m3u8:Kanal 31
+#DESCRIPTION Kanal 31
+#SERVICE 4097:0:1:3039:1:1:168AEC9:0:0:0:http%3a//89.218.30.37/ktklive/live.hq/playlist.m3u8:KTK
+#DESCRIPTION KTK
+#SERVICE 5002:0:1:29:2F44:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8:Jibek Joly (Qazaq) TV HD*
+#DESCRIPTION Jibek Joly (Qazaq) TV HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Kazakhstan -regional-
+#DESCRIPTION Kazakhstan -regional-
+#SERVICE 4097:0:1:BAC2:70AA:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/oraltv/index.m3u8:Aqjaiyq TV
+#DESCRIPTION Aqjaiyq TV
+#SERVICE 4097:0:1:F60:87D2:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/aktobetv/index.m3u8:Aqtóbe TV
+#DESCRIPTION Aqtóbe TV
+#SERVICE 4097:0:1:8FDA:FDC2:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/pavlodartv/index.m3u8:Ertis TV
+#DESCRIPTION Ertis TV
+#SERVICE 4097:0:1:38D7:43CE:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/taraztv/index.m3u8:Jambyl TV
+#DESCRIPTION Jambyl TV
+#SERVICE 4097:0:1:DC3E:140B:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/kokshetautv/index.m3u8:Kókshe TV
+#DESCRIPTION Kókshe TV
+#SERVICE 4097:0:1:BCAB:3F3E:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/kostanaytv/index.m3u8:Qostanai' TV
+#DESCRIPTION Qostanai' TV
+#SERVICE 4097:0:1:AA76:954D:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/petropavltv/index.m3u8:Qyzyljar TV
+#DESCRIPTION Qyzyljar TV
+#SERVICE 4097:0:1:CE21:8D33:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/kyzylordatv/index.m3u8:Qyzylorda TV
+#DESCRIPTION Qyzylorda TV
+#SERVICE 4097:0:1:47E8:C154:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/karagandytv/index.m3u8:Saryarqa TV
+#DESCRIPTION Saryarqa TV
+#SERVICE 4097:0:1:B722:3519:EC:0:0:0:0:https%3a//stream.kaztrk.kz/regional/semeytv/index.m3u8:Semei TV
+#DESCRIPTION Semei TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Korea
+#DESCRIPTION Korea
+#SERVICE 4097:0:1:2B67:320:2BE:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tv.nknews.org/tvdash/stream.mpd:KCTV North Korea*
+#DESCRIPTION KCTV North Korea*
+#SERVICE 5002:0:1:2B67:320:2BE:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tv.nknews.org/tvdash/stream.mpd:KCTV North Korea*
+#DESCRIPTION KCTV North Korea*
+#SERVICE 4097:0:1:CF9E:83A:2:11A0000:0:0:3:https%3a//amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil%3aarirang_1ch.smil/playlist.m3u8:Arirang HD
+#DESCRIPTION Arirang HD
+#SERVICE 4097:0:1:10A:A901:EC:0:0:0:0:https%3a//vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8:KBC Korea
+#DESCRIPTION KBC Korea
+#SERVICE 4097:0:1:E92F:EA36:EC:0:0:0:0:http%3a//119.200.131.11%3a1935/KBCTV/tv/playlist.m3u8:KBC SBS
+#DESCRIPTION KBC SBS
+#SERVICE 4097:0:1:E000:AA0B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=OxQQsIvJTTU:KBS Korea*
+#DESCRIPTION KBS Korea*
+#SERVICE 4097:0:1:8C21:715F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@newskbs/live:KBS News 24 HD*
+#DESCRIPTION KBS News 24 HD*
+#SERVICE 4097:0:1:600D:A468:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@KBS_1Radio/live:KBS 1 Radio HD*
+#DESCRIPTION KBS 1 Radio HD*
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8:BTN TV Korea
+#DESCRIPTION BTN TV Korea
+#SERVICE 4097:0:1:6F:19:56:310000:0:0:0:https%3a//ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8:EBS 1
+#DESCRIPTION EBS 1
+#SERVICE 4097:0:1:2FC9:3F:46:132A58:0:0:0:https%3a//ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8:EBS 2
+#DESCRIPTION EBS 2
+#SERVICE 4097:0:1:B382:A50F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@hkwowtv/live:Gyeongje Economy TV HD*
+#DESCRIPTION Gyeongje Economy TV HD*
+#SERVICE 4097:0:1:2FC9:1F2:55:310000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@mtn/live:MTN HD*
+#DESCRIPTION MTN HD*
+#SERVICE 5002:0:1:3:D6DC:F653:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8?ads.wurl_channel=617&ads.wurl_name=NewKID&ads.us_privacy=1YNY&ads.psid=%257BPSID%257D&ads.targetopt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.coppa=0:NEW K.ID*
+#DESCRIPTION NEW K.ID*
+#SERVICE 4097:0:1:EE4:B07C:EC:0:0:0:0:https%3a//live.shoppingntmall.com/live/10011.m3u8:Shopping NT Channel
+#DESCRIPTION Shopping NT Channel
+#SERVICE 4097:0:1:11A4:2707:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TomatoTV_Official/live:Tomato TV HD*
+#DESCRIPTION Tomato TV HD*
+#SERVICE 4097:0:1:3:8A0:28AE:0:0:0:0:https%3a//ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%25EC%259A%25B0%25EB%25A6%25AC%25EC%259D%2598%25EC%258B%259D%25ED%2583%2581&channel_id=newid_016&apikey=b97c7a7d0c82424bb607e141ef215779&auth=4267aefa-e23c8733-cc1d493e-388f9d05&ads.device_did=%257BPSID%257D&ads.device.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app.name=%257BAPP_NAME%257D&ads.content_title=[PROGRAM_TITLE]&ads.content_series=[SERIES_TITLE]&ads.content_season=[SEASON_TITLE]&ads.content_episode=[EPISODE_NO]&ads.content_length=[CONTENT_LENGTH]:Uliuisigtag 우리의식탁
+#DESCRIPTION Uliuisigtag 우리의식탁
+#SERVICE 4097:0:1:115C:6:56:300000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=FJfwehhzIhw:YTN News HD*
+#DESCRIPTION YTN News HD*
+#SERVICE 4097:0:1:6DBA:6D06:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=2C2WCLhDsR4:YTN dmb HD*
+#DESCRIPTION YTN dmb HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Kuwait
+#DESCRIPTION Kuwait
+#SERVICE 4097:0:1:6FCB:CC07:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/ch4teenkids:Ch 4 Teen Kids*
+#DESCRIPTION Ch 4 Teen Kids*
+#SERVICE 4097:0:1:6FCB:CC07:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/ch4teendoc:Ch 4 Teen Doc*
+#DESCRIPTION Ch 4 Teen Doc*
+#SERVICE 4097:0:1:4DDA:C4DC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/ch4teenlive3:Ch 4 Teen Live 3*
+#DESCRIPTION Ch 4 Teen Live 3*
+#SERVICE 4097:0:1:F54A:A26F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/ch4teenquran:Ch 4 Teen Quran*
+#DESCRIPTION Ch 4 Teen Quran*
+#SERVICE 4097:0:1:7296:56F:EC:0:0:0:0:http%3a//162.244.81.54%3a1935/live/livestream/playlist.m3u8:Ritmu TV
+#DESCRIPTION Ritmu TV
+#SERVICE 4097:0:1:F89D:786A:EC:0:0:0:0:https%3a//672a3a5c8e335.streamlock.net/AlMaaref/smil%3aalmaareflive.smil/playlist.m3u8:Al Mareef
+#DESCRIPTION Al Mareef
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Kyrgyzstan
+#DESCRIPTION Kyrgyzstan
+#SERVICE 4097:0:1:B13D:81A6:EC:0:0:0:0:http%3a//212.2.225.30%3a1935/live/site.stream/playlist.m3u8:TV 1
+#DESCRIPTION TV 1
+#SERVICE 4097:0:0:BF54:32C9:EC:0:0:0:0:http%3a//212.42.111.152%3a8080/hls/manas.m3u8:Manas TV
+#DESCRIPTION Manas TV
+#SERVICE 4097:0:1:A638:9916:EC:0:0:0:0:http%3a//176.126.166.43%3a1935/live/312musik/playlist.m3u8:312 TV
+#DESCRIPTION 312 TV
+#SERVICE 4097:0:1:B307:521:D:0:0:0:0:http%3a//176.126.166.43%3a1935/live/312kino/playlist.m3u8:312 Kino
+#DESCRIPTION 312 Kino
+#SERVICE 5002:0:1:3C3D:93B3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//st2.mediabay.tv/KG_KTRK-UTRK/index.m3u8:UTRK TV*
+#DESCRIPTION UTRK TV*
+#SERVICE 5002:0:1:B18A:1:1:1682F8E:0:0:0:https%3a//st2.mediabay.tv/KG_KTRK-Sport/index.m3u8:UTRK Sport
+#DESCRIPTION UTRK Sport
+#SERVICE 4097:0:1:22B:1:FFFF:168ACED:0:0:0:https%3a//st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8:UTRK Musyka Kyrgyztan
+#DESCRIPTION UTRK Musyka Kyrgyztan
+#SERVICE 4097:0:1:12D4:FE08:EC:0:0:0:0:https%3a//st2.mediabay.tv/KG_KTRK-Ala-too/playlist.m3u8:Ala-Too 24
+#DESCRIPTION Ala-Too 24
+#SERVICE 4097:0:1:2741:7105:EC:0:0:0:0:https%3a//st2.mediabay.tv/KG_KTRK-Balastan/index.m3u8:Balastan
+#DESCRIPTION Balastan
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Lebanon
+#DESCRIPTION Lebanon
+#SERVICE 4097:0:1:CE34:81C4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8:Al Iman*
+#DESCRIPTION Al Iman*
+#SERVICE 4097:0:1:461F:3BEA:EC:0:0:0:0:https%3a//svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8:Al Sirat
+#DESCRIPTION Al Sirat
+#SERVICE 5002:0:1:57FA:6305:EC:0:0:0:0:https%3a//live.alittihad.tv%3a444/ittihad/index.m3u8:Alittihad
+#DESCRIPTION Alittihad
+#SERVICE 4097:0:1:F8C:BABB:EC:0:0:0:0:https%3a//ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8:Falestinona
+#DESCRIPTION Falestinona
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Malaysia
+#DESCRIPTION Malaysia
+#SERVICE 4097:0:1:6E1B:E0B8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x8dbnq6:Astro Awani TV Malysia*
+#DESCRIPTION Astro Awani TV Malysia*
+#SERVICE 4097:0:1:7C8A:ADB2:EC:0:0:0:0:https%3a//hls.maahtv.live/hls/stream.m3u8:Maah TV
+#DESCRIPTION Maah TV
+#SERVICE 4097:0:1:CD0B:BDAC:EC:0:0:0:0:https%3a//d25tgymtnqzu8s.cloudfront.net/smil%3aberita/playlist.m3u8?id=5:Berita RTM
+#DESCRIPTION Berita RTM
+#SERVICE 4097:0:1:17D:5A36:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live:Bernama TV*
+#DESCRIPTION Bernama TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Maldives
+#DESCRIPTION Maldives
+#SERVICE 4097:0:1:DEB1:5FC4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCmTIhD3NGdWo04RlF91L4uw/live:Dhaaris TV*
+#DESCRIPTION Dhaaris TV*
+#SERVICE 4097:0:1:6848:957C:EC:0:0:0:0:https%3a//sstv.ssplay.mv/hls/sstv-live/index.m3u8:SSTV
+#DESCRIPTION SSTV
+#SERVICE 4097:0:1:F73D:2529:EC:0:0:0:0:https%3a//stream.raajje.mv/live/rtv_live/index.m3u8:Raajje TV
+#DESCRIPTION Raajje TV
+#SERVICE 4097:0:1:E3A4:F40E:EC:0:0:0:0:https%3a//vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8:VTV News
+#DESCRIPTION VTV News
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Mongolia
+#DESCRIPTION Mongolia
+#SERVICE 5002:0:1:72E8:D58B:EC:0:0:0:0:https%3a//live.mnb.mn/hls/mnb.stream.m3u8:MNB
+#DESCRIPTION MNB
+#SERVICE 5002:0:1:309:1:1:1682DAE:0:0:0:https%3a//live.mnb.mn/hls/mn2.stream.m3u8:MNB Mongolyn Medee
+#DESCRIPTION MNB Mongolyn Medee
+#SERVICE 5002:0:1:CDE2:2985:EC:0:0:0:0:https%3a//live.mnb.mn/hls/mnb_sport.stream.m3u8:MNB Sport
+#DESCRIPTION MNB Sport
+#SERVICE 5002:0:1:10C:1DE9:EC:0:0:0:0:https%3a//live.mnb.mn/hls/mnb_world.stream.m3u8:MNB World
+#DESCRIPTION MNB World
+#SERVICE 4097:0:1:FB96:8F0C:EC:0:0:0:0:https%3a//cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8:Bloomberg Mongolia
+#DESCRIPTION Bloomberg Mongolia
+#SERVICE 4097:0:1:5C38:8C69:EC:0:0:0:0:https%3a//cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8:C 1 TV
+#DESCRIPTION C 1 TV
+#SERVICE 4097:0:1:4F1A:5B19:EC:0:0:0:0:https%3a//cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8:Eagle News
+#DESCRIPTION Eagle News
+#SERVICE 4097:0:1:9F90:474:EC:0:0:0:0:https%3a//cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8:Education TV
+#DESCRIPTION Education TV
+#SERVICE 4097:0:1:EC71:47CD:EC:0:0:0:0:https%3a//cdn2.skygo.mn/live/disk1/MN25/HLS-FTA/MN25.m3u8:MN 25
+#DESCRIPTION MN 25
+#SERVICE 4097:0:1:BC8:FC37:EC:0:0:0:0:https%3a//10st.vcast.im/MYASIATV/TV5/playlist.m3u8:TV 5
+#DESCRIPTION TV 5
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Myanmar
+#DESCRIPTION Myanmar
+#SERVICE 4097:0:1:C2E6:D77B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/livestreamingmrtv:MRTV*
+#DESCRIPTION MRTV*
+#SERVICE 4097:0:1:BF21:95CD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/mrtvschannel6:MRT Entertainment*
+#DESCRIPTION MRT Entertainment*
+#SERVICE 4097:0:1:AEAD:92EB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/channel_mrtv:MRTV Farmers*
+#DESCRIPTION MRTV Farmers*
+#SERVICE 4097:0:1:19A8:A8EE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/mrtvnews:MRTV News*
+#DESCRIPTION MRTV News*
+#SERVICE 4097:0:1:B567:5B91:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/nationalraceschannel:MRTV NRC*
+#DESCRIPTION MRTV NRC*
+#SERVICE 5002:0:1:6A56:8E58:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/mitvchannel:Myanmar International TV*
+#DESCRIPTION Myanmar International TV*
+#SERVICE 5002:0:1:64A2:FC23:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live-stream.dvb.no/hls/stream.m3u8:Democratic Voice of Burma TV*
+#DESCRIPTION Democratic Voice of Burma TV*
+#SERVICE 5002:0:1:6E7C:7F55:EC:0:0:0:0:https%3a//tv.mahar.live/mahar/website.stream/playlist.m3u8:Mahar TV
+#DESCRIPTION Mahar TV
+#SERVICE 4097:0:1:5779:6697:EC:0:0:0:0:https%3a//tv.mahar.live/esports/mahar.stream/playlist.m3u8:Mahar Esports TV
+#DESCRIPTION Mahar Esports TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Nepal
+#DESCRIPTION Nepal
+#SERVICE 4097:0:1:608D:79A1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@news24tvchannel/live:News 24*
+#DESCRIPTION News 24*
+#SERVICE 4097:0:1:4CB5:475F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@AvenuesKhabar/live:Avenues Khabar*
+#DESCRIPTION Avenues Khabar*
+#SERVICE 4097:0:1:FBAD:716C:EC:0:0:0:0:https%3a//webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8:Paryawaran TV
+#DESCRIPTION Paryawaran TV
+#SERVICE 4097:0:0:7CD0:51C2:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@MountainTVOfficial/live:Mountain TV*
+#DESCRIPTION Mountain TV*
+#SERVICE 4097:0:1:7B:C3B4:7E:460000:0:0:0:https%3a//ktvhdsg.ekantipur.com%3a8443/high_quality_85840165/hd/playlist.m3u8:Kantipur TV HD
+#DESCRIPTION Kantipur TV HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Oman
+#DESCRIPTION Oman
+#SERVICE 4097:0:1:D765:CF0D:EC:0:0:0:0:http%3a//jmc-live.ercdn.net/alistiqama/alistiqama.m3u8:Al Istiqama TV
+#DESCRIPTION Al Istiqama TV
+#SERVICE 5002:0:1:398:2134:13E:820000:0:0:0:https%3a//partneta.cdn.mgmlcdn.com/omantv/smil%3aomantv.stream.smil/chunklist.m3u8:Oman TV HD
+#DESCRIPTION Oman TV HD
+#SERVICE 4097:0:1:5714:4B9A:EC:0:0:0:0:https%3a//partwota.cdn.mgmlcdn.com/omlive/smil%3aomlive.stream.smil/chunklist.m3u8:Oman Mubashir
+#DESCRIPTION Oman Mubashir
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Palestine
+#DESCRIPTION Palestine
+#SERVICE 4097:0:1:64E5:8E73:EC:0:0:0:0:https%3a//streaming.najah.edu%3a8443/hls/AlNajah.m3u8:Al Najah TV
+#DESCRIPTION Al Najah TV
+#SERVICE 4097:0:1:69E1:EA95:EC:0:0:0:0:https%3a//account20.livebox.co.in/charleshls/live.m3u8:Hebron TV
+#DESCRIPTION Hebron TV
+#SERVICE 4097:0:1:488:1A:1A:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pbc.furrera.ps/palestinehd/index.m3u8 --http-header "Referer=https%3a//pbc.furrera.ps/palestinehd/embed.html":PBC TV HD*
+#DESCRIPTION PBC TV HD*
+#SERVICE 4097:0:1:159A:9775:EC:0:0:0:0:https%3a//live.paltodaytv.com/paltv/live/playlist.m3u8:Paltoday TV
+#DESCRIPTION Paltoday TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Pakistan
+#DESCRIPTION Pakistan
+#SERVICE 4097:0:1:CD99:3419:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@24NewsHD/live:24 News*
+#DESCRIPTION 24 News*
+#SERVICE 4097:0:1:5857:82E:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@92newshdTv/live:92 News Pakistan*
+#DESCRIPTION 92 News Pakistan*
+#SERVICE 4097:0:1:C53A:813:2:11A0000:0:0:0:https%3a//imob.dunyanews.tv/livehd/_definst_/ngrp%3adunyalivehd_2_all/playlist.m3u8:Dunya TV
+#DESCRIPTION Dunya TV
+#SERVICE 4097:0:1:D13E:832:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@HUMNewsPakistan/live:HUM News HD*
+#DESCRIPTION HUM News HD*
+#SERVICE 4097:0:1:D3C4:829:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Samaatv/live:Samaa News*
+#DESCRIPTION Samaa News*
+#SERVICE 4097:0:1:B89:7B6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@City41/live:City 41 TV Faisalabad*
+#DESCRIPTION City 41 TV Faisalabad*
+#SERVICE 4097:0:1:A907:CC0D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@City42Lahore/live:City 42 TV Lahore HD*
+#DESCRIPTION City 42 TV Lahore HD*
+#SERVICE 4097:0:1:F1DF:5FA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@PTVHomeEntertainment/live:PTV Home*
+#DESCRIPTION PTV Home*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Persian
+#DESCRIPTION Persian
+#SERVICE 4097:0:1:2F31:91A1:EC:0:0:0:0:https%3a//korhls.persiana.live/hls/stream.m3u8:Persiana Korea
+#DESCRIPTION Persiana Korea
+#SERVICE 4097:0:1:DAB3:FF42:EC:0:0:0:0:https%3a//irhls.persiana.live/hls/stream.m3u8:Persiana Iranian
+#DESCRIPTION Persiana Iranian
+#SERVICE 4097:0:1:FC24:F335:EC:0:0:0:0:https%3a//junhls.persiana.live/hls/stream.m3u8:Persiana Junior
+#DESCRIPTION Persiana Junior
+#SERVICE 4097:0:1:ADB9:538C:EC:0:0:0:0:https%3a//noshls.persiana.live/hls/stream.m3u8:Persiana Nostalgia
+#DESCRIPTION Persiana Nostalgia
+#SERVICE 4097:0:1:38C3:F8B4:EC:0:0:0:0:https%3a//4kuhls.persiana.live/hls/stream.m3u8:4Kurd TV
+#DESCRIPTION 4Kurd TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Philippines
+#DESCRIPTION Philippines
+#SERVICE 4097:0:0:25CE:A93F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@abscbnentertainment/live:ABS-CBN Kapamilya*
+#DESCRIPTION ABS-CBN Kapamilya*
+#SERVICE 4097:0:1:6EDA:183E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@DZRHTV/live:DZRH News TV HD*
+#DESCRIPTION DZRH News TV HD*
+#SERVICE 4097:0:1:5BE0:9031:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@ptvph/live:People's TV*
+#DESCRIPTION People's TV*
+#SERVICE 4097:0:1:7B:4:13E:DDE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@NET25TV/live:Net 25 HD*
+#DESCRIPTION Net 25 HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Qatar
+#DESCRIPTION Qatar
+#SERVICE 4097:0:1:31E:3BC4:13E:820000:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8  :Qatar TV HD
+#DESCRIPTION Qatar TV HD
+#SERVICE 4097:0:1:D9D5:9106:EC:0:0:0:0:https%3a//qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8:Qatar TV 2 HD
+#DESCRIPTION Qatar TV 2 HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Saudi Arabia
+#DESCRIPTION Saudi Arabia
+#SERVICE 4097:0:1:D35E:830:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@AlArabiya/live:Al Arabiya HD*
+#DESCRIPTION Al Arabiya HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.aloula.sa/live/alekhbariya:Alekhbariya HD*
+#DESCRIPTION Alekhbariya HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.aloula.sa/live/qurantvsa:Quran TV HD*
+#DESCRIPTION Quran TV HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.aloula.sa/live/saudiatv:Saudia TV HD*
+#DESCRIPTION Saudia TV HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.aloula.sa/live/sbc-channel:SBC Channel HD*
+#DESCRIPTION SBC Channel HD*
+#SERVICE 4097:0:1:688E:A2E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.aloula.sa/live/sunnatvsa --http-header "Referer=https%3a//www.aloula.sa/":Sunna TV HD*
+#DESCRIPTION Sunna TV HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.aloula.sa/live/thikrayat-tv:Thikrayat HD*
+#DESCRIPTION Thikrayat HD*
+#SERVICE 4097:0:1:322C:99A9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@SaudiNewsTV/live:SBA News HD*
+#DESCRIPTION SBA News HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Singapore
+#DESCRIPTION Singapore
+#SERVICE 4097:0:1:6E:3F:46:E080000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/watch?v=XWq5kBlakcQ:CNA 24/7 HD*
+#DESCRIPTION CNA 24/7 HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sri Lanka
+#DESCRIPTION Sri Lanka
+#SERVICE 4097:0:1:C045:C589:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/ShraddhaTVLive/live:Shraddha TV*
+#DESCRIPTION Shraddha TV*
+#SERVICE 4097:0:1:9C51:E0CA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TheBuddhistTV/live:The Buddhist*
+#DESCRIPTION The Buddhist*
+#SERVICE 4097:0:1:14B2:68A1:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TVDeranaLIVE/live:Derana TV*
+#DESCRIPTION Derana TV*
+#SERVICE 4097:0:1:5B3B:E381:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@hirutvsrilanka7465/live:Hiru TV*
+#DESCRIPTION Hiru TV*
+#SERVICE 4097:0:1:83DC:6686:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/newsfirstsl:News 1st*
+#DESCRIPTION News 1st*
+#SERVICE 4097:0:1:6D95:BEFB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/rangirisrilanka:Rangiri Sri Lanka TV*
+#DESCRIPTION Rangiri Sri Lanka TV*
+#SERVICE 4097:0:1:33A0:C8F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/charanatv_livestream:Charana TV*
+#DESCRIPTION Charana TV*
+#SERVICE 4097:0:1:2A0E:C03B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/methtvlk:Colombo Meth TV*
+#DESCRIPTION Colombo Meth TV*
+#SERVICE 4097:0:1:400E:9ADF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/harithatv:Haritha TV*
+#DESCRIPTION Haritha TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Syria
+#DESCRIPTION Syria
+#SERVICE 4097:0:1:2943:AE2:EC:0:0:0:0:https%3a//svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8:Syria TV HD
+#DESCRIPTION Syria TV HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Tajikistan
+#DESCRIPTION Tajikistan
+#SERVICE 4097:0:1:45F7:D5A8:EC:0:0:0:0:https%3a//live.teleradiocom.tj/11/3m.m3u8:Badakhshon TV
+#DESCRIPTION Badakhshon TV
+#SERVICE 4097:0:1:4BF3:A1C9:EC:0:0:0:0:https%3a//live.teleradiocom.tj/3/3m.m3u8:Bakhoriston TV
+#DESCRIPTION Bakhoriston TV
+#SERVICE 4097:0:1:13B3:F86:EC:0:0:0:0:https%3a//live.teleradiocom.tj/4/3m.m3u8:Chakhonnamo TV
+#DESCRIPTION Chakhonnamo TV
+#SERVICE 4097:0:1:2DD2:B435:EC:0:0:0:0:https%3a//live.teleradiocom.tj/7/3m.m3u8:Dushanbe TV
+#DESCRIPTION Dushanbe TV
+#SERVICE 4097:0:1:45AF:95AC:EC:0:0:0:0:https%3a//live.teleradiocom.tj/15/3m.m3u8:Ilm va Tabiat
+#DESCRIPTION Ilm va Tabiat
+#SERVICE 4097:0:1:45C3:B527:EC:0:0:0:0:https%3a//live.teleradiocom.tj/10/3m.m3u8:Khatlon TV
+#DESCRIPTION Khatlon TV
+#SERVICE 4097:0:1:45E5:C525:EC:0:0:0:0:https%3a//live.teleradiocom.tj/12/3m.m3u8:Kulob TV
+#DESCRIPTION Kulob TV
+#SERVICE 4097:0:1:459D:8529:EC:0:0:0:0:https%3a//live.teleradiocom.tj/16/3m.m3u8:Saiekhi TV
+#DESCRIPTION Saiekhi TV
+#SERVICE 4097:0:1:C24:3D65:EC:0:0:0:0:https%3a//live.teleradiocom.tj/6/3m.m3u8:Sinamo TV
+#DESCRIPTION Sinamo TV
+#SERVICE 4097:0:1:457B:752B:EC:0:0:0:0:https%3a//live.teleradiocom.tj/14/3m.m3u8:SUGD TV
+#DESCRIPTION SUGD TV
+#SERVICE 4097:0:1:9D62:DAFF:EC:0:0:0:0:https%3a//live.teleradiocom.tj/1/3m.m3u8:Tajikistan TV
+#DESCRIPTION Tajikistan TV
+#SERVICE 4097:0:1:E064:C3E4:EC:0:0:0:0:https%3a//live.teleradiocom.tj/2/3m.m3u8:Zafina TV
+#DESCRIPTION Zafina TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Thailand (allow some seconds)
+#DESCRIPTION Thailand (allow some seconds)
+#SERVICE 4097:0:1:5A8A:2038:EC:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv01.m3u8:DLTV 1
+#DESCRIPTION DLTV 1
+#SERVICE 4097:0:1:50E0:F02:EC:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv03.m3u8:DLTV 3
+#DESCRIPTION DLTV 3
+#SERVICE 4097:0:1:ADBF:7349:EC:0:0:0:0:https%3a//cdn-live.dltv.ac.th/dltv04.m3u8:DLTV 4
+#DESCRIPTION DLTV 4
+#SERVICE 4097:0:1:404F:AE22:EC:0:0:0:0:https%3a//cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8:SBB TV
+#DESCRIPTION SBB TV
+#SERVICE 4097:0:1:F643:27A6:EC:0:0:0:0:https%3a//thaipbs-live.cdn.byteark.com/live/playlist.m3u8:Thai PBS 3
+#DESCRIPTION Thai PBS 3
+#SERVICE 4097:0:1:B0A7:64C6:EC:0:0:0:0:https%3a//639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8:Thai TV 5
+#DESCRIPTION Thai TV 5
+#SERVICE 4097:0:1:43A8:2CEC:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TOPNEWSLIVE77/live:Top News HD*
+#DESCRIPTION Top News HD*
+#SERVICE 4097:0:1:EFFE:117A:EC:0:0:0:0:https%3a//vdo.plathong.net/flash7057/flash7057/playlist.m3u8:Zabb Channel
+#DESCRIPTION Zabb Channel
+#SERVICE 4097:0:0:482D:5DD5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@3PlusNews/live:3Plus News*
+#DESCRIPTION 3Plus News*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Timor Leste
+#DESCRIPTION Timor Leste
+#SERVICE 4097:0:1:5CFD:AA69:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@ROMAN_BA_NASAUN/live:RTTL*
+#DESCRIPTION RTTL*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Turkmenistan
+#DESCRIPTION Turkmenistan
+#SERVICE 4097:0:1:8235:C3B4:7E:460000:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8:Ýaşlyk TV Türkmenistan
+#DESCRIPTION Ýaşlyk TV Türkmenistan
+#SERVICE 4097:0:1:4B35:3AED:EC:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8:Altyn Asyr TV
+#DESCRIPTION Altyn Asyr TV
+#SERVICE 4097:0:1:7490:6577:EC:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8:Miras TV
+#DESCRIPTION Miras TV
+#SERVICE 4097:0:1:BA59:AFD9:EC:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8:Türkmen Owazy 5 TV
+#DESCRIPTION Türkmen Owazy 5 TV
+#SERVICE 4097:0:1:E3B4:DA63:EC:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8:Türkmenistan TV
+#DESCRIPTION Türkmenistan TV
+#SERVICE 4097:0:1:5052:A65E:EC:0:0:0:0:https%3a//alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8:Aşgabat TV
+#DESCRIPTION Aşgabat TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::U.A.E.
+#DESCRIPTION U.A.E.
+#SERVICE 4097:0:1:D32E:836:2:11A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/DASH/master.mpd:Abu Dhabi TV HD*
+#DESCRIPTION Abu Dhabi TV HD*
+#SERVICE 4097:0:1:E3EF:33A4:EC:0:0:0:0:https%3a//cdn1.logichost.in/ajmantv/live/playlist.m3u8:Ajman TV
+#DESCRIPTION Ajman TV
+#SERVICE 4097:0:1:2520:13EF:13E:820000:0:0:0:https%3a//svs.itworkscdn.net/smc1live/smc1.smil//playlist.m3u8:Sharjah TV HD
+#DESCRIPTION Sharjah TV HD
+#SERVICE 4097:0:1:EBC1:B181:EC:0:0:0:0:https%3a//svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8:Sharqiya TV
+#DESCRIPTION Sharqiya TV
+#SERVICE 4097:0:1:1B:208:2BE:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@AlHadath/live:Al Hadath HD*
+#DESCRIPTION Al Hadath HD*
+#SERVICE 4097:0:1:54B:169A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@AsharqNews/live:Asharq Bloomberg News Dubai HD*
+#DESCRIPTION Asharq Bloomberg News Dubai HD*
+#SERVICE 4097:0:1:19:1FF:2BE:1040000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.dailymotion.com/video/x74wje5 :Al Aan Dubai HD*
+#DESCRIPTION Al Aan Dubai HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Uzbekistan
+#DESCRIPTION Uzbekistan
+#SERVICE 4097:0:1:439F:2CEC:13E:820000:0:0:0:https%3a//st.my5.media/hls/hd/index.m3u8:My5
+#DESCRIPTION My5
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Vietnam
+#DESCRIPTION Vietnam
+#SERVICE 4097:0:1:6F:1456:5:14A0000:0:0:0:http%3a//antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8:ANTV
+#DESCRIPTION ANTV
+#SERVICE 5002:0:1:A309:6BF9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tv.thbl.vn/live/tv/tv.m3u8:Bac Lieu TV*
+#DESCRIPTION Bac Lieu TV*
+#SERVICE 4097:0:1:8848:14EC:EC:0:0:0:0:https%3a//stream.thingnet.vn/live/smil%3aBTV.smil/playlist.m3u8:Bac Ninh TV
+#DESCRIPTION Bac Ninh TV
+#SERVICE 4097:0:1:49D0:748C:EC:0:0:0:0:https%3a//64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8:Binh Thuan TV
+#DESCRIPTION Binh Thuan TV
+#SERVICE 5002:0:1:EDDB:56C9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tv.ctvcamau.vn/live/tv/tv.m3u8:Cà Mau TV*
+#DESCRIPTION Cà Mau TV*
+#SERVICE 5002:0:1:6EFA:C348:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tv.kgtv.vn/live/kgtv/kgtv.m3u8:KGTV PTTH*
+#DESCRIPTION KGTV PTTH*
+#SERVICE 4097:0:1:D9F4:8A09:EC:0:0:0:0:https%3a//2344254785.e.cdneverest.net/live/smil%3avnews.smil/playlist.m3u8:VNews
+#DESCRIPTION VNews
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Yemen
+#DESCRIPTION Yemen
+#SERVICE 4097:0:1:8B52:67EC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@BelqeesTV/live:Belqees TV HD*
+#DESCRIPTION Belqees TV HD*

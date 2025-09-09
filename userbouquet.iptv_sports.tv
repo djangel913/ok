@@ -1,0 +1,241 @@
+#NAME IPTV Sports
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Update 18.05.2025 by Team www.hdfreaks.cc
+#DESCRIPTION Update 18.05.2025 by Team www.hdfreaks.cc
+#SERVICE 1:64:1:0:0:0:0:0:0:0::* =Streamlink needed
+#DESCRIPTION * =Streamlink needed
+#SERVICE 1:64:0:0:0:0:0:0:0:0::ARD-ZDF Sport Streams (not 24/7)
+#DESCRIPTION ARD-ZDF Sport Streams (not 24/7)
+#SERVICE 4097:0:1:73AE:3BF1:EC:0:0:0:0:https%3a//ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/index.m3u8:Sportschau Live 1 HD
+#DESCRIPTION Sportschau Live 1 HD
+#SERVICE 4097:0:1:73AE:3BF1:EC:0:0:0:0:https%3a//wdrevent.akamaized.net/hls/live/2020357-b/wdr_msl4_wdrevent7/master5128.m3u8:Sportschau Live 2 HD
+#DESCRIPTION Sportschau Live 2 HD
+#SERVICE 5002:0:1:9F9F:BD2A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.zdf.de/sport/sport-im-zdf-livestream-live-100.html:ZDF Sport Live HD*
+#DESCRIPTION ZDF Sport Live HD*
+#SERVICE 5002:0:1:9F9F:BD2A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//zdf-hls-06.akamaized.net/hls/live/2016301/de/high/master.m3u8:ZDF Sport Live HD*
+#DESCRIPTION ZDF Sport Live HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::SPORTS CHANNELS
+#DESCRIPTION SPORTS CHANNELS
+#SERVICE 4097:0:1:16:521:D:0:0:0:0:https%3a//32tech0steam0dp01.org/live/IT_Eurosport1FHD/chunks.m3u8:Eurosport 1 (RU)
+#DESCRIPTION Eurosport 1 (RU)
+#SERVICE 5002:0:1:1581:41F:1:C00000:0:0:0:https%3a//oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8:Sport 1
+#DESCRIPTION Sport 1
+#SERVICE 5002:0:1:32:102:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64afe50c5dc16600087f3227/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:DAZN Heldinnen (Pluto)*
+#DESCRIPTION DAZN Heldinnen (Pluto)*
+#SERVICE 5002:0:1:1D5E:C3B4:7E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.aspor.com.tr/webtv/canli-yayin:A Spor Türkiye*
+#DESCRIPTION A Spor Türkiye*
+#SERVICE 4097:0:1:2590:107:0:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true:beIN Sports Extra HD
+#DESCRIPTION beIN Sports Extra HD
+#SERVICE 4097:0:1:4030:107:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:beIN Sports Extra HD (Spanish)
+#DESCRIPTION beIN Sports Extra HD (Spanish)
+#SERVICE 4097:0:1:115B:8703:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.youtube.com/c/beINSPORTSTürkiye/live:beIN Sports Haber Türkiye HD*
+#DESCRIPTION beIN Sports Haber Türkiye HD*
+#SERVICE 4097:0:1:795:110:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/638df6f8b63cf100075ccfa1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chilevision Deportes
+#DESCRIPTION Chilevision Deportes
+#SERVICE 5002:0:1:3:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3559cc0f-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=IT&vendor=samsung&ads%3aapp_domain=%7BAPP_DOMAIN%7D&ads%3aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3atcf=%7BTC_STRING%7D:HorizonSports*
+#DESCRIPTION HorizonSports*
+#SERVICE 4097:0:1:A8C3:80B6:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:ITV Deportes (MEX)
+#DESCRIPTION ITV Deportes (MEX)
+#SERVICE 4097:0:1:4001:162:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-ESBD3600001Q1.m3u8:La Liga*
+#DESCRIPTION La Liga*
+#SERVICE 4097:0:1:15:521:D:0:0:0:0:http%3a//194.143.148.28%3a8080/MatchArena/mpegts:Матч! Арена
+#DESCRIPTION Матч! Арена
+#SERVICE 5002:0:1:D052:2717:F001:FFFF0000:0:0:0:https%3a//mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8:More than Sports HD
+#DESCRIPTION More than Sports HD
+#SERVICE 5002:0:1:1791:1A11:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//olympics.com/en/live/:Olympic Channel HD*
+#DESCRIPTION Olympic Channel HD*
+#SERVICE 5002:0:1:E3BD:F839:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.realitatea.net/realitatea/sportiva_md/ts%3aplaylist.m3u8:Realitatea Sportiva (RO)*
+#DESCRIPTION Realitatea Sportiva (RO)*
+#SERVICE 5002:0:1:0:4A1E:217C:EEEE0000:0:0:0:https%3a//d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil%3ach-02.smil/chunklist_b1692000_slita.m3u8:San Marino Sport HD
+#DESCRIPTION San Marino Sport HD
+#SERVICE 5002:0:1:4507:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-ITBC4700002CO.m3u8:Solocalcio*
+#DESCRIPTION Solocalcio*
+#SERVICE 5002:0:1:2D3C:9536:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//sport-bild.personalstream.tv/v1/bildde/master.m3u8:Sport Bild TV*
+#DESCRIPTION Sport Bild TV*
+#SERVICE 5002:0:1:9:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:Sportdigital*
+#DESCRIPTION Sportdigital*
+#SERVICE 4097:0:1:BAE4:DD5D:EC:0:0:0:0:https%3a//origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8:Sports Connect
+#DESCRIPTION Sports Connect
+#SERVICE 5002:0:1:A040:2891:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//502f86d03b3c403a9057ca656866c9c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_SportOutdoorTV/playlist.m3u8?ads.wurl_channel=614&ads.wurl_name=SportOutdoorTV&ads.psid={PSID}&ads.targetopt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.coppa=0&ads.consent={TC_STRING}:Sport Outdoor*
+#DESCRIPTION Sport Outdoor*
+#SERVICE 4097:0:1:E8B9:5F3:EC:0:0:0:0:https%3a//live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8:Sports TV Türkiye
+#DESCRIPTION Sports TV Türkiye
+#SERVICE 4097:0:1:76CC:40E:1:C00000:0:0:0:https%3a//d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8:Teledeporte
+#DESCRIPTION Teledeporte
+#SERVICE 4097:0:1:36D1:B9FE:EC:0:0:0:0:https%3a//amg00735-videosolutionsa-wedosports-ono-dzfq8.amagi.tv/playlist/amg00735-videosolutionsa-wedosports-ono/playlist.m3u8:Wedo Sport
+#DESCRIPTION Wedo Sport
+#SERVICE 1:64:0:0:0:0:0:0:0:0::GEOBLOCKED CHANNELS
+#DESCRIPTION GEOBLOCKED CHANNELS
+#SERVICE 5002:0:1:9F1C:266B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznfast-lgde/playlist.m3u8:DAZN Fast (geo DE)*
+#DESCRIPTION DAZN Fast (geo DE)*
+#SERVICE 5002:0:1:B8C4:1FCE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznrise-lgde/playlist.m3u8:DAZN Rise (geo DE)*
+#DESCRIPTION DAZN Rise (geo DE)*
+#SERVICE 4097:0:1:B284:521:D:0:0:0:0:https%3a//ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8:Setanta Sports 1 (geo KZ)
+#DESCRIPTION Setanta Sports 1 (geo KZ)
+#SERVICE 4097:0:1:B175:0:0:0:0:0:0:https%3a//ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8:Setanta Sports 2 (geo KZ)
+#DESCRIPTION Setanta Sports 2 (geo KZ)
+#SERVICE 4097:0:1:F013:521:D:0:0:0:0:https%3a//ucdn.beetv.kz/bpk-tv/000002649/tve/index.m3u8:Setanta Sports Kazakhstan (geo KZ)
+#DESCRIPTION Setanta Sports Kazakhstan (geo KZ)
+#SERVICE 5002:0:1:4532:30D4:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.raiplay.it/dirette/raisport:Rai Sport HD* (geo IT)
+#DESCRIPTION Rai Sport HD* (geo IT)
+#SERVICE 4097:0:1:567F:6422:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn0-03837-liveedge1.dna.ip-only.net/03837-liveedge1/smil%3a03837-tx6/playlist.m3u8 --http-header "Referer=https%3a//www.expressen.se/" --http-no-ssl-verify:Sportexpressen (geo SE)*
+#DESCRIPTION Sportexpressen (geo SE)*
+#SERVICE 4097:0:1:88AA:75CE:EC:0:0:0:0:https%3a//cdn02.upstream-cloud.ch/sstvlinear/ngrp%3asstvlinear_all/chunklist.m3u8:SwissSport (geo CH)
+#DESCRIPTION SwissSport (geo CH)
+#SERVICE 1:64:0:0:0:0:0:0:0:0::SPECIAL INTERESTS
+#DESCRIPTION SPECIAL INTERESTS
+#SERVICE 4097:0:1:AAFC:B6A8:EC:0:0:0:0:https%3a//cdn03.milano.nxmedge.net/bikechannel/tracks-v1a1/mono.m3u8:Bike Channel Italia
+#DESCRIPTION Bike Channel Italia
+#SERVICE 4097:0:1:2:3472:3812:0:0:0:0:https%3a//jmp2.uk/sam-KRBC3200011N3.m3u8:World Billiards TV (Korea) 빌리어즈TV 레전드
+#DESCRIPTION World Billiards TV (Korea) 빌리어즈TV 레전드
+#SERVICE 4097:0:1:73D3:348:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d382r3rgbxdixq.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CricketGold/418.m3u8:Cricket Gold*
+#DESCRIPTION Cricket Gold*
+#SERVICE 4097:0:0:1739:F8BA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@europeancricketnetwork/live:European Cricket Network*
+#DESCRIPTION European Cricket Network*
+#SERVICE 4097:0:1:A:299C:CDE9:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/667c0111fc3a4600087283c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:European League of Football
+#DESCRIPTION European League of Football
+#SERVICE 4097:0:1:2960:107:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65c69ee3d77d450008c80438/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Formula 1 Channel
+#DESCRIPTION Formula 1 Channel
+#SERVICE 4097:0:1:1:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:DAZN Handball
+#DESCRIPTION DAZN Handball
+#SERVICE 5002:0:1:31:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b67f0424ade50008a3be17/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:DAZN Darts
+#DESCRIPTION DAZN Darts
+#SERVICE 4097:0:1:1155:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-USBB400000145.m3u8:GolfPass*
+#DESCRIPTION GolfPass*
+#SERVICE 4097:0:1:55AB:EBF1:EC:0:0:0:0:https%3a//1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8:Lax Sports Network (Lacrosse Sports)
+#DESCRIPTION Lax Sports Network (Lacrosse Sports)
+#SERVICE 4097:0:1:EC13:67E8:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7afaa46762a00082cbe55/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Squash TV
+#DESCRIPTION Squash TV
+#SERVICE 4097:0:1:C:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-tennischannel-int-samsunguk/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0:Tennis Channel*
+#DESCRIPTION Tennis Channel*
+#SERVICE 4097:0:1:43E9:7CDE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//livestream.com/accounts/5057055/events/10702140/videos/234028578/player?enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false:ATP Tennis Challenger Tour*
+#DESCRIPTION ATP Tennis Challenger Tour*
+#SERVICE 4097:0:1:2630:107:0:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fc54366b04b2300072e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df8d0ca3-a292-11eb-a2f8-2d14e72ed833&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b5f74775-eef9-4f3a-9dac-2226eaf51743&userId=&serverSideAds=true:PokerGo
+#DESCRIPTION PokerGo
+#SERVICE 4097:0:1:36:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 4097:0:0:8916:D0A7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@WTTGlobal/live:WTT - World Table Tennis TV*
+#DESCRIPTION WTT - World Table Tennis TV*
+#SERVICE 4097:0:1:2072:52D0:7E:460000:0:0:0:https%3a//1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8:Fenerbahçe Istanbul TV
+#DESCRIPTION Fenerbahçe Istanbul TV
+#SERVICE 5002:0:1:22B8:1:1C:1A40000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@GSTV1905/live:Galatasaray Istanbul TV (not 24/7)*
+#DESCRIPTION Galatasaray Istanbul TV (not 24/7)*
+#SERVICE 1:64:3:0:0:0:0:0:0:0::FOOTBALL
+#DESCRIPTION FOOTBALL
+#SERVICE 5002:0:1:260:11C:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64a282dfaab9ce0008cff18e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:DAZN Women's Football
+#DESCRIPTION DAZN Women's Football
+#SERVICE 5002:0:1:4510:164:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-GB26000118T.m3u8:DFB Play TV*
+#DESCRIPTION DFB Play TV*
+#SERVICE 5002:0:1:1905:23AB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBA3300019EB.m3u8:FIFA+*
+#DESCRIPTION FIFA+*
+#SERVICE 4097:0:1:2831:107:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ea8b928145cb0008509426/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:UEFA Champions League
+#DESCRIPTION UEFA Champions League
+#SERVICE 4097:0:1:200C:354F:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66337ea1307fa300082c28a0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Borussia Dortmund TV
+#DESCRIPTION Borussia Dortmund TV
+#SERVICE 4097:0:1:EBF5:2663:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f9b2dc0d45610008505eac/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Real Madrid TV
+#DESCRIPTION Real Madrid TV
+#SERVICE 4097:0:1:6372:130:0:0:0:0:0:https%3a//amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8?ads_amagi_channel=940&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=de&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=09bef241-987c-45b2-b024-acc61a336afa&ads_rtv_content_id=6372&ads_rtv_content_language=eng&ads_rtvid=271862&ads_streaming_id=5184e661-6197-4ccd-a60a-ebf61399c4ea&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor:TOP Barça
+#DESCRIPTION TOP Barça
+#SERVICE 4097:0:1:4511:160:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660e97bce8fba8000853d43f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Scooore*
+#DESCRIPTION Scooore*
+#SERVICE 4097:0:1:2E83:5656:EC:0:0:0:0:https%3a//video01.soultv.com.br/internacional/internacional/playlist.m3u8:Sport Club Internacional (Brazil)
+#DESCRIPTION Sport Club Internacional (Brazil)
+#SERVICE 4097:0:1:CB1A:D842:EC:0:0:0:0:https%3a//live.teleradiocom.tj/8/3m.m3u8:Futbol TV Tajikistan
+#DESCRIPTION Futbol TV Tajikistan
+#SERVICE 4097:0:1:39:521:D:0:0:0:0:http%3a//109.200.130.124%3a7005/play/a00h:Матч! Футбол 1
+#DESCRIPTION Матч! Футбол 1
+#SERVICE 4097:0:1:3D:521:D:0:0:0:0:http%3a//tvs.adl-net.ru%3a7708/Football2/index.m3u8:Матч! Футбол 2
+#DESCRIPTION Матч! Футбол 2
+#SERVICE 4097:0:1:5F:521:D:0:0:0:0:http%3a//185.57.68.33/110/mpegts:Матч! Футбол 3
+#DESCRIPTION Матч! Футбол 3
+#SERVICE 4097:0:0:52D1:13E3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@OstSportTV/live:OstSport TV (not 24/7)*
+#DESCRIPTION OstSport TV (not 24/7)*
+#SERVICE 1:64:3:0:0:0:0:0:0:0::AMERICAN SPORTS
+#DESCRIPTION AMERICAN SPORTS
+#SERVICE 5002:0:1:40:6F00:E277:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d2ncos3ajn8k1w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-de57um7xrx88p/ACC_Digital_Network_US.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE:Atlantic Coast Conference DN*
+#DESCRIPTION Atlantic Coast Conference DN*
+#SERVICE 4097:0:1:D77E:795:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:CBS Sports HQ
+#DESCRIPTION CBS Sports HQ
+#SERVICE 4097:0:1:2470:107:0:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df8851b4-a292-11eb-a2f8-2d14e72ed833&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3cbe0b51-3a19-4ddf-8d56-d29188cd1b7a&userId=&serverSideAds=true:FOX Sports
+#DESCRIPTION FOX Sports
+#SERVICE 4097:0:1:2791:107:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:NBC Sports
+#DESCRIPTION NBC Sports
+#SERVICE 4097:0:1:2490:107:0:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df8b10d7-a292-11eb-a2f8-2d14e72ed833&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fcacb28a-36f3-4576-b333-be0c5fa385ba&userId=&serverSideAds=true:MLB Baseball
+#DESCRIPTION MLB Baseball
+#SERVICE 4097:0:1:2480:107:0:0:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=df898a31-a292-11eb-a2f8-2d14e72ed833&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=56999e30-8693-4a8f-9f2c-9d76b56fc3b0&userId=&serverSideAds=true:NFL Channel
+#DESCRIPTION NFL Channel
+#SERVICE 4097:0:1:C442:5D7B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//pac12-vizio.amagi.tv/playlist.m3u8 :PAC-12 Insider*
+#DESCRIPTION PAC-12 Insider*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MARTIAL ARTS
+#DESCRIPTION MARTIAL ARTS
+#SERVICE 4097:0:1:35:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Bellator MMA
+#DESCRIPTION Bellator MMA
+#SERVICE 4097:0:1:2864:107:0:0:0:0:0:https%3a//cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=07c411dc2af811ef88e6acdbef112233&deviceLat=34.0300&deviceLon=-118.4700&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=US&sid=7cc250e39ae641a9a6c15cbaf3083320&userId=:DAZN Ringside
+#DESCRIPTION DAZN Ringside
+#SERVICE 5002:0:1:A00D:F1AD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/plex-608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877.m3u8:Fight Network (geo US)*
+#DESCRIPTION Fight Network (geo US)*
+#SERVICE 4097:0:1:41:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Glory Kickboxing
+#DESCRIPTION Glory Kickboxing
+#SERVICE 4097:0:1:3136:A6E9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d2patm1aklfd8i.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-Canada-prod/hls/main.m3u8?ads.device_did={PSID}&ads.device_dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}:Impact Wrestling*
+#DESCRIPTION Impact Wrestling*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::AUTO MOTOR
+#DESCRIPTION AUTO MOTOR
+#SERVICE 5002:0:1:11:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:Auto Motor und Sport*
+#DESCRIPTION Auto Motor und Sport*
+#SERVICE 4097:0:1:9253:F719:EC:0:0:0:0:https%3a//auto-bild.personalstream.tv/v1/bildde/master.m3u8:Auto Bild HD
+#DESCRIPTION Auto Bild HD
+#SERVICE 4097:0:1:218:AF1:BB:E080000:0:0:0:https%3a//digicom.hls.iptvdc.com/motorstv/index.m3u8:Canal Motor (Norway)
+#DESCRIPTION Canal Motor (Norway)
+#SERVICE 5002:0:1:D:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a1d5dfb7-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3aapp_domain=%7BAPP_DOMAIN%7D&ads%3aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3atcf=%7BTC_STRING%7D:MotorRacing*
+#DESCRIPTION MotorRacing*
+#SERVICE 5002:0:1:1:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/697b70ca-8be6-11eb-a7de-bacfe1f83627/0/master.m3u8?uid=749544ec3d9a45d48c600d03cac91dfd&optout=0&vendor=philips&country=DE:Motorvision*
+#DESCRIPTION Motorvision*
+#SERVICE 5002:0:1:8:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBD2600004U7.m3u8:Motorvision Classic*
+#DESCRIPTION Motorvision Classic*
+#SERVICE 4097:0:1:BD6:31AC:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f3d26ac23a7c800073f128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy={US_PRIVACY}&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Motor
+#DESCRIPTION Pluto TV Motor
+#SERVICE 4097:0:1:4475:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBD2300001ND.m3u8:Sport 1 Motor*
+#DESCRIPTION Sport 1 Motor*
+#SERVICE 5002:0:1:2:299C:CDE9:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//a3d402c1bc38468ba07843cd148afcb9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_TheBoatShow/playlist.m3u8?ads.wurl_channel=1541&ads.wurl_name=TheBoatShow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D:The Boat Show*
+#DESCRIPTION The Boat Show*
+#SERVICE 5002:0:1:ACCC:3271:EC:0:0:0:0:https%3a//sy.wns.live/hls/stream.m3u8:Superyacht TV Monaco
+#DESCRIPTION Superyacht TV Monaco
+#SERVICE 1:64:0:0:0:0:0:0:0:0::HORSES
+#DESCRIPTION HORSES
+#SERVICE 5002:0:1:D2:2:55:300000:0:0:0:https%3a//kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8:ATG Live (SE)
+#DESCRIPTION ATG Live (SE)
+#SERVICE 4097:0:1:265:11C:0:0:0:0:0:https%3a//cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6405d444d200410008009419/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b502e148e49411ee9033acdbef112233&deviceLat=55.6700&deviceLon=12.5900&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=DK&sid=38ca1fd478f440829c6ec3f4bf7a7c6f&userId=:Bet25 Live (SE)
+#DESCRIPTION Bet25 Live (SE)
+#SERVICE 4097:0:1:F77B:D473:EC:0:0:0:0:https%3a//hncfree-samsung-uk.amagi.tv/playlist.m3u8:Horse & Country
+#DESCRIPTION Horse & Country
+#SERVICE 4097:0:0:2B02:6B94:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TJKTVCANLIYAYIN/live:TJK Türkiye HD*
+#DESCRIPTION TJK Türkiye HD*
+#SERVICE 4097:0:1:A857:12F7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TayTvOfficial/live:Tay TV*
+#DESCRIPTION Tay TV*
+#SERVICE 5002:0:0:4E73:3CB6:EC:0:0:0:0:https%3a//racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8:Racing.com Australia
+#DESCRIPTION Racing.com Australia
+#SERVICE 4097:0:1:EBDE:89C4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@WETTSTAR/live:Wettstar (not 24/7)*
+#DESCRIPTION Wettstar (not 24/7)*
+#SERVICE 1:64:3:0:0:0:0:0:0:0::WORLDWIDE
+#DESCRIPTION WORLDWIDE
+#SERVICE 5002:0:1:E04A:3C2F:EC:0:0:0:0:https%3a//5c7b683162943.streamlock.net/live/ngrp%3asportsone_all/playlist.m3u8:Bahrain Sports 1
+#DESCRIPTION Bahrain Sports 1
+#SERVICE 4097:0:1:D8C:3953:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//dmidspta.cdn.mgmlcdn.com/dubaisports/smil%3adubaisports.stream.smil/index.m3u8:Dubai Sports 1*
+#DESCRIPTION Dubai Sports 1*
+#SERVICE 4097:0:1:7FDF:E0B8:EC:0:0:0:0:https%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil%3adubaisportshd.smil/index.m3u8:Dubai Sports 2
+#DESCRIPTION Dubai Sports 2
+#SERVICE 4097:0:1:2304:4818:EC:0:0:0:0:https%3a//dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil%3adubaisportshd5.smil/index.m3u8:Dubai Sports 3
+#DESCRIPTION Dubai Sports 3
+#SERVICE 4097:0:1:551D:C036:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.aloula.sa/live/ksa-sports1:KSA Sports 1 HD*
+#DESCRIPTION KSA Sports 1 HD*
+#SERVICE 4097:0:1:BD8E:20CF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.aloula.sa/en/live/ksa-sports2:KSA Sports 2 HD*
+#DESCRIPTION KSA Sports 2 HD*
+#SERVICE 4097:0:1:BD8E:20CF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.aloula.sa/live/ksa-sports3:KSA Sports 3 HD*
+#DESCRIPTION KSA Sports 3 HD*
+#SERVICE 4097:0:1:938C:4A87:EC:0:0:0:0:https%3a//svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8:Sharjah Sport
+#DESCRIPTION Sharjah Sport
+#SERVICE 4097:0:1:F070:521:D:0:0:0:0:http%3a//streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8:Astrakhan Sport TV Russia
+#DESCRIPTION Astrakhan Sport TV Russia
+#SERVICE 5002:0:1:CDE2:2985:EC:0:0:0:0:https%3a//live.mnb.mn/hls/mnb_sport.stream.m3u8:MNB Sports Mongolia
+#DESCRIPTION MNB Sports Mongolia
+#SERVICE 4097:0:1:393D:1F5D:EC:0:0:0:0:http%3a//217.174.225.146/hls/ch004_720/index.m3u8:Türkmenistan Sport
+#DESCRIPTION Türkmenistan Sport

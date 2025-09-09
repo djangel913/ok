@@ -1,0 +1,541 @@
+#NAME IPTV Osteuropa
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Update 14.06.2025 by Team www.hdfreaks.cc
+#DESCRIPTION Update 14.06.2025 by Team www.hdfreaks.cc
+#SERVICE 1:64:1:0:0:0:0:0:0:0::* =Streamlink needed
+#DESCRIPTION * =Streamlink needed
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Albania
+#DESCRIPTION Albania
+#SERVICE 4097:0:1:4C81:B07A:EC:0:0:0:0:http%3a//albuk.dyndns.tv%3a1935/albuk/albuk.stream/playlist.m3u8:ALB UK TV
+#DESCRIPTION ALB UK TV
+#SERVICE 4097:0:1:1B5D:335E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/abcnewsal:ABC News HD*
+#DESCRIPTION ABC News HD*
+#SERVICE 4097:0:1:4D8:4F4C:16E:A00000:0:0:0:http%3a//tv.balkanweb.com%3a8081/news24/livestream/playlist.m3u8:News24
+#DESCRIPTION News24
+#SERVICE 4097:0:1:8CD1:F75B:EC:0:0:0:0:https%3a//deb10stream.duckdns.org/hls/stream.m3u8:Report TV
+#DESCRIPTION Report TV
+#SERVICE 4097:0:1:B170:DE1A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/rtv4plus:RTV 4+*
+#DESCRIPTION RTV 4+*
+#SERVICE 4097:0:1:B2EE:13DD:EC:0:0:0:0:http%3a//144.76.100.109/filma/index.m3u8:RTV Ilirida Filma
+#DESCRIPTION RTV Ilirida Filma
+#SERVICE 4097:0:1:D23:E53:EC:0:0:0:0:https%3a//stream.syritv.al/SyriTV/index.m3u8:Syri TV
+#DESCRIPTION Syri TV
+#SERVICE 4097:0:1:9C43:A33E:EC:0:0:0:0:https%3a//vs.sednastream.com%3a1936/tv7/tv7/playlist.m3u8:TV7
+#DESCRIPTION TV7
+#SERVICE 4097:0:1:7D0:5014:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@EuronewsAlbania/live:Euronews Albania HD*
+#DESCRIPTION Euronews Albania HD*
+#SERVICE 4097:0:1:B0A3:376D:EC:0:0:0:0:https%3a//live.prostream.al/al/smil%3atropojatv.smil/playlist.m3u8:Tropoja TV
+#DESCRIPTION Tropoja TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Belarus
+#DESCRIPTION Belarus
+#SERVICE 4097:0:1:B159:521:D:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus1.smil/playlist.m3u8:Belarus 1 HD
+#DESCRIPTION Belarus 1 HD
+#SERVICE 4097:0:1:B160:521:D:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus2.smil/playlist.m3u8:Belarus 2 HD
+#DESCRIPTION Belarus 2 HD
+#SERVICE 4097:0:1:B161:521:D:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus3.smil/playlist.m3u8:Belarus 3 HD
+#DESCRIPTION Belarus 3 HD
+#SERVICE 5002:0:1:A177:521:D:0:0:0:0:https%3a//ngtrk.dc.beltelecom.by/ngtrk/smil%3abelarus24.smil/playlist.m3u8:Belarus 24 HD
+#DESCRIPTION Belarus 24 HD
+#SERVICE 4097:0:1:50B:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@belsat_news/live:Belsat HD*
+#DESCRIPTION Belsat HD*
+#SERVICE 5002:0:1:B334:521:D:0:0:0:0:https%3a//live3.mediacdn.ru/sr1/tro/playlist.m3u8:BelRos TV
+#DESCRIPTION BelRos TV
+#SERVICE 4097:0:1:1F22:489F:EC:0:0:0:0:https%3a//ont.dc.beltelecom.by/ont/ont/playlist.m3u8:ОНТ
+#DESCRIPTION ОНТ
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bosnia and Herzegovina
+#DESCRIPTION Bosnia and Herzegovina
+#SERVICE 4097:0:1:65:1:16E:A00000:0:0:0:https%3a//live-hls-web-ajb.getaj.net/AJB/index.m3u8:Al Jazeera Balkans HD
+#DESCRIPTION Al Jazeera Balkans HD
+#SERVICE 5002:0:1:6E7:C544:16E:A00000:0:0:0:https%3a//best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0:N1
+#DESCRIPTION N1
+#SERVICE 4097:0:1:CB67:7514:EC:0:0:0:0:https%3a//rtvbn.tv%3a8080/live/index.m3u8:BN TV HD
+#DESCRIPTION BN TV HD
+#SERVICE 4097:0:1:5386:3431:EC:0:0:0:0:https%3a//stream.rtvze.ba/live/123/123.m3u8:RTV Zenica
+#DESCRIPTION RTV Zenica
+#SERVICE 4097:0:1:A09:309:EC:0:0:0:0:https%3a//balkanmedia.dynu.net/hls/tv5web.m3u8:Televizija 5
+#DESCRIPTION Televizija 5
+#SERVICE 5002:0:1:676:9FC4:16E:A00000:0:0:0:https%3a//parh.rtrs.tv/tv/live/playlist.m3u8:RTRS
+#DESCRIPTION RTRS
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Bulgaria
+#DESCRIPTION Bulgaria
+#SERVICE 4097:0:1:ECDB:88C4:EC:0:0:0:0:https%3a//restr2.bgtv.bg/agro/hls/agro.m3u8:Agro TV
+#DESCRIPTION Agro TV
+#SERVICE 5002:0:0:19D5:1AA4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.bgonair.bg/tvonline:BG On Air*
+#DESCRIPTION BG On Air*
+#SERVICE 5002:0:1:75:B1:39E:1860000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.bloombergtv.bg/video:Bloomberg TV Bulgaria*
+#DESCRIPTION Bloomberg TV Bulgaria*
+#SERVICE 5002:0:1:66:F5:1:1682C52:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//tv.bnt.bg/bnt4%2520--http-no-ssl-verify:BNT 4*
+#DESCRIPTION BNT 4*
+#SERVICE 4097:0:1:8D35:B7EC:EC:0:0:0:0:https%3a//cdn2.invivo.bg/codehealth_test/index.fmp4.m3u8:Code Health
+#DESCRIPTION Code Health
+#SERVICE 4097:0:1:53:6:1:18630EC:0:0:0:https%3a//live.ecomservice.bg/hls/stream.m3u8:Evrokom TV
+#DESCRIPTION Evrokom TV
+#SERVICE 5002:0:1:6F:B1:39E:1860000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//nova.bg/live:Nova TV*
+#DESCRIPTION Nova TV*
+#SERVICE 5002:0:1:90:F:3:130000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//nova.bg/live/news:Nova TV News*
+#DESCRIPTION Nova TV News*
+#SERVICE 4097:0:1:A181:9525:EC:0:0:0:0:http%3a//78.130.149.196%3a1935/live/pptv.stream/playlist.m3u8:Plovdivska Pravoslavna TV
+#DESCRIPTION Plovdivska Pravoslavna TV
+#SERVICE 4097:0:1:113B:5E25:EC:0:0:0:0:https%3a//transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8:Rimex TV
+#DESCRIPTION Rimex TV
+#SERVICE 4097:0:1:813:0:0:0:0:0:0:https%3a//streamer103.neterra.tv/thisisbulgaria/live.m3u8:This is Bulgaria HD
+#DESCRIPTION This is Bulgaria HD
+#SERVICE 4097:0:1:C21:FACA:EC:0:0:0:0:https%3a//streamer103.neterra.tv/travel/live.m3u8:Travel TV
+#DESCRIPTION Travel TV
+#SERVICE 4097:0:1:1BCB:602:EC:0:0:0:0:https%3a//tv1.cloudcdn.bg/temp/livestream.m3u8:TV 1 Bulgaria
+#DESCRIPTION TV 1 Bulgaria
+#SERVICE 4097:0:1:BD03:CA88:EC:0:0:0:0:http%3a//zagoratv.ddns.net%3a8080/tvzagora.m3u8:TV Zagora
+#DESCRIPTION TV Zagora
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Croatia
+#DESCRIPTION Croatia
+#SERVICE 4097:0:1:57DF:92F8:EC:0:0:0:0:https%3a//stream.cmctv.hr%3a49998/cmc/live.m3u8:CMC TV
+#DESCRIPTION CMC TV
+#SERVICE 5002:0:1:BB37:5AE7:EC:0:0:0:0:http%3a//185.62.75.22%3a1935/trend/myStream/playlist.m3u8:Trend TV
+#DESCRIPTION Trend TV
+#SERVICE 4097:0:1:A36:9B1D:EC:0:0:0:0:https%3a//stream.cmctv.hr%3a49998/kit/live.m3u8:Klapei Tambure TV
+#DESCRIPTION Klapei Tambure TV
+#SERVICE 4097:0:1:2818:826D:EC:0:0:0:0:https%3a//stream.luci.xyz/hls/LTV.m3u8:Libertas TV
+#DESCRIPTION Libertas TV
+#SERVICE 4097:0:1:B940:7BAF:EC:0:0:0:0:https%3a//pool.alter-media.hr%3a1936/live/myStream/playlist.m3u8?DVR=:RTV Banovina
+#DESCRIPTION RTV Banovina
+#SERVICE 4097:0:1:6E5:7A94:EC:0:0:0:0:https%3a//live.leveex.hr/hls/live.m3u8:Slavonski Brod TV
+#DESCRIPTION Slavonski Brod TV
+#SERVICE 4097:0:1:A5E6:8822:EC:0:0:0:0:http%3a//89.201.163.244%3a8080/hls/hdmi.m3u8:Televizija Slavonije i Baranje
+#DESCRIPTION Televizija Slavonije i Baranje
+#SERVICE 5002:0:1:F6BB:A32C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tvjadran.stream.agatin.hr%3a3412/live/tvjadranlive.m3u8:TV Jadran
+#DESCRIPTION TV Jadran
+#SERVICE 5002:0:1:B56F:16D1:EC:0:0:0:0:https%3a//stream.agatin.hr%3a3727/live/tvnovalive.m3u8:TV Nova Pula
+#DESCRIPTION TV Nova Pula
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Czechia -CT- (mostly geo-blocked)
+#DESCRIPTION Czechia -CT- (mostly geo-blocked)
+#SERVICE 4097:0:1:1F41:CA1:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.ceskatelevize.cz/zive/ct1/ --http-header "Referer=https%3a//player.ceskatelevize.cz":CT 1*
+#DESCRIPTION CT 1*
+#SERVICE 4097:0:1:1F42:CA1:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.ceskatelevize.cz/zive/ct2/ --http-header "Referer=https%3a//player.ceskatelevize.cz":CT 2*
+#DESCRIPTION CT 2*
+#SERVICE 4097:0:1:1F44:CA1:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//sport.ceskatelevize.cz/zive-vysilani#live --http-header "Referer=https%3a//player.ceskatelevize.cz":CT Sport*
+#DESCRIPTION CT Sport*
+#SERVICE 4097:0:1:1F45:CA1:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.ceskatelevize.cz/zive/art/ --http-header "Referer=https%3a//player.ceskatelevize.cz":CT Art*
+#DESCRIPTION CT Art*
+#SERVICE 4097:0:1:1F45:CA1:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.ceskatelevize.cz/zive/decko/ --http-header "Referer=https%3a//player.ceskatelevize.cz":CT %3aDecko*
+#DESCRIPTION CT :Decko*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Czechia
+#DESCRIPTION Czechia
+#SERVICE 4097:0:1:1F43:CA1:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ct24.ceskatelevize.cz/#live --http-header "Referer=https%3a//player.ceskatelevize.cz":CT 24 HD*
+#DESCRIPTION CT 24 HD*
+#SERVICE 4097:0:1:132E:CA2:3:EB0000:0:0:0:https%3a//n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8:TV Noe HD
+#DESCRIPTION TV Noe HD
+#SERVICE 4097:0:1:4624:9FAA:EC:0:0:0:0:https%3a//rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8:Elektrika TV Brno
+#DESCRIPTION Elektrika TV Brno
+#SERVICE 4097:0:1:73D0:57E8:EC:0:0:0:0:https%3a//stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8:TV Brno 1 HD
+#DESCRIPTION TV Brno 1 HD
+#SERVICE 4097:0:1:84DB:2DA6:EC:0:0:0:0:https%3a//stream.jc1.cz/hls/jc1.m3u8:JČ 1 HD
+#DESCRIPTION JČ 1 HD
+#SERVICE 4097:0:1:D675:764C:EC:0:0:0:0:https%3a//vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8:Jihočeská TV České Budějovice
+#DESCRIPTION Jihočeská TV České Budějovice
+#SERVICE 4097:0:1:B43:6F2E:EC:0:0:0:0:https%3a//streamer05.low-latency.cz/oiktv/index.fmp4.m3u8:OIK TV Česká Třebová
+#DESCRIPTION OIK TV Česká Třebová
+#SERVICE 4097:0:1:8235:1A:88:1040000:0:0:0:https%3a//edge.prahatv.eu/s-tv-praha/channels/live/praha-tv1oz8gkd5aj-1-1/praha-tv-1-1-clear.m3u8:Praha TV HD
+#DESCRIPTION Praha TV HD
+#SERVICE 4097:0:1:2B67:C94:3:EB0000:0:0:0:https%3a//stream.polar.cz/polar/polarlive-1/playlist.m3u8:Polar TV Ostrava HD
+#DESCRIPTION Polar TV Ostrava HD
+#SERVICE 4097:0:1:3A6F:ED0A:EC:0:0:0:0:https%3a//stream.polar.cz/polar2/polarlive2-1/playlist.m3u8:Polar TV 2 HD
+#DESCRIPTION Polar TV 2 HD
+#SERVICE 5002:0:1:B59C:4768:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.polar.cz/vctv/vctvlive-2/manifest.mpd:Východočeská TV Pardubice*
+#DESCRIPTION Východočeská TV Pardubice*
+#SERVICE 4097:0:1:692D:A2F7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/zktvtv:Západočeská Kabelová TV*
+#DESCRIPTION Západočeská Kabelová TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Estonia
+#DESCRIPTION Estonia
+#SERVICE 4097:0:1:2B67:708:C8:820000:0:0:0:https%3a//sb.err.ee/live/etv.m3u8:ETV HD
+#DESCRIPTION ETV HD
+#SERVICE 4097:0:1:2918:CB:55:300000:0:0:0:http%3a//sb.err.ee/live/etv2.m3u8:ETV 2 HD
+#DESCRIPTION ETV 2 HD
+#SERVICE 4097:0:1:F091:521:D:0:0:0:0:https%3a//sb.err.ee/live/etvpluss.m3u8:ETV+ HD
+#DESCRIPTION ETV+ HD
+#SERVICE 4097:0:1:15B:EEE2:EC:0:0:0:0:https%3a//s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token:TVN
+#DESCRIPTION TVN
+#SERVICE 4097:0:1:A659:C33A:EC:0:0:0:0:https%3a//router.euddn.net/862366dd346d6b6392d5231546f3d179/smil%3ark_live_1.smil/playlist.m3u8?c=8005:Riigikogu (Parliament) TV
+#DESCRIPTION Riigikogu (Parliament) TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Hungary
+#DESCRIPTION Hungary
+#SERVICE 4097:0:1:65:1838:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hirado.hu/elo/mtv1live:M1 HD*
+#DESCRIPTION M1 HD*
+#SERVICE 4097:0:1:66:1838:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hirado.hu/elo/mtv2live:M2 HD*
+#DESCRIPTION M2 HD*
+#SERVICE 4097:0:1:72:1838:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hirado.hu/elo/mtv4live:M4 HD*
+#DESCRIPTION M4 HD*
+#SERVICE 4097:0:1:6A:1838:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hirado.hu/elo/mtv5live:M5 HD*
+#DESCRIPTION M5 HD*
+#SERVICE 4097:0:1:67:1838:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hirado.hu/elo/dunalive:Duna HD*
+#DESCRIPTION Duna HD*
+#SERVICE 4097:0:1:69:1838:9E:5A0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hirado.hu/elo/dunaworldlive:Duna World HD*
+#DESCRIPTION Duna World HD*
+#SERVICE 4097:0:1:BC7:20D0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live:Euronews magyarul HD*
+#DESCRIPTION Euronews magyarul HD*
+#SERVICE 4097:0:1:9CB3:D5B3:EC:0:0:0:0:https%3a//stream.iptvservice.eu/hls/balatontv.m3u8:Balaton TV
+#DESCRIPTION Balaton TV
+#SERVICE 5002:0:1:4A6:3:1:E082F62:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.hirtv.hu/delayed.php.m3u8%2520--http-header%2520"Referer=https%3a//hirtv.hu/":Hír TV +1 HD*
+#DESCRIPTION Hír TV +1 HD*
+#SERVICE 4097:0:1:31C1:CEAC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@nytvlive102/live :Nyíregyházi TV*
+#DESCRIPTION Nyíregyházi TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Kosovo
+#DESCRIPTION Kosovo
+#SERVICE 4097:0:1:D65:2E4:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8:Arta News
+#DESCRIPTION Arta News
+#SERVICE 4097:0:1:55EE:A0A6:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:9E12:2DEA:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8:KTV Kohavision
+#DESCRIPTION KTV Kohavision
+#SERVICE 4097:0:1:8BC:7B66:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8:RTV 21
+#DESCRIPTION RTV 21
+#SERVICE 4097:0:1:BDF3:16AA:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8:RTV Besa
+#DESCRIPTION RTV Besa
+#SERVICE 4097:0:1:3D1B:7A1D:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8:Syri Vision
+#DESCRIPTION Syri Vision
+#SERVICE 4097:0:1:872A:15E:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/rewind-14400.m3u8:T7
+#DESCRIPTION T7
+#SERVICE 4097:0:1:7417:CE5C:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/index.m3u8:TV News
+#DESCRIPTION TV News
+#SERVICE 5002:0:1:ED7C:2174:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8:TV Prizreni
+#DESCRIPTION TV Prizreni
+#SERVICE 4097:0:1:5C1D:7774:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8:Zëri TV
+#DESCRIPTION Zëri TV
+#SERVICE 5002:0:1:5936:98C4:EC:0:0:0:0:https%3a//yayin30.haber100.com/live/rtvarberia/playlist.m3u8:RTV Arbëria 1
+#DESCRIPTION RTV Arbëria 1
+#SERVICE 5002:0:1:3E8:4F4C:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8%2520--http-header%2520"Referer=https%3a//video.gjirafa.com/":RTK 1 HD*
+#DESCRIPTION RTK 1 HD*
+#SERVICE 4097:0:1:3F6:92E:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk2/index.m3u8:RTK 2 HD
+#DESCRIPTION RTK 2 HD
+#SERVICE 4097:0:1:62A9:14A2:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8:RTK 3 HD
+#DESCRIPTION RTK 3 HD
+#SERVICE 4097:0:1:A87C:E13F:EC:0:0:0:0:https%3a//gjvideo-live-xk.gjirafa.net/gjvideo-livestream/rtk4/index.m3u8:RTK 4 HD
+#DESCRIPTION RTK 4 HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Latvia
+#DESCRIPTION Latvia
+#SERVICE 4097:0:1:68F0:269C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//replay.lsm.lv/lv/tiesraide/visiem/ --http-no-ssl-verify --http-header "Referer=https%3a//ltv.lsm.lv/":Visiem LTV*
+#DESCRIPTION Visiem LTV*
+#SERVICE 4097:0:1:2774:C9:55:300000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ltv.lsm.lv/lv/tiesraide/ltv1:LTV 1*
+#DESCRIPTION LTV 1*
+#SERVICE 4097:0:1:2779:C9:55:300000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ltv.lsm.lv/lv/tiesraide/ltv7:LTV 7*
+#DESCRIPTION LTV 7*
+#SERVICE 4097:0:1:8235:2DB4:13E:820000:0:0:0:https%3a//retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8:Re%3a TV
+#DESCRIPTION Re: TV
+#SERVICE 4097:0:1:619F:B70C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//air.star.lv/TV_Jurmala_multistream/index.m3u8 --http-no-ssl-verify:TV Jūrmala*
+#DESCRIPTION TV Jūrmala*
+#SERVICE 4097:0:1:D63:983:EC:0:0:0:0:https%3a//straume.vdtv.lv/vdtv3/index.m3u8:Vidusdaugavas Televīzija
+#DESCRIPTION Vidusdaugavas Televīzija
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Lithuania
+#DESCRIPTION Lithuania
+#SERVICE 4097:0:1:F160:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.lrt.lt/mediateka/tiesiogiai/lrt-televizija --http-no-ssl-verify:LRT HD*
+#DESCRIPTION LRT HD*
+#SERVICE 4097:0:1:F158:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.lrt.lt/mediateka/tiesiogiai/lrt-lituanica:LRT Lituanica HD*
+#DESCRIPTION LRT Lituanica HD*
+#SERVICE 4097:0:1:F159:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.lrt.lt/mediateka/tiesiogiai/lrt-plius:LRT Plius HD*
+#DESCRIPTION LRT Plius HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Lithuania -LRT Radio-
+#DESCRIPTION Lithuania -LRT Radio-
+#SERVICE 5002:0:0:FB6D:E2F5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.lrt.lt/mediateka/tiesiogiai/lrt-klasika:LRT Klasika*
+#DESCRIPTION LRT Klasika*
+#SERVICE 5002:0:0:FB6D:E2F5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.lrt.lt/mediateka/tiesiogiai/lrt-opus:LRT Opus*
+#DESCRIPTION LRT Opus*
+#SERVICE 5002:0:0:FB6D:E2F5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.lrt.lt/mediateka/tiesiogiai/lrt-radijas:LRT Radijas*
+#DESCRIPTION LRT Radijas*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Moldova
+#DESCRIPTION Moldova
+#SERVICE 4097:0:1:F263:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//v.trm.md/static/streaming-playlists/hls/6b3b523a-6a02-444c-8129-8354bbeffbc9/master.m3u8:TV Moldova 1 HD*
+#DESCRIPTION TV Moldova 1 HD*
+#SERVICE 4097:0:1:0:521:D:0:0:0:0:https%3a//v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8:TV Moldova 2 HD
+#DESCRIPTION TV Moldova 2 HD
+#SERVICE 4097:0:1:D409:521:D:0:0:0:0:https%3a//tsv.md/stream/tsv-online.mp4:TCB
+#DESCRIPTION TCB
+#SERVICE 4097:0:1:BE5D:1872:EC:0:0:0:0:https%3a//storage.voceabasarabiei.md/vocea/vocea.m3u8:Vocea Basarabiei TV
+#DESCRIPTION Vocea Basarabiei TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Montenegro
+#DESCRIPTION Montenegro
+#SERVICE 4097:0:1:35B:C3B4:16E:A00000:0:0:0:http%3a//cdn3.bcdn.rs%3a1935/cg1/smil%3acg1.smil/playlist.m3u8:RTCG 1
+#DESCRIPTION RTCG 1
+#SERVICE 4097:0:1:35C:C3B4:16E:A00000:0:0:0:http%3a//cdn3.bcdn.rs%3a1935/cg2/smil%3acg2.smil/playlist.m3u8:RTCG 2
+#DESCRIPTION RTCG 2
+#SERVICE 4097:0:1:225E:2E51:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//parlament.rtcg.me%3a1936/pr/smil%3aparlament.smil/playlist.m3u8 --http-no-ssl-verify:RTCG 3 HD*
+#DESCRIPTION RTCG 3 HD*
+#SERVICE 4097:0:1:2A:1:1:9EB138:0:0:0:https%3a//proxysat.ipradio.rs%3a1936/rtcg/smil%3artcg.smil/playlist.m3u8:RTCG MNE
+#DESCRIPTION RTCG MNE
+#SERVICE 4097:0:1:FC53:65B:EC:0:0:0:0:https%3a//gjirafa-video-live.gjirafa.net/gjvideo-live/xut-x1r-f6e-8lv/index.m3u8:TV Teuta
+#DESCRIPTION TV Teuta
+#SERVICE 4097:0:1:7DC1:A232:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/tvhercegnovi:TV Herceg Novi*
+#DESCRIPTION TV Herceg Novi*
+#SERVICE 5002:0:1:AFA1:6F9D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//5a1178b42cc03.streamlock.net/tehnikatv777/tehnikatv777/playlist.m3u8:TV 7 Montenegro*
+#DESCRIPTION TV 7 Montenegro*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::North Macedonia
+#DESCRIPTION North Macedonia
+#SERVICE 4097:0:1:E692:16B4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//play.mrt.com.mk/live/45 --http-no-ssl-verify:MRT 1 Sat*
+#DESCRIPTION MRT 1 Sat*
+#SERVICE 4097:0:1:BCFF:1313:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//play.mrt.com.mk/live/46 --http-no-ssl-verify:MRT 2 Sat HD*
+#DESCRIPTION MRT 2 Sat HD*
+#SERVICE 4097:0:1:9156:EF43:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//play.mrt.com.mk/live/44 --http-no-ssl-verify:MRT Sobraniski Kanal*
+#DESCRIPTION MRT Sobraniski Kanal*
+#SERVICE 5002:0:1:2FFB:F927:EC:0:0:0:0:http%3a//kanal8.hugo.mk%3a1935/live/kanal8/chunklist.m3u8:Kanal 8
+#DESCRIPTION Kanal 8
+#SERVICE 5002:0:1:973A:7D05:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.mnet.mk/hls/mnet.m3u8:M NET HD*
+#DESCRIPTION M NET HD*
+#SERVICE 4097:0:0:666D:5CB4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@OhridInfo/live:Ohrid Info TV*
+#DESCRIPTION Ohrid Info TV*
+#SERVICE 4097:0:1:B178:9A47:EC:0:0:0:0:https%3a//stream.nasatv.com.mk/hls/nasatv_live.m3u8:Nasha TV
+#DESCRIPTION Nasha TV
+#SERVICE 5002:0:1:4D7A:C96F:EC:0:0:0:0:http%3a//giganet.mk/hls/macdoc.m3u8:Macedonian Channel Documentary
+#DESCRIPTION Macedonian Channel Documentary
+#SERVICE 1:64:9D:0:0:0:0:0:0:0::Poland -TVP- (geo PL)
+#DESCRIPTION Poland -TVP- (geo PL)
+#SERVICE 4097:0:1:3ABD:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdndai.pl/tvp1hd/index.m3u8:TVP 1 HD*
+#DESCRIPTION TVP 1 HD*
+#SERVICE 4097:0:1:C22:1E78:71:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdndai.pl/tvp2hd/index.m3u8:TVP 2 HD*
+#DESCRIPTION TVP 2 HD*
+#SERVICE 4097:0:1:536A:9A33:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=44418549:TVP Wilno HD*
+#DESCRIPTION TVP Wilno HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Poland
+#DESCRIPTION Poland
+#SERVICE 5002:0:1:3ADB:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8:TVP 1 HD
+#DESCRIPTION TVP 1 HD
+#SERVICE 4097:0:1:E83:3200:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-polonia,399723:TVP Polonia HD*
+#DESCRIPTION TVP Polonia HD*
+#SERVICE 4097:0:1:5C:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-abc-2,399727:TVP ABC 2 HD*
+#DESCRIPTION TVP ABC 2 HD*
+#SERVICE 4097:0:1:28:3A2:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/alfa-tvp,399726:TVP Alfa HD*
+#DESCRIPTION TVP Alfa HD*
+#SERVICE 4097:0:1:3A9D:514:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-dokument,399721:TVP Dokument HD*
+#DESCRIPTION TVP Dokument HD*
+#SERVICE 4097:0:1:5D:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-historia-2,399725:TVP Historia 2 HD*
+#DESCRIPTION TVP Historia 2 HD*
+#SERVICE 4097:0:1:5E:3:2268:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-kultura-2,399728:TVP Kultura 2 HD*
+#DESCRIPTION TVP Kultura 2 HD*
+#SERVICE 4097:0:1:1139:2AF8:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-info,399699:TVP Info HD*
+#DESCRIPTION TVP Info HD*
+#SERVICE 4097:0:1:E28A:D90E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.tvp.pl/?channel_id=51656487:TVP World HD*
+#DESCRIPTION TVP World HD*
+#SERVICE 4097:0:1:4289:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Telewizja_Republika/live:Republika TV HD*
+#DESCRIPTION Republika TV HD*
+#SERVICE 4097:0:1:4279:2BC0:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjawPolsce24/live:Telewizja wPolsce24 HD*
+#DESCRIPTION Telewizja wPolsce24 HD*
+#SERVICE 1:64:98:0:0:0:0:0:0:0::Poland -TVP regional-
+#DESCRIPTION Poland -TVP regional-
+#SERVICE 4097:0:1:7:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-bialystok,399732:TVP3 Białystok*
+#DESCRIPTION TVP3 Białystok*
+#SERVICE 4097:0:1:8:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-bydgoszcz,399740:TVP3 Bydgoszcz*
+#DESCRIPTION TVP3 Bydgoszcz*
+#SERVICE 4097:0:1:9:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-gdansk,399741:TVP3 Gdańsk*
+#DESCRIPTION TVP3 Gdańsk*
+#SERVICE 4097:0:1:10:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-gorzow-wlkp,399742:TVP3 Gorzów Wielkopolski*
+#DESCRIPTION TVP3 Gorzów Wielkopolski*
+#SERVICE 4097:0:1:8235:420:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-katowice,399743:TVP3 Katowice*
+#DESCRIPTION TVP3 Katowice*
+#SERVICE 4097:0:1:12:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-kielce,399745:TVP3 Kielce*
+#DESCRIPTION TVP3 Kielce*
+#SERVICE 4097:0:1:13:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-krakow,399746:TVP3 Kraków*
+#DESCRIPTION TVP3 Kraków*
+#SERVICE 4097:0:1:14:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-lublin,399748:TVP3 Lublin*
+#DESCRIPTION TVP3 Lublin*
+#SERVICE 4097:0:1:15:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-lodz,399747:TVP3 Łódź*
+#DESCRIPTION TVP3 Łódź*
+#SERVICE 4097:0:1:16:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-olsztyn,399749:TVP3 Olsztyn*
+#DESCRIPTION TVP3 Olsztyn*
+#SERVICE 4097:0:1:8235:2AF8:13E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-opole,399750:TVP3 Opole*
+#DESCRIPTION TVP3 Opole*
+#SERVICE 4097:0:1:18:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-poznan,399751:TVP3 Poznań*
+#DESCRIPTION TVP3 Poznań*
+#SERVICE 4097:0:1:19:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-rzeszow,399752:TVP3 Rzeszów*
+#DESCRIPTION TVP3 Rzeszów*
+#SERVICE 4097:0:1:32:F:85:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-szczecin,399753:TVP3 Szczecin*
+#DESCRIPTION TVP3 Szczecin*
+#SERVICE 4097:0:1:21:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-warszawa,399754:TVP3 Warszawa*
+#DESCRIPTION TVP3 Warszawa*
+#SERVICE 4097:0:1:22:0:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//vod.tvp.pl/live,1/tvp-3-wroclaw,399755:TVP3 Wrocław*
+#DESCRIPTION TVP3 Wrocław*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Poland -regional-
+#DESCRIPTION Poland -regional-
+#SERVICE 4097:0:1:65:1:48:0:0:0:0:https%3a//echo24new.pl/LiveAppStreamECHO24/streams/GL0VksiIgQUS1672825288490.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined:Echo24 Wrocław
+#DESCRIPTION Echo24 Wrocław
+#SERVICE 4097:0:1:69:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/kanal10live:Kanał 10*
+#DESCRIPTION Kanał 10*
+#SERVICE 4097:0:1:58:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjaDamiRadom/live:TV Dami Radom*
+#DESCRIPTION TV Dami Radom*
+#SERVICE 4097:0:1:50:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/c/TelewizjaGorzówteletop/live:TV Gorzów*
+#DESCRIPTION TV Gorzów*
+#SERVICE 4097:0:1:96:1:48:0:0:0:0:https%3a//cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8:TV Jasło
+#DESCRIPTION TV Jasło
+#SERVICE 4097:0:1:86:1:48:0:0:0:0:http%3a//stream.tvkujawy.pl%3a8080/live/broadcast.m3u8:TV Kujawy
+#DESCRIPTION TV Kujawy
+#SERVICE 4097:0:1:89:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvlomza/live:TV Narew (Livecam)*
+#DESCRIPTION TV Narew (Livecam)*
+#SERVICE 4097:0:1:54:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TelewizjaOlsztynPL/live:TV Olsztyn*
+#DESCRIPTION TV Olsztyn*
+#SERVICE 4097:0:1:3:1:48:0:0:0:0:https%3a//tvreg.mailfull.pl/regionalna/stream/index.m3u8:TV Regionalna Lubin Legnica Głogów
+#DESCRIPTION TV Regionalna Lubin Legnica Głogów
+#SERVICE 4097:0:1:60:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@telewizjarelax/live:TV Relax*
+#DESCRIPTION TV Relax*
+#SERVICE 4097:0:1:95:1:48:0:0:0:0:https%3a//live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8:TVT Rybnik
+#DESCRIPTION TVT Rybnik
+#SERVICE 4097:0:1:56:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@tvsudecka/live:TV Sudecka*
+#DESCRIPTION TV Sudecka*
+#SERVICE 4097:0:1:92:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@telewizjawielkopolska/live:TV Wielkopolska*
+#DESCRIPTION TV Wielkopolska*
+#SERVICE 4097:0:1:52:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@telewizjazary9580/live:TV Żary*
+#DESCRIPTION TV Żary*
+#SERVICE 4097:0:1:2FB4:157C:13E:820000:0:0:0:http%3a//gargoyle.tomkow.pl/hls/tvt.m3u8:TVT Zgorzelec
+#DESCRIPTION TVT Zgorzelec
+#SERVICE 4097:0:1:48:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@UAMpoznan/live:UAM.TV Telewizja akademicka Poznań*
+#DESCRIPTION UAM.TV Telewizja akademicka Poznań*
+#SERVICE 4097:0:1:81:1:48:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@DobreMedia/live:Dobre Media*
+#DESCRIPTION Dobre Media*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Romania
+#DESCRIPTION Romania
+#SERVICE 4097:0:1:7D0:5014:16E:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@euronewsro/live:Euronews Romania HD*
+#DESCRIPTION Euronews Romania HD*
+#SERVICE 4097:0:1:6:C8:1:A0ACF8:0:0:0:https%3a//tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8:TVR Int.
+#DESCRIPTION TVR Int.
+#SERVICE 4097:0:1:8DFF:7286:EC:0:0:0:0:https%3a//a7tvlive.ro/A7TV/A7TV/playlist.m3u8:A7 TV
+#DESCRIPTION A7 TV
+#SERVICE 4097:0:1:3937:18BF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/albacarolinatv:Alba Carolina TV*
+#DESCRIPTION Alba Carolina TV*
+#SERVICE 5002:0:1:2:1F4:5:A00000:0:0:0:https%3a//stream1.kanald.ro/iphone/knd-live_low/index.m3u8:Kanal D
+#DESCRIPTION Kanal D
+#SERVICE 4097:0:1:EDBC:17:EC:0:0:0:0:https%3a//live.nasul.tv/live/stream.m3u8:Nasul TV
+#DESCRIPTION Nasul TV
+#SERVICE 5002:0:1:384:B0:64:A00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TuDecizi-s3g/live:Realitatea Plus*
+#DESCRIPTION Realitatea Plus*
+#SERVICE 5002:0:1:2A92:891:EC:0:0:0:0:https%3a//stream.realitatea.net/realitatea/star_md/ts%3aplaylist.m3u8:Realitatea Star
+#DESCRIPTION Realitatea Star
+#SERVICE 5002:0:1:E3BD:F839:EC:0:0:0:0:https%3a//stream.realitatea.net/realitatea/sportiva_md/ts%3aplaylist.m3u8:Realitatea Sportiva
+#DESCRIPTION Realitatea Sportiva
+#SERVICE 4097:0:0:E5DA:C94:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/romantv__:Roman TV*
+#DESCRIPTION Roman TV*
+#SERVICE 4097:0:1:1D6A:13DE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream-aleph.m.ro/Aleph/ngrp%3aSmartv.stream_all/playlist.m3u8:Smart TV HD*
+#DESCRIPTION Smart TV HD*
+#SERVICE 4097:0:1:B01:1B93:EC:0:0:0:0:http%3a//live.supertv.ro%3a1935/live/supertv/playlist.m3u8:Super TV HD
+#DESCRIPTION Super TV HD
+#SERVICE 4097:0:1:98D8:2AF4:EC:0:0:0:0:https%3a//tv.streambox.ro/hls/telem/index.m3u8:Tele M
+#DESCRIPTION Tele M
+#SERVICE 5002:0:1:3A5C:E979:EC:0:0:0:0:http%3a//46.4.14.12%3a9999/btvsvlive/btvsvlive/playlist.m3u8:Bucovina TV Suceava
+#DESCRIPTION Bucovina TV Suceava
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Serbia
+#DESCRIPTION Serbia
+#SERVICE 4097:0:1:48:CB2C:16E:A00000:0:0:0:https%3a//edge8.pink.rs/pinktv/index.m3u8:Pink 1
+#DESCRIPTION Pink 1
+#SERVICE 4097:0:1:C0BD:A1F9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//media-euronews-portal.ott.solutions/euronews-rs/public_stream/playlist.m3u8 --http-header "Referer=https%3a//www.euronews.rs/tv-uzivo":Euronews Srbija HD*
+#DESCRIPTION Euronews Srbija HD*
+#SERVICE 4097:0:1:E315:B3AD:EC:0:0:0:0:http%3a//92.60.238.10%3a1935/live/belleamie/playlist.m3u8:Belle Amie
+#DESCRIPTION Belle Amie
+#SERVICE 4097:0:1:C569:E9BA:EC:0:0:0:0:https%3a//static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/index.m3u8:Kurir TV HD
+#DESCRIPTION Kurir TV HD
+#SERVICE 4097:0:1:31E9:DD6F:EC:0:0:0:0:https%3a//edge8.pink.rs/redtv/playlist.m3u8:Red TV
+#DESCRIPTION Red TV
+#SERVICE 4097:0:1:2720:7F76:EC:0:0:0:0:http%3a//109.72.57.12/hls/tvcityub.m3u8:RTV City Ub
+#DESCRIPTION RTV City Ub
+#SERVICE 4097:0:1:6AD:A132:EC:0:0:0:0:https%3a//5bc45691ca49f.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8:SOS Kanal Plus
+#DESCRIPTION SOS Kanal Plus
+#SERVICE 4097:0:1:74:1:16E:A00000:0:0:0:http%3a//109.92.29.10%3a1935/tvduga/tvduga/playlist.m3u8:TV Duga Plus
+#DESCRIPTION TV Duga Plus
+#SERVICE 4097:0:1:F3B2:B074:EC:0:0:0:0:https%3a//vod1.laki.eu/live/hram/index.m3u8:TV Hram
+#DESCRIPTION TV Hram
+#SERVICE 4097:0:1:2836:EF92:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/tvkikindaonline:TV Kikinda*
+#DESCRIPTION TV Kikinda*
+#SERVICE 4097:0:1:7312:400F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//tv.rtvnp.rs/stream.m3u8:TV Novi Pazar*
+#DESCRIPTION TV Novi Pazar*
+#SERVICE 4097:0:1:49A:4FE4:EC:0:0:0:0:http%3a//stream.pikanal.rs/pikanal/pgm.m3u8?v=1617785340:TV Pi Canal Pirot
+#DESCRIPTION TV Pi Canal Pirot
+#SERVICE 4097:0:1:33A9:B574:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.twitch.tv/tvvaljevoplus:Valjevo Plus*
+#DESCRIPTION Valjevo Plus*
+#SERVICE 4097:0:1:309:1:64:A00000:0:0:0:https%3a//stream.nmih.hu%3a4102/live.m3u8:Pannon TV (hung.)
+#DESCRIPTION Pannon TV (hung.)
+#SERVICE 4097:0:1:5541:80C5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//www.dailymotion.com/video/x1jztwz:K23 TV*
+#DESCRIPTION K23 TV*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Slovakia -mostly geoblocked-
+#DESCRIPTION Slovakia -mostly geoblocked-
+#SERVICE 4097:0:1:3B78:C8D:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.rtvs.sk/televizia/live-1:RTVS %3a1 Jednotka HD*
+#DESCRIPTION RTVS :1 Jednotka HD*
+#SERVICE 4097:0:1:3B79:C8D:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.rtvs.sk/televizia/live-2:RTVS %3a2 Dvojka HD*
+#DESCRIPTION RTVS :2 Dvojka HD*
+#SERVICE 4097:0:1:3B7B:C8D:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.rtvs.sk/televizia/sport:RTVS %3aSport HD*
+#DESCRIPTION RTVS :Sport HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Slovakia
+#DESCRIPTION Slovakia
+#SERVICE 4097:0:1:3B7A:C8D:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.rtvs.sk/televizia/live-24:RTVS %3a24 HD*
+#DESCRIPTION RTVS :24 HD*
+#SERVICE 5002:0:1:3398:C89:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.cdn.joj.sk/live/andromeda/joj-720.m3u8%2520--http-header%2520"Referer=https%3a//media.joj.sk/":TV Joj HD*
+#DESCRIPTION TV Joj HD*
+#SERVICE 5002:0:1:33A0:C89:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.cdn.joj.sk/live/andromeda/joj_news-720.m3u8%2520--http-header%2520"Referer=https%3a//media.joj.sk/":Joj 24 HD*
+#DESCRIPTION Joj 24 HD*
+#SERVICE 5002:0:1:3399:C89:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.cdn.joj.sk/live/andromeda/plus-720.m3u8%2520--http-header%2520"Referer=https%3a//media.joj.sk/":Joj Plus HD*
+#DESCRIPTION Joj Plus HD*
+#SERVICE 5002:0:1:334F:C93:3:EB0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//live.cdn.joj.sk/live/andromeda/wau-720.m3u8%2520--http-header%2520"Referer=https%3a//media.joj.sk/":Joj Wau HD*
+#DESCRIPTION Joj Wau HD*
+#SERVICE 4097:0:1:A776:D0AE:EC:0:0:0:0:http%3a//tv.geniusnet.sk%3a8081/localltv/pl.m3u8:LocAll
+#DESCRIPTION LocAll
+#SERVICE 4097:0:1:F339:228E:EC:0:0:0:0:https%3a//livestream.lznet.work/hls/nztv-playout/index.m3u8:Televizia Nove Zamky
+#DESCRIPTION Televizia Nove Zamky
+#SERVICE 4097:0:1:2224:6C5:EC:0:0:0:0:http%3a//109.74.145.11%3a1935/tv8/ngrp%3atv8.stream_all/playlist.m3u8:Televizia OSEM
+#DESCRIPTION Televizia OSEM
+#SERVICE 4097:0:1:3B99:2511:EC:0:0:0:0:http%3a//5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8:Turzovská TV
+#DESCRIPTION Turzovská TV
+#SERVICE 4097:0:1:3C7A:A581:EC:0:0:0:0:https%3a//videoprojekcia.eu%3a8181/memfs/dd11506d-5911-4b2c-a088-168406e0e22e.m3u8:TV Poprad
+#DESCRIPTION TV Poprad
+#SERVICE 4097:0:1:ECA1:698A:EC:0:0:0:0:https%3a//cdnsk003.panaccess.com/local/TV_SNV_REDUTA/index.m3u8:TV Reduta
+#DESCRIPTION TV Reduta
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Slovenia
+#DESCRIPTION Slovenia
+#SERVICE 4097:0:0:DD3:38C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@Nova24TVSlovenija/live:Nova 24 TV*
+#DESCRIPTION Nova 24 TV*
+#SERVICE 4097:0:0:6CE1:F0FC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCOGseusAY1nMkEhpmmz6Mmg/live:Nova 24 TV 2*
+#DESCRIPTION Nova 24 TV 2*
+#SERVICE 4097:0:1:B41:E7AF:EC:0:0:0:0:http%3a//91.220.221.60/gtv_hls/gtv_03.m3u8:Gorenjska Televizija
+#DESCRIPTION Gorenjska Televizija
+#SERVICE 5002:0:1:E15D:1FF4:EC:0:0:0:0:https%3a//radio.serv.si/VeseljakGolicaTV/video.m3u8:Veseljak TV
+#DESCRIPTION Veseljak TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Ukraine
+#DESCRIPTION Ukraine
+#SERVICE 5002:0:1:B2:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//1plus1.video/tvguide/1plus1/online:1+1*
+#DESCRIPTION 1+1*
+#SERVICE 5002:0:1:B3:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//1plus1.video/tvguide/2plus2/online:2+2*
+#DESCRIPTION 2+2*
+#SERVICE 4097:0:1:A47:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@5channel/live:5 Kanal HD*
+#DESCRIPTION 5 Kanal HD*
+#SERVICE 4097:0:1:206:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@24онлайн/live:24 Kanal HD*
+#DESCRIPTION 24 Kanal HD*
+#SERVICE 4097:0:1:F234:521:D:0:0:0:0:https%3a//avers.pp.ua/hls/efir.m3u8:Avers TV
+#DESCRIPTION Avers TV
+#SERVICE 5002:0:1:E67:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//1plus1.video/tvguide/bigudi/online:Bigudi TV*
+#DESCRIPTION Bigudi TV*
+#SERVICE 4097:0:1:A123:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@EspresoTv/live:Espreso HD*
+#DESCRIPTION Espreso HD*
+#SERVICE 4097:0:1:1F12:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@FaktyICTVchannel/live:ICTV Fakti HD*
+#DESCRIPTION ICTV Fakti HD*
+#SERVICE 5002:0:1:A124:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//1plus1.video/tvguide/kvartaltv/online:Kvartal TV*
+#DESCRIPTION Kvartal TV*
+#SERVICE 4097:0:1:41F6:731B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/channel/UCQdSS9GSBbtSqW3oNB39KTw/live:NTA*
+#DESCRIPTION NTA*
+#SERVICE 4097:0:1:1095:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@pryamiy/live:Priamyj TV*
+#DESCRIPTION Priamyj TV*
+#SERVICE 4097:0:1:969:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@RadaTVchannel/live:Telekanal Rada (Parliament)*
+#DESCRIPTION Telekanal Rada (Parliament)*
+#SERVICE 5002:0:1:E65:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//1plus1.video/tvguide/tet/online:TET*
+#DESCRIPTION TET*
+#SERVICE 4097:0:1:1116:0:0:0:0:0:0:https%3a//freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8:UA TV
+#DESCRIPTION UA TV
+#SERVICE 5002:0:1:1113:0:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//1plus1.video/tvguide/uniantv/online:Unian HD*
+#DESCRIPTION Unian HD*
+#SERVICE 5002:0:1:A113:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//atr-live.cdn-01.cosmonova.net.ua/hls/atr_ua_hi/index.m3u8%2520--http-header "Referer=https%3a//live-atr-tv.cosmonova.net.ua/":ATR*
+#DESCRIPTION ATR*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Ukraine -regional-
+#DESCRIPTION Ukraine -regional-
+#SERVICE 4097:0:1:1F2:521:D:0:0:0:0:https%3a//cdn10.live-tv.cloud/7tvod/7tvod-abr-lq/playlist.m3u8:Kanal 7 Odessa
+#DESCRIPTION Kanal 7 Odessa
+#SERVICE 5002:0:1:F088:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//stream.ztv.zp.ua/hls/live.m3u8 :MTM Zaporizhia*
+#DESCRIPTION MTM Zaporizhia*
+#SERVICE 4097:0:1:1F11:521:D:0:0:0:0:http%3a//91.194.79.46%3a8081/stream1/channel1/playlist.m3u8:Perviy Gorodskoy Odessa
+#DESCRIPTION Perviy Gorodskoy Odessa
+#SERVICE 4097:0:1:A139:521:D:0:0:0:0:https%3a//cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8:Perviy Gorodskoy Krivoy Rog
+#DESCRIPTION Perviy Gorodskoy Krivoy Rog
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Ukkraine - Kids
+#DESCRIPTION Ukkraine - Kids
+#SERVICE 4097:0:1:D7A3:698C:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622882350f6aad0008c76e77/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Nick Ukraine by Pluto TV
+#DESCRIPTION Nick Ukraine by Pluto TV
+#SERVICE 5002:0:1:E66:521:D:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//1plus1.video/tvguide/plusplus/online:Plyus Plyus HD*
+#DESCRIPTION Plyus Plyus HD*

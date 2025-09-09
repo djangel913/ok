@@ -1,0 +1,1541 @@
+#NAME IPTV Deutschland
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Update 04.07.2025 by Team www.hdfreaks.cc
+#DESCRIPTION Update 04.07.2025 by Team www.hdfreaks.cc
+#SERVICE 1:64:1:0:0:0:0:0:0:0::* =Streamlink needed
+#DESCRIPTION * =Streamlink needed
+#SERVICE 1:64:0:0:0:0:0:0:0:0::HAUPTSENDER -non geo-
+#DESCRIPTION HAUPTSENDER -non geo-
+#SERVICE 5002:0:1:283D:3FB:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/ard1.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Das Erste*
+#DESCRIPTION Das Erste*
+#SERVICE 5002:0:1:2B66:3F3:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/zdf.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":ZDF*
+#DESCRIPTION ZDF*
+#SERVICE 5002:0:1:2B7A:3F3:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/zdfneo.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":ZDF Neo*
+#DESCRIPTION ZDF Neo*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::HAUPTSENDER (meist geo DE)
+#DESCRIPTION HAUPTSENDER (meist geo DE)
+#SERVICE 4097:0:1:283D:3FB:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//daserste-live.ard-mcdn.de/daserste/replay/dash/de/manifest.mpd:Das Erste HD*
+#DESCRIPTION Das Erste HD*
+#SERVICE 4097:0:1:2B66:3F3:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//zdf-dash-15.akamaized.net/dash/live/2016508/de/manifest.mpd:ZDF HD*
+#DESCRIPTION ZDF HD*
+#SERVICE 4097:0:1:2B7A:3F3:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//zdf-dash-16.akamaized.net/dash/live/2016509/de/manifest.mpd:ZDF Neo HD*
+#DESCRIPTION ZDF Neo HD*
+#SERVICE 4097:0:1:2BA2:3F2:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//zdf-dash-17.akamaized.net/dash/live/2016510/de/manifest.mpd:ZDF Info HD*
+#DESCRIPTION ZDF Info HD*
+#SERVICE 4097:0:1:283E:3FB:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.arte.tv/de/live/:Arte HD*
+#DESCRIPTION Arte HD*
+#SERVICE 4097:0:1:2B8E:3F2:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//zdf-dash-18.akamaized.net/dash/live/2016511/dach/manifest.mpd:3Sat HD*
+#DESCRIPTION 3Sat HD*
+#SERVICE 4097:0:1:285B:401:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//zdf-dash-19.akamaized.net/dash/live/2016512/de/manifest.mpd:Phoenix HD*
+#DESCRIPTION Phoenix HD*
+#SERVICE 4097:0:1:2888:40F:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//mcdn-one.ard.de/ardone/dash/manifest.mpd:One HD*
+#DESCRIPTION One HD*
+#SERVICE 4097:0:1:2889:40F:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//ardalphadash.akamaized.net/dash/live/2016972/ard_alpha/dvbt2/manifest.mpd:ARD Alpha HD*
+#DESCRIPTION ARD Alpha HD*
+#SERVICE 4097:0:1:4168:160:0:0:0:0:0:https%3a//jmp2.uk/sam-DE4300001HK.m3u8:ARD Plus Krimi
+#DESCRIPTION ARD Plus Krimi
+#SERVICE 1:64:0:0:0:0:0:0:0:0::DRITTE
+#DESCRIPTION DRITTE
+#SERVICE 4097:0:1:2856:401:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//bfrnorddash.akamaized.net/dash/live/2016971/bfs_nord_de/dvbt2/manifest.mpd:BR Nord HD*
+#DESCRIPTION BR Nord HD*
+#SERVICE 4097:0:1:2855:401:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//bfrsueddash.akamaized.net/dash/live/2016970/bfs_sued_de/dvbt2/manifest.mpd:BR Süd HD*
+#DESCRIPTION BR Süd HD*
+#SERVICE 4097:0:1:2873:425:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//hrdash.akamaized.net/dash/live/2024543/hrdash/manifest.mpd:HR HD*
+#DESCRIPTION HR HD*
+#SERVICE 4097:0:1:2871:425:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mdrtvsadash.akamaized.net/dash/live/2094116/mdrtvsa/dash.mpd:MDR S-Anhalt HD*
+#DESCRIPTION MDR S-Anhalt HD*
+#SERVICE 4097:0:1:2870:425:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mdrtvsndash.akamaized.net/dash/live/2094117/mdrtvsn/dash.mpd:MDR Sachsen HD*
+#DESCRIPTION MDR Sachsen HD*
+#SERVICE 4097:0:1:2872:425:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mdrtvthdash.akamaized.net/dash/live/2094118/mdrtvth/dash.mpd:MDR Thüringen HD*
+#DESCRIPTION MDR Thüringen HD*
+#SERVICE 4097:0:1:2859:401:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mcdn.ndr.de/ndr/dash/ndr_hbbtv/ndr_hbbtv_hh/ndr_hbbtv_hh.mpd:NDR HH HD*
+#DESCRIPTION NDR HH HD*
+#SERVICE 4097:0:1:2858:401:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mcdn.ndr.de/ndr/dash/ndr_hbbtv/ndr_hbbtv_mv/ndr_hbbtv_mv.mpd:NDR M-V HD*
+#DESCRIPTION NDR M-V HD*
+#SERVICE 4097:0:1:2857:401:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mcdn.ndr.de/ndr/dash/ndr_hbbtv/ndr_hbbtv_nds/ndr_hbbtv_nds.mpd:NDR NDS HD*
+#DESCRIPTION NDR NDS HD*
+#SERVICE 4097:0:1:285A:401:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//mcdn.ndr.de/ndr/dash/ndr_hbbtv/ndr_hbbtv_sh/ndr_hbbtv_sh.mpd:NDR S-H HD*
+#DESCRIPTION NDR S-H HD*
+#SERVICE 4097:0:1:288B:40F:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rbdashlive.akamaized.net/dash/live/2020436/rbfs/dash.mpd:Radio Bremen TV HD*
+#DESCRIPTION Radio Bremen TV HD*
+#SERVICE 4097:0:1:286F:425:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rbb-dash-berlin.akamaized.net/dash/live/2017826/rbb_berlin/manifest.mpd:RBB Berlin HD*
+#DESCRIPTION RBB Berlin HD*
+#SERVICE 4097:0:1:286E:425:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//rbb-dash-brandenburg.akamaized.net/dash/live/2017827/rbb_brandenburg/manifest.mpd:RBB Brandenburg HD*
+#DESCRIPTION RBB Brandenburg HD*
+#SERVICE 4097:0:1:288A:40F:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//swrsrfs-dash.akamaized.net/dash/live/2018687/srfsgeo/dash.mpd:SR HD*
+#DESCRIPTION SR HD*
+#SERVICE 4097:0:1:283F:3FB:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//swrbw-dash.akamaized.net/dash/live/2018674/swrbwd/manifest.mpd:SWR BW HD*
+#DESCRIPTION SWR BW HD*
+#SERVICE 4097:0:1:2840:3FB:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//swrrp-dash.akamaized.net/dash/live/2018680/swrrpd/manifest.mpd:SWR RP HD*
+#DESCRIPTION SWR RP HD*
+#SERVICE 4097:0:1:6EB2:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018114/wdrlz_duesseldorf/dash.mpd:WDR Düsseldorf HD*
+#DESCRIPTION WDR Düsseldorf HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::PRIVAT TV
+#DESCRIPTION PRIVAT TV
+#SERVICE 5002:0:1:445C:453:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/sat1.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Sat 1*
+#DESCRIPTION Sat 1*
+#SERVICE 5002:0:1:30D4:413:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/sat1gold.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Sat 1 Gold*
+#DESCRIPTION Sat 1 Gold*
+#SERVICE 5002:0:1:EF10:421:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/rtl.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":RTL*
+#DESCRIPTION RTL*
+#SERVICE 5002:0:1:EF15:421:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/rtl2.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":RTL 2*
+#DESCRIPTION RTL 2*
+#SERVICE 5002:0:1:2EAF:411:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/nitro.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Nitro*
+#DESCRIPTION Nitro*
+#SERVICE 5002:0:1:2E9B:411:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/superrtl.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Super RTL*
+#DESCRIPTION Super RTL*
+#SERVICE 5002:0:1:EF75:3F9:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/pro7.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Pro 7*
+#DESCRIPTION Pro 7*
+#SERVICE 5002:0:1:4461:453:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/pro7max.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Pro 7 MAXX*
+#DESCRIPTION Pro 7 MAXX*
+#SERVICE 5002:0:1:445E:453:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/kabel1.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Kabel 1*
+#DESCRIPTION Kabel 1*
+#SERVICE 5002:0:1:EF79:3F9:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/kabel1doku.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Kabel 1 Doku*
+#DESCRIPTION Kabel 1 Doku*
+#SERVICE 5002:0:1:2F1C:441:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/vox.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":VOX*
+#DESCRIPTION VOX*
+#SERVICE 5002:0:1:4462:453:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/six.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Sixx*
+#DESCRIPTION Sixx*
+#SERVICE 5002:0:1:1519:455:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/tele5.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Tele 5*
+#DESCRIPTION Tele 5*
+#SERVICE 5002:0:1:151A:455:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/dmax.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":DMAX*
+#DESCRIPTION DMAX*
+#SERVICE 5002:0:1:304:5:85:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/tlc.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":TLC*
+#DESCRIPTION TLC*
+#SERVICE 5002:0:1:157C:41F:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/disney.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Disney Channel*
+#DESCRIPTION Disney Channel*
+#SERVICE 5002:0:1:7004:436:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/comedy.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Comedy Central*
+#DESCRIPTION Comedy Central*
+#SERVICE 4097:0:19:1332:3EF:1:C00000:0:0:0:https%3a//d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index.m3u8:DF 1 HD
+#DESCRIPTION DF 1 HD
+#SERVICE 4097:0:1:526C:41D:1:C00000:0:0:0:https%3a//wow.anixa.tv/live/anixehd2/playlist.m3u8:Anixe Serie
+#DESCRIPTION Anixe Serie
+#SERVICE 4097:0:19:2FC:5:85:C00000:0:0:0:https%3a//wow.anixa.tv/live/anixesd/playlist.m3u8:Anixe +
+#DESCRIPTION Anixe +
+#SERVICE 4097:0:1:308:5:85:C00000:0:0:0:https%3a//d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8:DMF
+#DESCRIPTION DMF
+#SERVICE 4097:0:1:BB66:4C01:EC:0:0:0:0:https%3a//wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8:Welt der Wunder
+#DESCRIPTION Welt der Wunder
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MOVIES & SERIES German -Rakuten TV-
+#DESCRIPTION MOVIES & SERIES German -Rakuten TV-
+#SERVICE 5002:0:1:4976:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE30000067I.m3u8:Rakuten Deutsches Kino*
+#DESCRIPTION Rakuten Deutsches Kino*
+#SERVICE 5002:0:1:4999:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE2600005XA.m3u8:Rakuten Action*
+#DESCRIPTION Rakuten Action*
+#SERVICE 5002:0:1:4998:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE2600007ET.m3u8:Rakuten Drama*
+#DESCRIPTION Rakuten Drama*
+#SERVICE 5002:0:1:4004:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE2600006H2.m3u8:Rakuten Komödien*
+#DESCRIPTION Rakuten Komödien*
+#SERVICE 4097:0:1:5985:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8?ads.Rakuten+TV+EU_channel=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.content_url=rakutentv&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_year=1970&ads.did=09bef241-987c-45b2-b024-acc61a336afa&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.market=de&ads.os_language=&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_channel_name=top-movies-rakuten-tv_de&ads.rtv_content_id=5985&ads.rtv_content_language=deu&ads.rtv_language=deu&ads.rtvid=271862&ads.streaming_id=ed5116b0-deef-4a0e-98b4-3b26bb227e9a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5985&publishing_platform_id=5:Rakuten Top Filme*
+#DESCRIPTION Rakuten Top Filme*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MOVIES & SERIES German -Pluto TV-
+#DESCRIPTION MOVIES & SERIES German -Pluto TV-
+#SERVICE 4097:0:1:146:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7b6c60fd20c50007910bf5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Crime
+#DESCRIPTION Pluto TV Crime
+#SERVICE 4097:0:1:145:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64be64445dc166000899ce75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Polizeiserien
+#DESCRIPTION Pluto TV Polizeiserien
+#SERVICE 4097:0:1:55:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/630e00c065cfc10007c6e06b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Deutsches Kino
+#DESCRIPTION Pluto TV Deutsches Kino
+#SERVICE 4097:0:1:51:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64526a145a0cd50008632bfa/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Heisse Nächte
+#DESCRIPTION Pluto TV Heisse Nächte
+#SERVICE 4097:0:1:52:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65004605110545000842035d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Knallhart
+#DESCRIPTION Pluto TV Knallhart
+#SERVICE 4097:0:1:54:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dde47b63585b500099f74ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Kultfilme
+#DESCRIPTION Pluto TV Kultfilme
+#SERVICE 4097:0:1:143:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb5cfe5caf83414128f209e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Kultkrimi
+#DESCRIPTION Pluto TV Kultkrimi
+#SERVICE 4097:0:1:53:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Movies
+#DESCRIPTION Pluto TV Movies
+#SERVICE 4097:0:1:E2C6:AA3E:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67d984408d8dc3d7754dccf2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Nordic Crime
+#DESCRIPTION Pluto TV Nordic Crime
+#SERVICE 4097:0:1:131:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60ed498c4248a400077c0b9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Sci-Fi
+#DESCRIPTION Pluto TV Sci-Fi
+#SERVICE 4097:0:1:166:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Serie
+#DESCRIPTION Pluto TV Serie
+#SERVICE 4097:0:1:117:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767ab2b456c8cf265ce921/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Sitcoms
+#DESCRIPTION Pluto TV Sitcoms
+#SERVICE 4097:0:1:71:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/630dd3b2605f140007e002f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Western
+#DESCRIPTION Pluto TV Western
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MOVIES & SERIES German -Pluto TV Series-
+#DESCRIPTION MOVIES & SERIES German -Pluto TV Series-
+#SERVICE 4097:0:1:112:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f6e1e2792150007e0b2ff/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Alle hassen Chris
+#DESCRIPTION Alle hassen Chris
+#SERVICE 4097:0:1:147:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbf91afb1b10000880dd08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Auf Achse
+#DESCRIPTION Auf Achse
+#SERVICE 4097:0:1:165:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afb576053df900076fa2f0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Beverly Hills 90210
+#DESCRIPTION Beverly Hills 90210
+#SERVICE 4097:0:1:111:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60afbad343e3840007164348/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Chaos City
+#DESCRIPTION Chaos City
+#SERVICE 4097:0:1:109:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Cheers
+#DESCRIPTION Cheers
+#SERVICE 4097:0:1:108:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbfa1a9e38ec0007a395b7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Dittsche
+#DESCRIPTION Dittsche
+#SERVICE 4097:0:1:135:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f487722d9d400075f74dd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Ein Engel auf Erden
+#DESCRIPTION Ein Engel auf Erden
+#SERVICE 4097:0:1:73:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6270ea4345f5bc0007823048/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Fury
+#DESCRIPTION Fury
+#SERVICE 4097:0:1:106:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/622f6faf65be650007f57aab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Hausmeister Krause
+#DESCRIPTION Hausmeister Krause
+#SERVICE 4097:0:1:80:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c716084d842c00085f6e64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:South Park
+#DESCRIPTION South Park
+#SERVICE 4097:0:1:130:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6152ee71bf99590007893a11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Star Trek
+#DESCRIPTION Star Trek
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MOVIES & SERIES German -Pluto TV Kids-
+#DESCRIPTION MOVIES & SERIES German -Pluto TV Kids-
+#SERVICE 4097:0:1:415:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4796368174910007756454/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Emma, einfach magisch!
+#DESCRIPTION Emma, einfach magisch!
+#SERVICE 4097:0:1:409:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:iCarly
+#DESCRIPTION iCarly
+#SERVICE 4097:0:1:411:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Sam & Cat
+#DESCRIPTION Sam & Cat
+#SERVICE 4097:0:1:410:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Victorious
+#DESCRIPTION Victorious
+#SERVICE 1:64:0:0:0:0:0:0:0:0::MOVIES & SERIES German -Mix-
+#DESCRIPTION MOVIES & SERIES German -Mix-
+#SERVICE 4097:0:1:4986:160:0:0:0:0:0:https%3a//jmp2.uk/sam-DEBD2700002MZ.m3u8:Alles Kino
+#DESCRIPTION Alles Kino
+#SERVICE 5002:0:1:5026:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEAK0500448A.m3u8:Artflix*
+#DESCRIPTION Artflix*
+#SERVICE 4097:0:1:4995:160:0:0:0:0:0:https%3a//24212efd4e8d4f90a69db2104830f435.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_DEFATV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=de&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5609&ads.rtv_content_language=deu&ads.rtvid=271862&ads.streaming_id=afb270b4-5515-41ac-b440-29f244ae469f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1609:DEFA TV*
+#DESCRIPTION DEFA TV*
+#SERVICE 4097:0:1:5672:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/34df7658-8f92-11ee-a500-20f46a36ce67/0/master.m3u8?ads%3aamznbrmid=&ads%3aamznregion=&ads%3aamznslots=&ads%3aapp_bundle=com.rakuten.tv&ads%3aapp_version=&ads%3abrand_name=&ads%3acontent_classification=6&ads%3adevice_type=web&ads%3adevice_year=1970&ads%3afunke_channel_id=RAKB0055&ads%3agam_correlator=&ads%3alanguage=deu&ads%3amarket=de&ads%3aos_language=&ads%3aplayer_height=1080&ads%3aplayer_width=1920&ads%3apod_type=playerpage_midroll&ads%3artv_content_id=5672&ads%3astreaming_id=de8483ca-a71a-4e1c-96a7-0d9a1c072f92&ads%3atcf=&ads%3ativo_devcountry=&ads%3ativo_devmakedate=&ads%3ativo_mvpd=&ads%3ativo_platform=&ads%3ativo_usid=&ads%3ativo_uxloc=&ads%3auser_type=visitor&country=de&optout=0&uid=09bef241-987c-45b2-b024-acc61a336afa&vendor=rakuten:DDR TV-Archiv*
+#DESCRIPTION DDR TV-Archiv*
+#SERVICE 5002:0:1:4957:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fca9f5ec-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:Fabella*
+#DESCRIPTION Fabella*
+#SERVICE 5002:0:1:4969:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/db0bd9b5-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:Fantasja*
+#DESCRIPTION Fantasja*
+#SERVICE 4097:0:1:4370:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgold-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0:Filmgold*
+#DESCRIPTION Filmgold*
+#SERVICE 4097:0:1:9525:771F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE1200001JW.m3u8:Free Comedy*
+#DESCRIPTION Free Comedy*
+#SERVICE 5002:0:1:4972:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a02704a8-558c-11eb-bb6c-3ba175659de4/0/master.m3u8?uid=749544ec3d9a45d48c600d03cac91dfd&optout=0&vendor=philips&country=DE:Grjngo Western*
+#DESCRIPTION Grjngo Western*
+#SERVICE 5002:0:1:4975:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fd52f5-b250-11eb-a7de-bacfe1f83627/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:Heimatkino.TV*
+#DESCRIPTION Heimatkino.TV*
+#SERVICE 5002:0:1:4978:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//moviedome-samsung.amagi.tv/playlist.m3u8:MovieDome*
+#DESCRIPTION MovieDome*
+#SERVICE 5002:0:1:4963:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//moviedomefamily-samsung.amagi.tv/playlist.m3u8:MovieDome Family*
+#DESCRIPTION MovieDome Family*
+#SERVICE 4097:0:1:692E:AD1:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a67d572fac9c000835eb3a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Moviepilot TV by Pluto TV
+#DESCRIPTION Moviepilot TV by Pluto TV
+#SERVICE 5002:0:1:231F:CF1A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE4000002I3.m3u8:Moviesphere by Lionsgate*
+#DESCRIPTION Moviesphere by Lionsgate*
+#SERVICE 5002:0:1:4993:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimegerman-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0:My Time Movie Network*
+#DESCRIPTION My Time Movie Network*
+#SERVICE 5002:0:1:2:7F57:C14A:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9390cd38-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3aapp_domain=%7BAPP_DOMAIN%7D&ads%3aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3atcf=%7BTC_STRING%7D:Netzkino TV*
+#DESCRIPTION Netzkino TV*
+#SERVICE 5002:0:1:8BA0:8028:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBD5000001VL.m3u8:Top Filme*
+#DESCRIPTION Top Filme*
+#SERVICE 5002:0:1:4128:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-palatin-cractiontv-samsunguk/playlist.m3u8?ads.did=%257BPSID%257D&ads.dnt=%257BTARGETOPT%257D&ads.app_domain=%257BAPP_DOMAIN%257D&ads.app_name=%257BAPP_NAME%257D&ads.tc_string=%257BTC_STRING%257D&ads.coppa=0:Top Serien*
+#DESCRIPTION Top Serien*
+#SERVICE 5002:0:1:4954:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/videosolu-watch4movies-samsunguk/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0:Wedo Movies*
+#DESCRIPTION Wedo Movies*
+#SERVICE 4097:0:1:4171:160:0:0:0:0:0:https%3a//jmp2.uk/sam-CHBD27000011N.m3u8:Zee One
+#DESCRIPTION Zee One
+#SERVICE 5002:0:1:4787:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3eb1f51c-ea56-11ed-9ac0-952b1afeae6c/0/master.m3u8?ads%3aamznbrmid=&ads%3aamznregion=&ads%3aamznslots=&ads%3aapp_bundle=com.rakuten.tv&ads%3aapp_version=&ads%3abrand_name=&ads%3acontent_classification=12&ads%3adevice_type=web&ads%3adevice_year=1970&ads%3afunke_channel_id=RAKB0050&ads%3alanguage=deu&ads%3amarket=de&ads%3aos_language=&ads%3aplayer_height=1080&ads%3aplayer_width=1920&ads%3apod_type=playerpage_midroll&ads%3artv_content_id=4787&ads%3astreaming_id=362d7497-b16e-469c-9990-fc8df49b8ea2&ads%3atcf=&ads%3ativo_devcountry=&ads%3ativo_devmakedate=&ads%3ativo_mvpd=&ads%3ativo_platform=&ads%3ativo_usid=&ads%3ativo_uxloc=&ads%3auser_type=visitor&country=de&optout=0&uid=09bef241-987c-45b2-b024-acc61a336afa&vendor=rakuten:Utopja*
+#DESCRIPTION Utopja*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NEWS
+#DESCRIPTION NEWS
+#SERVICE 4097:0:1:79FE:443:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@euronewsde/live:Euronews HD*
+#DESCRIPTION Euronews HD*
+#SERVICE 4097:0:1:2887:40F:1:C00000:0:0:0:https%3a//tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8:Tagesschau 24 HD
+#DESCRIPTION Tagesschau 24 HD
+#SERVICE 5002:0:1:EF14:421:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/ntv.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":N-TV*
+#DESCRIPTION N-TV*
+#SERVICE 5002:0:1:527E:41D:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//strm.hdtvizlecanli.com/live/n24.m3u8%2520--hls-live-edge=5%2520--http-header%2520"Referer=https%3a//www.livestreamde.com/":Welt*
+#DESCRIPTION Welt*
+#SERVICE 4097:0:1:FF96:3FD:1:C00000:0:0:0:https%3a//bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8?DVR:Parlamentsfernsehen HD
+#DESCRIPTION Parlamentsfernsehen HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::DOKUS
+#DESCRIPTION DOKUS
+#SERVICE 5002:0:1:4342:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6576c20fb3801200084786c9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Spiegel TV*
+#DESCRIPTION Spiegel TV*
+#SERVICE 5002:0:1:4B87:853A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE1400003DP.m3u8:Spiegel TV Action + Crime*
+#DESCRIPTION Spiegel TV Action + Crime*
+#SERVICE 4097:0:1:C967:4CB8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65b9268fc798e800085add89/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Spiegel TV Konflikte*
+#DESCRIPTION Spiegel TV Konflikte*
+#SERVICE 5002:0:1:3883:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//amg00793-amg00793c39-rakuten-de-5443.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbchistoryde-rakutende/playlist.m3u8?ads_amagi_channel=957&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=firefox&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=de&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=09bef241-987c-45b2-b024-acc61a336afa&ads_rtv_content_id=3883&ads_rtv_content_language=deu&ads_rtvid=271862&ads_streaming_id=dff8c1dd-fb38-4d94-a271-b9b1ea6d72fe&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor:BBC History*
+#DESCRIPTION BBC History*
+#SERVICE 5002:0:1:4254:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE3200001RI.m3u8:BBC Earth*
+#DESCRIPTION BBC Earth*
+#SERVICE 5002:0:1:4208:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//e8205d96b6214c179639894ca82f7411.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CuriosityNow/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=0&ads.device_make=firefox&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=de&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=09bef241-987c-45b2-b024-acc61a336afa&ads.rtv_content_id=5015&ads.rtv_content_language=deu&ads.rtvid=271862&ads.streaming_id=7837611d-697f-4d7b-a8d7-613019163c53&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1514:Curiosity TV Now*
+#DESCRIPTION Curiosity TV Now*
+#SERVICE 5002:0:1:4124:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8?uid={PSID}&optout={TARGETOPT}&country=DE&vendor=samsung&ads%3aapp_domain={APP_DOMAIN}&ads%3aapp_name={APP_NAME}&coppa=1&ads%3atcf={TC_STRING}:Focus TV Reportage*
+#DESCRIPTION Focus TV Reportage*
+#SERVICE 4097:0:1:332F:45B:1:C00000:0:0:0:https%3a//muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8:Dokusat
+#DESCRIPTION Dokusat
+#SERVICE 4097:0:1:488:102:0:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65004cf398020f00084ca8bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Marco Polo TV
+#DESCRIPTION Marco Polo TV
+#SERVICE 5002:0:1:4240:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/77d4142c-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:Moconomy*
+#DESCRIPTION Moconomy*
+#SERVICE 4097:0:1:30:5:85:C00000:0:0:0:https%3a//service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:N24 Doku
+#DESCRIPTION N24 Doku
+#SERVICE 5002:0:1:4269:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:One Terra*
+#DESCRIPTION One Terra*
+#SERVICE 5002:0:1:4219:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4a8e7464-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%25257BPSID%25257D&optout=%25257BTARGETOPT%25257D&country=DE&vendor=samsung&ads%3aapp_domain=%25257BAPP_DOMAIN%25257D&ads%3aapp_name=%25257BAPP_NAME%25257D&coppa=1&ads%3atcf=%25257BTC_STRING%25257D:Tempora*
+#DESCRIPTION Tempora*
+#SERVICE 5002:0:1:4200:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBC3000003IG.m3u8:Terra X*
+#DESCRIPTION Terra X*
+#SERVICE 4097:0:1:C1B5:9CDD:EC:0:0:0:0:https%3a//video-solutions-ag-wedotvtruestories-1-us.ohlscdn.wurl.tv/4300.m3u8:WEDO True Stories
+#DESCRIPTION WEDO True Stories
+#SERVICE 1:64:0:0:0:0:0:0:0:0::BILD.DE Sparten
+#DESCRIPTION BILD.DE Sparten
+#SERVICE 4097:0:1:E766:95B1:EC:0:0:0:0:https%3a//bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildtv&ads.cpid=bild&ads.tcf=:BILD TV
+#DESCRIPTION BILD TV
+#SERVICE 4097:0:1:13AD:1567:EC:0:0:0:0:https%3a//bild-comedy.personalstream.tv/v1/bildde/master.m3u8:Comedy Bild TV
+#DESCRIPTION Comedy Bild TV
+#SERVICE 4097:0:1:E72F:4A69:EC:0:0:0:0:https%3a//computer-bild.personalstream.tv/v1/bildde/master.m3u8:Computer Bild TV
+#DESCRIPTION Computer Bild TV
+#SERVICE 4097:0:1:31D1:FB97:EC:0:0:0:0:https%3a//fit-book.personalstream.tv/v1/bildde/master.m3u8:Fitbook Bild TV
+#DESCRIPTION Fitbook Bild TV
+#SERVICE 4097:0:1:806D:C20A:EC:0:0:0:0:https%3a//travel-book.personalstream.tv/v1/bildde/master.m3u8:Travelbook Bild TV
+#DESCRIPTION Travelbook Bild TV
+#SERVICE 4097:0:1:834C:226B:EC:0:0:0:0:https%3a//myhome-book.personalstream.tv/v1/bildde/master.m3u8:MyHomebook Bild TV
+#DESCRIPTION MyHomebook Bild TV
+#SERVICE 4097:0:1:CC63:1CA9:EC:0:0:0:0:https%3a//pet-book.personalstream.tv/v1/bildde/master.m3u8:Petbook Bild TV
+#DESCRIPTION Petbook Bild TV
+#SERVICE 4097:0:1:CEC5:BFE7:EC:0:0:0:0:https%3a//style-book.personalstream.tv/v1/bildde/master.m3u8:Stylebook Bild TV
+#DESCRIPTION Stylebook Bild TV
+#SERVICE 4097:0:1:417E:8D0A:EC:0:0:0:0:https%3a//tech-book.personalstream.tv/v1/bildde/master.m3u8:Techbook Bild TV
+#DESCRIPTION Techbook Bild TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::DOKUS -Pluto TV-
+#DESCRIPTION DOKUS -Pluto TV-
+#SERVICE 4097:0:1:304:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db048f9447d6c0009b8f29d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Documentaries
+#DESCRIPTION Pluto TV Documentaries
+#SERVICE 4097:0:1:307:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV History
+#DESCRIPTION Pluto TV History
+#SERVICE 4097:0:1:305:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Science
+#DESCRIPTION Pluto TV Science
+#SERVICE 4097:0:1:206:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/617aad99b68ef100072608cd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Mystery
+#DESCRIPTION Pluto TV Mystery
+#SERVICE 4097:0:1:300:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61409f8d6feb30000766b675/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Space
+#DESCRIPTION Pluto TV Space
+#SERVICE 4097:0:1:204:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615333098185f00008715a56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV True Crime
+#DESCRIPTION Pluto TV True Crime
+#SERVICE 1:64:0:0:0:0:0:0:0:0::REISEN
+#DESCRIPTION REISEN
+#SERVICE 4097:0:1:306:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4519e6873180007d3cddb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:BBC Travel
+#DESCRIPTION BBC Travel
+#SERVICE 5002:0:1:4418:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ebd246c0-6faf-11eb-908d-533d39655269/0/master.m3u8?uid=%257BPSID%257D&optout=%257BTARGETOPT%257D&country=DE&vendor=samsung&ads%3aapp_domain=%257BAPP_DOMAIN%257D&ads%3aapp_name=%257BAPP_NAME%257D&coppa=1&ads%3atcf=%257BTC_STRING%257D:Hip Trips*
+#DESCRIPTION Hip Trips*
+#SERVICE 4097:0:1:303:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Explore
+#DESCRIPTION Pluto TV Explore
+#SERVICE 5002:0:1:11FB:2B5C:13E:820000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//0368faf6defc416796cb89a530ffae2b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-de_TravelXP/playlist.m3u8:Travel XP*
+#DESCRIPTION Travel XP*
+#SERVICE 5002:0:1:4410:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid={PSID}&optout={TARGETOPT}&country=DE&vendor=samsung&ads%3aapp_domain={APP_DOMAIN}&ads%3aapp_name={APP_NAME}&coppa=1&ads%3atcf={TC_STRING}:Xplore Reisen*
+#DESCRIPTION Xplore Reisen*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::TIERE & NATUR
+#DESCRIPTION TIERE & NATUR
+#SERVICE 5002:0:1:4234:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8?uid={PSID}&optout={TARGETOPT}&country=DE&vendor=samsung&ads%3aapp_domain={APP_DOMAIN}&ads%3aapp_name={APP_NAME}&coppa=1&ads%3atcf={TC_STRING}:Bergblick Free*
+#DESCRIPTION Bergblick Free*
+#SERVICE 5002:0:1:4406:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8fb3677f-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3aapp_domain=%7BAPP_DOMAIN%7D&ads%3aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3atcf=%7BTC_STRING%7D:Just.Fishing*
+#DESCRIPTION Just.Fishing*
+#SERVICE 5002:0:1:4239:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetdesamsung-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0:Love The Planet*
+#DESCRIPTION Love The Planet*
+#SERVICE 4097:0:1:4265:160:0:0:0:0:0:https%3a//jmp2.uk/sam-ATBD2700001KY.m3u8:Terra Mater Wild
+#DESCRIPTION Terra Mater Wild
+#SERVICE 5002:0:1:4263:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0768a975-80d4-11eb-908d-533d39655269/0/master.m3u8?uid=749544ec3d9a45d48c600d03cac91dfd&optout=0&vendor=philips&country=DE:Tierwelt TV*
+#DESCRIPTION Tierwelt TV*
+#SERVICE 5002:0:1:4260:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=PSID&ads.dnt=TARGETOPT&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.coppa=0:Wilder Planet*
+#DESCRIPTION Wilder Planet*
+#SERVICE 4097:0:1:302:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Nature
+#DESCRIPTION Pluto TV Nature
+#SERVICE 4097:0:1:301:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Animals
+#DESCRIPTION Pluto TV Animals
+#SERVICE 1:64:0:0:0:0:0:0:0:0::KULTUR
+#DESCRIPTION KULTUR
+#SERVICE 4097:0:1:DACD:585E:EC:0:0:0:0:http%3a//58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4%3akulturmd_high/chunklist_w1264774780.m3u8:Kulturmd TV
+#DESCRIPTION Kulturmd TV
+#SERVICE 1:64:25:0:0:0:0:0:0:0::LIFESTYLE
+#DESCRIPTION LIFESTYLE
+#SERVICE 5002:0:1:4435:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DE2900002Z8.m3u8:BBC Food*
+#DESCRIPTION BBC Food*
+#SERVICE 5002:0:1:4447:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/44bf4cd7-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3aapp_domain=%7BAPP_DOMAIN%7D&ads%3aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3atcf=%7BTC_STRING%7D:Just Cooking TV*
+#DESCRIPTION Just Cooking TV*
+#SERVICE 5002:0:1:4438:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-germany-samsung-ukAA/playlist.m3u8?ads.did={PSID}&ads.dnt={TARGETOPT}&ads.app_domain={APP_DOMAIN}&ads.app_name={APP_NAME}&ads.tc_string={TC_STRING}&ads.coppa=0:Tastemade TV*
+#DESCRIPTION Tastemade TV*
+#SERVICE 5002:0:1:4147:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBD2400001PC.m3u8:Out TV*
+#DESCRIPTION Out TV*
+#SERVICE 4097:0:1:6D73:B715:EC:0:0:0:0:http%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65ef002b4e01740008d2d5c1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:PRIDEtv
+#DESCRIPTION PRIDEtv
+#SERVICE 4097:0:1:381:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Food
+#DESCRIPTION Pluto TV Food
+#SERVICE 4097:0:1:383:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Home
+#DESCRIPTION Pluto TV Home
+#SERVICE 4097:0:1:3E5B:AB9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//jmp2.uk/sam-DEBD2700003W5.m3u8:Royalworld - Adel & Dynastien*
+#DESCRIPTION Royalworld - Adel & Dynastien*
+#SERVICE 1:64:7:0:0:0:0:0:0:0::GAMING
+#DESCRIPTION GAMING
+#SERVICE 5002:0:1:4195:130:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f46fb880-c5fe-11ec-967f-401ac48a6867/0/master.m3u8?ads%3aamznbrmid=&ads%3aamznregion=&ads%3aamznslots=&ads%3aapp_bundle=com.rakuten.tv&ads%3aapp_version=&ads%3abrand_name=&ads%3acontent_classification=12&ads%3adevice_type=web&ads%3adevice_year=1970&ads%3afunke_channel_id=RAKB0039&ads%3agam_correlator=&ads%3alanguage=deu&ads%3amarket=de&ads%3aos_language=&ads%3aplayer_height=1080&ads%3aplayer_width=1920&ads%3apod_type=playerpage_midroll&ads%3artv_content_id=4195&ads%3astreaming_id=5efd7c78-8133-4224-984d-80ecb8425967&ads%3atcf=&ads%3ativo_devcountry=&ads%3ativo_devmakedate=&ads%3ativo_mvpd=&ads%3ativo_platform=&ads%3ativo_usid=&ads%3ativo_uxloc=&ads%3auser_type=visitor&country=de&optout=0&uid=09bef241-987c-45b2-b024-acc61a336afa&vendor=rakuten:Rocket Beans TV*
+#DESCRIPTION Rocket Beans TV*
+#SERVICE 4097:0:1:AD55:3D24:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8eccd81062c300078a11df/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Gaming TV (Pluto)
+#DESCRIPTION Gaming TV (Pluto)
+#SERVICE 4097:0:1:1D43:D47A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/commodore64club:Commodore C64 Club*
+#DESCRIPTION Commodore C64 Club*
+#SERVICE 4097:0:1:753B:E2E9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/retrolongplay:RetroLongPlay*
+#DESCRIPTION RetroLongPlay*
+#SERVICE 4097:0:1:7550:FA6B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.twitch.tv/syrinxx1337:CSGO by Syrinxx1337*
+#DESCRIPTION CSGO by Syrinxx1337*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::KINDER
+#DESCRIPTION KINDER
+#SERVICE 4097:0:1:2B98:3F2:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//kikageodash.akamaized.net/dash/live/2022694/livetvkika_de/manifest.mpd:KiKa HD*
+#DESCRIPTION KiKa HD*
+#SERVICE 5002:0:1:4141:160:0:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//amg00609-palatinmedia-amg00609c1-samsung-de-467.playouts.now.amagi.tv/playlist/amg00609-palatinmediafast-naruto-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0:Naruto HD*
+#DESCRIPTION Naruto HD*
+#SERVICE 4097:0:1:F029:3242:EC:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608181d420fc8500075f612a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Anime
+#DESCRIPTION Pluto TV Anime
+#SERVICE 4097:0:1:186:102:0:0:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600adbdf8c554e00072125c9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus:Pluto TV Avatar
+#DESCRIPTION Pluto TV Avatar
+#SERVICE 4097:0:1:32DB:45D:1:C00000:0:0:0:https%3a//rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8:RiC TV
+#DESCRIPTION RiC TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::SHOPPING
+#DESCRIPTION SHOPPING
+#SERVICE 4097:0:1:5270:41D:1:C00000:0:0:0:https%3a//hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8:HSE 24 HD
+#DESCRIPTION HSE 24 HD
+#SERVICE 4097:0:1:157D:41F:1:C00000:0:0:0:https%3a//hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8:HSE24 Extra HD
+#DESCRIPTION HSE24 Extra HD
+#SERVICE 4097:0:1:151C:455:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@PEARL-TV/live:Pearl HD*
+#DESCRIPTION Pearl HD*
+#SERVICE 4097:0:1:526F:41D:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8:QVC Deutschland*
+#DESCRIPTION QVC Deutschland*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RELIGION
+#DESCRIPTION RELIGION
+#SERVICE 4097:0:1:BBA5:2323:EC:0:0:0:0:https%3a//bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/bibeltv03/bibeltv03.stream_1/chunks.m3u8:Echt Jetzt
+#DESCRIPTION Echt Jetzt
+#SERVICE 4097:0:1:86:1E:D:FFFF0000:0:0:0:https%3a//bcovlive-a.akamaihd.net/b9f68a14d78144abb5b883067a0cdb84/eu-central-1/6194387526001/playlist.m3u8:ERF
+#DESCRIPTION ERF
+#SERVICE 4097:0:1:33A8:3EB:1:C00000:0:0:0:https%3a//bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8:Bibel TV HD
+#DESCRIPTION Bibel TV HD
+#SERVICE 4097:0:1:9047:CE33:EC:0:0:0:0:https%3a//bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8:Bibel TV Impuls HD
+#DESCRIPTION Bibel TV Impuls HD
+#SERVICE 5002:0:1:3E:5:85:C00000:0:0:0:https%3a//cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/wscrpvs7/720/chunklist.m3u8:EWTN HD
+#DESCRIPTION EWTN HD
+#SERVICE 4097:0:1:3139:459:1:C00000:0:0:0:http%3a//d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8:K-TV
+#DESCRIPTION K-TV
+#SERVICE 4097:0:1:CFA8:5375:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//streamer1.streamhost.org/salive/lctvde/playlist.m3u8:Light Channel*
+#DESCRIPTION Light Channel*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::WDR - Lokalversionen
+#DESCRIPTION WDR - Lokalversionen
+#SERVICE 4097:0:1:6EAD:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018107/wdrlz_aachen/dash.mpd:WDR Aachen HD*
+#DESCRIPTION WDR Aachen HD*
+#SERVICE 4097:0:1:6EAE:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018117/wdrlz_bielefeld/dash.mpd:WDR Bielefeld HD*
+#DESCRIPTION WDR Bielefeld HD*
+#SERVICE 4097:0:1:6EAF:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018112/wdrlz_bonn/dash.mpd:WDR Bonn HD*
+#DESCRIPTION WDR Bonn HD*
+#SERVICE 4097:0:1:6EB0:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018113/wdrlz_dortmund/dash.mpd:WDR Dortmund HD*
+#DESCRIPTION WDR Dortmund HD*
+#SERVICE 4097:0:1:6EB1:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018115/wdrlz_duisburg/dash.mpd:WDR Duisburg HD*
+#DESCRIPTION WDR Duisburg HD*
+#SERVICE 4097:0:1:6EB3:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018118/wdrlz_essen/dash.mpd:WDR Essen HD*
+#DESCRIPTION WDR Essen HD*
+#SERVICE 4097:0:1:6EB4:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018116/wdrlz_muensterland/dash.mpd:WDR Münster HD*
+#DESCRIPTION WDR Münster HD*
+#SERVICE 4097:0:1:6EB5:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018111/wdrlz_siegen/dash.mpd:WDR Siegen HD*
+#DESCRIPTION WDR Siegen HD*
+#SERVICE 4097:0:1:6EB6:3FD:1:C00000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//wdrlokalzeit.akamaized.net/dash/live/2018126/wdrlz_wuppertal/dash.mpd:WDR Wuppertal HD*
+#DESCRIPTION WDR Wuppertal HD*
+#SERVICE 1:64:0:0:0:0:0:0:0:0::LOKAL-TV
+#DESCRIPTION LOKAL-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/manifest.mpd:Alex Berlin
+#DESCRIPTION Alex Berlin
+#SERVICE 5002:0:1:5196:E2BB:EC:0:0:0:0:https%3a//58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8:TV Berlin HD
+#DESCRIPTION TV Berlin HD
+#SERVICE 4097:0:1:7383:DC8A:EC:0:0:0:0:https%3a//stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp%3astream_all/playlist.m3u8:Allgäu TV HD
+#DESCRIPTION Allgäu TV HD
+#SERVICE 4097:0:1:789:2B2A:EC:0:0:0:0:https%3a//stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp%3astream_all/playlist.m3u8:Augsburg TV
+#DESCRIPTION Augsburg TV
+#SERVICE 4097:0:1:7B18:8D29:EC:0:0:0:0:http%3a//badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8:Baden TV
+#DESCRIPTION Baden TV
+#SERVICE 4097:0:1:7B18:8D29:EC:0:0:0:0:http%3a//cdn.icu.de/rtplive/btv.stream/.m3u8:Baden TV - Alternative
+#DESCRIPTION Baden TV - Alternative
+#SERVICE 4097:0:1:7B18:8D29:EC:0:0:0:0:http%3a//cdn.icu.de/rtplive/smil%3abtvsued.smil/playlist.m3u8:Baden TV Süd
+#DESCRIPTION Baden TV Süd
+#SERVICE 4097:0:1:696C:CF28:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aBLKonline_high/playlist.m3u8:Burgenlandkreis Regional TV
+#DESCRIPTION Burgenlandkreis Regional TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.icu.de/rtplive/bwf.stream/.m3u8:BW Family TV
+#DESCRIPTION BW Family TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8:Chemnitz TV
+#DESCRIPTION Chemnitz TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8:Dresden TV
+#DESCRIPTION Dresden TV
+#SERVICE 4097:0:1:AF02:B6D6:EC:0:0:0:0:https%3a//5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8:Erz-TV Stollberg
+#DESCRIPTION Erz-TV Stollberg
+#SERVICE 4097:0:1:B0F6:DD9E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/@TVWestsachsen/live:Westsachsen TV*
+#DESCRIPTION Westsachsen TV*
+#SERVICE 4097:0:1:8781:A4BA:EC:0:0:0:0:https%3a//h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4%3alivestream/playlist.m3u8:Filstalwelle
+#DESCRIPTION Filstalwelle
+#SERVICE 4097:0:1:73B0:CD08:EC:0:0:0:0:https%3a//stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp%3astream_all/playlist.m3u8:Franken TV
+#DESCRIPTION Franken TV
+#SERVICE 4097:0:1:9F77:72C9:EC:0:0:0:0:https%3a//cdn.livespotting.com/vpu/so1795yx/0n5ikvr8.m3u8:FRF Friesischer Rundfunk
+#DESCRIPTION FRF Friesischer Rundfunk
+#SERVICE 4097:0:1:4A80:1001:2114:EEEE0000:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//www.youtube.com/embed/_bvFj37lkuQ?feature=oembed:Hamburg 1*
+#DESCRIPTION Hamburg 1*
+#SERVICE 5002:0:1:673E:285:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//hls1.wtnet.de/noa4hh/apple/wifi.m3u8:Hamburg noa4 HD*
+#DESCRIPTION Hamburg noa4 HD*
+#SERVICE 5002:0:1:B1E1:F2F5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/http%3a//hls1.wtnet.de/noa4/apple/wifi6500.m3u8:Hamburg noa4 Norderstedt HD*
+#DESCRIPTION Hamburg noa4 Norderstedt HD*
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/heinstv-live/_definst_/smil%3alivestream.smil/playlist.m3u8?&ref=h-eins.tv:Hannover 1
+#DESCRIPTION Hannover 1
+#SERVICE 4097:0:1:4DD0:9606:EC:0:0:0:0:https%3a//58de7a369a9c4.streamlock.net/potsdamtv/ngrp%3astream_all/playlist.m3u8:Hauptstadt.TV Potsdam
+#DESCRIPTION Hauptstadt.TV Potsdam
+#SERVICE 4097:0:1:F85:B92D:EC:0:0:0:0:https%3a//stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp%3astream_all/playlist.m3u8:Ingolstadt TV HD
+#DESCRIPTION Ingolstadt TV HD
+#SERVICE 4097:0:1:F09F:C3A1:EC:0:0:0:0:https%3a//isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8:Isar TV HD
+#DESCRIPTION Isar TV HD
+#SERVICE 4097:0:1:80FD:814C:EC:0:0:0:0:https%3a//stream4.sehradar.de/jenatv/ngrp%3alivestream_all/playlist.m3u8:JenaTV HD
+#DESCRIPTION JenaTV HD
+#SERVICE 4097:0:1:DA8C:B58E:EC:0:0:0:0:https%3a//lausitz.iptv-playoutcenter.de/lausitz/lausitzfernsehen.stream_1/playlist.m3u8:Lausitz TV HD
+#DESCRIPTION Lausitz TV HD
+#SERVICE 4097:0:1:2367:FAE1:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/easycast11-live/_definst_/mp4%3alivestreamhd2/playlist.m3u8:Lausitzwelle TV HD
+#DESCRIPTION Lausitzwelle TV HD
+#SERVICE 4097:0:1:952:1D9:EC:0:0:0:0:https%3a//live2.telvi.de/hls/l-tv_s1.m3u8:L-TV
+#DESCRIPTION L-TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8:Leipzig Fernsehen
+#DESCRIPTION Leipzig Fernsehen
+#SERVICE 5002:0:1:D240:5E01:EC:0:0:0:0:https%3a//stream01.welocal.stream/stream/fhd-tvmainfranken_255661/ngrp%3astream_all/playlist.m3u8:MainFranken HD
+#DESCRIPTION MainFranken HD
+#SERVICE 5002:0:1:EA30:5641:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3amdf1_high/playlist.m3u8:MDF 1
+#DESCRIPTION MDF 1
+#SERVICE 4097:0:1:9E9:6009:EC:0:0:0:0:https%3a//stream02.welocal.stream/stream/fhd-muenchentv_365036/ngrp%3astream_all/playlist.m3u8:München TV HD
+#DESCRIPTION München TV HD
+#SERVICE 4097:0:1:90C3:8B3B:EC:0:0:0:0:https%3a//mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8:MyTVplus Dresden
+#DESCRIPTION MyTVplus Dresden
+#SERVICE 5002:0:1:C053:3116:EC:0:0:0:0:https%3a//s.ok54.de/nahetv/webstream/playlist.m3u8:Nahe TV HD
+#DESCRIPTION Nahe TV HD
+#SERVICE 4097:0:1:CF1F:ADB7:EC:0:0:0:0:https%3a//stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp%3astream_all/playlist.m3u8:Niederbayern TV Deggendorf HD
+#DESCRIPTION Niederbayern TV Deggendorf HD
+#SERVICE 4097:0:1:BFD8:7C7F:EC:0:0:0:0:https%3a//stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp%3astream_all/playlist.m3u8:Niederbayern TV Landshut HD
+#DESCRIPTION Niederbayern TV Landshut HD
+#SERVICE 4097:0:1:EC0A:A2F7:EC:0:0:0:0:https%3a//stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp%3astream_all/playlist.m3u8:Niederbayern TV Passau HD
+#DESCRIPTION Niederbayern TV Passau HD
+#SERVICE 4097:0:1:912F:7FD4:EC:0:0:0:0:http%3a//fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8:NRWision
+#DESCRIPTION NRWision
+#SERVICE 4097:0:1:F80E:F834:EC:0:0:0:0:https%3a//oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8:Oberpfalz TV HD
+#DESCRIPTION Oberpfalz TV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4%3astreamschedule/playlist.m3u8?&ref=www.of-tv.de&seid=503585:OF-TV
+#DESCRIPTION OF-TV
+#SERVICE 4097:0:1:6CBB:BCFF:EC:0:0:0:0:https%3a//s.ok54.de/abr_ok4/live/playlist.m3u8:OK 4
+#DESCRIPTION OK 4
+#SERVICE 5002:0:1:74A:5B7E:EC:0:0:0:0:https%3a//s.ok54.de/ott/webstream/playlist.m3u8:OK 54 Trier
+#DESCRIPTION OK 54 Trier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aok-dessau_high/playlist.m3u8?&ref=www.ok-dessau.de&seid=199148:OK Dessau
+#DESCRIPTION OK Dessau
+#SERVICE 5002:0:1:1E09:8976:EC:0:0:0:0:https%3a//live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8:OK Flensburg
+#DESCRIPTION OK Flensburg
+#SERVICE 5002:0:1:C61:DBC1:EC:0:0:0:0:https%3a//s.ok54.de/mok-gi/mok-gi/playlist.m3u8:OK Gießen
+#DESCRIPTION OK Gießen
+#SERVICE 5002:0:1:32E6:7873:EC:0:0:0:0:https%3a//s.ok54.de/abr_okkl/webstream/playlist.m3u8:OK Kaiserslautern
+#DESCRIPTION OK Kaiserslautern
+#SERVICE 5002:0:1:AC1E:D401:EC:0:0:0:0:https%3a//s.ok54.de/mok-ks/kassel/playlist.m3u8:OK Kassel
+#DESCRIPTION OK Kassel
+#SERVICE 5002:0:1:F074:28C3:EC:0:0:0:0:https%3a//live-cdn.oksh.de/play/hls/kieltv/index.m3u8:OK Kiel
+#DESCRIPTION OK Kiel
+#SERVICE 4097:0:1:48FB:3B99:EC:0:0:0:0:https%3a//s.ok54.de/oklu/livestream/playlist.m3u8:OK Ludwigshafen
+#DESCRIPTION OK Ludwigshafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aok-magdeburg_high/playlist.m3u8?&ref=www.ok-magdeburg.de&seid=104811:OK Magdeburg
+#DESCRIPTION OK Magdeburg
+#SERVICE 5002:0:1:8806:FE2D:EC:0:0:0:0:https%3a//s.ok54.de/oktvmainz/webstream/playlist.m3u8:OK Mainz
+#DESCRIPTION OK Mainz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aok-merseburg_high/playlist.m3u8?&ref=www.okmq.de&seid=143514:OK Merseburg
+#DESCRIPTION OK Merseburg
+#SERVICE 5002:0:1:F750:A6A:EC:0:0:0:0:https%3a//s.ok54.de/mok-rm/mok-rm/playlist.m3u8:OK Rhein-Main
+#DESCRIPTION OK Rhein-Main
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aok-salzwedel_high/playlist.m3u8?&ref=ok-salzwedel.de&seid=136180:OK Salzwedel
+#DESCRIPTION OK Salzwedel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aok-stendal_high/playlist.m3u8?&ref=www.ok-stendal.de&seid=179427:OK Stendal
+#DESCRIPTION OK Stendal
+#SERVICE 5002:0:1:7C01:8F52:EC:0:0:0:0:https%3a//s.ok54.de/okswp/test/chunks.m3u8:OK Südwestpfalz
+#DESCRIPTION OK Südwestpfalz
+#SERVICE 5002:0:1:3B31:5CCE:EC:0:0:0:0:https%3a//s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8:OK Weinstraße Neustadt
+#DESCRIPTION OK Weinstraße Neustadt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aok-wernigerode_high/playlist.m3u8?&ref=www.campus-tv-harz.de&seid=177306:OK Wernigerode
+#DESCRIPTION OK Wernigerode
+#SERVICE 4097:0:1:831E:733A:EC:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aok-wettin_high/playlist.m3u8?&ref=www.wettintv.de&seid=114377:OK WTV Wettin
+#DESCRIPTION OK WTV Wettin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streaming.oeins.de/memfs/fe62d6c9-adce-41af-93ed-50d891a9050b.m3u8:Oldenburg 1
+#DESCRIPTION Oldenburg 1
+#SERVICE 4097:0:1:704D:6F09:EC:0:0:0:0:https%3a//58de7a369a9c4.streamlock.net/oskar/_definst_/stream_720p/playlist.m3u8:Oscar am Freitag TV Gotha
+#DESCRIPTION Oscar am Freitag TV Gotha
+#SERVICE 4097:0:1:F9C6:82EB:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3apunktum_high/playlist.m3u8:PUNKTum Südharz
+#DESCRIPTION PUNKTum Südharz
+#SERVICE 4097:0:1:C7DB:E95D:EC:0:0:0:0:https%3a//live.creacast.com/radio21/smil%3aradio21.smil/playlist.m3u8:Radio 21 TV Hannover
+#DESCRIPTION Radio 21 TV Hannover
+#SERVICE 4097:0:1:F99:97E2:EC:0:0:0:0:https%3a//h057.video-stream-hosting.de/radiowesertv-live/_definst_/mp4%3alivestreamTV/playlist.m3u8:Radio Weser TV
+#DESCRIPTION Radio Weser TV
+#SERVICE 4097:0:1:3BD0:5D3E:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aran1_high/playlist.m3u8:RAN 1
+#DESCRIPTION RAN 1
+#SERVICE 4097:0:1:C56A:E61C:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3arbw_high/playlist.m3u8:RBWittenberg
+#DESCRIPTION RBWittenberg
+#SERVICE 4097:0:1:E186:AE54:EC:0:0:0:0:https%3a//regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8:Regio TV Bodensee
+#DESCRIPTION Regio TV Bodensee
+#SERVICE 5002:0:1:3A4A:2DB9:EC:0:0:0:0:https%3a//stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp%3astream_all/playlist.m3u8:Regio TV Schwaben
+#DESCRIPTION Regio TV Schwaben
+#SERVICE 4097:0:1:4B86:A525:EC:0:0:0:0:https%3a//regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8:Regio TV Stuttgart
+#DESCRIPTION Regio TV Stuttgart
+#SERVICE 4097:0:1:2FF2:C029:EC:0:0:0:0:http%3a//h056.video-stream-hosting.de/medienasa-live/_definst_/mp4%3aRFH_high/playlist.m3u8?&ref=www.rfh-tv.de&seid=153457:RFHarz
+#DESCRIPTION RFHarz
+#SERVICE 5002:0:1:375:69C:EC:0:0:0:0:https%3a//stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp%3astream_all/playlist.m3u8:RFO HD
+#DESCRIPTION RFO HD
+#SERVICE 5002:0:1:85A7:1F3C:EC:0:0:0:0:https%3a//s.ok54.de/rheinlokal/rheinlOKal_stream/chunks.m3u8:Rhein Lokal
+#DESCRIPTION Rhein Lokal
+#SERVICE 4097:0:1:D084:E48D:EC:0:0:0:0:https%3a//58666775583d1.streamlock.net/rheinmaintv-live/_definst_/mp4%3alivestream/playlist.m3u8:Rhein Main TV
+#DESCRIPTION Rhein Main TV
+#SERVICE 4097:0:1:F096:3079:EC:0:0:0:0:https%3a//stream05.welocal.stream/stream/fhd-rnf_280717/ngrp%3astream_all/playlist.m3u8:RNF - Rhein Neckar Fernsehen
+#DESCRIPTION RNF - Rhein Neckar Fernsehen
+#SERVICE 4097:0:1:12C:2:5:0:0:0:0:https%3a//rtlevent.akamaized.net/hls/live/2036966/ron/master.m3u8:RON - Rheinpfalz Odenwald Neckar (18%3a00-18%3a30)
+#DESCRIPTION RON - Rheinpfalz Odenwald Neckar (18:00-18:30)
+#SERVICE 4097:0:1:FC1:A02B:EC:0:0:0:0:https%3a//pntvlive-a.akamaized.net/live/rtlwesthd/hls/rtlwesthd.m3u8:RTL West (18%3a00-18%3a30)
+#DESCRIPTION RTL West (18:00-18:30)
+#SERVICE 4097:0:1:A8DB:50DA:EC:0:0:0:0:https%3a//saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_all/playlist.m3u8:Saarland Fernsehen 1
+#DESCRIPTION Saarland Fernsehen 1
+#SERVICE 4097:0:1:8FD2:E17:EC:0:0:0:0:https%3a//saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_all/playlist.m3u8:Saarland Fernsehen 2
+#DESCRIPTION Saarland Fernsehen 2
+#SERVICE 4097:0:1:130:2:5:0:0:0:0:http%3a//stream.sat1bayern.de%3a1935/live/Sat1Schedule_01//playlist.m3u8:SAT1 Bayern (17%3a30-18%3a00)
+#DESCRIPTION SAT1 Bayern (17:30-18:00)
+#SERVICE 4097:0:1:131:2:5:0:0:0:0:https%3a//insinceu.hs.llnwd.net/sat1studio_hh/looplive/loop_hh/playlist.m3u8:SAT1 HH/SH (17%3a30-18%3a00)
+#DESCRIPTION SAT1 HH/SH (17:30-18:00)
+#SERVICE 4097:0:1:131:2:5:0:0:0:0:http%3a//llnw.insinceurope.net/vod/_definst_/sat1/HH/mp4%3astream_hh.stream_360p.mp4/playlist.m3u8:SAT1 HH/SH (VoD täglich ab 18%3a00 neu)
+#DESCRIPTION SAT1 HH/SH (VoD täglich ab 18:00 neu)
+#SERVICE 4097:0:1:132:2:5:0:0:0:0:https%3a//insinceu.hs.llnwd.net/sat1studio_ha/looplive/loop_ha/playlist.m3u8:SAT1 NS/Bremen (17%3a30-18%3a00)
+#DESCRIPTION SAT1 NS/Bremen (17:30-18:00)
+#SERVICE 4097:0:1:132:2:5:0:0:0:0:http%3a//llnw.insinceurope.net/vod/_definst_/sat1/HA/mp4%3astream_ha.stream_360p.mp4/playlist.m3u8:SAT1 NS/Bremen (VoD täglich ab 18%3a00 neu)
+#DESCRIPTION SAT1 NS/Bremen (VoD täglich ab 18:00 neu)
+#SERVICE 4097:0:1:C1F0:61F2:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/easycast7-live/_definst_/mp4%3alivestreamhd20/playlist.m3u8:Seenluft24 WMZ TV
+#DESCRIPTION Seenluft24 WMZ TV
+#SERVICE 4097:0:1:A14:B22F:EC:0:0:0:0:https%3a//s3.video-stream-hosting.de/studio47-live/_definst_/mp4%3alivestream/playlist.m3u8:Studio47
+#DESCRIPTION Studio47
+#SERVICE 4097:0:1:F02E:F8DA:EC:0:0:0:0:https%3a//h056.video-stream-hosting.de/easycast9-live/_definst_/mp4%3alivestream999/chunklist_w986248516.m3u8?ref=sylt1.tv:Sylt 1
+#DESCRIPTION Sylt 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8:Südthüringer Regionalfernsehen
+#DESCRIPTION Südthüringer Regionalfernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//h056.video-stream-hosting.de/easycast8-live/_definst_/mp4%3alivestreamhd8/playlist.m3u8:TeltOwkanal
+#DESCRIPTION TeltOwkanal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil%3alivestream.smil/chunklist_w350625857_b1600000.m3u8?ref=www.tidenet.de&seid=403020:Tide TV
+#DESCRIPTION Tide TV
+#SERVICE 5002:0:1:DDC6:AB6B:EC:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tv38-live/_definst_/mp4%3alivestream/playlist.m3u8:TV38 Salzgitter
+#DESCRIPTION TV38 Salzgitter
+#SERVICE 5002:0:1:604:D5C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/https%3a//h057.video-stream-hosting.de/tv38-live/_definst_/smil%3alivestream.smil/playlist.m3u8?&ref=tv38.de:TV 38 Wolfsburg*
+#DESCRIPTION TV 38 Wolfsburg*
+#SERVICE 5002:0:1:5194:BA61:EC:0:0:0:0:https%3a//stream02.welocal.stream/stream/sat-otva/ngrp%3asat-otva.stream_all/playlist.m3u8:TVA HD
+#DESCRIPTION TVA HD
+#SERVICE 5002:0:1:BBD:4651:EC:0:0:0:0:https%3a//tvo.s3.welocal.world/media/563103/videos/hls.m3u8:TVO Oberfranken
+#DESCRIPTION TVO Oberfranken
+#SERVICE 4097:0:1:440E:EC9F:EC:0:0:0:0:https%3a//srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8:Unserding
+#DESCRIPTION Unserding
+#SERVICE 4097:0:1:2490:5F19:EC:0:0:0:0:https%3a//live2.telvi.de/hls/wwtv_hd720.m3u8:Westerwald TV
+#DESCRIPTION Westerwald TV
+#SERVICE 1:64:5:0:0:0:0:0:0:0::Event-Kanäle DE - thx buers
+#DESCRIPTION Event-Kanäle DE - thx buers
+#SERVICE 4097:0:1:DEAD:BEEF:D:AFFE0000:0:0:0:http%3a//wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8:ARD Event 1 HD
+#DESCRIPTION ARD Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:E:AFFE0000:0:0:0:https%3a//ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8:ARD Event 2 HD
+#DESCRIPTION ARD Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:F:AFFE0000:0:0:0:http%3a//wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8:ARD Event 2 HD Alternative
+#DESCRIPTION ARD Event 2 HD Alternative
+#SERVICE 4097:0:1:DEAD:BEEF:59:AFFE0000:0:0:0:https%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/master.m3u8:ARTE Event 1 HD
+#DESCRIPTION ARTE Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:5A:AFFE0000:0:0:0:https%3a//arteevent02-lh.akamaihd.net/i/arte_event02@308866/master.m3u8:ARTE Event 2 HD
+#DESCRIPTION ARTE Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:5B:AFFE0000:0:0:0:https%3a//arteevent03-lh.akamaihd.net/i/arte_event03@305298/master.m3u8:ARTE Event 3 HD
+#DESCRIPTION ARTE Event 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:5C:AFFE0000:0:0:0:https%3a//arteevent04-lh.akamaihd.net/i/arte_event04@308879/master.m3u8:ARTE Event 4 HD
+#DESCRIPTION ARTE Event 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:5D:AFFE0000:0:0:0:http%3a//arteevent05-lh.akamaihd.net/i/arte_event05@391593/master.m3u8:ARTE Event 5 HD
+#DESCRIPTION ARTE Event 5 HD
+#SERVICE 4097:0:1:DEAD:BEEF:59:AFFE0000:0:0:0:https%3a//arteconcerthls.akamaized.net/hls/live/2025494/channel01/master.m3u8:ARTE Concert 1
+#DESCRIPTION ARTE Concert 1
+#SERVICE 4097:0:1:DEAD:BEEF:5A:AFFE0000:0:0:0:https%3a//arteconcerthls.akamaized.net/hls/live/2025495/channel02/master.m3u8:ARTE Concert 2
+#DESCRIPTION ARTE Concert 2
+#SERVICE 4097:0:1:DEAD:BEEF:5B:AFFE0000:0:0:0:https%3a//arteconcerthls.akamaized.net/hls/live/2025496/channel03/master.m3u8:ARTE Concert 3
+#DESCRIPTION ARTE Concert 3
+#SERVICE 4097:0:1:DEAD:BEEF:5C:AFFE0000:0:0:0:https%3a//arteconcerthls.akamaized.net/hls/live/2025497/channel04/master.m3u8:ARTE Concert 4
+#DESCRIPTION ARTE Concert 4
+#SERVICE 4097:0:1:DEAD:BEEF:5D:AFFE0000:0:0:0:https%3a//arteconcerthls.akamaized.net/hls/live/2025498/channel05/master.m3u8:ARTE Concert 5
+#DESCRIPTION ARTE Concert 5
+#SERVICE 4097:0:1:DEAD:BEEF:5E:AFFE0000:0:0:0:https%3a//arteconcerthls.akamaized.net/hls/live/2025499/channel06/master.m3u8:ARTE Concert 6
+#DESCRIPTION ARTE Concert 6
+#SERVICE 4097:0:1:DEAD:BEEF:39:AFFE0000:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8:BR Event 1 HD
+#DESCRIPTION BR Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:3A:AFFE0000:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/master.m3u8:BR Event 2 HD
+#DESCRIPTION BR Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:3B:AFFE0000:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/master.m3u8:BR Event 3 HD
+#DESCRIPTION BR Event 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:3C:AFFE0000:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/master.m3u8:BR Event 4 HD
+#DESCRIPTION BR Event 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:3D:AFFE0000:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event05isma@145760/master.m3u8:BR Event 5 HD
+#DESCRIPTION BR Event 5 HD
+#SERVICE 4097:0:1:DEAD:BEEF:3E:AFFE0000:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event06isma@145761/master.m3u8:BR Event 6 HD
+#DESCRIPTION BR Event 6 HD
+#SERVICE 4097:0:1:DEAD:BEEF:3F:AFFE0000:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event07isma@145762/master.m3u8:BR Event 7 HD
+#DESCRIPTION BR Event 7 HD
+#SERVICE 4097:0:1:DEAD:BEEF:40:AFFE0000:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event08isma@145763/master.m3u8:BR Event 8 HD
+#DESCRIPTION BR Event 8 HD
+#SERVICE 4097:0:1:DEAD:BEEF:60:AFFE0000:0:0:0:http%3a//dwstream71-lh.akamaihd.net/i/dwstream71_live@124558/master.m3u8:Deutsche Welle Event
+#DESCRIPTION Deutsche Welle Event
+#SERVICE 4097:0:1:DEAD:BEEF:41:AFFE0000:0:0:0:https%3a//hrevent-lh.akamaihd.net/i/hr_event1@309239/master.m3u8:HR Event 1 HD
+#DESCRIPTION HR Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:42:AFFE0000:0:0:0:https%3a//hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8:HR Event 2 HD
+#DESCRIPTION HR Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:1:AFFE0000:0:0:0:https%3a//mdrevent1hls-lh.akamaihd.net/i/livetvmdrevent1_ww@513989/master.m3u8:MDRPlus 1 HD World
+#DESCRIPTION MDRPlus 1 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:2:AFFE0000:0:0:0:http%3a//mdrevent3hls-lh.akamaihd.net/i/livetvmdrevent1_de@513994/master.m3u8:MDRPlus 1 HD
+#DESCRIPTION MDRPlus 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:3:AFFE0000:0:0:0:https%3a//mdrevent2hls-lh.akamaihd.net/i/livetvmdrevent2_ww@513991/master.m3u8:MDRPlus 2 HD World
+#DESCRIPTION MDRPlus 2 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:4:AFFE0000:0:0:0:http%3a//mdrevent3hls-lh.akamaihd.net/i/livetvmdrevent2_de@513994/master.m3u8:MDRPlus 2 HD
+#DESCRIPTION MDRPlus 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:5:AFFE0000:0:0:0:https%3a//mdrevent2hls-lh.akamaihd.net/i/livetvmdrevent3_ww@513991/master.m3u8:MDRPlus 3 HD World
+#DESCRIPTION MDRPlus 3 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:6:AFFE0000:0:0:0:http%3a//mdrevent3hls-lh.akamaihd.net/i/livetvmdrevent3_de@513994/master.m3u8:MDRPlus 3 HD
+#DESCRIPTION MDRPlus 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:7:AFFE0000:0:0:0:http%3a//mdrevent5hls-lh.akamaihd.net/i/livetvmdrevent4_ww@513996/master.m3u8:MDRPlus 4 HD World
+#DESCRIPTION MDRPlus 4 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:8:AFFE0000:0:0:0:http%3a//mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent4_de@513995/master.m3u8:MDRPlus 4 HD
+#DESCRIPTION MDRPlus 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:9:AFFE0000:0:0:0:http%3a//mdrevent5hls-lh.akamaihd.net/i/livetvmdrevent5_ww@513996/master.m3u8:MDRPlus 5 HD World
+#DESCRIPTION MDRPlus 5 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:A:AFFE0000:0:0:0:http%3a//mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent5_de@513995/master.m3u8:MDRPlus 5 HD
+#DESCRIPTION MDRPlus 5 HD
+#SERVICE 4097:0:1:DEAD:BEEF:B:AFFE0000:0:0:0:http%3a//mdrevent6hls-lh.akamaihd.net/i/livetvmdrevent6_ww@513997/master.m3u8:MDRPlus 6 HD World
+#DESCRIPTION MDRPlus 6 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:C:AFFE0000:0:0:0:http%3a//mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent6_de@513995/master.m3u8:MDRPlus 6 HD
+#DESCRIPTION MDRPlus 6 HD
+#SERVICE 4097:0:1:DEAD:BEEF:2C:AFFE0000:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8:NDR Event 1 HD
+#DESCRIPTION NDR Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:2D:AFFE0000:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8:NDR Event 2 HD
+#DESCRIPTION NDR Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:2E:AFFE0000:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8:NDR Event 3 HD
+#DESCRIPTION NDR Event 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:2F:AFFE0000:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8:NDR Spezial 1 HD
+#DESCRIPTION NDR Spezial 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:30:AFFE0000:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8:NDR Spezial 2 HD
+#DESCRIPTION NDR Spezial 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:31:AFFE0000:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8:NDR Spezial 3 HD
+#DESCRIPTION NDR Spezial 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:32:AFFE0000:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8:NDR Spezial 4 HD
+#DESCRIPTION NDR Spezial 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:33:AFFE0000:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8:NDR Spezial 5 HD
+#DESCRIPTION NDR Spezial 5 HD
+#SERVICE 4097:0:1:DEAD:BEEF:34:AFFE0000:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8:NDR Spezial 6 HD
+#DESCRIPTION NDR Spezial 6 HD
+#SERVICE 4097:0:1:DEAD:BEEF:35:AFFE0000:0:0:0:https%3a//ndrspezial7sp-lh.akamaihd.net/i/spezial_7@322396/master.m3u8:NDR Spezial 7 HD
+#DESCRIPTION NDR Spezial 7 HD
+#SERVICE 4097:0:1:DEAD:BEEF:36:AFFE0000:0:0:0:https%3a//ndrspezial8sp-lh.akamaihd.net/i/spezial_8@425044/master.m3u8:NDR Spezial 8 HD
+#DESCRIPTION NDR Spezial 8 HD
+#SERVICE 4097:0:1:DEAD:BEEF:37:AFFE0000:0:0:0:https%3a//ndrspezial9sp-lh.akamaihd.net/i/spezial_9@426506/master.m3u8:NDR Spezial 9 HD
+#DESCRIPTION NDR Spezial 9 HD
+#SERVICE 4097:0:1:DEAD:BEEF:38:AFFE0000:0:0:0:https%3a//ndrspezial10sp-lh.akamaihd.net/i/spezial_10@9732/master.m3u8:NDR Spezial 10 HD
+#DESCRIPTION NDR Spezial 10 HD
+#SERVICE 4097:0:1:DEAD:BEEF:5E:AFFE0000:0:0:0:http%3a//rblive-lh.akamaihd.net/i/rb_event@447875/master.m3u8:Radio Bremen Event HD
+#DESCRIPTION Radio Bremen Event HD
+#SERVICE 4097:0:1:DEAD:BEEF:61:AFFE0000:0:0:0:https%3a//ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8:n-tv Spezial 1
+#DESCRIPTION n-tv Spezial 1
+#SERVICE 4097:0:1:DEAD:BEEF:62:AFFE0000:0:0:0:https%3a//ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event2_1@409368/master.m3u8:n-tv Spezial 2
+#DESCRIPTION n-tv Spezial 2
+#SERVICE 4097:0:1:DEAD:BEEF:6F:AFFE0000:0:0:0:https%3a//rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8:rbb Event 1 HD
+#DESCRIPTION rbb Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:70:AFFE0000:0:0:0:https%3a//rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8:rbb Event 2 HD
+#DESCRIPTION rbb Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:71:AFFE0000:0:0:0:https%3a//rbbevent03-hls.akamaized.net/hls/live/685986/rbbevent03/master.m3u8:rbb Event 3 HD
+#DESCRIPTION rbb Event 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:72:AFFE0000:0:0:0:https%3a//rbbevent04-hls.akamaized.net/hls/live/685987/rbbevent04/master.m3u8:rbb Event 4 HD
+#DESCRIPTION rbb Event 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:73:AFFE0000:0:0:0:http%3a//rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/master.m3u8:rbb Event 1 HD World
+#DESCRIPTION rbb Event 1 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:74:AFFE0000:0:0:0:http%3a//rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/master.m3u8:rbb Event 2 HD World
+#DESCRIPTION rbb Event 2 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:75:AFFE0000:0:0:0:http%3a//rbbevent03-lh.akamaihd.net/i/rbbevent03_nongeo@22764/master.m3u8:rbb Event 3 HD World
+#DESCRIPTION rbb Event 3 HD World
+#SERVICE 4097:0:1:DEAD:BEEF:28:AFFE0000:0:0:0:http%3a//srevent1-lh.akamaihd.net/i/sr_universal01@105663/master.m3u8:SR Event 1 HD
+#DESCRIPTION SR Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:29:AFFE0000:0:0:0:http%3a//live_sr-lh.akamaihd.net/i/sr_universal01@105663/master.m3u8:SR Event 1 HD Alternative
+#DESCRIPTION SR Event 1 HD Alternative
+#SERVICE 4097:0:1:DEAD:BEEF:69:AFFE0000:0:0:0:http%3a//srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8:SR UnserDing Visual Radio
+#DESCRIPTION SR UnserDing Visual Radio
+#SERVICE 4097:0:1:DEAD:BEEF:2A:AFFE0000:0:0:0:http%3a//srlandtag-lh.akamaihd.net/i/sr_landtag@166846/master.m3u8:SR Landtag
+#DESCRIPTION SR Landtag
+#SERVICE 4097:0:1:DEAD:BEEF:2B:AFFE0000:0:0:0:http%3a//sr_landtag-lh.akamaihd.net/i/sr_landtag@166846/master.m3u8:SR Landtag Alternative
+#DESCRIPTION SR Landtag Alternative
+#SERVICE 4097:0:1:DEAD:BEEF:1C:AFFE0000:0:0:0:http%3a//swrevent01uni-lh.akamaihd.net/i/swr_event01@154022/master.m3u8:SWR Event 1 HD
+#DESCRIPTION SWR Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:1D:AFFE0000:0:0:0:http%3a//swrevent02uni-lh.akamaihd.net/i/swr_event02@154023/master.m3u8:SWR Event 2 HD
+#DESCRIPTION SWR Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:1E:AFFE0000:0:0:0:http%3a//swrevent03uni-lh.akamaihd.net/i/swr_event03@863151/master.m3u8:SWR Event 3 HD
+#DESCRIPTION SWR Event 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:1F:AFFE0000:0:0:0:http%3a//swrevent04uni-lh.akamaihd.net/i/swr_event04geo@863152/master.m3u8:SWR Event 4 HD
+#DESCRIPTION SWR Event 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:20:AFFE0000:0:0:0:http%3a//swrevent05uni-lh.akamaihd.net/i/swr_event05geo@863153/master.m3u8:SWR Event 5 HD
+#DESCRIPTION SWR Event 5 HD
+#SERVICE 4097:0:1:DEAD:BEEF:6A:AFFE0000:0:0:0:http%3a//swr_event06_uni-lh.akamaihd.net/i/swr_event06@141323/master.m3u8:SWR Event 6 HD
+#DESCRIPTION SWR Event 6 HD
+#SERVICE 4097:0:1:DEAD:BEEF:6B:AFFE0000:0:0:0:http%3a//swr_event07_uni-lh.akamaihd.net/i/swr_event07@141324/master.m3u8:SWR Event 7 HD
+#DESCRIPTION SWR Event 7 HD
+#SERVICE 4097:0:1:DEAD:BEEF:6C:AFFE0000:0:0:0:http%3a//swr_event08_uni-lh.akamaihd.net/i/swr_event08@141325/master.m3u8:SWR Event 8 HD
+#DESCRIPTION SWR Event 8 HD
+#SERVICE 4097:0:1:DEAD:BEEF:6D:AFFE0000:0:0:0:http%3a//swr_event09_uni-lh.akamaihd.net/i/swr_event09@141326/master.m3u8:SWR Event 9 HD
+#DESCRIPTION SWR Event 9 HD
+#SERVICE 4097:0:1:DEAD:BEEF:6E:AFFE0000:0:0:0:http%3a//swr_event10_uni-lh.akamaihd.net/i/swr_event10@141327/master.m3u8:SWR Event 10 HD
+#DESCRIPTION SWR Event 10 HD
+#SERVICE 4097:0:1:DEAD:BEEF:21:AFFE0000:0:0:0:https%3a//swrswr3vrhls-i.akamaihd.net/hls/live/780818/vrswr3/master.m3u8:SWR3 Visual Radio
+#DESCRIPTION SWR3 Visual Radio
+#SERVICE 4097:0:1:DEAD:BEEF:22:AFFE0000:0:0:0:https%3a//swrdasdingvrhls-i.akamaihd.net/hls/live/780817/vrdasding/master.m3u8:SWR DASDING Visual Radio
+#DESCRIPTION SWR DASDING Visual Radio
+#SERVICE 4097:0:1:DEAD:BEEF:23:AFFE0000:0:0:0:https%3a//swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/master.m3u8:SWR Event 1 HD old
+#DESCRIPTION SWR Event 1 HD old
+#SERVICE 4097:0:1:DEAD:BEEF:24:AFFE0000:0:0:0:https%3a//swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/master.m3u8:SWR Event 2 HD old
+#DESCRIPTION SWR Event 2 HD old
+#SERVICE 4097:0:1:DEAD:BEEF:25:AFFE0000:0:0:0:https%3a//swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/master.m3u8:SWR Event 3 HD old
+#DESCRIPTION SWR Event 3 HD old
+#SERVICE 4097:0:1:DEAD:BEEF:26:AFFE0000:0:0:0:https%3a//swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/master.m3u8:SWR Event 4 HD old
+#DESCRIPTION SWR Event 4 HD old
+#SERVICE 4097:0:1:DEAD:BEEF:27:AFFE0000:0:0:0:http%3a//swr_event05_uni-lh.akamaihd.net/i/swr_event05@198170/master.m3u8:SWR Event 5 HD old
+#DESCRIPTION SWR Event 5 HD old
+#SERVICE 4097:0:1:DEAD:BEEF:5F:AFFE0000:0:0:0:https%3a//tagesschau-lh.akamaihd.net/i/tagesschau_2@119232/master.m3u8:Tagesschau24 Event HD
+#DESCRIPTION Tagesschau24 Event HD
+#SERVICE 4097:0:1:DEAD:BEEF:10:AFFE0000:0:0:0:http%3a//wdrevent1geo-lh.akamaihd.net/i/wdrevent1_geo@566649/master.m3u8:WDR Event 1 HD
+#DESCRIPTION WDR Event 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:11:AFFE0000:0:0:0:https%3a//wdrevent2-lh.akamaihd.net/i/wdrevent2_weltweit@566650/master.m3u8:WDR Event 2 HD
+#DESCRIPTION WDR Event 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:12:AFFE0000:0:0:0:https%3a//wdrevent3-lh.akamaihd.net/i/wdrevent3_weltweit@566651/master.m3u8:WDR Event 3 HD
+#DESCRIPTION WDR Event 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:13:AFFE0000:0:0:0:https%3a//wdrevent4-lh.akamaihd.net/i/wdrevent4_weltweit@566652/master.m3u8:WDR Event 4 HD
+#DESCRIPTION WDR Event 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:14:AFFE0000:0:0:0:https%3a//wdrevent5-lh.akamaihd.net/i/wdrevent5_weltweit@553673/master.m3u8:WDR Event 5 HD
+#DESCRIPTION WDR Event 5 HD
+#SERVICE 4097:0:1:DEAD:BEEF:15:AFFE0000:0:0:0:http%3a//wdrevent6-lh.akamaihd.net/i/wdrevent6_weltweit@553674/master.m3u8:WDR Event 6 HD
+#DESCRIPTION WDR Event 6 HD
+#SERVICE 4097:0:1:DEAD:BEEF:16:AFFE0000:0:0:0:https%3a//wdrspezial.akamaized.net/hls/live/2012066/wdr_spezial1/index.m3u8:WDR Spezial 1 HD
+#DESCRIPTION WDR Spezial 1 HD
+#SERVICE 4097:0:1:DEAD:BEEF:17:AFFE0000:0:0:0:https%3a//wdrspezial.akamaized.net/hls/live/2012067/wdr_spezial2/index.m3u8:WDR Spezial 2 HD
+#DESCRIPTION WDR Spezial 2 HD
+#SERVICE 4097:0:1:DEAD:BEEF:18:AFFE0000:0:0:0:https%3a//wdrspezial.akamaized.net/hls/live/2012068/wdr_spezial3/index.m3u8:WDR Spezial 3 HD
+#DESCRIPTION WDR Spezial 3 HD
+#SERVICE 4097:0:1:DEAD:BEEF:19:AFFE0000:0:0:0:https%3a//wdrspezial.akamaized.net/hls/live/2012069/wdr_spezial4/index.m3u8:WDR Spezial 4 HD
+#DESCRIPTION WDR Spezial 4 HD
+#SERVICE 4097:0:1:DEAD:BEEF:1A:AFFE0000:0:0:0:https%3a//wdrspezial.akamaized.net/hls/live/2012070/wdr_spezial5/index.m3u8:WDR Spezial 5 HD
+#DESCRIPTION WDR Spezial 5 HD
+#SERVICE 4097:0:1:DEAD:BEEF:1B:AFFE0000:0:0:0:https%3a//wdrspezial.akamaized.net/hls/live/2012071/wdr_spezial6/index.m3u8:WDR Spezial 6 HD
+#DESCRIPTION WDR Spezial 6 HD
+#SERVICE 4097:0:1:DEAD:BEEF:76:AFFE0000:0:0:0:https%3a//eventenc01-lh.akamaihd.net/i/eventenc01_1@19986/master.m3u8:WELT Event 1
+#DESCRIPTION WELT Event 1
+#SERVICE 4097:0:1:DEAD:BEEF:77:AFFE0000:0:0:0:https%3a//eventenc02-lh.akamaihd.net/i/eventenc02_1@379038/master.m3u8:WELT Event 2
+#DESCRIPTION WELT Event 2
+#SERVICE 4097:0:1:DEAD:BEEF:78:AFFE0000:0:0:0:https%3a//eventenc03-lh.akamaihd.net/i/eventenc03_1@300813/master.m3u8:WELT Event 3
+#DESCRIPTION WELT Event 3
+#SERVICE 4097:0:1:DEAD:BEEF:43:AFFE0000:0:0:0:https%3a//zdf-hls-01.akamaized.net/hls/live/2002460/de/high/master.m3u8:ZDF Event 1
+#DESCRIPTION ZDF Event 1
+#SERVICE 4097:0:1:DEAD:BEEF:44:AFFE0000:0:0:0:https%3a//zdf-hls-02.akamaized.net/hls/live/2002461/de/high/master.m3u8:ZDF Event 2
+#DESCRIPTION ZDF Event 2
+#SERVICE 4097:0:1:DEAD:BEEF:45:AFFE0000:0:0:0:https%3a//zdf-hls-03.akamaized.net/hls/live/2016298/de/high/master.m3u8:ZDF Event 3
+#DESCRIPTION ZDF Event 3
+#SERVICE 4097:0:1:DEAD:BEEF:46:AFFE0000:0:0:0:https%3a//zdf-hls-04.akamaized.net/hls/live/2016299/de/high/master.m3u8:ZDF Event 4
+#DESCRIPTION ZDF Event 4
+#SERVICE 4097:0:1:DEAD:BEEF:47:AFFE0000:0:0:0:https%3a//zdf-hls-05.akamaized.net/hls/live/2016300/de/high/master.m3u8:ZDF Event 5
+#DESCRIPTION ZDF Event 5
+#SERVICE 4097:0:1:DEAD:BEEF:48:AFFE0000:0:0:0:https%3a//zdf-hls-06.akamaized.net/hls/live/2016301/de/high/master.m3u8:ZDF Event 6
+#DESCRIPTION ZDF Event 6
+#SERVICE 4097:0:1:DEAD:BEEF:49:AFFE0000:0:0:0:https%3a//zdf-hls-07.akamaized.net/hls/live/2016302/de/high/master.m3u8:ZDF Event 7
+#DESCRIPTION ZDF Event 7
+#SERVICE 4097:0:1:DEAD:BEEF:4A:AFFE0000:0:0:0:https%3a//zdf-hls-08.akamaized.net/hls/live/2016303/de/high/master.m3u8:ZDF Event 8
+#DESCRIPTION ZDF Event 8
+#SERVICE 4097:0:1:DEAD:BEEF:4B:AFFE0000:0:0:0:https%3a//zdf-hls-09.akamaized.net/hls/live/2016304/de/high/master.m3u8:ZDF Event 9
+#DESCRIPTION ZDF Event 9
+#SERVICE 4097:0:1:DEAD:BEEF:4C:AFFE0000:0:0:0:https%3a//zdf-hls-10.akamaized.net/hls/live/2016305/de/high/master.m3u8:ZDF Event 10
+#DESCRIPTION ZDF Event 10
+#SERVICE 4097:0:1:DEAD:BEEF:4D:AFFE0000:0:0:0:https%3a//zdf-hls-11.akamaized.net/hls/live/2016436/de/high/master.m3u8:ZDF Event 11
+#DESCRIPTION ZDF Event 11
+#SERVICE 4097:0:1:DEAD:BEEF:4E:AFFE0000:0:0:0:https%3a//zdf-hls-12.akamaized.net/hls/live/2016495/de/high/master.m3u8:ZDF Event 12
+#DESCRIPTION ZDF Event 12
+#SERVICE 4097:0:1:DEAD:BEEF:4F:AFFE0000:0:0:0:https%3a//zdf-hls-13.akamaized.net/hls/live/2016496/de/high/master.m3u8:ZDF Event 13
+#DESCRIPTION ZDF Event 13
+#SERVICE 4097:0:1:DEAD:BEEF:50:AFFE0000:0:0:0:https%3a//zdf-hls-14.akamaized.net/hls/live/2016497/de/high/master.m3u8:ZDF Event 14
+#DESCRIPTION ZDF Event 14
+#SERVICE 4097:0:1:DEAD:BEEF:51:AFFE0000:0:0:0:https%3a//zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8:ZDF Event 15
+#DESCRIPTION ZDF Event 15
+#SERVICE 4097:0:1:DEAD:BEEF:52:AFFE0000:0:0:0:https%3a//zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8:ZDF Event 16
+#DESCRIPTION ZDF Event 16
+#SERVICE 4097:0:1:DEAD:BEEF:53:AFFE0000:0:0:0:https%3a//zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8:ZDF Event 17
+#DESCRIPTION ZDF Event 17
+#SERVICE 4097:0:1:DEAD:BEEF:54:AFFE0000:0:0:0:https%3a//zdf-hls-18.akamaized.net/hls/live/2016501/de/high/master.m3u8:ZDF Event 18
+#DESCRIPTION ZDF Event 18
+#SERVICE 4097:0:1:DEAD:BEEF:55:AFFE0000:0:0:0:https%3a//zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8:ZDF Event 19
+#DESCRIPTION ZDF Event 19
+#SERVICE 4097:0:1:DEAD:BEEF:56:AFFE0000:0:0:0:https%3a//zdf-hls-20.akamaized.net/hls/live/2016503/de/high/master.m3u8:ZDF Event 20
+#DESCRIPTION ZDF Event 20
+#SERVICE 4097:0:1:DEAD:BEEF:57:AFFE0000:0:0:0:https%3a//zdf-msl4-test01.akamaized.net/hls/live/2017634/de/high/master.m3u8:ZDF Event Test 1
+#DESCRIPTION ZDF Event Test 1
+#SERVICE 4097:0:1:DEAD:BEEF:58:AFFE0000:0:0:0:https%3a//zdf-msl4-test02.akamaized.net/hls/live/2017635/de/high/master.m3u8:ZDF Event Test 2
+#DESCRIPTION ZDF Event Test 2
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Webradio Deutschland
+#DESCRIPTION Webradio Deutschland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/antenne/stream/mp3:Antenne Bayern
+#DESCRIPTION Antenne Bayern
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/80er-kulthits/stream/mp3:Antenne Bayern - 80er Kulthits
+#DESCRIPTION Antenne Bayern - 80er Kulthits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/90er-hits/stream/mp3:Antenne Bayern - 90er Hits
+#DESCRIPTION Antenne Bayern - 90er Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/black-beatz/stream/mp3:Antenne Bayern - Black Beatz
+#DESCRIPTION Antenne Bayern - Black Beatz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/chillout/stream/mp3:Antenne Bayern - Chillout
+#DESCRIPTION Antenne Bayern - Chillout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/coffee/stream/mp3:Antenne Bayern - Coffee Music
+#DESCRIPTION Antenne Bayern - Coffee Music
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/fresh/stream/mp3:Antenne Bayern - Fresh
+#DESCRIPTION Antenne Bayern - Fresh
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/classic-rock-live/stream/mp3:Antenne Bayern - Classic Rock
+#DESCRIPTION Antenne Bayern - Classic Rock
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/event/stream/mp3:Antenne Bayern - Event
+#DESCRIPTION Antenne Bayern - Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/hitmix/stream/mp3:Antenne Bayern - Hitmix
+#DESCRIPTION Antenne Bayern - Hitmix
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lounge/stream/mp3:Antenne Bayern - Lounge
+#DESCRIPTION Antenne Bayern - Lounge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/lovesongs/stream/mp3:Antenne Bayern - Love Songs
+#DESCRIPTION Antenne Bayern - Love Songs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/oldies-but-goldies/stream/mp3:Antenne Bayern - Oldies but Goldies
+#DESCRIPTION Antenne Bayern - Oldies but Goldies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/relax/stream/mp3:Antenne Bayern - Relax
+#DESCRIPTION Antenne Bayern - Relax
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/das-schlager-karussell/stream/mp3:Antenne Bayern - Schlager Karussel
+#DESCRIPTION Antenne Bayern - Schlager Karussel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/top-40/stream/mp3:Antenne Bayern - Top 40
+#DESCRIPTION Antenne Bayern - Top 40
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/weihnachts-hits/stream/mp3:Antenne Bayern - Weihnachtshits
+#DESCRIPTION Antenne Bayern - Weihnachtshits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/workout-hits/stream/mp3:Antenne Bayern - Workout
+#DESCRIPTION Antenne Bayern - Workout
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/hits-fuer-kids/stream/mp3:Antenne Bayern - Hits für Kids
+#DESCRIPTION Antenne Bayern - Hits für Kids
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/leikis-top-100/stream/mp3:Antenne Bayern - Leikis Top 100
+#DESCRIPTION Antenne Bayern - Leikis Top 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/indras-top-100/stream/mp3:Antenne Bayern - Indras Top 100
+#DESCRIPTION Antenne Bayern - Indras Top 100
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.antenne.de/meixners-top-100/stream/mp3:Antenne Bayern - Meixners Top 100
+#DESCRIPTION Antenne Bayern - Meixners Top 100
+#SERVICE 4097:0:2:6F26:431:1:FFFF0000:0:0:0:http%3a//rbb-antennebrandenburg-live.cast.addradio.de/rbb/antennebrandenburg/live/mp3/128/stream.mp3:Antenne Brandenburg
+#DESCRIPTION Antenne Brandenburg
+#SERVICE 4097:0:2:6EF0:44D:1:FFFF0000:0:0:0:http%3a//br-br1-franken.cast.addradio.de/br/br1/franken/mp3/128/stream.mp3:Bayern 1 Franken
+#DESCRIPTION Bayern 1 Franken
+#SERVICE 4097:0:2:6EF0:44D:1:FFFF0000:0:0:0:http%3a//br-br1-mainfranken.cast.addradio.de/br/br1/mainfranken/mp3/128/stream.mp3:Bayern 1 Mainfranken
+#DESCRIPTION Bayern 1 Mainfranken
+#SERVICE 4097:0:2:6EF0:44D:1:FFFF0000:0:0:0:http%3a//br-br1-nbopf.cast.addradio.de/br/br1/nbopf/mp3/128/stream.mp3:Bayern 1 Niederbayern - Oberpfalz
+#DESCRIPTION Bayern 1 Niederbayern - Oberpfalz
+#SERVICE 4097:0:2:6EF0:44D:1:FFFF0000:0:0:0:http%3a//br-br1-obb.cast.addradio.de/br/br1/obb/mp3/128/stream.mp3:Bayern 1 Oberbayern
+#DESCRIPTION Bayern 1 Oberbayern
+#SERVICE 4097:0:2:6EF0:44D:1:FFFF0000:0:0:0:http%3a//br-br1-schwaben.cast.addradio.de/br/br1/schwaben/mp3/128/stream.mp3:Bayern 1 Schwaben
+#DESCRIPTION Bayern 1 Schwaben
+#SERVICE 4097:0:2:CED7:2710:F001:FFFF0000:0:0:0:http%3a//br-br2-nord.cast.addradio.de/br/br2/nord/mp3/128/stream.mp3:Bayern 2 Nord
+#DESCRIPTION Bayern 2 Nord
+#SERVICE 4097:0:2:6EF1:44D:1:FFFF0000:0:0:0:http%3a//br-br2-sued.cast.addradio.de/br/br2/sued/mp3/128/stream.mp3:Bayern 2 Süd
+#DESCRIPTION Bayern 2 Süd
+#SERVICE 4097:0:2:6EF2:44D:1:FFFF0000:0:0:0:http%3a//br-br3-live.cast.addradio.de/br/br3/live/mp3/128/stream.mp3:Bayern 3
+#DESCRIPTION Bayern 3
+#SERVICE 4097:0:2:6EF4:44D:1:FFFF0000:0:0:0:http%3a//br-b5aktuell-live.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3:B5 aktuell
+#DESCRIPTION B5 aktuell
+#SERVICE 4097:0:2:6EF8:44D:1:FFFF0000:0:0:0:http%3a//br-b5plus-live.cast.addradio.de/br/b5plus/live/mp3/128/stream.mp3:B5 plus
+#DESCRIPTION B5 plus
+#SERVICE 4097:0:2:6EF5:44D:1:FFFF0000:0:0:0:http%3a//br-bayernplus-live.cast.addradio.de/br/bayernplus/live/mp3/128/stream.mp3:Bayern plus
+#DESCRIPTION Bayern plus
+#SERVICE 4097:0:2:6EF7:44D:1:FFFF0000:0:0:0:http%3a//br-brheimat-live.cast.addradio.de/br/brheimat/live/mp3/128/stream.mp3:BR Heimat
+#DESCRIPTION BR Heimat
+#SERVICE 4097:0:2:6EF3:44D:1:FFFF0000:0:0:0:http%3a//br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/128/stream.mp3:BR-Klassik
+#DESCRIPTION BR-Klassik
+#SERVICE 4097:0:2:6F20:431:1:FFFF0000:0:0:0:http%3a//rb-bremeneins-live.cast.addradio.de/rb/bremeneins/live/mp3/128/stream.mp3:Bremen Eins
+#DESCRIPTION Bremen Eins
+#SERVICE 4097:0:2:C4EE:2721:F001:FFFF0000:0:0:0:http%3a//rb-bremennext-live.cast.addradio.de/rb/bremennext/live/mp3/128/stream.mp3:Bremen Next
+#DESCRIPTION Bremen Next
+#SERVICE 4097:0:2:6F22:431:1:FFFF0000:0:0:0:http%3a//rb-bremenvier-live.cast.addradio.de/rb/bremenvier/live/mp3/128/stream.mp3:Bremen Vier
+#DESCRIPTION Bremen Vier
+#SERVICE 4097:0:2:6F21:431:1:FFFF0000:0:0:0:http%3a//rb-bremenzwei-live.cast.addradio.de/rb/bremenzwei/live/mp3/128/stream.mp3:Bremen Zwei
+#DESCRIPTION Bremen Zwei
+#SERVICE 4097:0:2:6F40:431:1:FFFF0000:0:0:0:http%3a//wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3:COSMO
+#DESCRIPTION COSMO
+#SERVICE 4097:0:2:DEAD:BEEF:14B:0:0:0:0:http%3a//wdr-cosmo-coslive.icecast.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3:COSMO Live
+#DESCRIPTION COSMO Live
+#SERVICE 4097:0:2:DEAD:BEEF:14C:0:0:0:0:http%3a//wdr-cosmo-selektor.icecast.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3:COSMO Selektor
+#DESCRIPTION COSMO Selektor
+#SERVICE 4097:0:2:6F37:431:1:FFFF0000:0:0:0:http%3a//swr-dasding-live.cast.addradio.de/swr/dasding/live/mp3/128/stream.mp3:DASDING
+#DESCRIPTION DASDING
+#SERVICE 4097:0:2:6D6D:437:1:FFFF0000:0:0:0:http%3a//st01.dlf.de/dlf/01/128/mp3/stream.mp3:Deutschlandfunk
+#DESCRIPTION Deutschlandfunk
+#SERVICE 4097:0:2:6D6C:437:1:FFFF0000:0:0:0:http%3a//st02.dlf.de/dlf/02/128/mp3/stream.mp3:Deutschlandfunk Kultur
+#DESCRIPTION Deutschlandfunk Kultur
+#SERVICE 4097:0:2:6D71:437:1:FFFF0000:0:0:0:http%3a//st03.dlf.de/dlf/03/128/mp3/stream.mp3:Deutschlandfunk Nova
+#DESCRIPTION Deutschlandfunk Nova
+#SERVICE 4097:0:2:DEAD:BEEF:D9:0:0:0:0:http%3a//st04.dlf.de/dlf/04/128/mp3/stream.mp3:Deutschlandradio Dokumente und Debatten
+#DESCRIPTION Deutschlandradio Dokumente und Debatten
+#SERVICE 4097:0:2:6F29:431:1:FFFF0000:0:0:0:http%3a//rbb-fritz-live.cast.addradio.de/rbb/fritz/live/mp3/128/stream.mp3:Fritz
+#DESCRIPTION Fritz
+#SERVICE 4097:0:2:6F03:431:1:FFFF0000:0:0:0:http%3a//hr-hr1-live.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3:hr1
+#DESCRIPTION hr1
+#SERVICE 4097:0:2:6F04:431:1:FFFF0000:0:0:0:http%3a//hr-hr2-live.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3:hr2-kultur
+#DESCRIPTION hr2-kultur
+#SERVICE 4097:0:2:6F05:431:1:FFFF0000:0:0:0:http%3a//hr-hr3-live.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3:hr3
+#DESCRIPTION hr3
+#SERVICE 4097:0:2:6F06:431:1:FFFF0000:0:0:0:http%3a//hr-hr4-live.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3:hr4
+#DESCRIPTION hr4
+#SERVICE 4097:0:2:6F08:431:1:FFFF0000:0:0:0:http%3a//hr-hrinfo-live.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3:hr-iNFO
+#DESCRIPTION hr-iNFO
+#SERVICE 4097:0:2:6F24:431:1:FFFF0000:0:0:0:http%3a//rbb-inforadio-live.cast.addradio.de/rbb/inforadio/live/mp3/128/stream.mp3:Inforadio
+#DESCRIPTION Inforadio
+#SERVICE 4097:0:2:6F42:431:1:FFFF0000:0:0:0:http%3a//wdr-kiraka-live.icecast.wdr.de/wdr/kiraka/live/mp3/128/stream.mp3:KiRaKa
+#DESCRIPTION KiRaKa
+#SERVICE 4097:0:2:6F25:431:1:FFFF0000:0:0:0:http%3a//rbb-kulturradio-live.cast.addradio.de/rbb/kulturradio/live/mp3/128/stream.mp3:Kulturradio
+#DESCRIPTION Kulturradio
+#SERVICE 4097:0:2:6F12:431:1:FFFF0000:0:0:0:http%3a//mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3:MDR AKTUELL
+#DESCRIPTION MDR AKTUELL
+#SERVICE 4097:0:2:6F10:431:1:FFFF0000:0:0:0:http%3a//mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3:MDR JUMP
+#DESCRIPTION MDR JUMP
+#SERVICE 4097:0:2:DEAD:BEEF:E6:0:0:0:0:http%3a//mdr-284321-2.cast.mdr.de/mdr/284321/2/mp3/high/stream.mp3:MDR JUMP In The Mix Channel
+#DESCRIPTION MDR JUMP In The Mix Channel
+#SERVICE 4097:0:2:DEAD:BEEF:E7:0:0:0:0:http%3a//mdr-284321-1.cast.mdr.de/mdr/284321/1/mp3/high/stream.mp3:MDR JUMP Rock Channel
+#DESCRIPTION MDR JUMP Rock Channel
+#SERVICE 4097:0:2:DEAD:BEEF:E8:0:0:0:0:http%3a//mdr-284321-0.cast.mdr.de/mdr/284321/0/mp3/high/stream.mp3:MDR JUMP Trend Channel
+#DESCRIPTION MDR JUMP Trend Channel
+#SERVICE 4097:0:2:6F13:431:1:FFFF0000:0:0:0:http%3a//mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3:MDR KLASSIK
+#DESCRIPTION MDR KLASSIK
+#SERVICE 4097:0:2:6F0F:431:1:FFFF0000:0:0:0:http%3a//mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3:MDR KULTUR
+#DESCRIPTION MDR KULTUR
+#SERVICE 4097:0:2:DEAD:BEEF:EB:0:0:0:0:http%3a//mdr-284311-0.cast.mdr.de/mdr/284311/0/mp3/high/stream.mp3:MDR KULTUR - Klassik im Konzert
+#DESCRIPTION MDR KULTUR - Klassik im Konzert
+#SERVICE 4097:0:2:6F0C:431:1:FFFF0000:0:0:0:http%3a//mdr-284280-0.cast.mdr.de/mdr/284280/0/mp3/high/stream.mp3:MDR SACHSEN - Das Sachsenradio
+#DESCRIPTION MDR SACHSEN - Das Sachsenradio
+#SERVICE 4097:0:2:6F0C:431:1:FFFF0000:0:0:0:http%3a//mdr-990100-0.cast.mdr.de/mdr/990100/0/mp3/high/stream.mp3:MDR SACHSEN - Sorbisches Programm
+#DESCRIPTION MDR SACHSEN - Sorbisches Programm
+#SERVICE 4097:0:2:6F0D:431:1:FFFF0000:0:0:0:http%3a//mdr-284290-0.cast.mdr.de/mdr/284290/0/mp3/high/stream.mp3:MDR SACHSEN-ANHALT
+#DESCRIPTION MDR SACHSEN-ANHALT
+#SERVICE 4097:0:2:DEAD:BEEF:EF:0:0:0:0:http%3a//mdr-990801-0.cast.mdr.de/mdr/990801/0/mp3/high/stream.mp3:MDR SCHLAGERWELT Sachsen
+#DESCRIPTION MDR SCHLAGERWELT Sachsen
+#SERVICE 4097:0:2:DEAD:BEEF:F0:0:0:0:0:http%3a//mdr-990701-0.cast.mdr.de/mdr/990701/0/mp3/high/stream.mp3:MDR SCHLAGERWELT Sachsen-Anhalt
+#DESCRIPTION MDR SCHLAGERWELT Sachsen-Anhalt
+#SERVICE 4097:0:2:DEAD:BEEF:F1:0:0:0:0:http%3a//mdr-990601-0.cast.mdr.de/mdr/990601/0/mp3/high/stream.mp3:MDR SCHLAGERWELT Thüringen
+#DESCRIPTION MDR SCHLAGERWELT Thüringen
+#SERVICE 4097:0:2:6F11:431:1:FFFF0000:0:0:0:http%3a//mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3:MDR SPUTNIK
+#DESCRIPTION MDR SPUTNIK
+#SERVICE 4097:0:2:DEAD:BEEF:F3:0:0:0:0:http%3a//mdr-284331-0.cast.mdr.de/mdr/284331/0/mp3/high/stream.mp3:MDR SPUTNIK BLACK-Channel
+#DESCRIPTION MDR SPUTNIK BLACK-Channel
+#SERVICE 4097:0:2:DEAD:BEEF:F4:0:0:0:0:http%3a//mdr-284331-2.cast.mdr.de/mdr/284331/2/mp3/high/stream.mp3:MDR SPUTNIK CLUB-Channel
+#DESCRIPTION MDR SPUTNIK CLUB-Channel
+#SERVICE 4097:0:2:DEAD:BEEF:F5:0:0:0:0:http%3a//mdr-284331-3.cast.mdr.de/mdr/284331/3/mp3/high/stream.mp3:MDR SPUTNIK FIRSTPLAY-Channel
+#DESCRIPTION MDR SPUTNIK FIRSTPLAY-Channel
+#SERVICE 4097:0:2:DEAD:BEEF:F6:0:0:0:0:http%3a//mdr-284331-4.cast.mdr.de/mdr/284331/4/mp3/high/stream.mp3:MDR SPUTNIK POPKULT-Channel
+#DESCRIPTION MDR SPUTNIK POPKULT-Channel
+#SERVICE 4097:0:2:DEAD:BEEF:F7:0:0:0:0:http%3a//mdr-284331-5.cast.mdr.de/mdr/284331/5/mp3/high/stream.mp3:MDR SPUTNIK ROBOTON-Channel
+#DESCRIPTION MDR SPUTNIK ROBOTON-Channel
+#SERVICE 4097:0:2:DEAD:BEEF:F8:0:0:0:0:http%3a//mdr-284331-1.cast.mdr.de/mdr/284331/1/mp3/high/stream.mp3:MDR SPUTNIK ROCK-Channel
+#DESCRIPTION MDR SPUTNIK ROCK-Channel
+#SERVICE 4097:0:2:DEAD:BEEF:F9:0:0:0:0:http%3a//mdr-284331-6.cast.mdr.de/mdr/284331/6/mp3/high/stream.mp3:MDR SPUTNIK SOUNDCHECK-Channel
+#DESCRIPTION MDR SPUTNIK SOUNDCHECK-Channel
+#SERVICE 4097:0:2:6F0E:431:1:FFFF0000:0:0:0:http%3a//mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3:MDR THÜRINGEN - Das Radio
+#DESCRIPTION MDR THÜRINGEN - Das Radio
+#SERVICE 4097:0:2:DEAD:BEEF:FB:0:0:0:0:http%3a//mdr-991101-0.cast.mdr.de/mdr/991101/0/mp3/high/stream.mp3:MDR TWEENS
+#DESCRIPTION MDR TWEENS
+#SERVICE 4097:0:2:6F1C:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1niedersachsen-braunschweig.cast.addradio.de/ndr/ndr1niedersachsen/braunschweig/mp3/128/stream.mp3:NDR 1 Niedersachsen - Region Braunschweig
+#DESCRIPTION NDR 1 Niedersachsen - Region Braunschweig
+#SERVICE 4097:0:2:6F1C:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1niedersachsen-hannover.cast.addradio.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3:NDR 1 Niedersachsen - Region Hannover
+#DESCRIPTION NDR 1 Niedersachsen - Region Hannover
+#SERVICE 4097:0:2:6F1C:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1niedersachsen-lueneburg.cast.addradio.de/ndr/ndr1niedersachsen/lueneburg/mp3/128/stream.mp3:NDR 1 Niedersachsen - Region Lüneburg
+#DESCRIPTION NDR 1 Niedersachsen - Region Lüneburg
+#SERVICE 4097:0:2:6F1C:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1niedersachsen-oldenburg.cast.addradio.de/ndr/ndr1niedersachsen/oldenburg/mp3/128/stream.mp3:NDR 1 Niedersachsen - Region Oldenburg
+#DESCRIPTION NDR 1 Niedersachsen - Region Oldenburg
+#SERVICE 4097:0:2:6F1C:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1niedersachsen-osnabrueck.cast.addradio.de/ndr/ndr1niedersachsen/osnabrueck/mp3/128/stream.mp3:NDR 1 Niedersachsen - Region Osnabrück
+#DESCRIPTION NDR 1 Niedersachsen - Region Osnabrück
+#SERVICE 4097:0:2:6F1B:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1radiomv-greifswald.cast.addradio.de/ndr/ndr1radiomv/greifswald/mp3/128/stream.mp3:NDR 1 Radio MV - Region Greifswald
+#DESCRIPTION NDR 1 Radio MV - Region Greifswald
+#SERVICE 4097:0:2:6F1B:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1radiomv-neubrandenburg.cast.addradio.de/ndr/ndr1radiomv/neubrandenburg/mp3/128/stream.mp3:NDR 1 Radio MV - Region Neubrandenburg
+#DESCRIPTION NDR 1 Radio MV - Region Neubrandenburg
+#SERVICE 4097:0:2:6F1B:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1radiomv-rostock.cast.addradio.de/ndr/ndr1radiomv/rostock/mp3/128/stream.mp3:NDR 1 Radio MV - Region Rostock
+#DESCRIPTION NDR 1 Radio MV - Region Rostock
+#SERVICE 4097:0:2:6F1B:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1radiomv-schwerin.cast.addradio.de/ndr/ndr1radiomv/schwerin/mp3/128/stream.mp3:NDR 1 Radio MV - Region Schwerin
+#DESCRIPTION NDR 1 Radio MV - Region Schwerin
+#SERVICE 4097:0:2:6F1A:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1wellenord-flensburg.cast.addradio.de/ndr/ndr1wellenord/flensburg/mp3/128/stream.mp3:NDR 1 Welle Nord - Region Flensburg
+#DESCRIPTION NDR 1 Welle Nord - Region Flensburg
+#SERVICE 4097:0:2:6F1A:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1wellenord-heide.cast.addradio.de/ndr/ndr1wellenord/heide/mp3/128/stream.mp3:NDR 1 Welle Nord - Region Heide
+#DESCRIPTION NDR 1 Welle Nord - Region Heide
+#SERVICE 4097:0:2:6F1A:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1wellenord-kiel.cast.addradio.de/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3:NDR 1 Welle Nord - Region Kiel
+#DESCRIPTION NDR 1 Welle Nord - Region Kiel
+#SERVICE 4097:0:2:6F1A:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1wellenord-luebeck.cast.addradio.de/ndr/ndr1wellenord/luebeck/mp3/128/stream.mp3:NDR 1 Welle Nord - Region Lübeck
+#DESCRIPTION NDR 1 Welle Nord - Region Lübeck
+#SERVICE 4097:0:2:6F1A:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr1wellenord-norderstedt.cast.addradio.de/ndr/ndr1wellenord/norderstedt/mp3/128/stream.mp3:NDR 1 Welle Nord - Region Norderstedt
+#DESCRIPTION NDR 1 Welle Nord - Region Norderstedt
+#SERVICE 4097:0:2:6F15:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr2-hamburg.cast.addradio.de/ndr/ndr2/hamburg/mp3/128/stream.mp3:NDR 2 - Region Hamburg
+#DESCRIPTION NDR 2 - Region Hamburg
+#SERVICE 4097:0:2:6F15:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr2-mecklenburgvorpommern.cast.addradio.de/ndr/ndr2/mecklenburgvorpommern/mp3/128/stream.mp3:NDR 2 - Region Mecklenburg-Vorpommern
+#DESCRIPTION NDR 2 - Region Mecklenburg-Vorpommern
+#SERVICE 4097:0:2:6F15:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr2-niedersachsen.cast.addradio.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3:NDR 2 - Region Niedersachsen
+#DESCRIPTION NDR 2 - Region Niedersachsen
+#SERVICE 4097:0:2:6F15:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr2-schleswigholstein.cast.addradio.de/ndr/ndr2/schleswigholstein/mp3/128/stream.mp3:NDR 2 - Region Schleswig-Holstein
+#DESCRIPTION NDR 2 - Region Schleswig-Holstein
+#SERVICE 4097:0:2:6F19:431:1:FFFF0000:0:0:0:http%3a//ndr-ndr903-hamburg.cast.addradio.de/ndr/ndr903/hamburg/mp3/128/stream.mp3:NDR 90.3
+#DESCRIPTION NDR 90.3
+#SERVICE 4097:0:2:6F1E:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrblue-live.cast.addradio.de/ndr/ndrblue/live/mp3/128/stream.mp3:NDR Blue
+#DESCRIPTION NDR Blue
+#SERVICE 4097:0:2:6F17:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrinfo-hamburg.cast.addradio.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3:NDR Info - Region Hamburg
+#DESCRIPTION NDR Info - Region Hamburg
+#SERVICE 4097:0:2:6F17:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrinfo-mecklenburgvorpommern.cast.addradio.de/ndr/ndrinfo/mecklenburgvorpommern/mp3/128/stream.mp3:NDR Info - Region Mecklenburg-Vorpommern
+#DESCRIPTION NDR Info - Region Mecklenburg-Vorpommern
+#SERVICE 4097:0:2:6F17:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrinfo-niedersachsen.cast.addradio.de/ndr/ndrinfo/niedersachsen/mp3/128/stream.mp3:NDR Info - Region Niedersachsen
+#DESCRIPTION NDR Info - Region Niedersachsen
+#SERVICE 4097:0:2:6F17:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrinfo-schleswigholstein.cast.addradio.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3:NDR Info - Region Schleswig-Holstein
+#DESCRIPTION NDR Info - Region Schleswig-Holstein
+#SERVICE 4097:0:2:6F1D:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrinfospezial-live.cast.addradio.de/ndr/ndrinfospezial/live/mp3/128/stream.mp3:NDR Info Spezial
+#DESCRIPTION NDR Info Spezial
+#SERVICE 4097:0:2:6F16:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrkultur-live.cast.addradio.de/ndr/ndrkultur/live/mp3/128/stream.mp3:NDR Kultur
+#DESCRIPTION NDR Kultur
+#SERVICE 4097:0:2:6F1F:431:1:FFFF0000:0:0:0:http%3a//ndr-ndrplus-live.cast.addradio.de/ndr/ndrplus/live/mp3/128/stream.mp3:NDR Plus
+#DESCRIPTION NDR Plus
+#SERVICE 4097:0:2:6F18:431:1:FFFF0000:0:0:0:http%3a//ndr-njoy-live.cast.addradio.de/ndr/njoy/live/mp3/128/stream.mp3:N-JOY
+#DESCRIPTION N-JOY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mp3.ostseewelle.c.nmdn.net/ostseewellelive/livestream.mp3:Ostseewelle
+#DESCRIPTION Ostseewelle
+#SERVICE 4097:0:2:6EF6:44D:1:FFFF0000:0:0:0:http%3a//br-puls-live.cast.addradio.de/br/puls/live/mp3/128/stream.mp3:Puls
+#DESCRIPTION Puls
+#SERVICE 4097:0:2:6F27:431:1:FFFF0000:0:0:0:http%3a//rbb-radioberlin-live.cast.addradio.de/rbb/radioberlin/live/mp3/128/stream.mp3:radioBerlin 88.8
+#DESCRIPTION radioBerlin 88.8
+#SERVICE 4097:0:2:6F28:431:1:FFFF0000:0:0:0:http%3a//rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3:Radioeins
+#DESCRIPTION Radioeins
+#SERVICE 5002:0:2:6F2D:431:1:FFFF0000:0:0:0:http%3a//sr.audiostream.io/sr/1009/mp3/128/sr1:SR 1 Europawelle
+#DESCRIPTION SR 1 Europawelle
+#SERVICE 5002:0:2:DEAD:BEEF:123:0:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/sr1c1:SR 1 Like-O-Mat
+#DESCRIPTION SR 1 Like-O-Mat
+#SERVICE 5002:0:2:DEAD:BEEF:124:0:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/sr1c2:SR 1 Lounge
+#DESCRIPTION SR 1 Lounge
+#SERVICE 5002:0:2:6F2E:431:1:FFFF0000:0:0:0:http%3a//sr.audiostream.io/sr/1010/mp3/128/sr2:SR 2 Kulturradio
+#DESCRIPTION SR 2 Kulturradio
+#SERVICE 5002:0:2:DEAD:BEEF:126:0:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/sr2c1:SR 2 Off-Beat
+#DESCRIPTION SR 2 Off-Beat
+#SERVICE 5002:0:2:DEAD:BEEF:127:0:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/sr3c2:SR 3 Oldiewelt
+#DESCRIPTION SR 3 Oldiewelt
+#SERVICE 5002:0:2:6F2F:431:1:FFFF0000:0:0:0:http%3a//sr.audiostream.io/sr/1011/mp3/128/sr3:SR 3 Saarlandwelle
+#DESCRIPTION SR 3 Saarlandwelle
+#SERVICE 5002:0:2:DEAD:BEEF:129:0:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/sr3c1:SR 3 Schlagerwelt
+#DESCRIPTION SR 3 Schlagerwelt
+#SERVICE 4097:0:2:6F38:431:1:FFFF0000:0:0:0:http%3a//swr-swraktuell-live.cast.addradio.de/swr/swraktuell/live/mp3/128/stream.mp3:SWR Aktuell
+#DESCRIPTION SWR Aktuell
+#SERVICE 4097:0:2:6F31:431:1:FFFF0000:0:0:0:http%3a//swr-swr1-bw.cast.addradio.de/swr/swr1/bw/mp3/128/stream.mp3:SWR 1 Baden-Württemberg
+#DESCRIPTION SWR 1 Baden-Württemberg
+#SERVICE 4097:0:2:6F32:431:1:FFFF0000:0:0:0:http%3a//swr-swr1-rp.cast.addradio.de/swr/swr1/rp/mp3/128/stream.mp3:SWR 1 Rheinland-Pfalz
+#DESCRIPTION SWR 1 Rheinland-Pfalz
+#SERVICE 4097:0:2:6F33:431:1:FFFF0000:0:0:0:http%3a//swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3:SWR 2
+#DESCRIPTION SWR 2
+#SERVICE 4097:0:2:6F34:431:1:FFFF0000:0:0:0:http%3a//swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3:SWR 3
+#DESCRIPTION SWR 3
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3:SWR 4 Baden-Württemberg
+#DESCRIPTION SWR 4 Baden-Württemberg
+#SERVICE 4097:0:2:6F36:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-kl.cast.addradio.de/swr/swr4/kl/mp3/128/stream.mp3:SWR 4 Radio Kaiserslautern
+#DESCRIPTION SWR 4 Radio Kaiserslautern
+#SERVICE 4097:0:2:6F36:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-ko.cast.addradio.de/swr/swr4/ko/mp3/128/stream.mp3:SWR 4 Radio Koblenz
+#DESCRIPTION SWR 4 Radio Koblenz
+#SERVICE 4097:0:2:CECC:2710:F001:FFFF0000:0:0:0:http%3a//swr-swr4-lu.cast.addradio.de/swr/swr4/lu/mp3/128/stream.mp3:SWR 4 Radio Ludwigshafen
+#DESCRIPTION SWR 4 Radio Ludwigshafen
+#SERVICE 4097:0:2:CEC9:2710:F001:FFFF0000:0:0:0:http%3a//swr-swr4-rp.cast.addradio.de/swr/swr4/rp/mp3/128/stream.mp3:SWR 4 Radio Mainz
+#DESCRIPTION SWR 4 Radio Mainz
+#SERVICE 4097:0:2:6F36:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-tr.cast.addradio.de/swr/swr4/tr/mp3/128/stream.mp3:SWR 4 Radio Trier
+#DESCRIPTION SWR 4 Radio Trier
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-fn.cast.addradio.de/swr/swr4/fn/mp3/128/stream.mp3:SWR 4 Studio Friedrichshafen
+#DESCRIPTION SWR 4 Studio Friedrichshafen
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-hn.cast.addradio.de/swr/swr4/hn/mp3/128/stream.mp3:SWR 4 Studio Heilbronn
+#DESCRIPTION SWR 4 Studio Heilbronn
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-ka.cast.addradio.de/swr/swr4/ka/mp3/128/stream.mp3:SWR 4 Studio Karlsruhe
+#DESCRIPTION SWR 4 Studio Karlsruhe
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-ma.cast.addradio.de/swr/swr4/ma/mp3/128/stream.mp3:SWR 4 Studio Mannheim
+#DESCRIPTION SWR 4 Studio Mannheim
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-tu.cast.addradio.de/swr/swr4/tu/mp3/128/stream.mp3:SWR 4 Studio Tübingen
+#DESCRIPTION SWR 4 Studio Tübingen
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-ul.cast.addradio.de/swr/swr4/ul/mp3/128/stream.mp3:SWR 4 Studio Ulm
+#DESCRIPTION SWR 4 Studio Ulm
+#SERVICE 4097:0:2:6F35:431:1:FFFF0000:0:0:0:http%3a//swr-swr4-fr.cast.addradio.de/swr/swr4/fr/mp3/128/stream.mp3:SWR 4 Südbaden Freiburg
+#DESCRIPTION SWR 4 Südbaden Freiburg
+#SERVICE 5002:0:2:C4ED:2721:F001:FFFF0000:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/ud:UnserDing
+#DESCRIPTION UnserDing
+#SERVICE 5002:0:2:DEAD:BEEF:12B:0:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/udc1:UnserDing - Schwarz
+#DESCRIPTION UnserDing - Schwarz
+#SERVICE 5002:0:2:DEAD:BEEF:12C:0:0:0:0:http%3a//sr.audiostream.io/sr/1012/mp3/128/udc2:UnserDing - Zukunft
+#DESCRIPTION UnserDing - Zukunft
+#SERVICE 4097:0:2:6F3C:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr2-aachenundregion.icecast.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3:WDR 2 Aachen und Region
+#DESCRIPTION WDR 2 Aachen und Region
+#SERVICE 4097:0:2:6F3C:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr2-bergischesland.icecast.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3:WDR 2 Bergisches Land
+#DESCRIPTION WDR 2 Bergisches Land
+#SERVICE 4097:0:2:6F3C:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr2-muensterland.icecast.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3:WDR 2 Münsterland
+#DESCRIPTION WDR 2 Münsterland
+#SERVICE 4097:0:2:C4F0:2721:F001:FFFF0000:0:0:0:http%3a//wdr-wdr2-ostwestfalenlippe.icecast.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3:WDR 2 Ostwestfalen-Lippe
+#DESCRIPTION WDR 2 Ostwestfalen-Lippe
+#SERVICE 4097:0:2:6F3C:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3:WDR 2 Rhein und Ruhr
+#DESCRIPTION WDR 2 Rhein und Ruhr
+#SERVICE 4097:0:2:6F3C:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3:WDR 2 Rheinland
+#DESCRIPTION WDR 2 Rheinland
+#SERVICE 4097:0:2:6F3C:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr2-ruhrgebiet.icecast.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3:WDR 2 Ruhrgebiet
+#DESCRIPTION WDR 2 Ruhrgebiet
+#SERVICE 4097:0:2:6F3C:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr2-suedwestfalen.icecast.wdr.de/wdr/wdr2/suedwestfalen/mp3/128/stream.mp3:WDR 2 Südwestfalen
+#DESCRIPTION WDR 2 Südwestfalen
+#SERVICE 4097:0:2:6F3D:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3:WDR 3
+#DESCRIPTION WDR 3
+#SERVICE 4097:0:2:6F3D:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3:WDR 3
+#DESCRIPTION WDR 3
+#SERVICE 4097:0:2:6F3E:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3:WDR 4
+#DESCRIPTION WDR 4
+#SERVICE 4097:0:2:6F3F:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr5-live.icecast.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3:WDR 5
+#DESCRIPTION WDR 5
+#SERVICE 4097:0:2:6F43:431:1:FFFF0000:0:0:0:http%3a//wdr-wdr-event.icecast.wdr.de/wdr/wdr/event/mp3/128/stream.mp3:WDR Event
+#DESCRIPTION WDR Event
+#SERVICE 4097:0:2:DEAD:BEEF:15B:0:0:0:0:http%3a//wdr-vera-live.icecast.wdr.de/wdr/vera/live/mp3/128/stream.mp3:WDR VERA
+#DESCRIPTION WDR VERA
+#SERVICE 4097:0:2:6F07:431:1:FFFF0000:0:0:0:http%3a//hr-youfm-live.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3:YOU FM
+#DESCRIPTION YOU FM
+#SERVICE 4097:0:2:DEAD:BEEF:E1:0:0:0:0:http%3a//hr-youfm-club.cast.addradio.de/hr/youfm/club/mp3/128/stream.mp3:YOU FM Clubstream
+#DESCRIPTION YOU FM Clubstream
+#SERVICE 4097:0:2:DEAD:BEEF:E2:0:0:0:0:http%3a//hr-youfm-justmusic.cast.addradio.de/hr/youfm/justmusic/mp3/128/stream.mp3:YOU FM Just Music
+#DESCRIPTION YOU FM Just Music
+#SERVICE 4097:0:2:DEAD:BEEF:E3:0:0:0:0:http%3a//hr-youfm-sounds.cast.addradio.de/hr/youfm/sounds/mp3/128/stream.mp3:YOU FM Sounds
+#DESCRIPTION YOU FM Sounds
+#SERVICE 4097:0:2:6F3B:431:1:FFFF0000:0:0:0:http%3a//wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3:1LIVE
+#DESCRIPTION 1LIVE
+#SERVICE 4097:0:2:6F41:431:1:FFFF0000:0:0:0:http%3a//wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3:1LIVE DIGGI
+#DESCRIPTION 1LIVE DIGGI
+#SERVICE 4097:0:2:DEAD:BEEF:144:0:0:0:0:http%3a//wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3:1LIVE DJ SESSION
+#DESCRIPTION 1LIVE DJ SESSION
+#SERVICE 4097:0:2:DEAD:BEEF:145:0:0:0:0:http%3a//wdr-1live-fiehe.icecast.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3:1LIVE FIEHE
+#DESCRIPTION 1LIVE FIEHE
+#SERVICE 4097:0:2:DEAD:BEEF:146:0:0:0:0:http%3a//wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3:1LIVE HIPHOP
+#DESCRIPTION 1LIVE HIPHOP
+#SERVICE 4097:0:2:DEAD:BEEF:147:0:0:0:0:http%3a//wdr-1live-neufuerdensektor.icecast.wdr.de/wdr/1live/neufuerdensektor/mp3/128/stream.mp3:1LIVE NEU FÜR DEN SEKTOR
+#DESCRIPTION 1LIVE NEU FÜR DEN SEKTOR
+#SERVICE 4097:0:2:DEAD:BEEF:148:0:0:0:0:http%3a//wdr-1live-planb.icecast.wdr.de/wdr/1live/planb/mp3/128/stream.mp3:1LIVE PLAN B
+#DESCRIPTION 1LIVE PLAN B
+#SERVICE 4097:0:2:DEAD:BEEF:149:0:0:0:0:http%3a//wdr-1live-specials.icecast.wdr.de/wdr/1live/specials/mp3/128/stream.mp3:1LIVE SPECIAL
+#DESCRIPTION 1LIVE SPECIAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1000countryhits.stream.laut.fm/1000countryhits:laut.fm - 1000 Country Hits
+#DESCRIPTION laut.fm - 1000 Country Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1000goldschlager.stream.laut.fm/1000goldschlager:laut.fm - 1000 Gold Schlager
+#DESCRIPTION laut.fm - 1000 Gold Schlager
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1000italohits.stream.laut.fm/1000italohits:laut.fm - 1000 Italohits
+#DESCRIPTION laut.fm - 1000 Italohits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//1000oldies.stream.laut.fm/1000oldies:laut.fm - 1000 Oldies
+#DESCRIPTION laut.fm - 1000 Oldies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//80er-radio.stream.laut.fm/80er-radio:laut.fm - 80er Radio
+#DESCRIPTION laut.fm - 80er Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//antenne-oldies.stream.laut.fm/antenne-oldies:laut.fm - Antenne Oldies
+#DESCRIPTION laut.fm - Antenne Oldies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bestof80s.stream.laut.fm/best_of_80s:laut.fm - Best of 80s
+#DESCRIPTION laut.fm - Best of 80s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//country-fm24.stream.laut.fm/country-fm24:laut.fm - Country fm24
+#DESCRIPTION laut.fm - Country fm24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//metal-hammer.stream.laut.fm/metal-hammer:laut.fm - Metal Hammer
+#DESCRIPTION laut.fm - Metal Hammer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oldoldies.stream.laut.fm/oldoldies:laut.fm - Old Oldies
+#DESCRIPTION laut.fm - Old Oldies
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//oldies-50s-60s-70s-80s-90s.stream.laut.fm/oldies-50s-60s-70s-80s-90s:laut.fm - Oldies 50s - 90s
+#DESCRIPTION laut.fm - Oldies 50s - 90s
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//radiobagwahn.stream.laut.fm/radio_bagwahn:laut.fm - Radio Bagwahn
+#DESCRIPTION laut.fm - Radio Bagwahn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rockbismetal.stream.laut.fm/rockbismetal:laut.fm - Rock bis Metal
+#DESCRIPTION laut.fm - Rock bis Metal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//skyradiofm.stream.laut.fm/skyradiofm:laut.fm - Skyradiofm
+#DESCRIPTION laut.fm - Skyradiofm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//teufelchens-sound-radio.stream.laut.fm/teufelchens-sound-radio:laut.fm - Teufelchens Sound Radio
+#DESCRIPTION laut.fm - Teufelchens Sound Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//z-a-c-h-i-4-u-dancefloor-80s.stream.laut.fm/-z-a-c-h-i-4-u-dancefloor-80s:laut.fm - Zachi4u Dancefloor 80s
+#DESCRIPTION laut.fm - Zachi4u Dancefloor 80s
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Magenta TV (Astra 19,2) - thx buers
+#DESCRIPTION Magenta TV (Astra 19,2) - thx buers
+#SERVICE 5002:0:19:283D:3FB:1:C00000:0:0:0:udp%3a//@232.0.20.35%3a10000?sources=87.141.215.251:Das Erste HD
+#DESCRIPTION Das Erste HD
+#SERVICE 5002:0:1:6DCA:44D:1:C00000:0:0:0:udp%3a//@232.0.10.35%3a10000?sources=87.141.215.251:Das Erste
+#DESCRIPTION Das Erste
+#SERVICE 5002:0:19:2B66:3F3:1:C00000:0:0:0:udp%3a//@232.0.20.234%3a10000?sources=87.141.215.251:ZDF HD
+#DESCRIPTION ZDF HD
+#SERVICE 5002:0:1:6D66:437:1:C00000:0:0:0:udp%3a//@232.0.10.234%3a10000?sources=87.141.215.251:ZDF
+#DESCRIPTION ZDF
+#SERVICE 5002:0:19:2840:3FB:1:C00000:0:0:0:udp%3a//@232.0.20.203%3a10000?sources=87.141.215.251:SWR Rheinland-Pfalz HD
+#DESCRIPTION SWR Rheinland-Pfalz HD
+#SERVICE 5002:0:1:6E47:431:1:C00000:0:0:0:udp%3a//@232.0.10.203%3a10000?sources=87.141.215.251:SWR Rheinland-Pfalz
+#DESCRIPTION SWR Rheinland-Pfalz
+#SERVICE 5002:0:1:2EE3:441:1:C00000:0:0:0:udp%3a//@232.0.10.135%3a10000?sources=87.141.215.251:RTL
+#DESCRIPTION RTL
+#SERVICE 5002:0:1:445C:453:1:C00000:0:0:0:udp%3a//@232.0.10.146%3a10000?sources=87.141.215.251:SAT.1
+#DESCRIPTION SAT.1
+#SERVICE 5002:0:1:2F1C:441:1:C00000:0:0:0:udp%3a//@232.0.10.221%3a10000?sources=87.141.215.251:VOX
+#DESCRIPTION VOX
+#SERVICE 5002:0:1:445D:453:1:C00000:0:0:0:udp%3a//@232.0.10.120%3a10000?sources=87.141.215.251:ProSieben
+#DESCRIPTION ProSieben
+#SERVICE 5002:0:19:283E:3FB:1:C00000:0:0:0:udp%3a//@232.0.20.10%3a10000?sources=87.141.215.251:ARTE HD
+#DESCRIPTION ARTE HD
+#SERVICE 5002:0:1:7034:41B:1:C00000:0:0:0:udp%3a//@232.0.10.10%3a10000?sources=87.141.215.251:ARTE
+#DESCRIPTION ARTE
+#SERVICE 5002:0:1:445E:453:1:C00000:0:0:0:udp%3a//@232.0.10.82%3a10000?sources=87.141.215.251:kabel eins
+#DESCRIPTION kabel eins
+#SERVICE 5002:0:1:2EF4:441:1:C00000:0:0:0:udp%3a//@232.0.10.140%3a10000?sources=87.141.215.251:RTL II
+#DESCRIPTION RTL II
+#SERVICE 5002:0:19:2B8E:3F2:1:C00000:0:0:0:udp%3a//@232.0.20.2%3a10000?sources=87.141.215.251:3sat HD
+#DESCRIPTION 3sat HD
+#SERVICE 5002:0:1:6D67:437:1:C00000:0:0:0:udp%3a//@232.0.10.2%3a10000?sources=87.141.215.251:3sat
+#DESCRIPTION 3sat
+#SERVICE 5002:0:19:2855:401:1:C00000:0:0:0:udp%3a//@232.0.20.26%3a10000?sources=87.141.215.251:BR Fernsehen Süd HD
+#DESCRIPTION BR Fernsehen Süd HD
+#SERVICE 5002:0:1:6DCB:44D:1:C00000:0:0:0:udp%3a//@232.0.10.26%3a10000?sources=87.141.215.251:BR Fernsehen Süd
+#DESCRIPTION BR Fernsehen Süd
+#SERVICE 5002:0:19:2870:425:1:C00000:0:0:0:udp%3a//@232.0.20.93%3a10000?sources=87.141.215.251:MDR HD
+#DESCRIPTION MDR HD
+#SERVICE 5002:0:1:6E44:431:1:C00000:0:0:0:udp%3a//@232.0.10.93%3a10000?sources=87.141.215.251:MDR Sachsen
+#DESCRIPTION MDR Sachsen
+#SERVICE 5002:0:19:286F:425:1:C00000:0:0:0:udp%3a//@232.0.20.129%3a10000?sources=87.141.215.251:rbb Berlin HD
+#DESCRIPTION rbb Berlin HD
+#SERVICE 5002:0:1:6E2E:431:1:C00000:0:0:0:udp%3a//@232.0.10.129%3a10000?sources=87.141.215.251:rbb Berlin
+#DESCRIPTION rbb Berlin
+#SERVICE 5002:0:19:2859:401:1:C00000:0:0:0:udp%3a//@232.0.20.104%3a10000?sources=87.141.215.251:NDR HD
+#DESCRIPTION NDR HD
+#SERVICE 5002:0:1:6E40:431:1:C00000:0:0:0:udp%3a//@232.0.10.104%3a10000?sources=87.141.215.251:NDR
+#DESCRIPTION NDR
+#SERVICE 5002:0:19:6EA5:4B1:1:C00000:0:0:0:udp%3a//@232.0.20.222%3a10000?sources=87.141.215.251:WDR HD
+#DESCRIPTION WDR HD
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.222%3a10000?sources=87.141.215.251:WDR
+#DESCRIPTION WDR
+#SERVICE 5002:0:19:2873:425:1:C00000:0:0:0:udp%3a//@232.0.20.71%3a10000?sources=87.141.215.251:hr-fernsehen HD
+#DESCRIPTION hr-fernsehen HD
+#SERVICE 5002:0:1:6DCC:44D:1:C00000:0:0:0:udp%3a//@232.0.10.71%3a10000?sources=87.141.215.251:hr-fernsehen
+#DESCRIPTION hr-fernsehen
+#SERVICE 5002:0:19:288A:40F:1:C00000:0:0:0:udp%3a//@232.0.20.200%3a10000?sources=87.141.215.251:SR Fernsehen HD
+#DESCRIPTION SR Fernsehen HD
+#SERVICE 5002:0:1:6F46:445:1:C00000:0:0:0:udp%3a//@232.0.10.200%3a10000?sources=87.141.215.251:SR Fernsehen
+#DESCRIPTION SR Fernsehen
+#SERVICE 5002:0:19:2840:3FB:1:C00000:0:0:0:udp%3a//@232.0.20.202%3a10000?sources=87.141.215.251:SWR BW HD
+#DESCRIPTION SWR BW HD
+#SERVICE 5002:0:1:6E47:431:1:C00000:0:0:0:udp%3a//@232.0.10.202%3a10000?sources=87.141.215.251:SWR BW
+#DESCRIPTION SWR BW
+#SERVICE 5002:0:19:2888:40F:1:C00000:0:0:0:udp%3a//@232.0.20.49%3a10000?sources=87.141.215.251:one HD
+#DESCRIPTION one HD
+#SERVICE 5002:0:1:7032:41B:1:C00000:0:0:0:udp%3a//@232.0.10.49%3a10000?sources=87.141.215.251:one
+#DESCRIPTION one
+#SERVICE 5002:0:19:2B7A:3F3:1:C00000:0:0:0:udp%3a//@232.0.20.236%3a10000?sources=87.141.215.251:ZDFneo HD
+#DESCRIPTION ZDFneo HD
+#SERVICE 5002:0:1:6D6E:437:1:C00000:0:0:0:udp%3a//@232.0.10.236%3a10000?sources=87.141.215.251:ZDFneo
+#DESCRIPTION ZDFneo
+#SERVICE 5002:0:1:4460:453:1:C00000:0:0:0:udp%3a//@232.0.10.149%3a10000?sources=87.141.215.251:SAT.1 Gold
+#DESCRIPTION SAT.1 Gold
+#SERVICE 5002:0:1:2F1D:441:1:C00000:0:0:0:udp%3a//@232.0.10.143%3a10000?sources=87.141.215.251:NITRO
+#DESCRIPTION NITRO
+#SERVICE 5002:0:1:4461:453:1:C00000:0:0:0:udp%3a//@232.0.10.122%3a10000?sources=87.141.215.251:ProSieben MAXX
+#DESCRIPTION ProSieben MAXX
+#SERVICE 5002:0:1:308:5:85:C00000:0:0:0:udp%3a//@232.0.10.157%3a10000?sources=87.141.215.251:sixx
+#DESCRIPTION sixx
+#SERVICE 5002:0:1:7094:443:1:C00000:0:0:0:udp%3a//@232.0.10.239%3a10000?sources=87.141.215.251:VOXup
+#DESCRIPTION VOXup
+#SERVICE 5002:0:1:2F30:441:1:C00000:0:0:0:udp%3a//@232.0.10.240%3a10000?sources=87.141.215.251:RTLplus
+#DESCRIPTION RTLplus
+#SERVICE 5002:0:19:2B98:3F2:1:C00000:0:0:0:udp%3a//@232.0.20.85%3a10000?sources=87.141.215.251:KiKA HD
+#DESCRIPTION KiKA HD
+#SERVICE 5002:0:1:6D68:437:1:C00000:0:0:0:udp%3a//@232.0.10.85%3a10000?sources=87.141.215.251:KiKA
+#DESCRIPTION KiKA
+#SERVICE 5002:0:19:2BA2:3F2:1:C00000:0:0:0:udp%3a//@232.0.20.237%3a10000?sources=87.141.215.251:ZDFinfo HD
+#DESCRIPTION ZDFinfo HD
+#SERVICE 5002:0:1:6D6B:437:1:C00000:0:0:0:udp%3a//@232.0.10.237%3a10000?sources=87.141.215.251:ZDFinfo
+#DESCRIPTION ZDFinfo
+#SERVICE 5002:0:1:2EFE:441:1:C00000:0:0:0:udp%3a//@232.0.11.7%3a10000?sources=87.141.215.251:TOGGO plus
+#DESCRIPTION TOGGO plus
+#SERVICE 5002:0:1:2F08:441:1:C00000:0:0:0:udp%3a//@232.0.10.201%3a10000?sources=87.141.215.251:Super RTL
+#DESCRIPTION Super RTL
+#SERVICE 5002:0:1:4465:453:1:C00000:0:0:0:udp%3a//@232.0.11.2%3a10000?sources=87.141.215.251:kabel eins Doku
+#DESCRIPTION kabel eins Doku
+#SERVICE 5002:0:19:2889:40F:1:C00000:0:0:0:udp%3a//@232.0.20.9%3a10000?sources=87.141.215.251:ARD-alpha HD
+#DESCRIPTION ARD-alpha HD
+#SERVICE 5002:0:1:6F47:445:1:C00000:0:0:0:udp%3a//@232.0.10.9%3a10000?sources=87.141.215.251:ARD-alpha
+#DESCRIPTION ARD-alpha
+#SERVICE 5002:0:1:2F3A:441:1:C00000:0:0:0:udp%3a//@232.0.10.111%3a10000?sources=87.141.215.251:n-tv
+#DESCRIPTION n-tv
+#SERVICE 5002:0:19:285B:401:1:C00000:0:0:0:udp%3a//@232.0.20.116%3a10000?sources=87.141.215.251:phoenix HD
+#DESCRIPTION phoenix HD
+#SERVICE 5002:0:1:7035:41B:1:C00000:0:0:0:udp%3a//@232.0.10.116%3a10000?sources=87.141.215.251:phoenix
+#DESCRIPTION phoenix
+#SERVICE 5002:0:19:2887:40F:1:C00000:0:0:0:udp%3a//@232.0.20.205%3a10000?sources=87.141.215.251:tagesschau24 HD
+#DESCRIPTION tagesschau24 HD
+#SERVICE 5002:0:1:6E40:431:1:C00000:0:0:0:udp%3a//@232.0.10.125%3a10000?sources=87.141.215.251:Radio Bremen TV
+#DESCRIPTION Radio Bremen TV
+#SERVICE 5002:0:1:6E40:431:1:C00000:0:0:0:udp%3a//@232.0.20.125%3a10000?sources=87.141.215.251:Radio Bremen TV HD
+#DESCRIPTION Radio Bremen TV HD
+#SERVICE 5002:0:1:6DCB:44D:1:C00000:0:0:0:udp%3a//@232.0.10.25%3a10000?sources=87.141.215.251:BR Nord
+#DESCRIPTION BR Nord
+#SERVICE 5002:0:1:6E2E:431:1:C00000:0:0:0:udp%3a//@232.0.10.130%3a10000?sources=87.141.215.251:rbb Brandenburg
+#DESCRIPTION rbb Brandenburg
+#SERVICE 5002:0:1:6E40:431:1:C00000:0:0:0:udp%3a//@232.0.10.105%3a10000?sources=87.141.215.251:NDR Hamburg
+#DESCRIPTION NDR Hamburg
+#SERVICE 5002:0:1:6E40:431:1:C00000:0:0:0:udp%3a//@232.0.10.107%3a10000?sources=87.141.215.251:NDR Schleswig-Holstein
+#DESCRIPTION NDR Schleswig-Holstein
+#SERVICE 5002:0:1:6E40:431:1:C00000:0:0:0:udp%3a//@232.0.10.106%3a10000?sources=87.141.215.251:NDR Mecklenburg-Vorpommern
+#DESCRIPTION NDR Mecklenburg-Vorpommern
+#SERVICE 5002:0:2:23CD:44A:1:C00000:0:0:0:udp%3a//@232.0.10.142%3a10000?sources=87.141.215.251:RTL NRW
+#DESCRIPTION RTL NRW
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.223%3a10000?sources=87.141.215.251:WDR Aachen
+#DESCRIPTION WDR Aachen
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.224%3a10000?sources=87.141.215.251:WDR Bielefeld
+#DESCRIPTION WDR Bielefeld
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.225%3a10000?sources=87.141.215.251:WDR Bonn
+#DESCRIPTION WDR Bonn
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.226%3a10000?sources=87.141.215.251:WDR Dortmund
+#DESCRIPTION WDR Dortmund
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.227%3a10000?sources=87.141.215.251:WDR Duisburg
+#DESCRIPTION WDR Duisburg
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.228%3a10000?sources=87.141.215.251:WDR Düsseldorf
+#DESCRIPTION WDR Düsseldorf
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.229%3a10000?sources=87.141.215.251:WDR Essen
+#DESCRIPTION WDR Essen
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.230%3a10000?sources=87.141.215.251:WDR Münster
+#DESCRIPTION WDR Münster
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.231%3a10000?sources=87.141.215.251:WDR Siegen
+#DESCRIPTION WDR Siegen
+#SERVICE 5002:0:1:6DCF:44D:1:C00000:0:0:0:udp%3a//@232.0.10.232%3a10000?sources=87.141.215.251:WDR Wuppertal
+#DESCRIPTION WDR Wuppertal
+#SERVICE 5002:0:1:6E44:431:1:C00000:0:0:0:udp%3a//@232.0.10.94%3a10000?sources=87.141.215.251:MDR Sachsen-Anhalt
+#DESCRIPTION MDR Sachsen-Anhalt
+#SERVICE 5002:0:1:6E44:431:1:C00000:0:0:0:udp%3a//@232.0.10.95%3a10000?sources=87.141.215.251:MDR Thüringen
+#DESCRIPTION MDR Thüringen
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Magenta TV (Kabel) - thx buers
+#DESCRIPTION Magenta TV (Kabel) - thx buers
+#SERVICE 5002:0:1:2B5C:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.20.35%3a10000?sources=87.141.215.251:Das Erste HD
+#DESCRIPTION Das Erste HD
+#SERVICE 5002:0:1:6DCA:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.35%3a10000?sources=87.141.215.251:Das Erste
+#DESCRIPTION Das Erste
+#SERVICE 5002:0:1:2B66:437:1:FFFF0000:0:0:0:udp%3a//@232.0.20.234%3a10000?sources=87.141.215.251:ZDF HD
+#DESCRIPTION ZDF HD
+#SERVICE 5002:0:1:6D66:437:1:FFFF0000:0:0:0:udp%3a//@232.0.10.234%3a10000?sources=87.141.215.251:ZDF
+#DESCRIPTION ZDF
+#SERVICE 5002:0:1:2840:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.20.203%3a10000?sources=87.141.215.251:SWR Rheinland-Pfalz HD
+#DESCRIPTION SWR Rheinland-Pfalz HD
+#SERVICE 5002:0:1:6DD1:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.203%3a10000?sources=87.141.215.251:SWR Rheinland-Pfalz
+#DESCRIPTION SWR Rheinland-Pfalz
+#SERVICE 5002:0:1:D161:2710:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.135%3a10000?sources=87.141.215.251:RTL
+#DESCRIPTION RTL
+#SERVICE 5002:0:1:D17A:2710:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.146%3a10000?sources=87.141.215.251:SAT.1
+#DESCRIPTION SAT.1
+#SERVICE 5002:0:1:D164:2713:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.221%3a10000?sources=87.141.215.251:VOX
+#DESCRIPTION VOX
+#SERVICE 5002:0:1:D175:2718:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.120%3a10000?sources=87.141.215.251:ProSieben
+#DESCRIPTION ProSieben
+#SERVICE 5002:0:1:2B70:271E:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.10%3a10000?sources=87.141.215.251:ARTE HD
+#DESCRIPTION ARTE HD
+#SERVICE 5002:0:1:7034:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.10.10%3a10000?sources=87.141.215.251:ARTE
+#DESCRIPTION ARTE
+#SERVICE 5002:0:1:D176:2718:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.82%3a10000?sources=87.141.215.251:kabel eins
+#DESCRIPTION kabel eins
+#SERVICE 5002:0:1:D163:2713:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.140%3a10000?sources=87.141.215.251:RTL II
+#DESCRIPTION RTL II
+#SERVICE 5002:0:1:2B8E:2721:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.2%3a10000?sources=87.141.215.251:3sat HD
+#DESCRIPTION 3sat HD
+#SERVICE 5002:0:1:6D67:437:1:FFFF0000:0:0:0:udp%3a//@232.0.10.2%3a10000?sources=87.141.215.251:3sat
+#DESCRIPTION 3sat
+#SERVICE 5002:0:1:2855:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.20.26%3a10000?sources=87.141.215.251:BR Fernsehen Süd HD
+#DESCRIPTION BR Fernsehen Süd HD
+#SERVICE 5002:0:1:6DCB:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.26%3a10000?sources=87.141.215.251:BR Fernsehen Süd
+#DESCRIPTION BR Fernsehen Süd
+#SERVICE 5002:0:1:2870:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.20.93%3a10000?sources=87.141.215.251:MDR HD
+#DESCRIPTION MDR HD
+#SERVICE 5002:0:1:6E44:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.93%3a10000?sources=87.141.215.251:MDR Sachsen
+#DESCRIPTION MDR Sachsen
+#SERVICE 5002:0:1:286F:437:1:FFFF0000:0:0:0:udp%3a//@232.0.20.129%3a10000?sources=87.141.215.251:rbb Berlin HD
+#DESCRIPTION rbb Berlin HD
+#SERVICE 5002:0:1:6E2E:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.129%3a10000?sources=87.141.215.251:rbb Berlin
+#DESCRIPTION rbb Berlin
+#SERVICE 5002:0:1:2859:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.20.104%3a10000?sources=87.141.215.251:NDR HD
+#DESCRIPTION NDR HD
+#SERVICE 5002:0:1:6E40:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.104%3a10000?sources=87.141.215.251:NDR
+#DESCRIPTION NDR
+#SERVICE 5002:0:1:6EA5:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.20.222%3a10000?sources=87.141.215.251:WDR HD
+#DESCRIPTION WDR HD
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.222%3a10000?sources=87.141.215.251:WDR
+#DESCRIPTION WDR
+#SERVICE 5002:0:1:2873:271E:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.71%3a10000?sources=87.141.215.251:hr-fernsehen HD
+#DESCRIPTION hr-fernsehen HD
+#SERVICE 5002:0:1:6DCC:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.71%3a10000?sources=87.141.215.251:hr-fernsehen
+#DESCRIPTION hr-fernsehen
+#SERVICE 5002:0:1:C390:2722:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.200%3a10000?sources=87.141.215.251:SR Fernsehen HD
+#DESCRIPTION SR Fernsehen HD
+#SERVICE 5002:0:1:6F46:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.10.200%3a10000?sources=87.141.215.251:SR Fernsehen
+#DESCRIPTION SR Fernsehen
+#SERVICE 5002:0:1:2840:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.20.202%3a10000?sources=87.141.215.251:SWR BW HD
+#DESCRIPTION SWR BW HD
+#SERVICE 5002:0:1:6DD1:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.202%3a10000?sources=87.141.215.251:SWR BW
+#DESCRIPTION SWR BW
+#SERVICE 5002:0:1:2888:2727:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.49%3a10000?sources=87.141.215.251:one HD
+#DESCRIPTION one HD
+#SERVICE 5002:0:1:7032:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.10.49%3a10000?sources=87.141.215.251:one
+#DESCRIPTION one
+#SERVICE 5002:0:1:2B7A:2719:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.236%3a10000?sources=87.141.215.251:ZDFneo HD
+#DESCRIPTION ZDFneo HD
+#SERVICE 5002:0:1:6D6E:437:1:FFFF0000:0:0:0:udp%3a//@232.0.10.236%3a10000?sources=87.141.215.251:ZDFneo
+#DESCRIPTION ZDFneo
+#SERVICE 5002:0:1:D04C:2726:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.149%3a10000?sources=87.141.215.251:SAT.1 Gold
+#DESCRIPTION SAT.1 Gold
+#SERVICE 5002:0:1:CF76:2712:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.143%3a10000?sources=87.141.215.251:NITRO
+#DESCRIPTION NITRO
+#SERVICE 5002:0:1:CF11:2721:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.122%3a10000?sources=87.141.215.251:ProSieben MAXX
+#DESCRIPTION ProSieben MAXX
+#SERVICE 5002:0:1:C60C:2718:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.157%3a10000?sources=87.141.215.251:sixx
+#DESCRIPTION sixx
+#SERVICE 5002:0:1:D17C:2717:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.239%3a10000?sources=87.141.215.251:VOXup
+#DESCRIPTION VOXup
+#SERVICE 5002:0:1:D04F:2714:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.240%3a10000?sources=87.141.215.251:RTLplus
+#DESCRIPTION RTLplus
+#SERVICE 5002:0:1:2B98:2719:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.85%3a10000?sources=87.141.215.251:KiKA HD
+#DESCRIPTION KiKA HD
+#SERVICE 5002:0:1:6D68:437:1:FFFF0000:0:0:0:udp%3a//@232.0.10.85%3a10000?sources=87.141.215.251:KiKA
+#DESCRIPTION KiKA
+#SERVICE 5002:0:1:2BA2:437:1:FFFF0000:0:0:0:udp%3a//@232.0.20.237%3a10000?sources=87.141.215.251:ZDFinfo HD
+#DESCRIPTION ZDFinfo HD
+#SERVICE 5002:0:1:6D6B:437:1:FFFF0000:0:0:0:udp%3a//@232.0.10.237%3a10000?sources=87.141.215.251:ZDFinfo
+#DESCRIPTION ZDFinfo
+#SERVICE 5002:0:1:D04E:2712:F001:FFFF0000:0:0:0:udp%3a//@232.0.11.7%3a10000?sources=87.141.215.251:TOGGO plus
+#DESCRIPTION TOGGO plus
+#SERVICE 5002:0:1:D162:2713:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.201%3a10000?sources=87.141.215.251:Super RTL
+#DESCRIPTION Super RTL
+#SERVICE 5002:0:1:C3CA:2725:F001:FFFF0000:0:0:0:udp%3a//@232.0.11.2%3a10000?sources=87.141.215.251:kabel eins Doku
+#DESCRIPTION kabel eins Doku
+#SERVICE 5002:0:1:C38D:2722:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.9%3a10000?sources=87.141.215.251:ARD-alpha HD
+#DESCRIPTION ARD-alpha HD
+#SERVICE 5002:0:1:6F47:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.10.9%3a10000?sources=87.141.215.251:ARD-alpha
+#DESCRIPTION ARD-alpha
+#SERVICE 5002:0:1:D166:2713:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.111%3a10000?sources=87.141.215.251:n-tv
+#DESCRIPTION n-tv
+#SERVICE 5002:0:1:285B:2719:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.116%3a10000?sources=87.141.215.251:phoenix HD
+#DESCRIPTION phoenix HD
+#SERVICE 5002:0:1:7035:41B:1:FFFF0000:0:0:0:udp%3a//@232.0.10.116%3a10000?sources=87.141.215.251:phoenix
+#DESCRIPTION phoenix
+#SERVICE 5002:0:1:C38E:2722:F001:FFFF0000:0:0:0:udp%3a//@232.0.20.205%3a10000?sources=87.141.215.251:tagesschau24 HD
+#DESCRIPTION tagesschau24 HD
+#SERVICE 5002:0:1:6E40:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.125%3a10000?sources=87.141.215.251:Radio Bremen TV
+#DESCRIPTION Radio Bremen TV
+#SERVICE 5002:0:1:6E40:431:1:FFFF0000:0:0:0:udp%3a//@232.0.20.125%3a10000?sources=87.141.215.251:Radio Bremen TV HD
+#DESCRIPTION Radio Bremen TV HD
+#SERVICE 5002:0:1:6DCB:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.25%3a10000?sources=87.141.215.251:BR Nord
+#DESCRIPTION BR Nord
+#SERVICE 5002:0:1:6E2E:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.130%3a10000?sources=87.141.215.251:rbb Brandenburg
+#DESCRIPTION rbb Brandenburg
+#SERVICE 5002:0:1:6E40:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.105%3a10000?sources=87.141.215.251:NDR Hamburg
+#DESCRIPTION NDR Hamburg
+#SERVICE 5002:0:1:6E40:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.107%3a10000?sources=87.141.215.251:NDR Schleswig-Holstein
+#DESCRIPTION NDR Schleswig-Holstein
+#SERVICE 5002:0:1:6E40:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.106%3a10000?sources=87.141.215.251:NDR Mecklenburg-Vorpommern
+#DESCRIPTION NDR Mecklenburg-Vorpommern
+#SERVICE 5002:0:1:D161:2710:F001:FFFF0000:0:0:0:udp%3a//@232.0.10.142%3a10000?sources=87.141.215.251:RTL NRW
+#DESCRIPTION RTL NRW
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.223%3a10000?sources=87.141.215.251:WDR Aachen
+#DESCRIPTION WDR Aachen
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.224%3a10000?sources=87.141.215.251:WDR Bielefeld
+#DESCRIPTION WDR Bielefeld
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.225%3a10000?sources=87.141.215.251:WDR Bonn
+#DESCRIPTION WDR Bonn
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.226%3a10000?sources=87.141.215.251:WDR Dortmund
+#DESCRIPTION WDR Dortmund
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.227%3a10000?sources=87.141.215.251:WDR Duisburg
+#DESCRIPTION WDR Duisburg
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.228%3a10000?sources=87.141.215.251:WDR Düsseldorf
+#DESCRIPTION WDR Düsseldorf
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.229%3a10000?sources=87.141.215.251:WDR Essen
+#DESCRIPTION WDR Essen
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.230%3a10000?sources=87.141.215.251:WDR Münster
+#DESCRIPTION WDR Münster
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.231%3a10000?sources=87.141.215.251:WDR Siegen
+#DESCRIPTION WDR Siegen
+#SERVICE 5002:0:1:6DCF:44D:1:FFFF0000:0:0:0:udp%3a//@232.0.10.232%3a10000?sources=87.141.215.251:WDR Wuppertal
+#DESCRIPTION WDR Wuppertal
+#SERVICE 5002:0:1:6E44:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.94%3a10000?sources=87.141.215.251:MDR Sachsen-Anhalt
+#DESCRIPTION MDR Sachsen-Anhalt
+#SERVICE 5002:0:1:6E44:431:1:FFFF0000:0:0:0:udp%3a//@232.0.10.95%3a10000?sources=87.141.215.251:MDR Thüringen
+#DESCRIPTION MDR Thüringen

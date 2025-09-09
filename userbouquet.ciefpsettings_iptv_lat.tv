@@ -1,0 +1,129 @@
+#NAME :: Latinos y mas  ::
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8:La 1 HEVC
+#DESCRIPTION La 1 HEVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/TV2/index.m3u8:La 2 (1080p)
+#DESCRIPTION La 2 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/CuatroHD/index.m3u8:Cuatro (1080p)
+#DESCRIPTION Cuatro (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/TeleCincoHD/index.m3u8:Telecinco (720p)
+#DESCRIPTION Telecinco (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/neox/index.m3u8:Neox (576p)
+#DESCRIPTION Neox (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/LaSexta/index.m3u8:La Sexta (720p)
+#DESCRIPTION La Sexta (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/BOM/index.m3u8:Bom Cine (576p)
+#DESCRIPTION Bom Cine (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/boing/index.m3u8:Boing
+#DESCRIPTION Boing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/mega/index.m3u8:Mega (Spain) (576p)
+#DESCRIPTION Mega (Spain) (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/nickelodeon/index.m3u8:Nickelodeon (Spain) (576p)
+#DESCRIPTION Nickelodeon (Spain) (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/nova/index.m3u8:Nova (Spain) (576p)
+#DESCRIPTION Nova (Spain) (576p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//185.189.225.150%3a85/Paramount/index.m3u8:Paramount Network (Spain) (720p)
+#DESCRIPTION Paramount Network (Spain) (720p)
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Ecuador ---------------
+#DESCRIPTION --------------- Ecuador ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//samson.streamerr.co%3a8081/shogun/tracks-v1a1/mono.m3u8:Ecuador TV 
+#DESCRIPTION Ecuador TV 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.oromar.tv/hls/oromartv_hi/index.m3u8:Oromar TV
+#DESCRIPTION Oromar TV
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Venezuela ---------------
+#DESCRIPTION --------------- Venezuela ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.173.198.59%3a8080/hls/nginx3.m3u8:TeleAragua
+#DESCRIPTION TeleAragua
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8:Tele Sur 
+#DESCRIPTION Tele Sur 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8:Vepaco
+#DESCRIPTION Vepaco
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Peru ---------------
+#DESCRIPTION --------------- Peru ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8:PeTV
+#DESCRIPTION PeTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8:PeTV Noticias
+#DESCRIPTION PeTV Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8:PeTV Internacional
+#DESCRIPTION PeTV Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d19e55ehz2il4i.cloudfront.net/original.m3u8:ATV
+#DESCRIPTION ATV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3r5ioyjqcy69v.cloudfront.net/original.m3u8:ATV Sur
+#DESCRIPTION ATV Sur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b2212425096067cd9a8d78acd&sid=ba5t1l1xb280136848267cd9a8e632a5&ndvc=0:Latina
+#DESCRIPTION Latina
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b299270868467da435c5bb57&sid=ba5t1l1xb2135799816967da435d1899a&ndvc=0:Latina Noticias
+#DESCRIPTION Latina Noticias
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jireh-3-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream0/chunks.m3u8?dpssid=b2135752424567da43bc94e5e&sid=ba5t1l1xb262024102367da43bd33ce7&ndvc=0:Latina Clasicos
+#DESCRIPTION Latina Clasicos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5790d294af2dc.streamlock.net/8134/8134/chunklist_w581023459.m3u8:Cosmos
+#DESCRIPTION Cosmos
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Colombia ---------------
+#DESCRIPTION --------------- Colombia ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdns.livewave.co%3a19360/canalcapital/canalcapital.m3u8:Capital
+#DESCRIPTION Capital
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w145699987.m3u8:Raizal TV
+#DESCRIPTION Raizal TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive-1500/chunklist.m3u8:Tele Amiga
+#DESCRIPTION Tele Amiga
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Argentina ---------------
+#DESCRIPTION --------------- Argentina ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2/mono.m3u8:El Trece Intl
+#DESCRIPTION El Trece Intl
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vivo.solumedia.com%3a19360/lapacho/lapacho.m3u8:Lapacho Canal 11
+#DESCRIPTION Lapacho Canal 11
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamlov.alsolnet.com/misionescuatro/live/chunklist_w2128281971.m3u8:Misiones Cuatro
+#DESCRIPTION Misiones Cuatro
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/mono.m3u8:Unife
+#DESCRIPTION Unife
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Bolivia ---------------
+#DESCRIPTION --------------- Bolivia ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//seo.tv.bo/tv/IpSEO-TV-8.m3u8:Abya Yala TV
+#DESCRIPTION Abya Yala TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stv.boliviaplay.com.bo/hls/0/stream.m3u8:Agenda Minera TV
+#DESCRIPTION Agenda Minera TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-c.cf.dmcdn.net/sec2(89RJZm6uTBkfnv6e6-ksO1H69xpaeNQnELAorCtqpcbexBfRwlrtraiC0bG0a24sgR-4nVervKkfbARHB7W13xEgNpgZLc7Y2fq_b2aFYFSmAhlYjO_XUb9vUb7vRsvL)/dm/3/x84eirw/s/live-720.m3u8:ATB
+#DESCRIPTION ATB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w548992461.m3u8:Bolivia TV 7.1
+#DESCRIPTION Bolivia TV 7.1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3ew2cr4djta2j.cloudfront.net/original.m3u8:Bolivisión
+#DESCRIPTION Bolivisión
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.ctvbolivia.com/hls/ctv.m3u8:Católica TV
+#DESCRIPTION Católica TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.bitstreaming.net%3a3235/multi_live/play_720.m3u8:F10
+#DESCRIPTION F10
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//envivo.bolivia-link.com%3a3234/live/faptvlive.m3u8:Fap TV
+#DESCRIPTION Fap TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv2.bitstreaming.net%3a3896/multi_web/play_720.m3u8:Gigavisión La Paz
+#DESCRIPTION Gigavisión La Paz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.bitstreaming.net%3a3348/multi_web/play_720.m3u8:Gigavisión Santa Cruz
+#DESCRIPTION Gigavisión Santa Cruz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//giatv.bozztv.com/giatv/giatv-NEOMIXHD/NEOMIXHD/playlist.m3u8:GogoPlay TV
+#DESCRIPTION GogoPlay TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamer1.streamhost.org/salive/GMIredadvenirHD/chunklist_w1544551052.m3u8:Red Advenir
+#DESCRIPTION Red Advenir
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtp.noxun.net/hls/stream.m3u8:RTP
+#DESCRIPTION RTP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//envivo.bolivia-link.com%3a3337/live/tele6live.m3u8:Tele 6 Internacional
+#DESCRIPTION Tele 6 Internacional
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//envivo.bolivia-link.com%3a3785/live/teleestrellalive.m3u8:TL Estrella
+#DESCRIPTION TL Estrella
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Uruguay ---------------
+#DESCRIPTION --------------- Uruguay ---------------
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Paraguay ---------------
+#DESCRIPTION --------------- Paraguay ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8:ABC TV
+#DESCRIPTION ABC TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-ak.vimeocdn.com/exp=1742600398~acl=/270209ca-31a6-48d2-b0b7-0cf5546c8756_fmp4/*~hmac=462f77e85240596f93ce0030ba323733e79bd753521a55aeb55c6d6d11ec9c9c/270209ca-31a6-48d2-b0b7-0cf5546c8756_fmp4/chunklist_b1800000_cmaf_v.m3u8:América Paraguay
+#DESCRIPTION América Paraguay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//streamingmcbo.ddns.net%3a8081/ucltelevision/tracks-v1/index.fmp4.m3u8:UCL TV
+#DESCRIPTION UCL TV
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Moldova ---------------
+#DESCRIPTION --------------- Moldova ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/0.m3u8:Moldova 1 
+#DESCRIPTION Moldova 1 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/0.m3u8:Moldova 2
+#DESCRIPTION Moldova 2
+#SERVICE 1:64:489:0:0:0:0:0:0:0::--------------- Australia ---------------
+#DESCRIPTION --------------- Australia ---------------
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8:ABC News AU
+#DESCRIPTION ABC News AU
