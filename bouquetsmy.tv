@@ -1,0 +1,36 @@
+#NAME User - Bouquets (TV)
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ciefpsettings_iptv_lat.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOSONSIGHI.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.LastScanned.tv" ORDER BY bouquet:DIGI
+#DESCRIPTION DIGI
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet2.tv.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptvavd.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.LastScanned.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptv_music.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptv_org.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptv_westeuropa.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.iptv_osteuropa.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ciefpsettings_iptv_webcam.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ciefpsettings_romania.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ciefpsettings_exyu.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ciefpsettings_iptv_movies.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOEURODANCE.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIO90.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOROM.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOITA.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOGREEK.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIORUSSIA.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOFOLK.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOSCHLAGER.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOUSA.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOROCK.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOSONSIGHI.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOPORTUGAL.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOLATIN.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOARABIC.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOAFRO.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOHIPHOP.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIOSOUL.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.RADIORAGGAE.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
